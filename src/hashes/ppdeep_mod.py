@@ -93,7 +93,7 @@ def _spamsum(stream, slen):
 
 
 def hash(buf):
-	if isinstance(buf, bytes):
+	if isinstance(buf, bytes) or isinstance(buf, memoryview):
 		pass
 	elif isinstance(buf, str):
 		buf = buf.encode()
@@ -207,13 +207,13 @@ def compare(hash1, hash2):
 	if hash1_bs == hash2_bs:
 		score1 = _score_strings(hash1_s1, hash2_s1, hash1_bs)
 		score2 = _score_strings(hash1_s2, hash2_s2, hash2_bs)
-		score = int(max([score1, score2]))
+		score = max([score1, score2])
 		return score
 	elif hash1_bs == (hash2_bs * 2):
-		score = int(_score_strings(hash1_s1, hash2_s2, hash1_bs))
+		score = _score_strings(hash1_s1, hash2_s2, hash1_bs)
 		return score
 	else:
-		score = int(_score_strings(hash1_s2, hash2_s1, hash2_bs))
+		score = _score_strings(hash1_s2, hash2_s1, hash2_bs)
 		return score
 	return 0
 

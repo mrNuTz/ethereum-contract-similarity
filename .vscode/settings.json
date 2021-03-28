@@ -1,7 +1,9 @@
 {
   "cSpell.words": [
+    "BZZR",
     "Hohenems",
     "INSIG",
+    "IPFS",
     "ISZERO",
     "JMPDEST",
     "JMPEQ",
@@ -23,6 +25,7 @@
     "cdeployed",
     "codeid",
     "dbname",
+    "fsize",
     "lilpeep",
     "ppdeep",
     "psycopg",
