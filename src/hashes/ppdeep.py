@@ -113,7 +113,7 @@ def _spamsum(stream, slen):
 
 
 def hash(buf):
-	if isinstance(buf, bytes):
+	if isinstance(buf, bytes) or isinstance(buf, memoryview):
 		pass
 	elif isinstance(buf, str):
 		buf = buf.encode()
