@@ -1,22 +1,22 @@
 from typing import NamedTuple, List
 
-class IdCodePair(NamedTuple):
+class IdCodeT(NamedTuple):
   id: int
   code: bytes
-IdCodePairs = List[IdCodePair]
+IdCodeTs = List[IdCodeT]
 
-class IdStringPair(NamedTuple):
+class IdStrT(NamedTuple):
   id: int
   str: str
-IdStringPairs = List[IdStringPair]
+IdStrTs = List[IdStrT]
 
-class IdIdFloatTriple(NamedTuple):
+class Id1Id2FloatT(NamedTuple):
   id1: int
   id2: int
-  val: float
-IdIdFloatTriples = List[IdIdFloatTriple]
+  float: float
+Id1Id2FloatTs = List[Id1Id2FloatT]
 
-class IdSignaturesPair(NamedTuple):
+class IdSigsT(NamedTuple):
   id: int
   sigs: List[bytes]
-IdSignaturesPairs = List[IdSignaturesPair]
+IdSigsTs = List[IdSigsT]
