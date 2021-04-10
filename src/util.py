@@ -1,4 +1,5 @@
 import concurrent.futures
+import math
 
 def writeCsvRow(file, row, sep=';'):
   for i in range(0, len(row)):
@@ -16,9 +17,12 @@ def chunkList(list, n):
 def allToAllIndices(length):
   return [ (i, j) for i in range(0, length) for j in range(i + 1, length) ]
 
-_executor = concurrent.futures.ProcessPoolExecutor(max_workers=48)
+CPU_COUNT = 48
 
-def runParallel(fn, inputs, chunkSize=1000):
+_executor = concurrent.futures.ProcessPoolExecutor(max_workers=CPU_COUNT)
+
+def runParallel(fn, inputs, chunkSizeMin=100):
+  chunkSize = max(chunkSizeMin, math.ceil(len(inputs) / CPU_COUNT))
   chunks = chunkList(inputs, chunkSize)
 
   outputs = []
