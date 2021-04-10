@@ -25,6 +25,7 @@
     "cdeployed",
     "codeid",
     "dbname",
+    "esverifiedcontract",
     "fsize",
     "jaccard",
     "lilpeep",
