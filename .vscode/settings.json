@@ -26,6 +26,7 @@
     "codeid",
     "dbname",
     "fsize",
+    "jaccard",
     "lilpeep",
     "ppdeep",
     "psycopg",

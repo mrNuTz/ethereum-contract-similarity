@@ -133,6 +133,13 @@ def _levenshtein(s, t):
 			v0[j] = v1[j]
 	return v1[len(t)]
 
+def _jaccard_index(list1, list2):
+  a = set(list1)
+  b = set(list2)
+  aSize = len(a)
+  bSize = len(b)
+  intersectionSize = len(a.intersection(b))
+  return 1 - intersectionSize / (aSize + bSize - intersectionSize)
 
 class _RollState(object):
 	ROLL_WINDOW = 7
@@ -179,15 +186,17 @@ def _common_substring(s1, s2):
 	return False
 
 
-def _score_strings(s1, s2, block_size):
+def _score_strings(s1, s2, block_size, useJaccard=False):
 	if _common_substring(s1, s2) == False:
 		return 0
+	if useJaccard:
+		return 100 * _jaccard_index(s1, s2)
 	score = _levenshtein(s1, s2)
 	score = 100 - 100 * score / (len(s1) + len(s2))
 	score = min(score, block_size / BLOCKSIZE_MIN * min(len(s1), len(s2)))
 	return score
 
-def compare(hash1, hash2):
+def compare(hash1, hash2, useJaccard=False):
 	if not (isinstance(hash1, str) and isinstance(hash2, str)):
 		raise TypeError('Arguments must be of string type')
 	try:
@@ -205,15 +214,15 @@ def compare(hash1, hash2):
 		return 100
 
 	if hash1_bs == hash2_bs:
-		score1 = _score_strings(hash1_s1, hash2_s1, hash1_bs)
-		score2 = _score_strings(hash1_s2, hash2_s2, hash2_bs)
+		score1 = _score_strings(hash1_s1, hash2_s1, hash1_bs, useJaccard)
+		score2 = _score_strings(hash1_s2, hash2_s2, hash2_bs, useJaccard)
 		score = max([score1, score2])
 		return score
 	elif hash1_bs == (hash2_bs * 2):
-		score = _score_strings(hash1_s1, hash2_s2, hash1_bs)
+		score = _score_strings(hash1_s1, hash2_s2, hash1_bs, useJaccard)
 		return score
 	else:
-		score = _score_strings(hash1_s2, hash2_s1, hash2_bs)
+		score = _score_strings(hash1_s2, hash2_s1, hash2_bs, useJaccard)
 		return score
 	return 0
 
