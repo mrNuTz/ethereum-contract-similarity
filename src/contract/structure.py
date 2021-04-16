@@ -150,8 +150,7 @@ def skeletize(components):
             skeleton.append(c[last:])
         else:
             raise ValueError(f"Unknown structure type {t}")
-    # remove trailing zeros
-    return b''.join(skeleton).rstrip(b'\x00')
+    return b''.join(skeleton)
 
 def drop0x(hex):
     return (None if hex is None else
