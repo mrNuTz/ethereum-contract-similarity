@@ -1,12 +1,12 @@
-from common import IdCodeT, IdCodeTs, Id1Id2FloatT, Id1Id2FloatTs, IdStrT, IdStrTs
+from common import IdCodeT, Id1Id2FloatT, IdStrT
 import hashes.ppdeep_mod, hashes.ppdeep, util, math
 from typing import Callable, Tuple, List
 
-def concurrent(hashes: IdStrTs, comparePairsFn: Callable, *args, chunkSizeMin=100) -> Id1Id2FloatTs:
+def concurrent(hashes: List[IdStrT], comparePairsFn: Callable, *args, chunkSizeMin=100) -> List[Id1Id2FloatT]:
   pairs = util.allToAllPairs(hashes)
   return util.runConcurrent(comparePairsFn, pairs, *args, chunkSizeMin=chunkSizeMin)
 
-def sequential(hashes: IdStrTs, comparePairsFn: Callable, *args, chunkSizeMin=None) -> Id1Id2FloatTs:
+def sequential(hashes: List[IdStrT], comparePairsFn: Callable, *args, chunkSizeMin=None) -> List[Id1Id2FloatT]:
   pairs = util.allToAllPairs(hashes)
   return comparePairsFn(pairs, *args)
 

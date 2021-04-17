@@ -1,0 +1,2 @@
+invalid byte-codes at the end of skelton
+skeletize rstrip trailing zeros

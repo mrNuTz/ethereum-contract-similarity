@@ -52,3 +52,6 @@ def normalize(mi, ma, resolution, val):
   shifted = val - mi
   scaled = shifted * (resolution / span)
   return max(0, min(resolution - 1, int(scaled)))
+
+def oneByteDebugEncoding(bs: bytes, startUtfCode=0xb0) -> str:
+  return ''.join(chr(b + startUtfCode) for b in bs)

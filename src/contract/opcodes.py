@@ -108,7 +108,7 @@ class OpCode:
     def alters_flow(self) -> bool:
         """Predicate: opcode alters EVM control flow."""
         return (self.code in (JUMP.code, JUMPI.code,)) or self.possibly_halts()
-    
+
     def is_exception(self) -> bool:
         """Predicate: opcode causes the EVM to throw an exception."""
         return (self.code in (THROW.code, THROWI.code, REVERT.code)) \
@@ -357,3 +357,6 @@ def missing_opcode(val: int) -> OpCode:
     if val in BYTECODES:
         raise ValueError("Opcode {} exists.")
     return OpCode("MISSING", val, 0, 0)
+
+def opcode_by_value_or_missing(val: int) -> OpCode:
+    return BYTECODES[val] if val in BYTECODES else OpCode("MISSING", val, 0, 0)
