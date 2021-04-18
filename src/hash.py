@@ -16,7 +16,7 @@ def fourbytes(codes: List[IdCodeT]) -> List[IdSigsT]:
 
 def countBytes(codes: List[IdCodeT]) -> List[IdCountsT]:
   def reducer(counts, b):
-    counts[b] = counts[b] + 1 if b in counts else 1
+    counts[b] = counts.get(b, 0) + 1
     return counts
 
   return [

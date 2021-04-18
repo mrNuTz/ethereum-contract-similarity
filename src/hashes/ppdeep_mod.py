@@ -139,7 +139,7 @@ def _jaccard_index(list1, list2):
   aSize = len(a)
   bSize = len(b)
   intersectionSize = len(a.intersection(b))
-  return 1 - intersectionSize / (aSize + bSize - intersectionSize)
+  return intersectionSize / (aSize + bSize - intersectionSize)
 
 class _RollState(object):
 	ROLL_WINDOW = 7
