@@ -37,7 +37,7 @@ def runConcurrent(chunkFn: Callable[[List], List], inputs: List, *args, chunkSiz
   outputs = []
   if (len(chunks) > 1):
     futures = [ _executor.submit(chunkFn, chunk, *args) for chunk in chunks ]
-    for future in concurrent.futures.as_completed(futures):
+    for future in futures:
       outputs.extend(future.result())
   else:
     for chunk in chunks:

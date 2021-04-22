@@ -1,2 +1,8 @@
-invalid byte-codes at the end of skelton
-skeletize rstrip trailing zeros
+DONE:
+FIRST:
+
+TODO:
+  define a few test sets
+LATER:
+  invalid byte-codes at the end of skeleton?
+  skeletize rstrip trailing zeros?

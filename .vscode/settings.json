@@ -2,6 +2,7 @@
   "cSpell.words": [
     "BLKNUM",
     "BZZR",
+    "Cython",
     "Hohenems",
     "INSIG",
     "IPFS",
@@ -14,6 +15,7 @@
     "JMPXX",
     "JUMPDEST",
     "JUMPI",
+    "LZJD",
     "MLOAD",
     "MSIZE",
     "Nu",
@@ -43,6 +45,7 @@
     "psycopg",
     "rapha",
     "rstrip",
+    "scipy",
     "sigs",
     "skeletize",
     "slen",
@@ -50,5 +53,12 @@
     "venv"
   ],
   "python.pythonPath": "venv/bin/python",
-  "vscode-postgres.defaultConnection": "e@localhost"
+  "vscode-postgres.defaultConnection": "e@localhost",
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true,
+    "**/.hg/store/**": true,
+    "**/__pycache__/**": true
+  }
 }

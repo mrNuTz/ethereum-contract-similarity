@@ -13,4 +13,16 @@ from
   join bindata on bindata.id = code2.code
 where
   array_length(signatures, 1) > 20
-limit 5000;
+limit 5;
+
+
+select
+  count(*)
+from
+  esverifiedcontract
+  join contract2 on esverifiedcontract.aid = contract2.aid
+  join code2 on contract2.cdeployed = code2.code
+  join account on account.id = esverifiedcontract.aid
+  join bindata on bindata.id = code2.code
+where
+  array_length(signatures, 1) > 20;

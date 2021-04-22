@@ -1,6 +1,7 @@
-from common import Id1Id2FloatT, IdStrT, IdCountsT
+from common import Id1Id2FloatT, IdStrT, IdCountsT, IdAnyT
 import hashes.ppdeep_mod, hashes.ppdeep, util
 from typing import Callable, Tuple, List
+import pyLZJD
 
 def ppdeep(pairs: Tuple[IdStrT, IdStrT]) -> List[Id1Id2FloatT]:
   return [ Id1Id2FloatT(a.id, b.id, hashes.ppdeep.compare(a.str, b.str)) for a, b in pairs ]
@@ -31,3 +32,6 @@ def countsSimilarity(pairs: Tuple[IdCountsT, IdCountsT], excludeZeros=False) -> 
         / sum(a.counts.get(i, 0) + b.counts.get(i, 0) for i in r)))
     for a, b in pairs
   ]
+
+def lzjd(pairs: Tuple[IdAnyT, IdAnyT]) -> List[Id1Id2FloatT]:
+  return [ Id1Id2FloatT(a.id, b.id, pyLZJD.sim(a.any, b.any)) for a, b in pairs]
