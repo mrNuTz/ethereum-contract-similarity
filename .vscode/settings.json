@@ -1,7 +1,9 @@
 {
   "cSpell.words": [
+    "Anzeige",
     "BLKNUM",
     "BZZR",
+    "Beispiel",
     "Cython",
     "Hohenems",
     "INSIG",
@@ -25,13 +27,17 @@
     "SDIV",
     "SLOAD",
     "SMOD",
+    "Signatur",
+    "Signaturen",
     "Skel",
     "Skeletonized",
     "THROWI",
     "TXGASPRICE",
+    "Umwandlung",
     "Vyper",
     "baumer",
     "bindata",
+    "bytea",
     "cbor",
     "cdeployed",
     "codeid",
@@ -39,6 +45,8 @@
     "disasm",
     "esverifiedcontract",
     "fsize",
+    "funcsig",
+    "funsig",
     "jaccard",
     "lilpeep",
     "opcode's",
@@ -52,7 +60,8 @@
     "slen",
     "ssdeep",
     "unnest",
-    "venv"
+    "venv",
+    "zwischen"
   ],
   "python.pythonPath": "venv/bin/python",
   "vscode-postgres.defaultConnection": "e@localhost",
@@ -60,7 +69,6 @@
     "**/.git/objects/**": true,
     "**/.git/subtree-cache/**": true,
     "**/__pycache__/**": true,
-    "**/venv/**": true,
-    "**/out/**": true
+    "**/venv/**": true
   }
 }

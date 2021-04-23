@@ -24,6 +24,8 @@ def jaccardIndex(list1, list2):
   b = set(list2)
   aSize = len(a)
   bSize = len(b)
+  if (aSize + bSize) == 0:
+    return 1
   intersectionSize = len(a.intersection(b))
   return intersectionSize / (aSize + bSize - intersectionSize)
 

@@ -1,44 +1,59 @@
 
-import db, pre, hash, compare, util, common, vis
+import db, pre, hash, compare, util, common, vis, out
 import contract.opcodes as opcodes
 import pandas as pd
 
 codes = db.selectIdCodeTs("""
-select
-  code as id, dat as code
-from
-  esverifiedcontract
-  join contract2 on esverifiedcontract.aid = contract2.aid
-  join code2 on contract2.cdeployed = code2.code
-  join account on account.id = esverifiedcontract.aid
-  join bindata on bindata.id = code2.code
-where
-  array_length(signatures, 1) > 20
-offset 10000
-limit 500;
-""") + db.selectIdCodeTs("""
-select
-  code as id, dat as code
-from
-  esverifiedcontract
-  join contract2 on esverifiedcontract.aid = contract2.aid
-  join code2 on contract2.cdeployed = code2.code
-  join account on account.id = esverifiedcontract.aid
-  join bindata on bindata.id = code2.code
-where
-  array_length(signatures, 1) > 20
-offset 30000
-limit 500;
+WITH candidates AS (
+  SELECT
+    array_agg(DISTINCT ct.cdeployed) codes
+  FROM
+    esverifiedcontract es
+    JOIN contract2 ct ON es.aid = ct.aid
+    JOIN code2 c ON c.code = ct.cdeployed
+  GROUP BY
+    es.name,
+    c.signatures
+  HAVING
+    count(DISTINCT c.skeleton) > 1
+    AND array_length(c.signatures, 1) = 19
+)
+SELECT
+  u.code codeid,
+  dat
+FROM
+  candidates,
+  unnest(candidates.codes) u (code),
+  contract2 ct,
+  bindata b
+WHERE
+  b.id = u.code and
+  u.code = ct.cdeployed
+  AND EXISTS (
+    SELECT
+    FROM
+      esverifiedcontract es
+    WHERE
+      es.aid = ct.aid)
+GROUP BY
+  1,
+  2
+LIMIT 1000;
 """)
 
+print(f'selected {len(codes)}')
+
+print('pre')
+skel = codes #util.runConcurrent(pre.firstSectionSkeleton, codes)
+
 print('hashing1')
-hashes = util.runConcurrent(hash.ppdeep_mod, codes)
+hashes = util.runConcurrent(hash.ppdeep_mod, skel)
 print('hashing2')
 fours = util.runConcurrent(hash.fourbytes, codes)
 print('hashing3')
-counts = util.runConcurrent(hash.countBytes, codes)
+counts = util.runConcurrent(hash.countBytes, skel)
 print('hashing4')
-lzjd = util.runConcurrent(hash.lzjd1, codes)
+lzjd = util.runConcurrent(hash.lzjd1, skel)
 
 print('pairs1')
 hashPairs = util.allToAllPairs(hashes)
@@ -74,4 +89,6 @@ df = pd.DataFrame({
   'countsSimilarityNoZeros': [val for id1, id2, val in countsSimilarityNoZeros],
   'lzjdSimilarity': [val for id1, id2, val in lzjdSimilarity]
 })
-print(df.corr(method='kendall'))
+print('write')
+corr = df.corr(method='kendall')
+out.write_out(corr, '19_full')
