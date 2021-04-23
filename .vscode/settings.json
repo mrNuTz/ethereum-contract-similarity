@@ -31,6 +31,7 @@
     "TXGASPRICE",
     "Vyper",
     "baumer",
+    "bindata",
     "cbor",
     "cdeployed",
     "codeid",
@@ -50,6 +51,7 @@
     "skeletize",
     "slen",
     "ssdeep",
+    "unnest",
     "venv"
   ],
   "python.pythonPath": "venv/bin/python",
@@ -57,8 +59,8 @@
   "files.watcherExclude": {
     "**/.git/objects/**": true,
     "**/.git/subtree-cache/**": true,
-    "**/node_modules/*/**": true,
-    "**/.hg/store/**": true,
-    "**/__pycache__/**": true
+    "**/__pycache__/**": true,
+    "**/venv/**": true,
+    "**/out/**": true
   }
 }
