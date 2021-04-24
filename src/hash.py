@@ -1,4 +1,4 @@
-from common import IdStrT, IdSigsT, IdCodeT, IdCountsT, IdAnyT
+from common import IdStrT, IdSigsT, IdCodeT, IdCountsT, IdAnyT, IdFloatT
 import hashes.ppdeep_mod as _ppdeep_mod
 import hashes.ppdeep as _ppdeep
 from contract.fourbytes import signatures
@@ -30,3 +30,6 @@ def lzjd1(
   return [
     IdAnyT(id, pyLZJD.digest(code, hash_size, mode, processes, false_seen_prob, seed))
     for id, code, in codes]
+
+def size(codes: List[IdCodeT]) -> List[IdAnyT]:
+  return [ IdFloatT(id, len(code)) for id, code in codes ]

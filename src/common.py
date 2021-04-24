@@ -24,3 +24,7 @@ class IdAnyT(NamedTuple):
 class IdCountsT(NamedTuple):
   id: int
   counts: Dict[int, int]
+
+class IdFloatT(NamedTuple):
+  id: int
+  float: float

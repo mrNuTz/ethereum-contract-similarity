@@ -1,33 +1,22 @@
-WITH candidates AS (
+WITH ids AS (
   SELECT
-    array_agg(DISTINCT ct.cdeployed) codes
+    min(es.aid) aid,
+    min(c.code) code
   FROM
     esverifiedcontract es
     JOIN contract2 ct ON es.aid = ct.aid
-    JOIN code2 c ON c.code = ct.cdeployed
+    JOIN code2 c ON ct.cdeployed = c.code
+  WHERE
+    array_length(c.signatures, 1) = 20
   GROUP BY
-    es.name,
     c.signatures
   HAVING
-    count(DISTINCT c.skeleton) > 1
-    AND array_length(c.signatures, 1) = 20
+    count(es.aid) = 1
 )
 SELECT
-  u.code codeid,
-  bindata (u.code) code
+  ids.code --, b.dat
 FROM
-  candidates,
-  unnest(candidates.codes) u (code),
-  contract2 ct
-WHERE
-  u.code = ct.cdeployed
-  AND EXISTS (
-    SELECT
-    FROM
-      esverifiedcontract es
-    WHERE
-      es.aid = ct.aid)
-GROUP BY
-  1,
-  2;
+  ids
+  JOIN bindata b ON ids.code = b.id
+LIMIT 400;
 
