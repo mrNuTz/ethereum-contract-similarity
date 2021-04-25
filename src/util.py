@@ -1,6 +1,7 @@
 import concurrent.futures
 import math
 from typing import List, Tuple, Callable
+from datetime import datetime
 
 def writeCsvRow(file, row, sep=';'):
   for i in range(0, len(row)):
@@ -57,3 +58,6 @@ def normalize(mi, ma, resolution, val):
 
 def oneByteDebugEncoding(bs: bytes, startUtfCode=0xb0) -> str:
   return ''.join(chr(b + startUtfCode) for b in bs)
+
+def timestamp() -> str:
+  return datetime.now().strftime('%Y%m%d-%H%M%S')

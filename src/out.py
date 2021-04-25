@@ -1,7 +1,7 @@
-from datetime import datetime
+import util
 
 def open_out(name='out'):
-  ts = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+  ts = util.timestamp()
   name = f'{ts}_{name}'
   return open('out/' + name, 'w', buffering=1024*1024)
 

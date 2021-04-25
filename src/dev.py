@@ -1,5 +1,5 @@
 
-import db, pre, hash, compare, util, common, vis, out
+import db, pre, hash, compare, util, common, vis, out, plot
 import contract.opcodes as opcodes
 import pandas as pd
 
@@ -85,3 +85,13 @@ df = pd.DataFrame({
 print('write')
 corr = df.corr(method='kendall')
 out.write_out(corr, 'unique_sigs_len20')
+
+print('plot')
+plot.scatter(df, 'foursJaccard', 'hashLevenstine', newFigure=True)
+plot.scatter(df, 'foursJaccard', 'countsSimilarityNoZeros', newFigure=True)
+plot.scatter(df, 'foursJaccard', 'lzjdSimilarity', newFigure=True)
+plot.scatter(df, 'lzjdSimilarity', 'hashJaccard', newFigure=True)
+plot.qq(df, 'foursJaccard', 'hashLevenstine', newFigure=True)
+plot.qq(df, 'foursJaccard', 'countsSimilarityNoZeros', newFigure=True)
+plot.qq(df, 'foursJaccard', 'lzjdSimilarity', newFigure=True)
+plot.qq(df, 'lzjdSimilarity', 'hashJaccard', newFigure=True)
