@@ -1,7 +1,17 @@
 DONE:
+  is swarm code removed from the skeletons? -> yes
 FIRST:
+  write a hello word smart contract and compile it
+    deployment code vs deployed code
+    function signatures
+    function ordering
+      verify that function are ordered by signatures in runtime code (deployed code)
+    how to function splitting
 
+  ssdeep with spliced out 0s could perform pretty good, because functions are ordered
 TODO:
+  how can is split the framework and the test-runs and document the runs?
+  how will this be used?
   define a few test sets
   bzHash
 LATER:
@@ -40,3 +50,5 @@ NOTES:
 THOUGHTS:
   lzjd correlations much better to signature-similarity than ssdeep and its really fast
   ssdeep can't event beat counting bytes of the skeleton
+
+  ssdeep with jaccard underperforms levenshtein because of the high number of 'K' chunk hashes.

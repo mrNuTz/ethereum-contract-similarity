@@ -1,22 +1,25 @@
-WITH ids AS (
+with ids as (
   SELECT
     min(es.aid) aid,
-    min(c.code) code
+    min(c.code) code,
+    count(es.aid) count,
+    c.skeleton
   FROM
     esverifiedcontract es
     JOIN contract2 ct ON es.aid = ct.aid
     JOIN code2 c ON ct.cdeployed = c.code
   WHERE
-    array_length(c.signatures, 1) = 20
+    --es.name = 'ADZbuzzCommunityToken'
+    es.name = 'AdminUpgradeabilityProxy'
   GROUP BY
-    c.signatures
-  HAVING
-    count(es.aid) = 1
+    c.skeleton
 )
-SELECT
-  ids.code --, b.dat
-FROM
+select
+  --encode(a.addr, 'hex') address, count, (select count(*) from message where receiver = ids.aid)
+  ids.code, b.dat
+from
   ids
-  JOIN bindata b ON ids.code = b.id
-LIMIT 400;
-
+  join account a on a.id = ids.aid
+  join bindata b on b.id = ids.code
+where
+  (select count(*) from message where receiver = ids.aid) > 0;

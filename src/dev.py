@@ -4,28 +4,31 @@ import contract.opcodes as opcodes
 import pandas as pd
 
 codes = db.selectIdCodeTs("""
-WITH ids AS (
+with ids as (
   SELECT
     min(es.aid) aid,
-    min(c.code) code
+    min(c.code) code,
+    count(es.aid) count,
+    c.skeleton
   FROM
     esverifiedcontract es
     JOIN contract2 ct ON es.aid = ct.aid
     JOIN code2 c ON ct.cdeployed = c.code
   WHERE
-    array_length(c.signatures, 1) = 20
+    --es.name = 'ADZbuzzCommunityToken'
+    es.name = 'AdminUpgradeabilityProxy'
   GROUP BY
-    c.signatures
-  HAVING
-    count(es.aid) = 1
+    c.skeleton
 )
-SELECT
-  ids.code,
-  b.dat
-FROM
+select
+  --encode(a.addr, 'hex') address, count, (select count(*) from message where receiver = ids.aid)
+  ids.code, b.dat
+from
   ids
-  JOIN bindata b ON ids.code = b.id
-LIMIT 400;
+  join account a on a.id = ids.aid
+  join bindata b on b.id = ids.code
+where
+  (select count(*) from message where receiver = ids.aid) > 0;
 """)
 
 print(f'selected {len(codes)}')
@@ -56,7 +59,7 @@ print('pairs5')
 sizePairs = util.allToAllPairs(sizes)
 
 print('compare1')
-hashLevenstine = util.runConcurrent(compare.ppdeep_mod, hashPairs)
+hashLevenshtein = util.runConcurrent(compare.ppdeep_mod, hashPairs)
 print('compare2')
 hashJaccard = util.runConcurrent(compare.ppdeep_mod_jaccard, hashPairs)
 print('compare3')
@@ -72,9 +75,9 @@ sizeDiff = util.runConcurrent(compare.sizeDiff, sizePairs)
 
 print('correlate')
 df = pd.DataFrame({
-  #'id1': [id1 for id1, id2, val in hashLevenstine],
-  #'id2': [id2 for id1, id2, val in hashLevenstine],
-  'hashLevenstine': [val for id1, id2, val in hashLevenstine],
+  'id1': [id1 for id1, id2, val in hashLevenshtein],
+  'id2': [id2 for id1, id2, val in hashLevenshtein],
+  'hashLevenshtein': [val for id1, id2, val in hashLevenshtein],
   'hashJaccard': [val for id1, id2, val in hashJaccard],
   'foursJaccard': [val for id1, id2, val in foursJaccard],
   'countsSimilarity': [val for id1, id2, val in countsSimilarity],
@@ -84,14 +87,15 @@ df = pd.DataFrame({
 })
 print('write')
 corr = df.corr(method='kendall')
+out.write_out(df.to_csv(), 'dataframe.csv')
 out.write_out(corr, 'unique_sigs_len20')
 
 print('plot')
-plot.scatter(df, 'foursJaccard', 'hashLevenstine', newFigure=True)
+plot.scatter(df, 'foursJaccard', 'hashLevenshtein', newFigure=True)
 plot.scatter(df, 'foursJaccard', 'countsSimilarityNoZeros', newFigure=True)
 plot.scatter(df, 'foursJaccard', 'lzjdSimilarity', newFigure=True)
-plot.scatter(df, 'lzjdSimilarity', 'hashJaccard', newFigure=True)
-plot.qq(df, 'foursJaccard', 'hashLevenstine', newFigure=True)
+plot.scatter(df, 'lzjdSimilarity', 'hashLevenshtein', newFigure=True)
+plot.qq(df, 'foursJaccard', 'hashLevenshtein', newFigure=True)
 plot.qq(df, 'foursJaccard', 'countsSimilarityNoZeros', newFigure=True)
 plot.qq(df, 'foursJaccard', 'lzjdSimilarity', newFigure=True)
-plot.qq(df, 'lzjdSimilarity', 'hashJaccard', newFigure=True)
+plot.qq(df, 'lzjdSimilarity', 'hashLevenshtein', newFigure=True)
