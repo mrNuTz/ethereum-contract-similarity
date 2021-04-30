@@ -28,3 +28,7 @@ class IdCountsT(NamedTuple):
 class IdFloatT(NamedTuple):
   id: int
   float: float
+
+class IdSigTblT(NamedTuple):
+  id: int
+  sigTbl: Dict[bytes, int]
