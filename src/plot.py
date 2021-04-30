@@ -1,5 +1,12 @@
 import matplotlib.pyplot as plt
-import util
+from pathlib import Path
+
+_dir = '.'
+
+def setDir(d: str):
+  global _dir
+  _dir = d.replace(r'/$', '')
+  Path(_dir).mkdir(parents=True, exist_ok=True)
 
 def scatter(df, x, y, newFigure=False):
   if newFigure: plt.figure()
@@ -7,8 +14,7 @@ def scatter(df, x, y, newFigure=False):
   plt.title('scatter')
   plt.xlabel(x)
   plt.ylabel(y)
-  ts = util.timestamp()
-  plt.savefig(f'out/{ts}_scatter_{x}_{y}.png')
+  plt.savefig(f'{_dir}/scatter_{x}_{y}.png')
 
 def qq(df, x, y, newFigure=False):
   if newFigure: plt.figure()
@@ -16,5 +22,4 @@ def qq(df, x, y, newFigure=False):
   plt.title('qq')
   plt.xlabel(x)
   plt.ylabel(y)
-  ts = util.timestamp()
-  plt.savefig(f'out/{ts}_qq_{x}_{y}.png')
+  plt.savefig(f'{_dir}/qq_{x}_{y}.png')

@@ -1,7 +1,0 @@
-                         hashLevenshtein  hashJaccard  foursJaccard  countsSimilarity  countsSimilarityNoZeros  lzjdSimilarity
-hashLevenshtein                 1.000000     0.838573      0.189076          0.307396                 0.333405        0.313769
-hashJaccard                    0.838573     1.000000      0.177634          0.278303                 0.303178        0.278649
-foursJaccard                   0.189076     0.177634      1.000000          0.198627                 0.375279        0.380441
-countsSimilarity               0.307396     0.278303      0.198627          1.000000                 0.646704        0.386922
-countsSimilarityNoZeros        0.333405     0.303178      0.375279          0.646704                 1.000000        0.479044
-lzjdSimilarity                 0.313769     0.278649      0.380441          0.386922                 0.479044        1.000000
