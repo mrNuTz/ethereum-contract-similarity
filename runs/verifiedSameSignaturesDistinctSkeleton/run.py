@@ -12,17 +12,22 @@ import pandas as pd
 def verifiedSameSignaturesDistinctSkeleton(addr):
   codeId = db.getCodesViaAddresses([addr])[0].id
   return db.selectIdCodeTs("""
+    WITH ids AS (
+      SELECT
+        min(c.code) code
+      FROM
+        esverifiedcontract es
+        JOIN contract2 ct ON es.aid = ct.aid
+        JOIN code2 c on c.code = ct.cdeployed
+      WHERE
+        c.signatures = (SELECT c.signatures FROM code2 c WHERE c.code = %s)
+      GROUP BY
+        c.skeleton
+    )
     SELECT
-      DISTINCT ON (c.skeleton)
-      c.code,
-      b.dat
+      ids.code, b.dat
     FROM
-      esverifiedcontract es
-      JOIN contract2 ct ON es.aid = ct.aid
-      JOIN code2 c on c.code = ct.cdeployed
-      JOIN bindata b ON c.code = b.id
-    WHERE
-      c.signatures = (SELECT c.signatures FROM code2 c WHERE c.code = %s)
+      ids JOIN bindata b ON ids.code = b.id
   """, (codeId,))
 
 codes = {
@@ -85,7 +90,6 @@ df_in = pd.DataFrame({
 corr_in = df_in.corr(method='kendall')
 write.saveStr(df_in.to_csv(), 'comparisons_in.csv')
 write.saveStr(corr_in, 'correlations_in.txt')
-#write.saveStr('\n'.join([str(id) for id, code in codes]), 'ids.csv')
 
 print('plot in')
 plot.scatter(df_in, 'ppdeep', 'byteCounts', name='inScatter', newFigure=True)
@@ -109,7 +113,6 @@ df_out = pd.DataFrame({
 corr_out = df_out.corr(method='kendall')
 write.saveStr(df_out.to_csv(), 'comparisons_out.csv')
 write.saveStr(corr_out, 'correlations_out.txt')
-#write.saveStr('\n'.join([str(id) for id, code in codes]), 'ids.csv')
 
 print('plot out')
 plot.scatter(df_out, 'ppdeep', 'byteCounts', name='outScatter', newFigure=True)
@@ -125,7 +128,7 @@ df_all = pd.concat([df_in, df_out])
 corr_all = df_all.corr(method='kendall')
 write.saveStr(df_all.to_csv(), 'comparisons_all.csv')
 write.saveStr(corr_all, 'correlations_all.txt')
-#write.saveStr('\n'.join([str(id) for id, code in codes]), 'ids.csv')
+write.saveCsv([[name, id] for name, ts in codes.items() for id, code in ts], name='ids.csv')
 
 print('plot all')
 plot.scatter(df_all, 'ppdeep', 'byteCounts', name='allScatter', newFigure=True, colorBy='isIn')
@@ -134,3 +137,4 @@ plot.scatter(df_all, 'ppdeep', 'size', name='allScatter', newFigure=True, colorB
 plot.scatter(df_all, 'byteCounts', 'lzjd1', name='allScatter', newFigure=True, colorBy='isIn')
 plot.scatter(df_all, 'byteCounts', 'size', name='allScatter', newFigure=True, colorBy='isIn')
 plot.scatter(df_all, 'lzjd1', 'size', name='allScatter', newFigure=True, colorBy='isIn')
+
