@@ -3,13 +3,6 @@ import math
 from typing import List, Tuple, Callable, Dict
 from datetime import datetime
 
-def writeCsvRow(file, row, sep=';'):
-  for i in range(0, len(row)):
-    if i > 0:
-      file.write(sep)
-    file.write(str(row[i]))
-    file.write('\n')
-
 def drop0x(hex):
  return (None if hex is None else hex[2:] if hex[0:2] == "0x" else hex)
 

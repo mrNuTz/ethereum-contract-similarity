@@ -1,8 +1,8 @@
 import sys, os
 sys.path.insert(1, 'src')
-import out, plot
+import write, plot
 _outDir = os.path.dirname(os.path.abspath(__file__)) + '/out'
-out.setDir(_outDir)
+write.setDir(_outDir)
 plot.setDir(_outDir)
 
 import db, pre, hash, compare, util, common, vis
@@ -93,9 +93,9 @@ df = pd.DataFrame({
 })
 print('write')
 corr = df.corr(method='kendall')
-out.write_out(df.to_csv(), 'comparisons.csv')
-out.write_out(corr, 'correlations.txt')
-out.write_out('\n'.join([str(id) for id, code in codes]), 'ids.csv')
+write.saveStr(df.to_csv(), 'comparisons.csv')
+write.saveStr(corr, 'correlations.txt')
+write.saveStr('\n'.join([str(id) for id, code in codes]), 'ids.csv')
 
 print('plot')
 plot.scatter(df, 'foursJaccard', 'hashLevenshtein', newFigure=True)

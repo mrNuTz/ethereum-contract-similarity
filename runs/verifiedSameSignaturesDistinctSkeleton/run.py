@@ -1,8 +1,8 @@
 import sys, os
 sys.path.insert(1, 'src')
-import out, plot
+import write, plot
 _outDir = os.path.dirname(os.path.abspath(__file__)) + '/out'
-out.setDir(_outDir)
+write.setDir(_outDir)
 plot.setDir(_outDir)
 
 import db, pre, hash, compare, util, vis
@@ -83,9 +83,9 @@ df_in = pd.DataFrame({
 })
 
 corr_in = df_in.corr(method='kendall')
-out.write_out(df_in.to_csv(), 'comparisons_in.csv')
-out.write_out(corr_in, 'correlations_in.txt')
-#out.write_out('\n'.join([str(id) for id, code in codes]), 'ids.csv')
+write.saveStr(df_in.to_csv(), 'comparisons_in.csv')
+write.saveStr(corr_in, 'correlations_in.txt')
+#write.saveStr('\n'.join([str(id) for id, code in codes]), 'ids.csv')
 
 print('plot in')
 plot.scatter(df_in, 'ppdeep', 'byteCounts', name='inScatter', newFigure=True)
@@ -107,9 +107,9 @@ df_out = pd.DataFrame({
 })
 
 corr_out = df_out.corr(method='kendall')
-out.write_out(df_out.to_csv(), 'comparisons_out.csv')
-out.write_out(corr_out, 'correlations_out.txt')
-#out.write_out('\n'.join([str(id) for id, code in codes]), 'ids.csv')
+write.saveStr(df_out.to_csv(), 'comparisons_out.csv')
+write.saveStr(corr_out, 'correlations_out.txt')
+#write.saveStr('\n'.join([str(id) for id, code in codes]), 'ids.csv')
 
 print('plot out')
 plot.scatter(df_out, 'ppdeep', 'byteCounts', name='outScatter', newFigure=True)
@@ -123,9 +123,9 @@ print('correlate all')
 df_all = pd.concat([df_in, df_out])
 
 corr_all = df_all.corr(method='kendall')
-out.write_out(df_all.to_csv(), 'comparisons_all.csv')
-out.write_out(corr_all, 'correlations_all.txt')
-#out.write_out('\n'.join([str(id) for id, code in codes]), 'ids.csv')
+write.saveStr(df_all.to_csv(), 'comparisons_all.csv')
+write.saveStr(corr_all, 'correlations_all.txt')
+#write.saveStr('\n'.join([str(id) for id, code in codes]), 'ids.csv')
 
 print('plot all')
 plot.scatter(df_all, 'ppdeep', 'byteCounts', name='allScatter', newFigure=True, colorBy='isIn')
