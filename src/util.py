@@ -1,6 +1,6 @@
 import concurrent.futures
 import math
-from typing import List, Tuple, Callable
+from typing import List, Tuple, Callable, Dict
 from datetime import datetime
 
 def writeCsvRow(file, row, sep=';'):
@@ -20,6 +20,12 @@ def allToAllPairs(list: List) -> List[Tuple]:
   length = len(list)
   return [ (list[i], list[j]) for i in range(0, length) for j in range(i + 1, length) ]
 
+def allPairs(l1: List, l2: List) -> List[Tuple]:
+  return [(a,b) for a in l1 for b in l2]
+
+def allIntergroupPairs(groups: Dict[str, List[Tuple]]) -> Dict[Tuple[str, str], List[Tuple]]:
+  return { (a,b): allPairs(groups[a], groups[b]) for a, b in allToAllPairs(list(groups)) }
+
 def jaccardIndex(list1, list2):
   a = set(list1)
   b = set(list2)
@@ -33,22 +39,24 @@ def jaccardIndex(list1, list2):
 CPU_COUNT = 48
 _executor = concurrent.futures.ProcessPoolExecutor(max_workers=CPU_COUNT)
 
-def runConcurrent(chunkFn: Callable[[List], List], inputs: List, *args, chunkSizeMin=100) -> List:
+def runConcurrent(chunkFn: Callable[[List], List], inputs: List, chunkSizeMin=100, *args, **kwargs) -> List:
   chunkSize = max(chunkSizeMin, math.ceil(len(inputs) / CPU_COUNT))
   chunks = chunkList(inputs, chunkSize)
 
   outputs = []
   if (len(chunks) > 1):
-    futures = [ _executor.submit(chunkFn, chunk, *args) for chunk in chunks ]
+    futures = [ _executor.submit(chunkFn, chunk, *args, **kwargs) for chunk in chunks ]
     for future in futures:
       outputs.extend(future.result())
   else:
     for chunk in chunks:
-      outputs.extend(chunkFn(chunk, *args))
+      outputs.extend(chunkFn(chunk, *args, **kwargs))
   return outputs
 
-def runSequential(chunkFn: Callable[[List], List], inputs: List, *args, chunkSizeMin=None) -> List:
-  return chunkFn(inputs, *args)
+def concurrent(chunkFn: Callable[[List], List], chunkSizeMin=100) -> Callable[[List], List]:
+  def go(inputs: List, *args, **kwargs):
+    return runConcurrent(chunkFn, inputs, *args, **kwargs, chunkSizeMin=chunkSizeMin)
+  return go
 
 def normalize(mi, ma, resolution, val):
   span = ma - mi
@@ -61,3 +69,17 @@ def oneByteDebugEncoding(bs: bytes, startUtfCode=0xb0) -> str:
 
 def timestamp() -> str:
   return datetime.now().strftime('%Y%m%d-%H%M%S')
+
+def mapDict(d: Dict, fn: Callable, *args, **kwargs) -> Dict:
+  return { k: fn(v, *args, **kwargs) for k, v in d.items() }
+
+#def hotspot():
+#  return
+#
+#def parallelize_dataframe(df, func, n_cores=4):
+#  df_split = np.array_split(df, n_cores)
+#  pool = Pool(n_cores)
+#  df = pd.concat(pool.map(func, df_split))
+#  pool.close()
+#  pool.join()
+#  return df

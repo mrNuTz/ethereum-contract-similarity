@@ -1,11 +1,11 @@
 from pathlib import Path
-import util
+import re
 
 _dir = '.'
 
 def setDir(d: str):
   global _dir
-  _dir = d.replace(r'/$', '')
+  _dir = re.sub(r'/$', '', d)
   Path(_dir).mkdir(parents=True, exist_ok=True)
 
 def open_out(name='out'):
