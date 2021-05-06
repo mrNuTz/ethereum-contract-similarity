@@ -14,7 +14,7 @@ def ppdeep(codes: List[IdCodeT]) -> List[IdStrT]:
 def fourbytes(codes: List[IdCodeT]) -> List[IdSigsT]:
   return [IdSigsT(id, signatures(code)) for id, code in codes]
 
-def countBytes(codes: List[IdCodeT]) -> List[IdCountsT]:
+def byteCounts(codes: List[IdCodeT]) -> List[IdCountsT]:
   def reducer(counts, b):
     counts[b] = counts.get(b, 0) + 1
     return counts
