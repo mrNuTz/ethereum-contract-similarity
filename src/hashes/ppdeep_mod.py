@@ -161,34 +161,7 @@ class _RollState(object):
 		return self.h1 + self.h2 + self.h3
 
 
-def _common_substring(s1, s2):
-	ROLL_WINDOW = 7
-	hashes = list()
-
-	roll = _RollState()
-	for i in range(len(s1)):
-		b = ord(s1[i])
-		hashes.append(roll.roll_hash(b))
-
-	roll = _RollState()
-	for i in range(len(s2)):
-		b = ord(s2[i])
-		rh = roll.roll_hash(b)
-		if i < (ROLL_WINDOW - 1):
-			continue
-		for j in range(ROLL_WINDOW-1, len(hashes)):
-			if hashes[j] != 0 and hashes[j] == rh:
-				ir = i - (ROLL_WINDOW - 1)
-				jr = j - (ROLL_WINDOW - 1)
-				if (len(s2[ir:]) >= ROLL_WINDOW and
-					s2[ir:ir+ROLL_WINDOW] == s1[jr:jr+ROLL_WINDOW]):
-					return True
-	return False
-
-
 def _score_strings(s1, s2, block_size, useJaccard=False):
-	if _common_substring(s1, s2) == False:
-		return 0
 	if useJaccard:
 		return 100 * _jaccard_index(s1, s2)
 	score = _levenshtein(s1, s2)
