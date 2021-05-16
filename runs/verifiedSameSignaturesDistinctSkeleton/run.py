@@ -68,13 +68,13 @@ print('compare in')
 ppdeep_inComps = util.mapDict(ppdeep_inPairs, util.concurrent(compare.ppdeep_mod))
 byteCounts_inComps = util.mapDict(byteCounts_inPairs, util.concurrent(compare.countsSimilarity), excludeZeros=True)
 lzjd1_inComps = util.mapDict(lzjd1_inPairs, util.concurrent(compare.lzjd))
-size_inComps = util.mapDict(size_inPairs, util.concurrent(compare.sizeDiff))
+size_inComps = util.mapDict(size_inPairs, util.concurrent(compare.sizeSimilarity))
 
 print('compare out')
 ppdeep_outComps = util.mapDict(ppdeep_outPairs, util.concurrent(compare.ppdeep_mod))
 byteCounts_outComps = util.mapDict(byteCounts_outPairs, util.concurrent(compare.countsSimilarity), excludeZeros=True)
 lzjd1_outComps = util.mapDict(lzjd1_outPairs, util.concurrent(compare.lzjd))
-size_outComps = util.mapDict(size_outPairs, util.concurrent(compare.sizeDiff))
+size_outComps = util.mapDict(size_outPairs, util.concurrent(compare.sizeSimilarity))
 
 print('correlate in')
 df_in = pd.DataFrame({

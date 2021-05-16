@@ -36,5 +36,5 @@ def countsSimilarity(pairs: List[Tuple[IdCountsT, IdCountsT]], excludeZeros=Fals
 def lzjd(pairs: List[Tuple[IdAnyT, IdAnyT]]) -> List[Id1Id2FloatT]:
   return [ Id1Id2FloatT(a.id, b.id, pyLZJD.sim(a.any, b.any)) for a, b in pairs]
 
-def sizeDiff(pairs: List[Tuple[IdFloatT, IdFloatT]]) -> List[Id1Id2FloatT]:
-  return [ Id1Id2FloatT(a.id, b.id, - abs(a.float - b.float)) for a, b in pairs ]
+def sizeSimilarity(pairs: List[Tuple[IdFloatT, IdFloatT]]) -> List[Id1Id2FloatT]:
+  return [ Id1Id2FloatT(a.id, b.id, 1 - abs(a.float - b.float) / (a.float + b.float)) for a, b in pairs ]

@@ -68,13 +68,13 @@ hashJaccard = util.runConcurrent(compare.ppdeep_mod_jaccard, hashPairs)
 print('compare3')
 foursJaccard = util.runConcurrent(compare.jaccardIndex, foursPairs)
 print('compare4')
-countsSimilarity = util.runConcurrent(compare.countsSimilarity, countsPairs, False)
+countsSimilarity = util.runConcurrent(compare.countsSimilarity, countsPairs, excludeZeros=False)
 print('compare5')
-countsSimilarityNoZeros = util.runConcurrent(compare.countsSimilarity, countsPairs, True)
+countsSimilarityNoZeros = util.runConcurrent(compare.countsSimilarity, countsPairs, excludeZeros=True)
 print('compare6')
 lzjdSimilarity = util.runConcurrent(compare.lzjd, lzjdPairs)
 print('compare7')
-sizeDiff = util.runConcurrent(compare.sizeDiff, sizePairs)
+sizeSimilarity = util.runConcurrent(compare.sizeSimilarity, sizePairs)
 
 print('correlate')
 df = pd.DataFrame({
@@ -86,7 +86,7 @@ df = pd.DataFrame({
   'countsSimilarity': [val for id1, id2, val in countsSimilarity],
   'countsSimilarityNoZeros': [val for id1, id2, val in countsSimilarityNoZeros],
   'lzjdSimilarity': [val for id1, id2, val in lzjdSimilarity],
-  'sizeDiff': [val for id1, id2, val in sizeDiff],
+  'sizeSimilarity': [val for id1, id2, val in sizeSimilarity],
 })
 print('write')
 corr = df.corr(method='kendall')
