@@ -44,7 +44,7 @@ hashes = util.runConcurrent(hash.ppdeep_mod, skel)
 print('hashing2')
 fours = util.runConcurrent(hash.fourbytes, codes)
 print('hashing3')
-counts = util.runConcurrent(hash.byteCounts, skel)
+counts = util.runConcurrent(hash.byteBag, skel)
 print('hashing4')
 lzjd = util.runConcurrent(hash.lzjd1, skel)
 print('hashing5')
@@ -68,9 +68,9 @@ hashJaccard = util.runConcurrent(compare.ppdeep_mod_jaccard, hashPairs)
 print('compare3')
 foursJaccard = util.runConcurrent(compare.jaccardIndex, foursPairs)
 print('compare4')
-countsSimilarity = util.runConcurrent(compare.countsSimilarity, countsPairs, excludeZeros=False)
+byteBagJaccard = util.runConcurrent(compare.byteBagJaccard, countsPairs, excludeZeros=False)
 print('compare5')
-countsSimilarityNoZeros = util.runConcurrent(compare.countsSimilarity, countsPairs, excludeZeros=True)
+byteBagJaccardNoZeros = util.runConcurrent(compare.byteBagJaccard, countsPairs, excludeZeros=True)
 print('compare6')
 lzjdSimilarity = util.runConcurrent(compare.lzjd, lzjdPairs)
 print('compare7')
@@ -83,8 +83,8 @@ df = pd.DataFrame({
   'hashLevenshtein': [val for id1, id2, val in hashLevenshtein],
   'hashJaccard': [val for id1, id2, val in hashJaccard],
   'foursJaccard': [val for id1, id2, val in foursJaccard],
-  'countsSimilarity': [val for id1, id2, val in countsSimilarity],
-  'countsSimilarityNoZeros': [val for id1, id2, val in countsSimilarityNoZeros],
+  'byteBagJaccard': [val for id1, id2, val in byteBagJaccard],
+  'byteBagJaccardNoZeros': [val for id1, id2, val in byteBagJaccardNoZeros],
   'lzjdSimilarity': [val for id1, id2, val in lzjdSimilarity],
   'sizeSimilarity': [val for id1, id2, val in sizeSimilarity],
 })
@@ -96,10 +96,10 @@ write.saveStr('\n'.join([str(id) for id, code in codes]), 'ids.csv')
 
 print('plot')
 plot.scatter(df, 'foursJaccard', 'hashLevenshtein', newFigure=True)
-plot.scatter(df, 'foursJaccard', 'countsSimilarityNoZeros', newFigure=True)
+plot.scatter(df, 'foursJaccard', 'byteBagJaccardNoZeros', newFigure=True)
 plot.scatter(df, 'foursJaccard', 'lzjdSimilarity', newFigure=True)
 plot.scatter(df, 'lzjdSimilarity', 'hashJaccard', newFigure=True)
 plot.qq(df, 'foursJaccard', 'hashLevenshtein', newFigure=True)
-plot.qq(df, 'foursJaccard', 'countsSimilarityNoZeros', newFigure=True)
+plot.qq(df, 'foursJaccard', 'byteBagJaccardNoZeros', newFigure=True)
 plot.qq(df, 'foursJaccard', 'lzjdSimilarity', newFigure=True)
 plot.qq(df, 'lzjdSimilarity', 'hashJaccard', newFigure=True)

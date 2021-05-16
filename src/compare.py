@@ -21,15 +21,14 @@ def jaccardIndex(pairs) -> List[Id1Id2FloatT]:
     for a, b in pairs
   ]
 
-def countsSimilarity(pairs: List[Tuple[IdCountsT, IdCountsT]], excludeZeros=False) -> List[Id1Id2FloatT]:
+def byteBagJaccard(pairs: List[Tuple[IdCountsT, IdCountsT]], excludeZeros=False) -> List[Id1Id2FloatT]:
   """Return value in [0,1] where 1 is identical and 0 indicates no similarity."""
   r = range(1, 256) if excludeZeros else range(256)
   return [
     Id1Id2FloatT(
       a.id, b.id,
-      1 - (
-        sum(abs(a.counts.get(i, 0) - b.counts.get(i, 0)) for i in r)
-        / sum(a.counts.get(i, 0) + b.counts.get(i, 0) for i in r)))
+        sum(min(a.counts.get(i, 0), b.counts.get(i, 0)) for i in r)
+        / sum(max(a.counts.get(i, 0), b.counts.get(i, 0)) for i in r))
     for a, b in pairs
   ]
 
@@ -37,4 +36,4 @@ def lzjd(pairs: List[Tuple[IdAnyT, IdAnyT]]) -> List[Id1Id2FloatT]:
   return [ Id1Id2FloatT(a.id, b.id, pyLZJD.sim(a.any, b.any)) for a, b in pairs]
 
 def sizeSimilarity(pairs: List[Tuple[IdFloatT, IdFloatT]]) -> List[Id1Id2FloatT]:
-  return [ Id1Id2FloatT(a.id, b.id, 1 - abs(a.float - b.float) / (a.float + b.float)) for a, b in pairs ]
+  return [ Id1Id2FloatT(a.id, b.id, min(a.float, b.float) / max(a.float, b.float)) for a, b in pairs ]
