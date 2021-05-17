@@ -1,0 +1,6 @@
+                isIn    ppdeep  byteBagJaccard     lzjd1      size
+isIn             1.0       NaN             NaN       NaN       NaN
+ppdeep           NaN  1.000000        0.677267  0.430246  0.729175
+byteBagJaccard   NaN  0.677267        1.000000  0.642131  0.897027
+lzjd1            NaN  0.430246        0.642131  1.000000  0.545296
+size             NaN  0.729175        0.897027  0.545296  1.000000
