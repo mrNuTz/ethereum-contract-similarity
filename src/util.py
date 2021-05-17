@@ -76,3 +76,7 @@ def mapDict(d: Dict, fn: Callable, *args, **kwargs) -> Dict:
 #  pool.close()
 #  pool.join()
 #  return df
+
+def readCsv(path, sep=',') -> List[List[str]]:
+  file = open(path, mode='r')
+  return [line.rstrip('\n').split(sep) for line in file]

@@ -30,6 +30,9 @@ LATER:
   invalid byte-codes at the end of skeleton?
   skeletize rstrip trailing zeros?
 NOTES:
+  Auxdata is the cryptographic fingerprint of the source code, used for verification.
+  This is just data, and never executed by the EVM.
+
   select encode(addr, 'hex') from account where id = 485783246;
   bindata(cdeployed) as hex
   select only code with distinct skeletons from es verified contracts and group by name + signatures

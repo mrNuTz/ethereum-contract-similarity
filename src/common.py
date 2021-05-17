@@ -1,7 +1,7 @@
-from typing import NamedTuple, List, Any, Dict
+from typing import NamedTuple, List, Any, Dict, Union
 
 class IdCodeT(NamedTuple):
-  id: int
+  id: Union[int,str]
   code: bytes
 
 class IdStrT(NamedTuple):

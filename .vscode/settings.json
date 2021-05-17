@@ -1,6 +1,7 @@
 {
   "cSpell.words": [
     "Anzeige",
+    "Auxdata",
     "BLKNUM",
     "BZZR",
     "Beispiel",
@@ -81,5 +82,8 @@
     "**/.git/subtree-cache/**": true,
     "**/__pycache__/**": true,
     "**/venv/**": true
-  }
+  },
+  "python.analysis.extraPaths": [
+    "src"
+  ]
 }
