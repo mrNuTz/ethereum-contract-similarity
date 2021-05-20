@@ -10,6 +10,10 @@ NonfungiblePositionManager,NonfungiblePositionManager - 0.6.12.hex
 NonfungiblePositionManager,NonfungiblePositionManager - 0.7.6.hex
 NonfungiblePositionManager,NonfungiblePositionManager - 0.5.16.hex
 NonfungiblePositionManager,NonfungiblePositionManager - 0.8.4.hex
+Synthetix,Synthetix - 0.6.12.hex
+Synthetix,Synthetix - 0.8.4.hex
+Synthetix,Synthetix - 0.7.6.hex
+Synthetix,Synthetix - 0.5.16.hex
 AggregationRouterV3,AggregationRouterV3 - 0.5.16.hex
 AggregationRouterV3,AggregationRouterV3 - 0.7.6.hex
 AggregationRouterV3,AggregationRouterV3 - 0.8.4.hex

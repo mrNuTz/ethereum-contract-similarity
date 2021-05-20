@@ -2,34 +2,37 @@ DONE:
   CALLDATALOAD, CALLVALUE; CALLSIZE seams to be rare
   is swarm code removed from the skeletons? -> yes
   split framework and runs
+  how can is split the framework and the test-runs and document the runs?
+  extract abi jump table form contracts
+  events? -> log
+  define a few test sets
+  verify that function are ordered by signatures in runtime code (deployed code) -> yes
 FIRST:
-
+  add signature sim to many-solc-versions
+TODO:
+  op-code filters
+  lzjd arguments
+  bzHash
+  ssdeep with function splitting
+  ssdeep with spliced out 0s could perform pretty good, because functions are ordered
+LATER:
+  write a hello world smart contract and compile it
+QUESTIONS
+  how will this be used?
+  how to split internal functions?
+  deployment code vs deployed code?
+  are internal functions ordered? how stable is the ordering?
+  are external functions always ordered by signature?
+  invalid byte-codes at the end of skeleton?
+  skeletize rstrip trailing zeros?
+NOTES:
   significant
     log
     Storage
     # Environmental Information
     # Block Information
     # System Operations
-TODO:
-  events? -> log
 
-  write a hello word smart contract and compile it
-    deployment code vs deployed code
-    function signatures
-    function ordering
-      verify that function are ordered by signatures in runtime code (deployed code)
-    how to function splitting
-
-  ssdeep with spliced out 0s could perform pretty good, because functions are ordered
-
-  how can is split the framework and the test-runs and document the runs?
-  how will this be used?
-  define a few test sets
-  bzHash
-LATER:
-  invalid byte-codes at the end of skeleton?
-  skeletize rstrip trailing zeros?
-NOTES:
   Auxdata is the cryptographic fingerprint of the source code, used for verification.
   This is just data, and never executed by the EVM.
 

@@ -56,18 +56,21 @@ ppdeep_inComps = util.mapDict(ppdeep_inPairs, util.concurrent(compare.ppdeep_mod
 byteBag_inComps = util.mapDict(byteBag_inPairs, util.concurrent(compare.byteBagJaccard), excludeZeros=True)
 lzjd1_inComps = util.mapDict(lzjd1_inPairs, util.concurrent(compare.lzjd))
 size_inComps = util.mapDict(size_inPairs, util.concurrent(compare.sizeSimilarity))
+fourbytes_inComps = util.mapDict(fourbytes_inPairs, util.concurrent(compare.jaccardIndex))
 
 print('compare out')
 ppdeep_outComps = util.mapDict(ppdeep_outPairs, util.concurrent(compare.ppdeep_mod))
 byteBag_outComps = util.mapDict(byteBag_outPairs, util.concurrent(compare.byteBagJaccard), excludeZeros=True)
 lzjd1_outComps = util.mapDict(lzjd1_outPairs, util.concurrent(compare.lzjd))
 size_outComps = util.mapDict(size_outPairs, util.concurrent(compare.sizeSimilarity))
+fourbytes_outComps = util.mapDict(fourbytes_outPairs, util.concurrent(compare.jaccardIndex))
 
 print('correlate in')
 df_in = pd.DataFrame({
   'isIn': [True] * sum(len(vs) for vs in ppdeep_inComps.values()),
   'id1': [id1 for group, comps in ppdeep_inComps.items() for id1, id2, val in comps],
   'id2': [id2 for group, comps in ppdeep_inComps.items() for id1, id2, val in comps],
+  'fourbytes': [val for group, comps in fourbytes_inComps.items() for id1, id2, val in comps],
   'ppdeep': [val for group, comps in ppdeep_inComps.items() for id1, id2, val in comps],
   'byteBagJaccard': [val for group, comps in byteBag_inComps.items() for id1, id2, val in comps],
   'lzjd1': [val for group, comps in lzjd1_inComps.items() for id1, id2, val in comps],
@@ -91,6 +94,7 @@ df_out = pd.DataFrame({
   'isIn': [False] * sum(len(vs) for vs in ppdeep_outComps.values()),
   'id1': [id1 for groupPair, comps in ppdeep_outComps.items() for id1, id2, val in comps],
   'id2': [id2 for groupPair, comps in ppdeep_outComps.items() for id1, id2, val in comps],
+  'fourbytes': [val for groupPair, comps in fourbytes_outComps.items() for id1, id2, val in comps],
   'ppdeep': [val for groupPair, comps in ppdeep_outComps.items() for id1, id2, val in comps],
   'byteBagJaccard': [val for groupPair, comps in byteBag_outComps.items() for id1, id2, val in comps],
   'lzjd1': [val for groupPair, comps in lzjd1_outComps.items() for id1, id2, val in comps],
