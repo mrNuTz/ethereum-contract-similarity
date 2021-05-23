@@ -1,7 +1,8 @@
 import concurrent.futures
 import math
-from typing import List, Tuple, Callable, Dict
+from typing import List, Tuple, Callable, Dict, TypeVar, Iterable
 from datetime import datetime
+T = TypeVar('T')
 
 def drop0x(hex):
  return (None if hex is None else hex[2:] if hex[0:2] == "0x" else hex)
@@ -16,7 +17,7 @@ def allToAllPairs(list: List) -> List[Tuple]:
 def allPairs(l1: List, l2: List) -> List[Tuple]:
   return [(a,b) for a in l1 for b in l2]
 
-def allIntergroupPairs(groups: Dict[str, List[Tuple]]) -> Dict[Tuple[str, str], List[Tuple]]:
+def allCrossGroupPairs(groups: Dict[str, List[Tuple]]) -> Dict[Tuple[str, str], List[Tuple]]:
   return { (a,b): allPairs(groups[a], groups[b]) for a, b in allToAllPairs(list(groups)) }
 
 def jaccardIndex(list1, list2):
@@ -80,3 +81,11 @@ def mapDict(d: Dict, fn: Callable, *args, **kwargs) -> Dict:
 def readCsv(path, sep=',') -> List[List[str]]:
   file = open(path, mode='r')
   return [line.rstrip('\n').split(sep) for line in file]
+
+def fst(iterable: Iterable[T]) -> T:
+  return next(iter(iterable))
+
+def snd(iterable: Iterable[T]) -> T:
+  i = iter(iterable)
+  next(i)
+  return next(i)

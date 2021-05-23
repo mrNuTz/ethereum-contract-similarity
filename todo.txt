@@ -9,6 +9,9 @@ DONE:
   verify that function are ordered by signatures in runtime code (deployed code) -> yes
 FIRST:
   add signature sim to many-solc-versions
+
+  many-solc-versions
+    why is there almost no signature overlap?
 TODO:
   op-code filters
   lzjd arguments
