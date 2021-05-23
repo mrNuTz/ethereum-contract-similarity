@@ -137,6 +137,27 @@ class OpCode:
         """Return the number of topics the given LOG instruction includes."""
         return self.code - LOG0.code if self.is_log() else 0
 
+    def is_env_info(self) -> bool:
+        return  0x30 <= self.code <= 0x3f
+
+    def is_sys_op(self) -> bool:
+        codes = (
+            CREATE.code,
+            CALL.code,
+            CALLCODE.code,
+            RETURN.code,
+            DELEGATECALL.code,
+            CREATE2.code,
+            STATICCALL.code,
+            REVERT.code,
+            INVALID.code,
+            SELFDESTRUCT.code,
+        )
+        return (self.code in codes)
+
+    def is_block_info(self) -> bool:
+        return 0x40 <= self.code <= 0x45
+
 
 # Construct all EVM opcodes
 
