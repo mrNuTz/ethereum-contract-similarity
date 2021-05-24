@@ -9,10 +9,10 @@ def setDir(d: str):
   _dir = re.sub(r'/$', '', d)
   Path(_dir).mkdir(parents=True, exist_ok=True)
 
-def scatter(df, x, y, newFigure=False, name='scatter', colorBy=None, dotSize=1):
-  if newFigure: plt.figure()
+def scatter(df, x, y, newFigure=False, name='scatter', colorBy=None, dotSize=1, cmap='Paired'):
+  if newFigure: plt.figure(figsize=(7,7))
   if colorBy is not None:
-    plt.scatter(df[x], df[y], s=dotSize, c=df[colorBy].rank())
+    plt.scatter(df[x], df[y], s=dotSize, c=df[colorBy].rank(), cmap=plt.get_cmap(cmap))
   else:
     plt.scatter(df[x], df[y], s=dotSize)
   plt.title('scatter')

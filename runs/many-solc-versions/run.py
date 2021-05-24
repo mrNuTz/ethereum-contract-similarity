@@ -11,7 +11,7 @@ import contract.opcodes as opcodes
 import pandas as pd
 from common import IdCodeT
 
-codeDir = _runDir + '/codes'
+codeDir = 'data/many-solc-versions'
 codesList = [
   IdCodeT(filename, bytes.fromhex(open(f'{codeDir}/{filename}', mode='r').read()))
   for filename in os.listdir(codeDir)
@@ -97,6 +97,4 @@ scatterPairs = [
 ]
 
 for a,b in scatterPairs:
-  plot.scatter(df_inner, a, b, name='inScatter', newFigure=True, colorBy='group1', dotSize=3)
-  plot.scatter(df_cross, a, b, name='outScatter', newFigure=True)
   plot.scatter(df_all, a, b, name='allScatter', newFigure=True, colorBy='isInner')

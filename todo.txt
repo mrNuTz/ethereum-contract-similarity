@@ -13,6 +13,9 @@ FIRST:
   many-solc-versions
     why is there almost no signature overlap?
 TODO:
+  solc versions:
+    add abi version and optimization
+
   op-code filters
   lzjd arguments
   bzHash
@@ -76,3 +79,6 @@ THOUGHTS:
 
   signatures in the jump table at the beginning of the contract are sorted
     and the functions jumped to are sorted as well
+
+  UniswapV2Router02 changes significantly form solc 7 to 8, one reason ist the abi default changed,
+  but 8 also has an address table at the end that I don't understand.

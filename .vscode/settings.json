@@ -45,6 +45,7 @@
     "bytea",
     "cbor",
     "cdeployed",
+    "cmap",
     "codeid",
     "dbname",
     "disasm",
