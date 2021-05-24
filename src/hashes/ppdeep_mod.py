@@ -89,6 +89,11 @@ def _spamsum(stream, slen):
 				hash_string2 += B64[block_hash2 % 64]
 			break
 
+	if hash_string1 == '':
+		hash_string1 += B64[block_hash1 % 64]
+	if hash_string2 == '':
+		hash_string2 += B64[block_hash2 % 64]
+
 	return '{0}:{1}:{2}'.format(block_size, hash_string1, hash_string2)
 
 
