@@ -1,0 +1,10 @@
+                           isInner  ppdeep-significantAndZero  ppdeep-significantOnly  ppdeep-skeleton  byteBag-significantOnly  byteBag-skeleton  lzjd1-significantAndZero  lzjd1-significantOnly  lzjd1-skeleton
+isInner                        1.0                        NaN                     NaN              NaN                      NaN               NaN                       NaN                    NaN             NaN
+ppdeep-significantAndZero      NaN                   1.000000                0.074740         0.412007                -0.123541          0.171101                 -0.072481              -0.081624        0.104152
+ppdeep-significantOnly         NaN                   0.074740                1.000000         0.239525                 0.619094          0.555116                 -0.249239              -0.298963        0.345672
+ppdeep-skeleton                NaN                   0.412007                0.239525         1.000000                 0.179138          0.514714                 -0.116635              -0.126424        0.484173
+byteBag-significantOnly        NaN                  -0.123541                0.619094         0.179138                 1.000000          0.555732                 -0.087520              -0.153676        0.419251
+byteBag-skeleton               NaN                   0.171101                0.555116         0.514714                 0.555732          1.000000                 -0.074334              -0.129897        0.723477
+lzjd1-significantAndZero       NaN                  -0.072481               -0.249239        -0.116635                -0.087520         -0.074334                  1.000000               0.756142        0.082580
+lzjd1-significantOnly          NaN                  -0.081624               -0.298963        -0.126424                -0.153676         -0.129897                  0.756142               1.000000        0.005160
+lzjd1-skeleton                 NaN                   0.104152                0.345672         0.484173                 0.419251          0.723477                  0.082580               0.005160        1.000000
