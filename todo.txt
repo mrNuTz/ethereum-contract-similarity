@@ -7,20 +7,24 @@ DONE:
   events? -> log
   define a few test sets
   verify that function are ordered by signatures in runtime code (deployed code) -> yes
-FIRST:
+  invalid byte-codes at the end of skeleton?
+    Auxdata is the cryptographic fingerprint of the source code, used for verification.
+    This is just data, and never executed by the EVM.
   add signature sim to many-solc-versions
-
   many-solc-versions
     why is there almost no signature overlap?
-TODO:
-  solc versions:
-    add abi version and optimization
-
-  op-code filters
-  lzjd arguments
-  bzHash
-  ssdeep with function splitting
   ssdeep with spliced out 0s could perform pretty good, because functions are ordered
+FIRST:
+  data
+    add 2 more contract to many solc versions
+    add abi version and optimization
+  similarity measures
+    more byte filters
+    different lzjd parameters
+    ppdeep variations
+      function splitting
+    bzHash
+TODO:
 LATER:
   write a hello world smart contract and compile it
 QUESTIONS
@@ -29,7 +33,6 @@ QUESTIONS
   deployment code vs deployed code?
   are internal functions ordered? how stable is the ordering?
   are external functions always ordered by signature?
-  invalid byte-codes at the end of skeleton?
   skeletize rstrip trailing zeros?
 NOTES:
   significant
@@ -38,9 +41,6 @@ NOTES:
     # Environmental Information
     # Block Information
     # System Operations
-
-  Auxdata is the cryptographic fingerprint of the source code, used for verification.
-  This is just data, and never executed by the EVM.
 
   select encode(addr, 'hex') from account where id = 485783246;
   bindata(cdeployed) as hex
@@ -72,8 +72,8 @@ NOTES:
     id2sig(integer) ==> bytea
     id2sig(integer[]) ==> bytea[]
 THOUGHTS:
-  lzjd correlations much better to signature-similarity than ssdeep and its really fast
-  ssdeep can't event beat counting bytes of the skeleton
+  lzjd correlates much better to signature-similarity than ssdeep and is really fast
+  ssdeep can't even beat counting bytes of the skeleton
 
   ssdeep with jaccard underperforms levenshtein because of the high number of 'K' chunk hashes.
 

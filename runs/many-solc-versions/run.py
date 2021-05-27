@@ -97,4 +97,4 @@ scatterPairs = [
 ]
 
 for a,b in scatterPairs:
-  plot.scatter(df_all, a, b, name='allScatter', newFigure=True, colorBy='isInner')
+  plot.saveScatter(df_all, a, b, title='allScatter', colorBy='isInner')
