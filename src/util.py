@@ -47,7 +47,7 @@ def runConcurrent(chunkFn: Callable[[List], List], inputs: List, chunkSizeMin=10
       outputs.extend(chunkFn(chunk, *args, **kwargs))
   return outputs
 
-def concurrent(chunkFn: Callable[[List], List], chunkSizeMin=100) -> Callable[[List], List]:
+def concurrent(chunkFn: T, chunkSizeMin=100) -> T:
   def go(inputs: List, *args, **kwargs):
     return runConcurrent(chunkFn, inputs, *args, **kwargs, chunkSizeMin=chunkSizeMin)
   return go
