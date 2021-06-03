@@ -6,6 +6,7 @@ DONE:
   extract abi jump table form contracts
   events? -> log
   define a few test sets
+  select only code with distinct skeletons from es verified contracts and group by name + signatures
   verify that function are ordered by signatures in runtime code (deployed code) -> yes
   invalid byte-codes at the end of skeleton?
     Auxdata is the cryptographic fingerprint of the source code, used for verification.
@@ -14,9 +15,9 @@ DONE:
   many-solc-versions
     why is there almost no signature overlap?
   ssdeep with spliced out 0s could perform pretty good, because functions are ordered
+  add 2 more contract to many solc versions
 FIRST:
   data
-    add 2 more contract to many solc versions
     add abi version and optimization
   similarity measures
     more byte filters
@@ -44,7 +45,6 @@ NOTES:
 
   select encode(addr, 'hex') from account where id = 485783246;
   bindata(cdeployed) as hex
-  select only code with distinct skeletons from es verified contracts and group by name + signatures
 
   * Umwandlung von Header(s) in Signature(s)
     func2sig(text) ==> bytea

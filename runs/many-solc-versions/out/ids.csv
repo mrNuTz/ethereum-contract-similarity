@@ -1,36 +1,108 @@
-UniswapV2Router02,UniswapV2Router02 - 0.8.4.hex
-UniswapV2Router02,UniswapV2Router02 - 0.7.6.hex
-UniswapV2Router02,UniswapV2Router02 - 0.6.12.hex
-UniswapV2Router02,UniswapV2Router02 - 0.5.16.hex
-AddressResolver,AddressResolver - 0.7.6.hex
-AddressResolver,AddressResolver - 0.6.12.hex
-AddressResolver,AddressResolver - 0.5.16.hex
-AddressResolver,AddressResolver - 0.8.4.hex
-DSToken,DSToken - 0.7.6.hex
-DSToken,DSToken - 0.6.12.hex
-DSToken,DSToken - 0.8.4.hex
-DSToken,DSToken - 0.5.16.hex
-NonfungiblePositionManager,NonfungiblePositionManager - 0.6.12.hex
-NonfungiblePositionManager,NonfungiblePositionManager - 0.7.6.hex
-NonfungiblePositionManager,NonfungiblePositionManager - 0.5.16.hex
-NonfungiblePositionManager,NonfungiblePositionManager - 0.8.4.hex
-BinaryOptionMarketManager,BinaryOptionMarketManager - 0.8.4.hex
-BinaryOptionMarketManager,BinaryOptionMarketManager - 0.7.6.hex
-BinaryOptionMarketManager,BinaryOptionMarketManager - 0.6.12.hex
-BinaryOptionMarketManager,BinaryOptionMarketManager - 0.5.16.hex
-Synthetix,Synthetix - 0.6.12.hex
-Synthetix,Synthetix - 0.8.4.hex
-Synthetix,Synthetix - 0.7.6.hex
-Synthetix,Synthetix - 0.5.16.hex
-CollateralManagerState,CollateralManagerState - 0.8.4.hex
-CollateralManagerState,CollateralManagerState - 0.5.16.hex
-CollateralManagerState,CollateralManagerState - 0.6.12.hex
-CollateralManagerState,CollateralManagerState - 0.7.6.hex
-AggregationRouterV3,AggregationRouterV3 - 0.5.16.hex
-AggregationRouterV3,AggregationRouterV3 - 0.7.6.hex
-AggregationRouterV3,AggregationRouterV3 - 0.8.4.hex
-AggregationRouterV3,AggregationRouterV3 - 0.6.12.hex
-CollateralManager,CollateralManager - 0.5.16.hex
-CollateralManager,CollateralManager - 0.8.4.hex
-CollateralManager,CollateralManager - 0.7.6.hex
-CollateralManager,CollateralManager - 0.6.12.hex
+CollateralManager,CollateralManager - 1 0.5.16.hex
+CollateralManager,CollateralManager - no 0.5.16.hex
+CollateralManager,CollateralManager - 1 0.7.6.hex
+CollateralManager,CollateralManager - 999999 0.5.16.hex
+CollateralManager,CollateralManager - 999999 0.7.6.hex
+CollateralManager,CollateralManager - 999999 0.6.12.hex
+CollateralManager,CollateralManager - 1 0.6.12.hex
+CollateralManager,CollateralManager - 1 0.8.4.hex
+CollateralManager,CollateralManager - no 0.8.4.hex
+CollateralManager,CollateralManager - no 0.7.6.hex
+CollateralManager,CollateralManager - no 0.6.12.hex
+CollateralManager,CollateralManager - 999999 0.8.4.hex
+AggregationRouterV3,AggregationRouterV3 - 1 0.6.12.hex
+AggregationRouterV3,AggregationRouterV3 - 999999 0.8.4.hex
+AggregationRouterV3,AggregationRouterV3 - 1 0.5.16.hex
+AggregationRouterV3,AggregationRouterV3 - no 0.7.6.hex
+AggregationRouterV3,AggregationRouterV3 - 999999 0.6.12.hex
+AggregationRouterV3,AggregationRouterV3 - no 0.8.4.hex
+AggregationRouterV3,AggregationRouterV3 - 999999 0.7.6.hex
+AggregationRouterV3,AggregationRouterV3 - no 0.6.12.hex
+AggregationRouterV3,AggregationRouterV3 - 1 0.7.6.hex
+AggregationRouterV3,AggregationRouterV3 - no 0.5.16.hex
+AggregationRouterV3,AggregationRouterV3 - 999999 0.5.16.hex
+AggregationRouterV3,AggregationRouterV3 - 1 0.8.4.hex
+UniswapV2Router02,UniswapV2Router02 - no 0.5.16.hex
+UniswapV2Router02,UniswapV2Router02 - 999999 0.7.6.hex
+UniswapV2Router02,UniswapV2Router02 - no 0.6.12.hex
+UniswapV2Router02,UniswapV2Router02 - 999999 0.5.16.hex
+UniswapV2Router02,UniswapV2Router02 - 1 0.7.6.hex
+UniswapV2Router02,UniswapV2Router02 - 1 0.6.12.hex
+UniswapV2Router02,UniswapV2Router02 - no 0.8.4.hex
+UniswapV2Router02,UniswapV2Router02 - 1 0.8.4.hex
+UniswapV2Router02,UniswapV2Router02 - 999999 0.6.12.hex
+UniswapV2Router02,UniswapV2Router02 - 999999 0.8.4.hex
+UniswapV2Router02,UniswapV2Router02 - 1 0.5.16.hex
+UniswapV2Router02,UniswapV2Router02 - no 0.7.6.hex
+CollateralManagerState,CollateralManagerState - 1 0.7.6.hex
+CollateralManagerState,CollateralManagerState - 999999 0.8.4.hex
+CollateralManagerState,CollateralManagerState - no 0.8.4.hex
+CollateralManagerState,CollateralManagerState - no 0.6.12.hex
+CollateralManagerState,CollateralManagerState - 999999 0.6.12.hex
+CollateralManagerState,CollateralManagerState - no 0.7.6.hex
+CollateralManagerState,CollateralManagerState - 1 0.5.16.hex
+CollateralManagerState,CollateralManagerState - 1 0.8.4.hex
+CollateralManagerState,CollateralManagerState - 999999 0.5.16.hex
+CollateralManagerState,CollateralManagerState - no 0.5.16.hex
+CollateralManagerState,CollateralManagerState - 999999 0.7.6.hex
+CollateralManagerState,CollateralManagerState - 1 0.6.12.hex
+AddressResolver,AddressResolver - no 0.6.12.hex
+AddressResolver,AddressResolver - 999999 0.6.12.hex
+AddressResolver,AddressResolver - no 0.8.4.hex
+AddressResolver,AddressResolver - 1 0.6.12.hex
+AddressResolver,AddressResolver - 999999 0.8.4.hex
+AddressResolver,AddressResolver - 1 0.7.6.hex
+AddressResolver,AddressResolver - 999999 0.7.6.hex
+AddressResolver,AddressResolver - 1 0.8.4.hex
+AddressResolver,AddressResolver - 999999 0.5.16.hex
+AddressResolver,AddressResolver - 1 0.5.16.hex
+AddressResolver,AddressResolver - no 0.7.6.hex
+AddressResolver,AddressResolver - no 0.5.16.hex
+Synthetix,Synthetix - no 0.7.6.hex
+Synthetix,Synthetix - 999999 0.5.16.hex
+Synthetix,Synthetix - 999999 0.7.6.hex
+Synthetix,Synthetix - 999999 0.6.12.hex
+Synthetix,Synthetix - 1 0.5.16.hex
+Synthetix,Synthetix - 999999 0.8.4.hex
+Synthetix,Synthetix - no 0.8.4.hex
+Synthetix,Synthetix - 1 0.6.12.hex
+Synthetix,Synthetix - no 0.5.16.hex
+Synthetix,Synthetix - 1 0.8.4.hex
+Synthetix,Synthetix - 1 0.7.6.hex
+Synthetix,Synthetix - no 0.6.12.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - 1 0.6.12.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - 1 0.8.4.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - no 0.5.16.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - 1 0.7.6.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - 999999 0.6.12.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - 999999 0.5.16.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - 999999 0.8.4.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - no 0.8.4.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - no 0.7.6.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - no 0.6.12.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - 999999 0.7.6.hex
+BinaryOptionMarketManager,BinaryOptionMarketManager - 1 0.5.16.hex
+DSToken,DSToken - no 0.7.6.hex
+DSToken,DSToken - 999999 0.8.4.hex
+DSToken,DSToken - 999999 0.7.6.hex
+DSToken,DSToken - no 0.8.4.hex
+DSToken,DSToken - 1 0.5.16.hex
+DSToken,DSToken - 1 0.7.6.hex
+DSToken,DSToken - 1 0.8.4.hex
+DSToken,DSToken - 1 0.6.12.hex
+DSToken,DSToken - 999999 0.5.16.hex
+DSToken,DSToken - no 0.6.12.hex
+DSToken,DSToken - 999999 0.6.12.hex
+DSToken,DSToken - no 0.5.16.hex
+NonfungiblePositionManager,NonfungiblePositionManager - no 0.7.6.hex
+NonfungiblePositionManager,NonfungiblePositionManager - 1 0.5.16.hex
+NonfungiblePositionManager,NonfungiblePositionManager - no 0.8.4.hex
+NonfungiblePositionManager,NonfungiblePositionManager - 999999 0.6.12.hex
+NonfungiblePositionManager,NonfungiblePositionManager - 999999 0.7.6.hex
+NonfungiblePositionManager,NonfungiblePositionManager - 999999 0.8.4.hex
+NonfungiblePositionManager,NonfungiblePositionManager - 1 0.8.4.hex
+NonfungiblePositionManager,NonfungiblePositionManager - 1 0.6.12.hex
+NonfungiblePositionManager,NonfungiblePositionManager - no 0.6.12.hex
+NonfungiblePositionManager,NonfungiblePositionManager - 1 0.7.6.hex
+NonfungiblePositionManager,NonfungiblePositionManager - 999999 0.5.16.hex
+NonfungiblePositionManager,NonfungiblePositionManager - no 0.5.16.hex
