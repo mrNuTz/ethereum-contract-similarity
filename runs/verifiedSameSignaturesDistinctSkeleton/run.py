@@ -128,7 +128,7 @@ df_all = pd.concat([df_in, df_out])
 corr_all = df_all.corr(method='kendall')
 write.saveStr(df_all.to_csv(), 'comparisons_all.csv')
 write.saveStr(corr_all, 'correlations_all.txt')
-write.saveCsv([[name, id] for name, ts in codes.items() for id, code in ts], name='ids.csv')
+write.saveCsv([[name, id] for name, ts in codes.items() for id, code in ts], filename='ids.csv')
 
 print('plot all')
 plot.saveScatter(df_all, 'ppdeep', 'byteBagJaccard', title='allScatter', colorBy='isIn')

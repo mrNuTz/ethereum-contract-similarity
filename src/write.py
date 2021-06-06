@@ -8,16 +8,16 @@ def setDir(d: str):
   _dir = re.sub(r'/$', '', d)
   Path(_dir).mkdir(parents=True, exist_ok=True)
 
-def openFile(name='out'):
-  return open(f'{_dir}/' + name, 'w', buffering=1024*1024)
+def openFile(filename='out'):
+  return open(f'{_dir}/' + filename, 'w', buffering=1024*1024)
 
-def saveStr(text, name='out'):
-  file = openFile(name)
+def saveStr(text, filename='out'):
+  file = openFile(filename)
   file.write(str(text))
   file.close()
 
-def saveCsv(rows, name='out.csv', sep=','):
-  file = openFile(name)
+def saveCsv(rows, filename='out.csv', sep=','):
+  file = openFile(filename)
   for row in rows:
     for i in range(0, len(row)):
       if i > 0:

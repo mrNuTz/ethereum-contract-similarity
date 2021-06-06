@@ -31,5 +31,5 @@ def lzjd1(
     IdAnyT(id, pyLZJD.digest(code, hash_size, mode, processes, false_seen_prob, seed))
     for id, code, in codes]
 
-def size(codes: List[IdCodeT]) -> List[IdAnyT]:
+def size(codes: List[IdCodeT]) -> List[IdFloatT]:
   return [ IdFloatT(id, len(code)) for id, code in codes ]

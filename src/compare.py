@@ -22,7 +22,7 @@ def jaccardIndex(pairs) -> List[Id1Id2FloatT]:
   ]
 
 def byteBagJaccard(pairs: List[Tuple[IdCountsT, IdCountsT]], excludeZeros=False) -> List[Id1Id2FloatT]:
-  """Return value in [0,1] where 1 is identical and 0 indicates no similarity."""
+  """Returns a value in [0,1] where 1 is identical and 0 indicates no similarity."""
   r = range(1, 256) if excludeZeros else range(256)
   return [
     Id1Id2FloatT(

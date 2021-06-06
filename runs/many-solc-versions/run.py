@@ -84,7 +84,7 @@ write.saveStr(df_cross.to_csv(), 'comparisons_out.csv')
 write.saveStr(corr_out, 'correlations_out.txt')
 write.saveStr(df_all.to_csv(), 'comparisons_all.csv')
 write.saveStr(corr_all, 'correlations_all.txt')
-write.saveCsv([[name, id] for name, ts in groupToCodes.items() for id, code in ts], name='ids.csv')
+write.saveCsv([[name, id] for name, ts in groupToCodes.items() for id, code in ts], filename='ids.csv')
 
 print('plot')
 scatterPairs = [

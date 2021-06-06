@@ -16,9 +16,11 @@ DONE:
     why is there almost no signature overlap?
   ssdeep with spliced out 0s could perform pretty good, because functions are ordered
   add 2 more contract to many solc versions
+  solc-versions optimization
+  for each bytecode
+    variance between groups / variance within groups
 FIRST:
-  data
-    add abi version and optimization
+  tabulate txt file util -> just use a DataFrame
   similarity measures
     more byte filters
     different lzjd parameters
@@ -28,13 +30,20 @@ FIRST:
 TODO:
 LATER:
   write a hello world smart contract and compile it
-QUESTIONS
+QUESTIONS:
+  what are data sections?
+  why are there multiple meta sections?
   how will this be used?
   how to split internal functions?
   deployment code vs deployed code?
   are internal functions ordered? how stable is the ordering?
   are external functions always ordered by signature?
   skeletize rstrip trailing zeros?
+MAYBE:
+  byteBags should be tuples
+  solc versions
+    abi encoding
+    more contracts
 NOTES:
   significant
     log
@@ -71,14 +80,5 @@ NOTES:
     sig2id(bytea[]) ==> integer[]
     id2sig(integer) ==> bytea
     id2sig(integer[]) ==> bytea[]
-THOUGHTS:
-  lzjd correlates much better to signature-similarity than ssdeep and is really fast
-  ssdeep can't even beat counting bytes of the skeleton
 
-  ssdeep with jaccard underperforms levenshtein because of the high number of 'K' chunk hashes.
 
-  signatures in the jump table at the beginning of the contract are sorted
-    and the functions jumped to are sorted as well
-
-  UniswapV2Router02 changes significantly form solc 7 to 8, one reason ist the abi default changed,
-  but 8 also has an address table at the end that I don't understand.
