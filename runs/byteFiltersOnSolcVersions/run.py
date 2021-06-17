@@ -100,6 +100,7 @@ write.saveStr(corr_cross, 'correlations_cross.txt')
 write.saveStr(df_all.to_csv(), 'comparisons_all.csv')
 write.saveStr(corr_all, 'correlations_all.txt')
 write.saveCsv([[name, id] for name, ts in groupToCodes.items() for id, code in ts], filename='ids.csv')
+write.saveGml(groupToCodes, df_all)
 
 print('plot')
 scatterPairs = util.allToAllPairs(list(methodToGroupToHashes.keys()))
