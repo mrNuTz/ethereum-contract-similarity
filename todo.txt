@@ -20,15 +20,22 @@ DONE:
   for each bytecode
     variance between groups / variance within groups
 FIRST:
-  tabulate txt file util -> just use a DataFrame
+  all runs should have a short description
+  refactor runs or just do it from know on
+    compute all pairs
+    distinguish groups later
+    use lists not dicts?
+  cluster many-solc-versions with different similarity-measures and analyse the results
+
+  none-obvious functions should have short description
+TODO:
+LATER:
   similarity measures
     more byte filters
     different lzjd parameters
     ppdeep variations
       function splitting
     bzHash
-TODO:
-LATER:
   write a hello world smart contract and compile it
 QUESTIONS:
   what are data sections?
@@ -45,40 +52,5 @@ MAYBE:
     abi encoding
     more contracts
 NOTES:
-  significant
-    log
-    Storage
-    # Environmental Information
-    # Block Information
-    # System Operations
-
   select encode(addr, 'hex') from account where id = 485783246;
   bindata(cdeployed) as hex
-
-  * Umwandlung von Header(s) in Signature(s)
-    func2sig(text) ==> bytea
-    func2sig(text[]) ==> bytea[]
-    Beispiel: select func2sig('transfer(address,uint256)'); -- \xa9059cbb
-  * Umwandlung von Header(s) in Id(s)
-    func2sig(text) ==> integer
-    func2sig(text[]) ==> integer[]
-    Beispiel: select func2id('transfer(address,uint256)'); -- -1459249989
-  * Umwandlung von Signature(s) in Header(s)
-    func2sig(bytea) ==> text
-    func2sig(bytea[]) ==> text[]
-  * Umwandlung von Id(s) in Header(s)
-    func2sig(integer) ==> text
-    func2sig(integer[]) ==> text[]
-  * Anzeige von Signaturen als Signatur+Header
-    display_funsig(bytea) ==> text
-    display_funsig(id) ==> text
-    display_funsig(bytea[]) ==> text
-    display_funsig(id[]) ==> text
-    Beispiel: select display_funcsig(-1459249989); -- 'a9059cbb transfer(address,uint256)'
-  * Umwandlung zwischen Signature(s) und Integer-Id(s)
-    sig2id(bytea) ==> integer
-    sig2id(bytea[]) ==> integer[]
-    id2sig(integer) ==> bytea
-    id2sig(integer[]) ==> bytea[]
-
-

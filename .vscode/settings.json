@@ -58,6 +58,7 @@
     "fsize",
     "funcsig",
     "funsig",
+    "isnan",
     "iterrows",
     "jaccard",
     "kargs",
@@ -91,7 +92,8 @@
     "**/.git/objects/**": true,
     "**/.git/subtree-cache/**": true,
     "**/__pycache__/**": true,
-    "**/venv/**": true
+    "**/venv/**": true,
+    "**/data/**": true
   },
   "python.analysis.extraPaths": [
     "src"
