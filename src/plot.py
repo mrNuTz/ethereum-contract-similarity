@@ -29,3 +29,14 @@ def qq(df, x, y, title='qq'):
   plt.title(title)
   plt.xlabel(x)
   plt.ylabel(y)
+
+def saveHistogram(series, title='hist', xlabel=None, ylabel=None, filename=None, bins=10):
+  plt.figure(figsize=(7,7))
+  plt.hist(series, bins=bins)
+  plt.title(title)
+  if xlabel is not None:
+    plt.xlabel(xlabel)
+  if ylabel != None:
+    plt.ylabel(ylabel)
+  plt.savefig(f'{_dir}/{title}.png' if filename is None else f'{_dir}/{filename}.png')
+  plt.close()

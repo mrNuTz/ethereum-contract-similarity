@@ -3,6 +3,7 @@ import math
 from typing import List, Tuple, Callable, Dict, TypeVar, Iterable
 from datetime import datetime
 T = TypeVar('T')
+U = TypeVar('U')
 
 def drop0x(hex):
  return (None if hex is None else hex[2:] if hex[0:2] == "0x" else hex)
@@ -10,14 +11,14 @@ def drop0x(hex):
 def chunkList(list, n):
   return [ list[i : i + n] for i in range(0, len(list), n) ]
 
-def allToAllPairs(list: List) -> List[Tuple]:
+def allToAllPairs(list: List[T]) -> List[Tuple[T,T]]:
   length = len(list)
   return [ (list[i], list[j]) for i in range(0, length) for j in range(i + 1, length) ]
 
-def allPairs(l1: List, l2: List) -> List[Tuple]:
+def allPairs(l1: List[T], l2: List[U]) -> List[Tuple[T,U]]:
   return [(a,b) for a in l1 for b in l2]
 
-def allCrossGroupPairs(groups: Dict[str, List[Tuple]]) -> Dict[Tuple[str, str], List[Tuple]]:
+def allCrossGroupPairs(groups: Dict[str, List[Tuple[T]]]) -> Dict[Tuple[str, str], List[Tuple[T,T]]]:
   return { (a,b): allPairs(groups[a], groups[b]) for a, b in allToAllPairs(list(groups)) }
 
 def jaccardIndex(list1, list2):

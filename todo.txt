@@ -20,15 +20,38 @@ DONE:
   for each bytecode
     variance between groups / variance within groups
 FIRST:
+  check performance with different pre-processing methods
+    whole code
+    whole skeleton
+    section one skeleton
+
+  check robustness against version, abi encoding and optimization changes separately
+    clustering should show all that in one picture
+    correlate similarity with is-inner
+
   all runs should have a short description
   refactor runs or just do it from know on
     compute all pairs
     distinguish groups later
     use lists not dicts?
-  cluster many-solc-versions with different similarity-measures and analyse the results
 
   none-obvious functions should have short description
 TODO:
+  ppdeep with custom chunk trigger
+    def hashChunk(chunk) -> hash
+    def digest(hash) -> digest
+    def nextChunk(code, pos) -> pos
+      min max chunk length
+      ops
+        JUMP
+        JUMPI
+        STOP = 0x00 # doesn't work with skeletons
+        RETURN
+        SELFDESTRUCT
+        REVERT
+        INVALID
+    def hash(code) -> List[digest]
+    def similarity(digests: List[digest]) -> float
 LATER:
   similarity measures
     more byte filters
