@@ -20,6 +20,8 @@ DONE:
   for each bytecode
     variance between groups / variance within groups
 FIRST:
+  save gml
+TODO:
   check performance with different pre-processing methods
     whole code
     whole skeleton
@@ -36,7 +38,7 @@ FIRST:
     use lists not dicts?
 
   none-obvious functions should have short description
-TODO:
+
   ppdeep with custom chunk trigger
     def hashChunk(chunk) -> hash
     def digest(hash) -> digest
@@ -52,13 +54,13 @@ TODO:
         INVALID
     def hash(code) -> List[digest]
     def similarity(digests: List[digest]) -> float
-LATER:
   similarity measures
     more byte filters
     different lzjd parameters
     ppdeep variations
       function splitting
     bzHash
+LATER:
   write a hello world smart contract and compile it
 QUESTIONS:
   what are data sections?

@@ -23,6 +23,7 @@ idToCode = {
 }
 
 class Meta(NamedTuple):
+  id: str
   group: str
   v: str
   abi: int
@@ -31,7 +32,7 @@ class Meta(NamedTuple):
 
 def parseMeta(id):
   (group, v, abi, o, runs) = re.search('(\S+) - (\S+) (\S+) (\S+) (\S+)', id).groups()
-  return Meta(group, v[1:], int(abi[-1:]), o == 'o1', int(runs[4:]))
+  return Meta(id, group, v[1:], int(abi[-1:]), o == 'o1', int(runs[4:]))
 
 idToMeta = {
   id: parseMeta(id) for (id, code) in idToCode.values()
@@ -108,6 +109,8 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
   df = pd.DataFrame(columns)
   corr = df.corr(method='kendall')
 
+  write.saveGml2((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
+  plot.saveScatter(df, 'raw lzjd', 'skeletons ppdeep_mod', title=name + ' scatter', colorBy='isInner')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
 
