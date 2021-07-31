@@ -19,8 +19,9 @@ DONE:
   solc-versions optimization
   for each bytecode
     variance between groups / variance within groups
-FIRST:
   save gml
+  separation measure
+FIRST:
 TODO:
   check performance with different pre-processing methods
     whole code

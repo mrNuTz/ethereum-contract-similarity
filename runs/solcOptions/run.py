@@ -1,5 +1,3 @@
-# compare preprocessing methods (raw code, skeleton, firstSectionSkeleton)
-
 import sys, os, re, random
 from typing import Callable, NamedTuple
 sys.path.insert(1, 'src')
@@ -108,7 +106,9 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
 
   df = pd.DataFrame(columns)
   corr = df.corr(method='kendall')
+  separations = test.separation(df)
 
+  write.saveCsv(separations.items(), filename=name + ' separations.csv')
   write.saveGml2((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
   plot.saveScatter(df, 'raw lzjd', 'skeletons ppdeep_mod', title=name + ' scatter', colorBy='isInner')
   write.saveStr(df.to_csv(), name + ' similarities.csv')

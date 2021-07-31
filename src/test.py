@@ -1,7 +1,9 @@
 from typing import Dict, List
+
+from pandas.core.frame import DataFrame
 from common import Id1Id2FloatT
 from util import fst
-
+import numpy as np
 
 def buildComparisonColumns(methodToGroupToComps: Dict[str, Dict[str, List[Id1Id2FloatT]]]):
   groupToComps = fst(methodToGroupToComps.values())
@@ -27,3 +29,15 @@ def buildComparisonColumns(methodToGroupToComps: Dict[str, Dict[str, List[Id1Id2
     for methodKey, groupToComps in methodToGroupToComps.items()
   })
   return columns
+
+def separation(df: DataFrame):
+  colToSeparation = {}
+  cols = (c for c in df.columns if c not in ('isInner', 'id1', 'id2', 'group1', 'group2'))
+  total = np.count_nonzero(df['isInner'].values)
+  for col in cols:
+    vals = df[[col, 'isInner']].values
+    indices = np.flipud(np.argsort(vals[:, 0]))
+    vals = vals[indices]
+    correct = sum(1 for i in range(total) if vals[i][1])
+    colToSeparation[col] = correct / total
+  return colToSeparation

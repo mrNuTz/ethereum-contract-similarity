@@ -54,6 +54,7 @@
     "dbname",
     "disasm",
     "esverifiedcontract",
+    "flipud",
     "fomo",
     "fourbytes",
     "fsize",
