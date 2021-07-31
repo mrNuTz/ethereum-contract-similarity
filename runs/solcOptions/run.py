@@ -65,7 +65,8 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
     'ppdeep_mod': hash.ppdeep_mod,
     'byteBag': hash.byteBag,
     'lzjd': hash.lzjd1,
-    'cheat': cheatHash
+    'jump': hash.jumpHash,
+    'cheat': cheatHash,
   }
 
   methodToHashes = {
@@ -82,7 +83,8 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
     'ppdeep_mod': compare.ppdeep_mod,
     'byteBag': compare.byteBagJaccard,
     'lzjd': compare.lzjd,
-    'cheat': cheatCompare
+    'cheat': cheatCompare,
+    'jump': compare.jump,
   }
 
   methodToComps = {
@@ -111,6 +113,8 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
   write.saveCsv(separations.items(), filename=name + ' separations.csv')
   write.saveGml2((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
   plot.saveScatter(df, 'raw lzjd', 'skeletons ppdeep_mod', title=name + ' scatter', colorBy='isInner')
+  plot.saveScatter(df, 'skeletons ppdeep_mod', 'firstSectionSkeletons jump', title=name + ' scatter', colorBy='isInner')
+  plot.saveScatter(df, 'raw lzjd', 'firstSectionSkeletons jump', title=name + ' scatter', colorBy='isInner')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
 

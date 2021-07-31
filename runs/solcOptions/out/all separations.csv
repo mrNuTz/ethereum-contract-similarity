@@ -2,14 +2,17 @@ raw ppdeep,0.11839012925969447
 raw ppdeep_mod,0.38337250293772035
 raw byteBag,0.43243243243243246
 raw lzjd,0.5455346650998825
+raw jump,0.2993537015276146
 raw cheat,1.0
 skeletons ppdeep,0.3210928319623972
 skeletons ppdeep_mod,0.4982373678025852
 skeletons byteBag,0.4198002350176263
 skeletons lzjd,0.4982373678025852
+skeletons jump,0.7482373678025852
 skeletons cheat,1.0
 firstSectionSkeletons ppdeep,0.32403055229142186
 firstSectionSkeletons ppdeep_mod,0.5076380728554641
 firstSectionSkeletons byteBag,0.4198002350176263
 firstSectionSkeletons lzjd,0.5
+firstSectionSkeletons jump,0.7479435957696827
 firstSectionSkeletons cheat,1.0

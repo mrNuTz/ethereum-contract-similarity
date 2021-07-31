@@ -9,3 +9,4 @@ pip install wheel
 pip install Cython
 pip install git+git://github.com/EdwardRaff/pyLZJD#egg=pyLZJD
 pip install matplotlib
+pip install python-Levenshtein

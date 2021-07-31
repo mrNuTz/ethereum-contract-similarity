@@ -60,6 +60,7 @@
     "fsize",
     "funcsig",
     "funsig",
+    "ints",
     "isnan",
     "iterrows",
     "jaccard",

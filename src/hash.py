@@ -1,6 +1,7 @@
 from common import IdStrT, IdSigsT, IdCodeT, IdCountsT, IdAnyT, IdFloatT
 import hashes.ppdeep_mod as _ppdeep_mod
 import hashes.ppdeep as _ppdeep
+from hashes.jump import hash as _jumpHash
 from contract.fourbytes import signatures
 import functools, pyLZJD
 from typing import List
@@ -33,3 +34,6 @@ def lzjd1(
 
 def size(codes: List[IdCodeT]) -> List[IdFloatT]:
   return [ IdFloatT(id, len(code)) for id, code in codes ]
+
+def jumpHash(codes: List[IdCodeT]) -> List[IdStrT]:
+  return [IdStrT(id, _jumpHash(code)) for id, code, in codes]
