@@ -7,7 +7,7 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, compare, util, vis, test
+import pre, hash, compare, util, vis, test, filter
 import contract.opcodes as opcodes
 import pandas as pd
 from common import Id1Id2FloatT, IdCodeT, IdFloatT, IdStrT
@@ -36,15 +36,13 @@ idToMeta = {
   id: parseMeta(id) for (id, code) in idToCode.values()
 }
 
-def cheatHash(codes):
-  return [ IdStrT(id, idToMeta[id].group) for id, code in codes ]
-def cheatCompare(ps):
-  return [
-    Id1Id2FloatT(
-      h1.id, h2.id,
-      2 if h1.str == h2.str else 1)
-    for h1, h2 in ps
-  ]
+def byteBagJaccard(pairs):
+  return compare.byteBagJaccard(pairs, excludeZeros=True)
+
+def highFOnly(codes):
+  return pre.filterBytes(codes, filter.highFStatPred)
+def highF0(codes):
+  return pre.setBytesZero(codes, filter.highFStatPred)
 
 def run(metaPredicate: Callable[[Meta], bool], name: str):
   codes = [idToCode[id] for id, meta in idToMeta.items() if metaPredicate(meta)]
@@ -57,8 +55,12 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
   preToCodes = {
     'raw': codes,
     'skeletons': util.concurrent(pre.skeleton)(codes),
-    'firstSectionSkeletons': util.concurrent(pre.firstSectionSkeleton)(codes),
+    'fstSecSkel': util.concurrent(pre.firstSectionSkeleton)(codes),
   }
+  preToCodes.update({
+    'fStat': util.concurrent(highFOnly)(preToCodes['fstSecSkel']),
+    'fStat0': util.concurrent(highF0)(preToCodes['fstSecSkel']),
+  })
 
   hashToFunction = {
     'ppdeep': hash.ppdeep,
@@ -66,7 +68,6 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
     'byteBag': hash.byteBag,
     'lzjd': hash.lzjd1,
     'jump': hash.jumpHash,
-    'cheat': cheatHash,
   }
 
   methodToHashes = {
@@ -81,9 +82,8 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
   hashToCompareFunction = {
     'ppdeep': compare.ppdeep,
     'ppdeep_mod': compare.ppdeep_mod,
-    'byteBag': compare.byteBagJaccard,
+    'byteBag': byteBagJaccard,
     'lzjd': compare.lzjd,
-    'cheat': cheatCompare,
     'jump': compare.jump,
   }
 
@@ -113,8 +113,11 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
   write.saveCsv(separations.items(), filename=name + ' separations.csv')
   write.saveGml2((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
   plot.saveScatter(df, 'raw lzjd', 'skeletons ppdeep_mod', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'skeletons ppdeep_mod', 'firstSectionSkeletons jump', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'raw lzjd', 'firstSectionSkeletons jump', title=name + ' scatter', colorBy='isInner')
+  plot.saveScatter(df, 'skeletons ppdeep_mod', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
+  plot.saveScatter(df, 'fStat0 ppdeep_mod', 'fStat ppdeep', title=name + ' scatter', colorBy='isInner')
+  plot.saveScatter(df, 'fstSecSkel jump', 'fStat ppdeep', title=name + ' scatter', colorBy='isInner')
+  plot.saveScatter(df, 'fStat0 ppdeep_mod', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
+  plot.saveScatter(df, 'raw lzjd', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
 

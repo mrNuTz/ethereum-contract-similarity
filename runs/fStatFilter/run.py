@@ -7,24 +7,35 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, compare, util, vis, test
+import pre, hash, compare, util, vis, test, filter
 import contract.opcodes as opcodes
 import pandas as pd
 from common import Id1Id2FloatT, IdCodeT, IdFloatT, IdStrT
 
-highFOps = [
-  # top 30 f-stat values
-  'ADDRESS', 'LOG3', 'TIMESTAMP', 'ORIGIN', 'LOG4', 'SHA3', 'SWAP14', 'CALLDATASIZE',
-  'CALLDATACOPY', 'SIGNEXTEND', 'CALL', 'LOG2', 'RETURNDATASIZE', 'CALLER', 'EXTCODESIZE', 'JUMPI',
-  'STATICCALL', 'RETURNDATACOPY', 'GAS', 'DUP13', 'DUP5', 'DUP8', 'GASPRICE', 'SHR', 'PUSH4',
-  'ISZERO', 'DUP7', 'ADD', 'DUP9', 'MUL',
+codeDir = 'data/many-solc-versions'
+idToCode = {
+  (_id := filename.replace('.hex', '')): IdCodeT(
+    _id,
+    bytes.fromhex(open(f'{codeDir}/{filename}', mode='r').read()))
+  for filename in os.listdir(codeDir)
+}
 
-  # occurred in only one group
-  'MOD', 'MULMOD', 'XOR', 'BYTE', 'CALLVALUE', 'MISSING', 'DELEGATECALL', 'SELFDESTRUCT',
+codes = [util.fst(idToCode.values())]
 
-  # never occurred
-  'SDIV', 'SAR', 'EXTCODECOPY', 'EXTCODEHASH', 'BLOCKHASH', 'LOG0', 'CREATE',
-]
+codes = pre.firstSectionSkeleton(codes)
 
-highFOps = [ opcodes.opcode_by_name(name) for name in highFOps ]
+filtered = pre.setBytesZero(codes, filter.highFStatPred)
+mangled = pre.filterBytes(codes, filter.highFStatPred)
 
+print(util.oneByteDebugEncoding(util.fst(codes).code))
+print()
+print(util.oneByteDebugEncoding(util.fst(filtered).code))
+print()
+print(util.oneByteDebugEncoding(util.fst(mangled).code))
+print()
+
+hashes = hash.jumpHash([*codes, *filtered, *mangled])
+
+for id, hash in hashes:
+  print(hash)
+  print()
