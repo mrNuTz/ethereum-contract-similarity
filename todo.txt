@@ -54,7 +54,7 @@ TODO:
         REVERT
         INVALID
     def hash(code) -> List[digest]
-    def similarity(digests: List[digest]) -> float
+    def similarity(a: List[digest], b: List[digest]) -> float
   similarity measures
     more byte filters
     different lzjd parameters

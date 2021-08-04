@@ -63,6 +63,7 @@
     "ints",
     "isnan",
     "iterrows",
+    "itertools",
     "jaccard",
     "kargs",
     "lilpeep",

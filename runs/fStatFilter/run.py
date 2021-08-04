@@ -1,4 +1,4 @@
-import sys, os, re, random
+import sys, os, re, random, itertools
 from typing import Callable, NamedTuple
 sys.path.insert(1, 'src')
 import write, plot
@@ -20,22 +20,15 @@ idToCode = {
   for filename in os.listdir(codeDir)
 }
 
-codes = [util.fst(idToCode.values())]
+codes = itertools.islice(idToCode.values(), 2)
+codes = [ (id, skel) for id, skel in pre.firstSectionSkeleton(codes) ]
+filtered = [ ('0 ' + id, code) for id, code in pre.setBytesZero(codes, filter.highFStatPred) ]
+mangled = [ ('_ ' + id, code) for id, code in pre.filterBytes(codes, filter.highFStatPred) ]
 
-codes = pre.firstSectionSkeleton(codes)
-
-filtered = pre.setBytesZero(codes, filter.highFStatPred)
-mangled = pre.filterBytes(codes, filter.highFStatPred)
-
-print(util.oneByteDebugEncoding(util.fst(codes).code))
-print()
-print(util.oneByteDebugEncoding(util.fst(filtered).code))
-print()
-print(util.oneByteDebugEncoding(util.fst(mangled).code))
-print()
-
-hashes = hash.jumpHash([*codes, *filtered, *mangled])
-
-for id, hash in hashes:
-  print(hash)
-  print()
+codes = [*codes, *filtered, *mangled]
+write.saveCsv([ (id, util.oneByteDebugEncoding(code)) for id, code in codes ], 'codes.csv')
+hashes = hash.jumpHash(codes)
+write.saveCsv(hashes, 'hashes.csv')
+pairs = util.allToAllPairs(hashes)
+sims = compare.jump(pairs)
+write.saveCsv(sims, 'sims.csv')
