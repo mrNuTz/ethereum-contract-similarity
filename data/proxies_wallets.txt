@@ -1,0 +1,29 @@
+wallets.sql ... sql query for generating wallets.csv; data up to block 12240000 (exclusive)
+wallets.csv ... bytecodes of wallets; the bytecodes of each wallet type have functionally similar code
+proxies.sql ... sql query for generating proxies.csv; data up to block 12240000 (exclusive)
+proxies.csv ... bytecodes of proxy contracts; proxies are functionally similar: they forward all or almost all incoming calls to another contracts, using the instruction 'delegatecall' ('callcode' in old contracts) for forwarding the calls.
+
+Meaning of columns in wallets.csv
+---------------------------------
+code_id ... internal bytecode identifier, unique
+skeleton_id ... internal skeleton identifier, unique (skeletons are obtained from the bytecode by replacing meta-data, push arguments and constructor data by zeros, and then removing trailing zeros.)
+wallet_type ... label identifying the wallet type; there are 40 different ones
+latest_deployment_address ... address on Ethereum's main chain where this code has been deployed
+bytecode ... actual bytecode (hex)
+
+The bytecodes are ordered by wallet_type, then skeleton_id, then code_id.
+Bytecodes of the same wallet type are functionally similar, in varying degrees.
+Bytecodes of different wallet types probably are dissimilar.
+
+Meaning of columns in proxies.csv
+---------------------------------
+code_id ... internal bytecode identifier, unique
+skeleton_id ... internal skeleton identifier, unique (skeletons are obtained from the bytecode by replacing meta-data, push arguments and constructor data by zeros, and then removing trailing zeros.)
+wallet_type ... label identifying the wallet type; *may be null* if not used by any wallet type
+interface ... set of signatures (=32 bit integers); empty in most cases (all calls are forwarded, no functions implemented)
+latest_deployment_address ... address on Ethereum's main chain where this code has been deployed
+bytecode ... actual bytecode (hex)
+
+The bytecodes are ordered by skeleton_id, then wallet_type, then code_id.
+Bytecodes for the same wallet type are probably more similar than bytecodes for different wallet types. However, proxies may be used for different types of contracts, and there are also a few cases, where the same type of proxy is used for different types of wallets. This is not surprising, as the proxies usually implement no specific functionality, except maybe managing the owner of the proxy and the address of the contract where the calls should be forwarded to.
+
