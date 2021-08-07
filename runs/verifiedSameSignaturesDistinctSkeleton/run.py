@@ -5,7 +5,7 @@ _outDir = os.path.dirname(os.path.abspath(__file__)) + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import db, pre, hash, compare, util, vis
+import db, pre, hash, similarity, util, vis
 import contract.opcodes as opcodes
 import pandas as pd
 
@@ -64,17 +64,17 @@ byteBag_outPairs = util.allCrossGroupPairs(byteBag)
 lzjd1_outPairs = util.allCrossGroupPairs(lzjd1)
 size_outPairs = util.allCrossGroupPairs(size)
 
-print('compare in')
-ppdeep_inComps = util.mapDict(ppdeep_inPairs, util.concurrent(compare.ppdeep_mod))
-byteBag_inComps = util.mapDict(byteBag_inPairs, util.concurrent(compare.byteBagJaccard), excludeZeros=True)
-lzjd1_inComps = util.mapDict(lzjd1_inPairs, util.concurrent(compare.lzjd))
-size_inComps = util.mapDict(size_inPairs, util.concurrent(compare.sizeSimilarity))
+print('similarity in')
+ppdeep_inComps = util.mapDict(ppdeep_inPairs, util.concurrent(similarity.ppdeep_mod))
+byteBag_inComps = util.mapDict(byteBag_inPairs, util.concurrent(similarity.byteBagJaccard), excludeZeros=True)
+lzjd1_inComps = util.mapDict(lzjd1_inPairs, util.concurrent(similarity.lzjd))
+size_inComps = util.mapDict(size_inPairs, util.concurrent(similarity.sizeSimilarity))
 
-print('compare out')
-ppdeep_outComps = util.mapDict(ppdeep_outPairs, util.concurrent(compare.ppdeep_mod))
-byteBag_outComps = util.mapDict(byteBag_outPairs, util.concurrent(compare.byteBagJaccard), excludeZeros=True)
-lzjd1_outComps = util.mapDict(lzjd1_outPairs, util.concurrent(compare.lzjd))
-size_outComps = util.mapDict(size_outPairs, util.concurrent(compare.sizeSimilarity))
+print('similarity out')
+ppdeep_outComps = util.mapDict(ppdeep_outPairs, util.concurrent(similarity.ppdeep_mod))
+byteBag_outComps = util.mapDict(byteBag_outPairs, util.concurrent(similarity.byteBagJaccard), excludeZeros=True)
+lzjd1_outComps = util.mapDict(lzjd1_outPairs, util.concurrent(similarity.lzjd))
+size_outComps = util.mapDict(size_outPairs, util.concurrent(similarity.sizeSimilarity))
 
 print('correlate in')
 df_in = pd.DataFrame({

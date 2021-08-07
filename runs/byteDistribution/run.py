@@ -10,7 +10,7 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, compare, util, vis, test
+import pre, hash, similarity, util, vis, test
 import contract.opcodes as opcodes
 import pandas as pd
 from common import IdCodeT, IdCountsT

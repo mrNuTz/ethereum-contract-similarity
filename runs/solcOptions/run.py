@@ -7,7 +7,7 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, compare, util, vis, test, filter
+import pre, hash, similarity, util, vis, test, filter
 import contract.opcodes as opcodes
 import pandas as pd
 from common import Id1Id2FloatT, IdCodeT, IdFloatT, IdStrT
@@ -37,7 +37,7 @@ idToMeta = {
 }
 
 def byteBagJaccard(pairs):
-  return compare.byteBagJaccard(pairs, excludeZeros=True)
+  return similarity.byteBagJaccard(pairs, excludeZeros=True)
 
 def highFOnly(codes):
   return pre.filterBytes(codes, filter.highFStatPred)
@@ -80,11 +80,11 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
   }
 
   hashToCompareFunction = {
-    'ppdeep': compare.ppdeep,
-    'ppdeep_mod': compare.ppdeep_mod,
+    'ppdeep': similarity.ppdeep,
+    'ppdeep_mod': similarity.ppdeep_mod,
     'byteBag': byteBagJaccard,
-    'lzjd': compare.lzjd,
-    'jump': compare.jump,
+    'lzjd': similarity.lzjd,
+    'jump': similarity.jump,
   }
 
   methodToComps = {

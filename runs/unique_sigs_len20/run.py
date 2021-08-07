@@ -5,7 +5,7 @@ _outDir = os.path.dirname(os.path.abspath(__file__)) + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import db, pre, hash, compare, util, common, vis
+import db, pre, hash, similarity, util, common, vis
 import contract.opcodes as opcodes
 import pandas as pd
 
@@ -62,19 +62,19 @@ print('pairs5')
 sizePairs = util.allToAllPairs(sizes)
 
 print('compare1')
-hashLevenshtein = util.runConcurrent(compare.ppdeep_mod, hashPairs)
+hashLevenshtein = util.runConcurrent(similarity.ppdeep_mod, hashPairs)
 print('compare2')
-hashJaccard = util.runConcurrent(compare.ppdeep_mod_jaccard, hashPairs)
+hashJaccard = util.runConcurrent(similarity.ppdeep_mod_jaccard, hashPairs)
 print('compare3')
-foursJaccard = util.runConcurrent(compare.jaccardIndex, foursPairs)
+foursJaccard = util.runConcurrent(similarity.jaccardIndex, foursPairs)
 print('compare4')
-byteBagJaccard = util.runConcurrent(compare.byteBagJaccard, countsPairs, excludeZeros=False)
+byteBagJaccard = util.runConcurrent(similarity.byteBagJaccard, countsPairs, excludeZeros=False)
 print('compare5')
-byteBagJaccardNoZeros = util.runConcurrent(compare.byteBagJaccard, countsPairs, excludeZeros=True)
+byteBagJaccardNoZeros = util.runConcurrent(similarity.byteBagJaccard, countsPairs, excludeZeros=True)
 print('compare6')
-lzjdSimilarity = util.runConcurrent(compare.lzjd, lzjdPairs)
+lzjdSimilarity = util.runConcurrent(similarity.lzjd, lzjdPairs)
 print('compare7')
-sizeSimilarity = util.runConcurrent(compare.sizeSimilarity, sizePairs)
+sizeSimilarity = util.runConcurrent(similarity.sizeSimilarity, sizePairs)
 
 print('correlate')
 df = pd.DataFrame({

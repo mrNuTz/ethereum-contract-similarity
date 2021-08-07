@@ -22,6 +22,17 @@ DONE:
   save gml
   separation measure
 FIRST:
+  compare lzjd parameters and compare to simple bz-compression-ration
+
+  use normalized compression distance as reference
+
+  go threw the runs one by one
+    figure out what you want to figure out
+    write what that is
+    optional: redesign accordingly
+    figure stuff out
+    write whether you figured it out
+    write what you figured out
 TODO:
   check performance with different pre-processing methods
     whole code

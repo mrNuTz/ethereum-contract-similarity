@@ -6,7 +6,7 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, compare, util, vis, test
+import pre, hash, similarity, util, vis, test
 import contract.opcodes as opcodes
 import pandas as pd
 from common import IdCodeT
@@ -49,22 +49,22 @@ methodToGroupToCrossPairs = util.mapDict(
   methodToGroupToHashes,
   lambda groupToHashes: util.allCrossGroupPairs(groupToHashes))
 
-print('compare inner')
+print('similarity inner')
 methodToGroupToInnerComps = {
-  'fourbytes': util.mapDict(methodToGroupToInnerPairs['fourbytes'], util.concurrent(compare.jaccardIndex)),
-  'ppdeep': util.mapDict(methodToGroupToInnerPairs['ppdeep'], util.concurrent(compare.ppdeep_mod)),
-  'byteBagJaccard': util.mapDict(methodToGroupToInnerPairs['byteBag'], util.concurrent(compare.byteBagJaccard), excludeZeros=True),
-  'lzjd1': util.mapDict(methodToGroupToInnerPairs['lzjd1'], util.concurrent(compare.lzjd)),
-  'size': util.mapDict(methodToGroupToInnerPairs['size'], util.concurrent(compare.sizeSimilarity)),
+  'fourbytes': util.mapDict(methodToGroupToInnerPairs['fourbytes'], util.concurrent(similarity.jaccardIndex)),
+  'ppdeep': util.mapDict(methodToGroupToInnerPairs['ppdeep'], util.concurrent(similarity.ppdeep_mod)),
+  'byteBagJaccard': util.mapDict(methodToGroupToInnerPairs['byteBag'], util.concurrent(similarity.byteBagJaccard), excludeZeros=True),
+  'lzjd1': util.mapDict(methodToGroupToInnerPairs['lzjd1'], util.concurrent(similarity.lzjd)),
+  'size': util.mapDict(methodToGroupToInnerPairs['size'], util.concurrent(similarity.sizeSimilarity)),
 }
 
-print('compare cross')
+print('similarity cross')
 methodToGroupToCrossComps = {
-  'fourbytes': util.mapDict(methodToGroupToCrossPairs['fourbytes'], util.concurrent(compare.jaccardIndex)),
-  'ppdeep': util.mapDict(methodToGroupToCrossPairs['ppdeep'], util.concurrent(compare.ppdeep_mod)),
-  'byteBagJaccard': util.mapDict(methodToGroupToCrossPairs['byteBag'], util.concurrent(compare.byteBagJaccard), excludeZeros=True),
-  'lzjd1': util.mapDict(methodToGroupToCrossPairs['lzjd1'], util.concurrent(compare.lzjd)),
-  'size': util.mapDict(methodToGroupToCrossPairs['size'], util.concurrent(compare.sizeSimilarity)),
+  'fourbytes': util.mapDict(methodToGroupToCrossPairs['fourbytes'], util.concurrent(similarity.jaccardIndex)),
+  'ppdeep': util.mapDict(methodToGroupToCrossPairs['ppdeep'], util.concurrent(similarity.ppdeep_mod)),
+  'byteBagJaccard': util.mapDict(methodToGroupToCrossPairs['byteBag'], util.concurrent(similarity.byteBagJaccard), excludeZeros=True),
+  'lzjd1': util.mapDict(methodToGroupToCrossPairs['lzjd1'], util.concurrent(similarity.lzjd)),
+  'size': util.mapDict(methodToGroupToCrossPairs['size'], util.concurrent(similarity.sizeSimilarity)),
 }
 
 print('build data frames')

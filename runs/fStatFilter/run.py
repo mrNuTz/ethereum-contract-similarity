@@ -7,7 +7,7 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, compare, util, vis, test, filter
+import pre, hash, similarity, util, vis, test, filter
 import contract.opcodes as opcodes
 import pandas as pd
 from common import Id1Id2FloatT, IdCodeT, IdFloatT, IdStrT
@@ -30,5 +30,5 @@ write.saveCsv([ (id, util.oneByteDebugEncoding(code)) for id, code in codes ], '
 hashes = hash.jumpHash(codes)
 write.saveCsv(hashes, 'hashes.csv')
 pairs = util.allToAllPairs(hashes)
-sims = compare.jump(pairs)
+sims = similarity.jump(pairs)
 write.saveCsv(sims, 'sims.csv')

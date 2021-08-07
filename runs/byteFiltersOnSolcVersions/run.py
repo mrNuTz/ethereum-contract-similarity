@@ -6,7 +6,7 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, compare, util, vis, test
+import pre, hash, similarity, util, vis, test
 import contract.opcodes as opcodes
 import pandas as pd
 from common import IdCodeT
@@ -65,14 +65,14 @@ methodToGroupToCrossPairs = util.mapDict(
 def comp(method: str):
   def go(pairs):
     if method.startswith('byteBag'):
-      return util.concurrent(compare.byteBagJaccard)(pairs, excludeZeros=True)
+      return util.concurrent(similarity.byteBagJaccard)(pairs, excludeZeros=True)
     elif method.startswith('ppdeep'):
-      return util.concurrent(compare.ppdeep_mod)(pairs)
+      return util.concurrent(similarity.ppdeep_mod)(pairs)
     elif method.startswith('lzjd1'):
-      return util.concurrent(compare.lzjd)(pairs)
+      return util.concurrent(similarity.lzjd)(pairs)
   return go
 
-print('compare')
+print('similarity')
 methodToGroupToInnerComps = {
   method: util.mapDict(groupToPairs, comp(method)) for method, groupToPairs
     in methodToGroupToInnerPairs.items()
