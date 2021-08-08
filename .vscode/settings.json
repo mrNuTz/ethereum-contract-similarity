@@ -67,6 +67,7 @@
     "jaccard",
     "kargs",
     "lilpeep",
+    "lzma",
     "matplotlib",
     "numpy",
     "opcode's",

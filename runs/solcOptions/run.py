@@ -38,11 +38,12 @@ idToMeta = {
 
 def byteBagJaccard(pairs):
   return similarity.byteBagJaccard(pairs, excludeZeros=True)
-
 def highFOnly(codes):
   return pre.filterBytes(codes, filter.highFStatPred)
 def highF0(codes):
   return pre.setBytesZero(codes, filter.highFStatPred)
+def lzjd(codes):
+  return hash.lzjd1(codes, hash_size=1024, mode=None, false_seen_prob=0)
 
 def run(metaPredicate: Callable[[Meta], bool], name: str):
   codes = [idToCode[id] for id, meta in idToMeta.items() if metaPredicate(meta)]
@@ -68,6 +69,7 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
     'byteBag': hash.byteBag,
     'lzjd': hash.lzjd1,
     'jump': hash.jumpHash,
+    'ncd': hash.ncd,
   }
 
   methodToHashes = {
@@ -85,6 +87,7 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
     'byteBag': byteBagJaccard,
     'lzjd': similarity.lzjd,
     'jump': similarity.jump,
+    'ncd': similarity.ncd,
   }
 
   methodToComps = {
@@ -118,10 +121,12 @@ def run(metaPredicate: Callable[[Meta], bool], name: str):
   plot.saveScatter(df, 'fstSecSkel jump', 'fStat ppdeep', title=name + ' scatter', colorBy='isInner')
   plot.saveScatter(df, 'fStat0 ppdeep_mod', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
   plot.saveScatter(df, 'raw lzjd', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
+  plot.saveScatter(df, 'raw ncd', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
 
 run(lambda m: m.o and m.runs == 200 and m.abi == 2, 'versions at o1 runs200 abi2')
 run(lambda m: m.o and m.runs == 200 and m.v == '0.5.16' , 'abis at 0.5.16 o1 runs200')
 run(lambda m: m.o and m.v == '0.8.4' and m.abi == 2, 'runs at 0.8.4 o1 abi2')
+run(lambda m: m.runs == 200 and m.v == '0.8.4' and m.abi == 2, 'enabled at runs200 0.8.4 abi2')
 run(lambda m: True, 'all')

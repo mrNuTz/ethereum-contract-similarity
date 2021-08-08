@@ -1,34 +1,41 @@
 from typing import NamedTuple, List, Any, Dict, Union
 
+IdT = Union[int, str]
+
 class IdCodeT(NamedTuple):
-  id: Union[int,str]
+  id: IdT
   code: bytes
 
 class IdStrT(NamedTuple):
-  id: int
+  id: IdT
   str: str
 
 class Id1Id2FloatT(NamedTuple):
-  id1: int
-  id2: int
+  id1: IdT
+  id2: IdT
   float: float
 
 class IdSigsT(NamedTuple):
-  id: int
+  id: IdT
   sigs: List[bytes]
 
 class IdAnyT(NamedTuple):
-  id: int
+  id: IdT
   any: Any
 
 class IdCountsT(NamedTuple):
-  id: int
+  id: IdT
   counts: Dict[int, int]
 
 class IdFloatT(NamedTuple):
-  id: int
+  id: IdT
   float: float
 
 class IdSigTblT(NamedTuple):
-  id: int
+  id: IdT
   sigTbl: Dict[bytes, int]
+
+class IdCodeZT(NamedTuple):
+  id: IdT
+  code: bytes
+  z: int

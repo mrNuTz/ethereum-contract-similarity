@@ -1,5 +1,5 @@
-from common import Id1Id2FloatT, IdStrT, IdCountsT, IdAnyT, IdFloatT
-import hashes.ppdeep_mod, hashes.ppdeep, util, hashes.jump
+from common import Id1Id2FloatT, IdCodeZT, IdStrT, IdCountsT, IdAnyT, IdFloatT
+import hashes.ppdeep_mod, hashes.ppdeep, util, hashes.jump, hashes.ncd
 from typing import Callable, Tuple, List
 import pyLZJD
 
@@ -40,3 +40,6 @@ def sizeSimilarity(pairs: List[Tuple[IdFloatT, IdFloatT]]) -> List[Id1Id2FloatT]
 
 def jump(pairs: List[Tuple[IdStrT, IdStrT]]) -> List[Id1Id2FloatT]:
   return [Id1Id2FloatT(a.id, b.id, hashes.jump.similarity(a.str, b.str)) for a, b in pairs]
+
+def ncd(pairs: List[Tuple[IdCodeZT, IdCodeZT]]) -> List[Id1Id2FloatT]:
+  return [Id1Id2FloatT(a.id, b.id, hashes.ncd.similarity(a.z, b.z, a.code, b.code)) for a, b in pairs]
