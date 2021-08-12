@@ -53,6 +53,7 @@
     "curr",
     "dbname",
     "disasm",
+    "discretize",
     "esverifiedcontract",
     "flipud",
     "fomo",

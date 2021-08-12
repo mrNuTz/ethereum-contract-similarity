@@ -1,5 +1,5 @@
-import concurrent.futures
-import math
+import concurrent.futures, math, os
+import numpy as np
 from typing import List, Tuple, Callable, Dict, TypeVar, Iterable
 from datetime import datetime
 T = TypeVar('T')
@@ -31,33 +31,53 @@ def jaccardIndex(list1, list2):
   intersectionSize = len(a.intersection(b))
   return intersectionSize / (aSize + bSize - intersectionSize)
 
-CPU_COUNT = 48
+def levenshteinDistance(s, t) -> int:
+	'''
+	Implementation by Christopher P. Matthews
+	'''
+	if s == t: return 0
+	elif len(s) == 0: return len(t)
+	elif len(t) == 0: return len(s)
+	v0 = [None] * (len(t) + 1)
+	v1 = [None] * (len(t) + 1)
+	for i in range(len(v0)):
+		v0[i] = i
+	for i in range(len(s)):
+		v1[0] = i + 1
+		for j in range(len(t)):
+			cost = 0 if s[i] == t[j] else 1
+			v1[j + 1] = min(v1[j] + 1, v0[j + 1] + 1, v0[j] + cost)
+		for j in range(len(v0)):
+			v0[j] = v1[j]
+	return v1[len(t)]
+
+CPU_COUNT = os.cpu_count()
 _executor = concurrent.futures.ProcessPoolExecutor(max_workers=CPU_COUNT)
 
-def runConcurrent(chunkFn: Callable[[List], List], inputs: List, chunkSizeMin=100, *args, **kwargs) -> List:
-  chunkSize = max(chunkSizeMin, math.ceil(len(inputs) / CPU_COUNT))
-  chunks = chunkList(inputs, chunkSize)
-
-  outputs = []
-  if (len(chunks) > 1):
-    futures = [ _executor.submit(chunkFn, chunk, *args, **kwargs) for chunk in chunks ]
-    for future in futures:
-      outputs.extend(future.result())
-  else:
-    for chunk in chunks:
-      outputs.extend(chunkFn(chunk, *args, **kwargs))
-  return outputs
-
-def concurrent(chunkFn: T, chunkSizeMin=100) -> T:
+def concurrent(chunkFn: Callable[[List[T]], List[U]], chunkSizeMin=1) -> Callable[[List[T]], List[U]]:
   def go(inputs: List, *args, **kwargs):
-    return runConcurrent(chunkFn, inputs, *args, **kwargs, chunkSizeMin=chunkSizeMin)
+    chunkSize = max(chunkSizeMin, math.ceil(len(inputs) / CPU_COUNT))
+    chunks = chunkList(inputs, chunkSize)
+    outputs = []
+    if len(chunks) > 1:
+      futures = [ _executor.submit(chunkFn, chunk, *args, **kwargs) for chunk in chunks ]
+      for future in futures:
+        outputs.extend(future.result())
+    else:
+      for chunk in chunks:
+        outputs.extend(chunkFn(chunk, *args, **kwargs))
+    return outputs
   return go
 
-def normalize(mi, ma, resolution, val):
+def discretize(mi, ma, resolution, val):
   span = ma - mi
   shifted = val - mi
   scaled = shifted * (resolution / span)
   return max(0, min(resolution - 1, int(scaled)))
+
+def sdFromMean(x: Iterable) -> Iterable:
+  x = np.fromiter(x, float)
+  return (x - x.mean()) / x.std()
 
 def oneByteDebugEncoding(bs: bytes, startUtfCode=0xb0) -> str:
   return ''.join(chr(b + startUtfCode) for b in bs)
