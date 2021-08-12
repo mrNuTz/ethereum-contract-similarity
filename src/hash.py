@@ -1,7 +1,7 @@
-from common import IdCodeZT, IdStrT, IdSigsT, IdCodeT, IdCountsT, IdAnyT, IdFloatT
+from common import IdCodeZT, IdIntsT, IdStrT, IdSigsT, IdCodeT, IdCountsT, IdLzjdT, IdFloatT
 import hashes.ppdeep_mod as _ppdeep_mod
 import hashes.ppdeep as _ppdeep
-import hashes.ncd
+import hashes.ncd, hashes.bz
 from hashes.jump import hash as _jumpHash
 from contract.fourbytes import signatures
 import functools, pyLZJD
@@ -30,7 +30,7 @@ def lzjd1(
   processes = -1, false_seen_prob = 0, seed = None
 ):
   return [
-    IdAnyT(id, pyLZJD.digest(code, hash_size, mode, processes, false_seen_prob, seed))
+    IdLzjdT(id, pyLZJD.digest(code, hash_size, mode, processes, false_seen_prob, seed))
     for id, code, in codes]
 
 def size(codes: List[IdCodeT]) -> List[IdFloatT]:
@@ -41,3 +41,13 @@ def jumpHash(codes: List[IdCodeT]) -> List[IdStrT]:
 
 def ncd(codes: List[IdCodeT]) -> List[IdCodeZT]:
   return [IdCodeZT(id, code, hashes.ncd.Z(code)) for id, code in codes]
+
+def bzFixedLen(codes: List[IdCodeT], chunkLen=200, chunkRes=8) -> List[IdIntsT]:
+  return [
+    IdIntsT(id, hashes.bz.hashFixedLen(code, chunkLen=chunkLen, chunkRes=chunkRes))
+    for id, code in codes]
+
+def bzJumpi(codes: List[IdCodeT], chunkRes=8) -> List[IdIntsT]:
+  return [
+    IdIntsT(id, hashes.bz.hashJumpi(code, chunkRes=chunkRes))
+    for id, code in codes]

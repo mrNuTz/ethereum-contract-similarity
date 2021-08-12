@@ -23,6 +23,10 @@ class IdAnyT(NamedTuple):
   id: IdT
   any: Any
 
+class IdLzjdT(NamedTuple):
+  id: IdT
+  lzjd: Any
+
 class IdCountsT(NamedTuple):
   id: IdT
   counts: Dict[int, int]
@@ -39,3 +43,7 @@ class IdCodeZT(NamedTuple):
   id: IdT
   code: bytes
   z: int
+
+class IdIntsT(NamedTuple):
+  id: IdT
+  ints: List[int]
