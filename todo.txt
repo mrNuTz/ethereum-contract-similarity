@@ -20,37 +20,52 @@ DONE:
   for each bytecode
     variance between groups / variance within groups
   save gml
+  solc versions
+    abi encoding
+    more contracts
   separation measure
+  test lzjd mode
+  use normalized compression distance as reference
+  refactor runs or just do it from know on
+    compute all pairs
+    distinguish groups later
+    use lists not dicts
+  are external functions always ordered by signature? -> yes
 FIRST:
   compare lzjd parameters and compare to simple bz-compression-ration
-
-  use normalized compression distance as reference
-
   go threw the runs one by one
     figure out what you want to figure out
     write what that is
     optional: redesign accordingly
     figure stuff out
     write whether you figured it out
-    write what you figured out
+    write what you figured out instead
 TODO:
   check performance with different pre-processing methods
     whole code
     whole skeleton
     section one skeleton
-
   check robustness against version, abi encoding and optimization changes separately
     clustering should show all that in one picture
-    correlate similarity with is-inner
-
-  all runs should have a short description
-  refactor runs or just do it from know on
-    compute all pairs
-    distinguish groups later
-    use lists not dicts?
-
-  none-obvious functions should have short description
-
+  document none-obvious functions
+  similarity measures
+    more byte filters
+    different lzjd parameters
+    ppdeep variations
+      function splitting
+    bzHash
+LATER:
+QUESTIONS:
+  what are data sections?
+  why are there multiple meta sections?
+  how will this be used?
+  how to split internal functions?
+  deployment code vs deployed code?
+  are internal functions ordered? how stable is the ordering?
+  skeletize rstrip trailing zeros?
+MAYBE:
+  write a hello world smart contract and compile it
+  byteBags should be tuples
   ppdeep with custom chunk trigger
     def hashChunk(chunk) -> hash
     def digest(hash) -> digest
@@ -66,28 +81,3 @@ TODO:
         INVALID
     def hash(code) -> List[digest]
     def similarity(a: List[digest], b: List[digest]) -> float
-  similarity measures
-    more byte filters
-    different lzjd parameters
-    ppdeep variations
-      function splitting
-    bzHash
-LATER:
-  write a hello world smart contract and compile it
-QUESTIONS:
-  what are data sections?
-  why are there multiple meta sections?
-  how will this be used?
-  how to split internal functions?
-  deployment code vs deployed code?
-  are internal functions ordered? how stable is the ordering?
-  are external functions always ordered by signature?
-  skeletize rstrip trailing zeros?
-MAYBE:
-  byteBags should be tuples
-  solc versions
-    abi encoding
-    more contracts
-NOTES:
-  select encode(addr, 'hex') from account where id = 485783246;
-  bindata(cdeployed) as hex

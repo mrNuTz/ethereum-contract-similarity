@@ -1,0 +1,14 @@
+raw ncd,0.6666666666666666
+raw lzjd32,0.1111111111111111
+raw lzjd64,0.0
+raw lzjd128,0.0
+raw lzjd256,0.0
+raw lzjd512,0.0
+raw lzjd1K,0.1111111111111111
+skel ncd,0.0
+skel lzjd32,0.2222222222222222
+skel lzjd64,0.0
+skel lzjd128,0.0
+skel lzjd256,0.0
+skel lzjd512,0.0
+skel lzjd1K,0.1111111111111111
