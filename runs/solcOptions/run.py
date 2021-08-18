@@ -1,5 +1,5 @@
-import sys, os, re, random
-from typing import Callable, NamedTuple
+import sys, os
+from typing import Callable
 sys.path.insert(1, 'src')
 import write, plot
 _runDir = os.path.dirname(os.path.abspath(__file__))
@@ -7,34 +7,11 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, similarity, util, vis, test, filter
-import contract.opcodes as opcodes
+import pre, hash, similarity, util, test, filter
 import pandas as pd
-from common import Id1Id2FloatT, IdCodeT, IdFloatT, IdStrT
+import datasets.solcOptions as solcOptions
 
-codeDir = 'data/many-solc-versions'
-idToCode = {
-  (_id := filename.replace('.hex', '')): IdCodeT(
-    _id,
-    bytes.fromhex(open(f'{codeDir}/{filename}', mode='r').read()))
-  for filename in os.listdir(codeDir)
-}
-
-class Meta(NamedTuple):
-  id: str
-  group: str
-  v: str
-  abi: int
-  o: bool
-  runs: int
-
-def parseMeta(id):
-  (group, v, abi, o, runs) = re.search('(\S+) - (\S+) (\S+) (\S+) (\S+)', id).groups()
-  return Meta(id, group, v[1:], int(abi[-1:]), o == 'o1', int(runs[4:]))
-
-idToMeta = {
-  id: parseMeta(id) for (id, code) in idToCode.values()
-}
+(idToCode, idToMeta) = solcOptions.load()
 
 def byteBagJaccard(pairs):
   return similarity.byteBagJaccard(pairs, excludeZeros=True)
@@ -45,7 +22,7 @@ def highF0(codes):
 def lzjd(codes):
   return hash.lzjd1(codes, hash_size=1024, mode=None, false_seen_prob=0)
 
-def run(metaPredicate: Callable[[Meta], bool], name: str):
+def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
   codes = [idToCode[id] for id, meta in idToMeta.items() if metaPredicate(meta)]
 
   print(name)
