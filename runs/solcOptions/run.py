@@ -20,7 +20,9 @@ def highFOnly(codes):
 def highF0(codes):
   return pre.setBytesZero(codes, filter.highFStatPred)
 def lzjd(codes):
-  return hash.lzjd1(codes, hash_size=1024, mode=None, false_seen_prob=0)
+  return hash.lzjd1(codes, hash_size=256, mode=None, false_seen_prob=0)
+def bzJumpi4(codes):
+  return hash.bzJumpi(codes, chunkRes=4)
 
 def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
   codes = [idToCode[id] for id, meta in idToMeta.items() if metaPredicate(meta)]
@@ -44,7 +46,8 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
     'ppdeep': hash.ppdeep,
     'ppdeep_mod': hash.ppdeep_mod,
     'byteBag': hash.byteBag,
-    'lzjd': hash.lzjd1,
+    'lzjd': lzjd,
+    'bz': bzJumpi4,
     'jump': hash.jumpHash,
     'ncd': hash.ncd,
   }
@@ -63,6 +66,7 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
     'ppdeep_mod': similarity.ppdeep_mod,
     'byteBag': byteBagJaccard,
     'lzjd': similarity.lzjd,
+    'bz': similarity.levenshtein,
     'jump': similarity.jump,
     'ncd': similarity.ncd,
   }
