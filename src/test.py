@@ -39,5 +39,5 @@ def separation(df: DataFrame):
     indices = np.flipud(np.argsort(vals[:, 0]))
     vals = vals[indices]
     correct = sum(1 for i in range(total) if vals[i][1])
-    colToSeparation[col] = correct / total
+    colToSeparation[col] = correct / total if total > 0 else np.nan
   return colToSeparation

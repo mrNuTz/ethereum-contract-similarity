@@ -32,6 +32,9 @@ DONE:
     use lists not dicts
   are external functions always ordered by signature? -> yes
 FIRST:
+  upload to gitLab
+  wallets
+
   compare lzjd parameters and compare to simple bz-compression-ration
   go threw the runs one by one
     figure out what you want to figure out

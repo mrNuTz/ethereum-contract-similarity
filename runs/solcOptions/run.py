@@ -7,7 +7,7 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, similarity, util, test, filter
+import pre, hash, similarity, util, test, opfilter
 import pandas as pd
 import datasets.solcOptions as solcOptions
 
@@ -16,9 +16,9 @@ import datasets.solcOptions as solcOptions
 def byteBagJaccard(pairs):
   return similarity.byteBagJaccard(pairs, excludeZeros=True)
 def highFOnly(codes):
-  return pre.filterBytes(codes, filter.highFStatPred)
+  return pre.filterBytes(codes, opfilter.highFStatPred)
 def highF0(codes):
-  return pre.setBytesZero(codes, filter.highFStatPred)
+  return pre.setBytesZero(codes, opfilter.highFStatPred)
 def lzjd(codes):
   return hash.lzjd1(codes, hash_size=256, mode=None, false_seen_prob=0)
 def bzJumpi4(codes):

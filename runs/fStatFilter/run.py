@@ -6,15 +6,15 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, similarity, util, vis, test, filter
+import pre, hash, similarity, util, vis, test, opfilter
 import datasets.solcOptions as solcOptions
 
 idToCode,_ = solcOptions.load()
 
 codes = itertools.islice(idToCode.values(), 2)
 codes = [ (id, skel) for id, skel in pre.firstSectionSkeleton(codes) ]
-filtered = [ ('0 ' + id, code) for id, code in pre.setBytesZero(codes, filter.highFStatPred) ]
-mangled = [ ('_ ' + id, code) for id, code in pre.filterBytes(codes, filter.highFStatPred) ]
+filtered = [ ('0 ' + id, code) for id, code in pre.setBytesZero(codes, opfilter.highFStatPred) ]
+mangled = [ ('_ ' + id, code) for id, code in pre.filterBytes(codes, opfilter.highFStatPred) ]
 
 codes = [*codes, *filtered, *mangled]
 write.saveCsv([ (id, util.oneByteDebugEncoding(code)) for id, code in codes ], 'codes.csv')
