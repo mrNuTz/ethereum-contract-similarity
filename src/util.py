@@ -77,6 +77,10 @@ def discretize(mi, ma, resolution, val):
 
 def sdFromMean(x: Iterable) -> Iterable:
   x = np.fromiter(x, float)
+  if len(x) == 0:
+    return x
+  elif x.std() == 0:
+    return x - x
   return (x - x.mean()) / x.std()
 
 def oneByteDebugEncoding(bs: bytes, startUtfCode=0xb0) -> str:

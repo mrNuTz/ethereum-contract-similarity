@@ -32,6 +32,8 @@ DONE:
     use lists not dicts
   are external functions always ordered by signature? -> yes
 FIRST:
+  proxies
+
   upload to gitLab
   wallets
 
@@ -44,6 +46,7 @@ FIRST:
     write whether you figured it out
     write what you figured out instead
 TODO:
+
   check performance with different pre-processing methods
     whole code
     whole skeleton
