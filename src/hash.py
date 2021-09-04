@@ -42,12 +42,12 @@ def jumpHash(codes: List[IdCodeT]) -> List[IdStrT]:
 def ncd(codes: List[IdCodeT]) -> List[IdCodeZT]:
   return [IdCodeZT(id, code, hashes.ncd.Z(code)) for id, code in codes]
 
-def bzFixedLen(codes: List[IdCodeT], chunkLen=200, chunkRes=8) -> List[IdIntsT]:
+def bzFixedLen(codes: List[IdCodeT], chunkLen=200, chunkRes=8) -> List[IdStrT]:
   return [
-    IdIntsT(id, hashes.bz.hashFixedLen(code, chunkLen=chunkLen, chunkRes=chunkRes))
+    IdStrT(id, hashes.bz.hashFixedLen(code, chunkLen=chunkLen, chunkRes=chunkRes))
     for id, code in codes]
 
-def bzJumpi(codes: List[IdCodeT], chunkRes=8) -> List[IdIntsT]:
+def bzJumpi(codes: List[IdCodeT], chunkRes=8) -> List[IdStrT]:
   return [
-    IdIntsT(id, hashes.bz.hashJumpi(code, chunkRes=chunkRes))
+    IdStrT(id, hashes.bz.hashJumpi(code, chunkRes=chunkRes))
     for id, code in codes]

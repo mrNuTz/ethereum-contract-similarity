@@ -2,6 +2,7 @@ raw ppdeep,1.0
 raw ppdeep_mod,1.0
 raw byteBag,1.0
 raw lzjd,1.0
+raw bz,1.0
 raw jump,1.0
 raw ncd,1.0
 raw fourbytes,1.0
@@ -9,6 +10,7 @@ skeletons ppdeep,1.0
 skeletons ppdeep_mod,1.0
 skeletons byteBag,1.0
 skeletons lzjd,1.0
+skeletons bz,1.0
 skeletons jump,1.0
 skeletons ncd,1.0
 skeletons fourbytes,1.0
@@ -16,6 +18,7 @@ fstSecSkel ppdeep,1.0
 fstSecSkel ppdeep_mod,1.0
 fstSecSkel byteBag,1.0
 fstSecSkel lzjd,1.0
+fstSecSkel bz,1.0
 fstSecSkel jump,1.0
 fstSecSkel ncd,1.0
 fstSecSkel fourbytes,1.0
@@ -23,6 +26,7 @@ fStat ppdeep,1.0
 fStat ppdeep_mod,1.0
 fStat byteBag,1.0
 fStat lzjd,1.0
+fStat bz,1.0
 fStat jump,1.0
 fStat ncd,1.0
 fStat fourbytes,1.0
@@ -30,6 +34,7 @@ fStat0 ppdeep,1.0
 fStat0 ppdeep_mod,1.0
 fStat0 byteBag,1.0
 fStat0 lzjd,1.0
+fStat0 bz,1.0
 fStat0 jump,1.0
 fStat0 ncd,1.0
 fStat0 fourbytes,1.0

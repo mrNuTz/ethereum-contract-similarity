@@ -67,7 +67,7 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
     'byteBag': byteBagJaccard,
     'lzjd': similarity.lzjd,
     'bz': similarity.levenshtein,
-    'jump': similarity.jump,
+    'jump': similarity.levenshtein,
     'ncd': similarity.ncd,
   }
 

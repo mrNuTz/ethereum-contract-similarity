@@ -31,6 +31,7 @@ def jaccardIndex(list1, list2):
   intersectionSize = len(a.intersection(b))
   return intersectionSize / (aSize + bSize - intersectionSize)
 
+# much slower than similarity.levenshtein
 def levenshteinDistance(s, t) -> int:
 	'''
 	Implementation by Christopher P. Matthews

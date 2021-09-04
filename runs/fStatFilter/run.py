@@ -21,5 +21,5 @@ write.saveCsv([ (id, util.oneByteDebugEncoding(code)) for id, code in codes ], '
 hashes = hash.jumpHash(codes)
 write.saveCsv(hashes, 'hashes.csv')
 pairs = util.allToAllPairs(hashes)
-sims = similarity.jump(pairs)
+sims = similarity.levenshtein(pairs)
 write.saveCsv(sims, 'sims.csv')

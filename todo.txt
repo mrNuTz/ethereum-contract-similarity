@@ -42,8 +42,11 @@ DONE:
     whole skeleton
     section one skeleton
   test wallets
-FIRST:
   cluster wallet type
+  bz use native levenshtein
+FIRST:
+  run force atlas and clustering () in python
+TODO:
   upload to gitLab
   go threw the runs one by one
     figure out what you want to figure out
@@ -53,10 +56,9 @@ FIRST:
     write whether you figured it out
     write what you figured out instead
   document none-obvious functions
+
   write readme
 
-  native levenshtein
-TODO:
   check robustness against version, abi encoding and optimization changes separately
     clustering should show all that in one picture
 LATER:
