@@ -1,4 +1,4 @@
-import sys, os
+import sys, os, time
 from typing import Callable
 sys.path.insert(1, 'src')
 import write, plot
@@ -11,12 +11,8 @@ import pre, hash, similarity, util, test, opfilter
 import pandas as pd
 import datasets.wallets as wallets
 
-(idToCode, idToMeta, skeletonToIds) = wallets.load()
-
-firstIds = { util.fst(ids) for skel, ids in skeletonToIds.items() }
-
-# only unique skeletons
-idToCode = dict(filter(lambda t: t[0] in firstIds, idToCode.items()))
+(idToCode, idToMeta, skeletonToIds, typeToIds, fstIdPerSkel) = wallets.load()
+# typeToSkelCount = { t: sum(1 for id in ids if id in fstIdPerSkel) for t, ids in typeToIds.items() }
 
 def byteBagJaccard(pairs):
   return similarity.byteBagJaccard(pairs, excludeZeros=True)
@@ -26,11 +22,9 @@ def highF0(codes):
   return pre.setBytesZero(codes, opfilter.highFStatPred)
 def lzjd(codes):
   return hash.lzjd1(codes, hash_size=256, mode=None, false_seen_prob=0)
-def bzJumpi4(codes):
-  return hash.bzJumpi(codes, chunkRes=4)
 
 def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
-  codes = [idToCode[id] for id, meta in idToMeta.items() if metaPredicate(meta) if id in idToCode]
+  codes = [idToCode[id] for id, meta in idToMeta.items() if metaPredicate(meta)]
 
   print(name)
   print(f'groups: {set(idToMeta[id].type for id, code in codes)}')
@@ -52,9 +46,9 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
     'ppdeep_mod': hash.ppdeep_mod,
     'byteBag': hash.byteBag,
     'lzjd': lzjd,
-    'bz': bzJumpi4,
     'jump': hash.jumpHash,
     'ncd': hash.ncd,
+    'fourbytes': hash.fourbytes
   }
 
   methodToHashes = {
@@ -71,15 +65,20 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
     'ppdeep_mod': similarity.ppdeep_mod,
     'byteBag': byteBagJaccard,
     'lzjd': similarity.lzjd,
-    'bz': similarity.levenshtein,
     'jump': similarity.jump,
     'ncd': similarity.ncd,
+    'fourbytes': similarity.jaccardIndex
   }
 
-  methodToComps = {
-    method: util.concurrent(hashToCompareFunction[method[1]])(pairs)
-    for (method, pairs) in methodToPairs.items()
-  }
+  methodToComps = {}
+  methodToTime = {}
+  for (method, pairs) in methodToPairs.items():
+    print('comparing ' + name + ' ' + ' '.join(method))
+    start = time.time()
+    methodToComps[method] = util.concurrent(hashToCompareFunction[method[1]])(pairs)
+    elapsed = time.time() - start
+    methodToTime[method] = elapsed
+    print(f"{elapsed} sec")
 
   comps1 = tuple(util.fst(methodToComps.values()))
 
@@ -105,4 +104,8 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
 
-run(lambda m: True, 'all')
+run(lambda m: m.id in fstIdPerSkel, 'all')
+run(lambda m: m.id in fstIdPerSkel and m.type == 'multisig Gavin Wood/Ethereum/Parity', 'gavin')
+run(lambda m: m.id in fstIdPerSkel and m.type == 'multisig Christian Lundkvist', 'lundkvist')
+run(lambda m: m.id in fstIdPerSkel and m.type == 'multisig WalletSimple/BitGo forwarder', 'bitgo')
+run(lambda m: m.id in fstIdPerSkel and m.type == 'smart GnosisSafe', 'gnosis')

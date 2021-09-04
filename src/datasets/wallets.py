@@ -1,5 +1,5 @@
 import lzma, util
-from typing import Dict, List, NamedTuple
+from typing import Dict, List, NamedTuple, Set
 from common import IdCodeT
 
 class Meta(NamedTuple):
@@ -12,9 +12,15 @@ class Dataset(NamedTuple):
   idToCode: Dict[int, IdCodeT]
   idToMeta:  Dict[int, Meta]
   skeletonToIds: Dict[int, List[int]]
+  typeToIds: Dict[int, List[int]]
+  fstIdPerSkel: Set[int]
 
 def load():
-  res = Dataset({},{},{})
+  idToCode: Dict[int, IdCodeT] = {}
+  idToMeta:  Dict[int, Meta] = {}
+  skeletonToIds: Dict[int, List[int]] = {}
+  typeToIds: Dict[int, List[int]] = {}
+  fstIdPerSkel: Set[int] = {}
 
   def parseMeta(row):
     (id, skeleton, wType, address, _) = row
@@ -29,11 +35,18 @@ def load():
     (_, _, _, _, bytecode) = row
     code = IdCodeT(meta.id, bytes.fromhex(util.drop0x(bytecode)))
 
-    res.idToCode[meta.id] = code
-    res.idToMeta[meta.id] = meta
+    idToCode[meta.id] = code
+    idToMeta[meta.id] = meta
 
-    skels = res.skeletonToIds.get(meta.skeleton, [])
-    skels.append(meta.id)
-    res.skeletonToIds[meta.skeleton] = skels
+    if meta.skeleton in skeletonToIds:
+      skeletonToIds[meta.skeleton].append(meta.id)
+    else:
+      skeletonToIds[meta.skeleton] = [meta.id]
 
-  return res
+    if meta.type in typeToIds:
+      typeToIds[meta.type].append(meta.id)
+    else:
+      typeToIds[meta.type] = [meta.id]
+
+  fstIdPerSkel = { util.fst(ids) for skel, ids in skeletonToIds.items() }
+  return Dataset(idToCode, idToMeta, skeletonToIds, typeToIds, fstIdPerSkel)

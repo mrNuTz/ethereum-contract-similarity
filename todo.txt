@@ -31,13 +31,20 @@ DONE:
     distinguish groups later
     use lists not dicts
   are external functions always ordered by signature? -> yes
-FIRST:
-  proxies
-
-  upload to gitLab
-  wallets
-
   compare lzjd parameters and compare to simple bz-compression-ration
+  different lzjd parameters
+  ppdeep variation -> jump hash
+  more byte filters -> f-stat filter
+  bzHash
+  proxies
+  check performance with different pre-processing methods
+    whole code
+    whole skeleton
+    section one skeleton
+  test wallets
+FIRST:
+  cluster wallet type
+  upload to gitLab
   go threw the runs one by one
     figure out what you want to figure out
     write what that is
@@ -45,33 +52,23 @@ FIRST:
     figure stuff out
     write whether you figured it out
     write what you figured out instead
-TODO:
+  document none-obvious functions
+  write readme
 
-  check performance with different pre-processing methods
-    whole code
-    whole skeleton
-    section one skeleton
+  native levenshtein
+TODO:
   check robustness against version, abi encoding and optimization changes separately
     clustering should show all that in one picture
-  document none-obvious functions
-  similarity measures
-    more byte filters
-    different lzjd parameters
-    ppdeep variations
-      function splitting
-    bzHash
 LATER:
+  skeletize rstrip trailing zeros?
+  are internal functions ordered? how stable is the ordering?
 QUESTIONS:
   what are data sections?
   why are there multiple meta sections?
   how will this be used?
-  how to split internal functions?
-  deployment code vs deployed code?
-  are internal functions ordered? how stable is the ordering?
-  skeletize rstrip trailing zeros?
 MAYBE:
   write a hello world smart contract and compile it
-  byteBags should be tuples
+  byteBags tuples instead of dicts
   ppdeep with custom chunk trigger
     def hashChunk(chunk) -> hash
     def digest(hash) -> digest
