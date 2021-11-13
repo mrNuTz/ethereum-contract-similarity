@@ -1,6 +1,6 @@
 # Ethereum Smart Contract Similarity Hashing Toolkit
 
-For usage see runs, it contain sample test runs.
+For usage see runs/solcOptions and runs/wallets, they contain sample test runs.
 
 hash.ncd and hash.jumpHash pre-filtered with opfilter.highFStatPred appear to perform the best.
 
