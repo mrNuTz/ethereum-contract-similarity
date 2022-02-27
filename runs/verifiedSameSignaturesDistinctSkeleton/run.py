@@ -90,7 +90,7 @@ def main():
 
   corr_in = df_in.corr(method='kendall')
   write.saveStr(df_in.to_csv(), 'comparisons_in.csv')
-  write.saveStr(corr_in, 'correlations_in.txt')
+  write.saveStr(corr_in.to_string(), 'correlations_in.txt')
 
   print('plot in')
   plot.saveScatter(df_in, 'ppdeep', 'byteBagJaccard', title='inScatter')
@@ -113,7 +113,7 @@ def main():
 
   corr_out = df_out.corr(method='kendall')
   write.saveStr(df_out.to_csv(), 'comparisons_out.csv')
-  write.saveStr(corr_out, 'correlations_out.txt')
+  write.saveStr(corr_out.to_string(), 'correlations_out.txt')
 
   print('plot out')
   plot.saveScatter(df_out, 'ppdeep', 'byteBagJaccard', title='outScatter')
@@ -128,7 +128,7 @@ def main():
 
   corr_all = df_all.corr(method='kendall')
   write.saveStr(df_all.to_csv(), 'comparisons_all.csv')
-  write.saveStr(corr_all, 'correlations_all.txt')
+  write.saveStr(corr_all.to_string(), 'correlations_all.txt')
   write.saveCsv([[name, id] for name, ts in codes.items() for id, code in ts], filename='ids.csv')
 
   print('plot all')

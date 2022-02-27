@@ -95,11 +95,11 @@ def main():
 
   print('write')
   write.saveStr(df_inner.to_csv(), 'comparisons_inner.csv')
-  write.saveStr(corr_inner, 'correlations_inner.txt')
+  write.saveStr(corr_inner.to_string(), 'correlations_inner.txt')
   write.saveStr(df_cross.to_csv(), 'comparisons_cross.csv')
-  write.saveStr(corr_cross, 'correlations_cross.txt')
+  write.saveStr(corr_cross.to_string(), 'correlations_cross.txt')
   write.saveStr(df_all.to_csv(), 'comparisons_all.csv')
-  write.saveStr(corr_all, 'correlations_all.txt')
+  write.saveStr(corr_all.to_string(), 'correlations_all.txt')
   write.saveCsv([[name, id] for name, ts in groupToCodes.items() for id, code in ts], filename='ids.csv')
   write.saveGml(groupToCodes, df_all)
 

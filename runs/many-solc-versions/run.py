@@ -80,11 +80,11 @@ def main():
 
   print('write')
   write.saveStr(df_inner.to_csv(), 'comparisons_in.csv')
-  write.saveStr(corr_in, 'correlations_in.txt')
+  write.saveStr(corr_in.to_string(), 'correlations_in.txt')
   write.saveStr(df_cross.to_csv(), 'comparisons_out.csv')
-  write.saveStr(corr_out, 'correlations_out.txt')
+  write.saveStr(corr_out.to_string(), 'correlations_out.txt')
   write.saveStr(df_all.to_csv(), 'comparisons_all.csv')
-  write.saveStr(corr_all, 'correlations_all.txt')
+  write.saveStr(corr_all.to_string(), 'correlations_all.txt')
   write.saveCsv([[name, id] for name, ts in groupToCodes.items() for id, code in ts], filename='ids.csv')
 
   print('plot')

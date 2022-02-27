@@ -91,7 +91,7 @@ def main():
   })
   print('write')
   corr = df.corr(method='kendall')
-  write.saveStr(corr, 'correlations.txt')
+  write.saveStr(corr.to_string(), 'correlations.txt')
   write.saveStr(df.to_csv(), 'comparisons.csv')
   write.saveStr('\n'.join([str(id) for id, code in codes]), 'ids.csv')
 
