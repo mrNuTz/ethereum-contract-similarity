@@ -41,3 +41,7 @@ def separation(df: DataFrame):
     correct = sum(1 for i in range(total) if vals[i][1])
     colToSeparation[col] = correct / total if total > 0 else np.nan
   return colToSeparation
+
+def similarityMatrix(pairs: List[Id1Id2FloatT]) -> np.ndarray:
+  # res = np.ndarray()
+  return
