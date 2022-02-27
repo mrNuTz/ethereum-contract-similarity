@@ -108,8 +108,9 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
 
-run(lambda m: m.id in fstIdPerSkel, 'all')
-run(lambda m: m.id in fstIdPerSkel and m.type == 'multisig Gavin Wood/Ethereum/Parity', 'gavin')
-run(lambda m: m.id in fstIdPerSkel and m.type == 'multisig Christian Lundkvist', 'lundkvist')
-run(lambda m: m.id in fstIdPerSkel and m.type == 'multisig WalletSimple/BitGo forwarder', 'bitgo')
-run(lambda m: m.id in fstIdPerSkel and m.type == 'smart GnosisSafe', 'gnosis')
+if __name__ == '__main__':
+  run(lambda m: m.id in fstIdPerSkel, 'all')
+  run(lambda m: m.id in fstIdPerSkel and m.type == 'multisig Gavin Wood/Ethereum/Parity', 'gavin')
+  run(lambda m: m.id in fstIdPerSkel and m.type == 'multisig Christian Lundkvist', 'lundkvist')
+  run(lambda m: m.id in fstIdPerSkel and m.type == 'multisig WalletSimple/BitGo forwarder', 'bitgo')
+  run(lambda m: m.id in fstIdPerSkel and m.type == 'smart GnosisSafe', 'gnosis')

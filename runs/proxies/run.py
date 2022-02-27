@@ -105,4 +105,5 @@ def run(metaPredicate: Callable[[proxies.Meta], bool], name: str):
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
 
-run(lambda m: m.type != '', 'all')
+if __name__ == '__main__':
+  run(lambda m: m.type != '', 'all')

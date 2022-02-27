@@ -44,8 +44,9 @@ DONE:
   test wallets
   cluster wallet type
   bz use native Levenshtein
+  windows setup
+  windows concurrent requires if __name__ == '__main__' check
 FIRST:
-  name == main
   Cython language level
   numpy deprecated
   windows new lines
