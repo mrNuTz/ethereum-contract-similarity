@@ -10,3 +10,4 @@ pip install Cython
 pip install git+git://github.com/EdwardRaff/pyLZJD#egg=pyLZJD
 pip install matplotlib
 pip install python-Levenshtein
+# pip install fa2     # force-atlas : unused at the moment
