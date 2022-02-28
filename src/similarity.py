@@ -21,12 +21,16 @@ def jaccardIndex(pairs) -> List[Id1Id2FloatT]:
     for a, b in pairs
   ]
 
-def levenshtein(pairs: Tuple[IdStrT, IdStrT]) -> List[Id1Id2FloatT]:
+def _levSim(a: str, b: str):
+  maxDist = max(len(a), len(b))
+  return 1 - Levenshtein.distance(a, b) / maxDist if maxDist > 0 else 0
+
+def levenshtein(pairs: List[Tuple[IdStrT, IdStrT]]) -> List[Id1Id2FloatT]:
   return [
     Id1Id2FloatT(
       a[0],
       b[0],
-      1 - Levenshtein.distance(a[1], b[1]) / (len(a[1]) + len(b[1]))
+      _levSim(a[1], b[1])
     ) for a, b in pairs ]
 
 def byteBagJaccard(pairs: List[Tuple[IdCountsT, IdCountsT]], excludeZeros=False) -> List[Id1Id2FloatT]:
