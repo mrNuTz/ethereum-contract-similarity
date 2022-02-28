@@ -1,4 +1,4 @@
-raw bzJumpi2,0.7777777777777778
+raw bzJumpi2,0.8888888888888888
 raw bzJumpi4,0.5555555555555556
 raw bzJumpi8,0.4444444444444444
 raw bzFixedLen32_2,0.0
@@ -8,7 +8,7 @@ raw bzFixedLen256_2,0.0
 raw bzFixedLen256_4,0.0
 raw bzFixedLen64_8,0.0
 raw bzFixedLen256_8,0.0
-raw bzFixedLen1024_8,0.0
+raw bzFixedLen1024_8,0.1111111111111111
 skel bzJumpi2,0.8888888888888888
 skel bzJumpi4,0.8888888888888888
 skel bzJumpi8,0.7777777777777778
@@ -19,4 +19,4 @@ skel bzFixedLen256_2,0.0
 skel bzFixedLen256_4,0.0
 skel bzFixedLen64_8,0.0
 skel bzFixedLen256_8,0.0
-skel bzFixedLen1024_8,0.0
+skel bzFixedLen1024_8,0.1111111111111111

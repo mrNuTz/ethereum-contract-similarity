@@ -9,14 +9,14 @@ skeletons ppdeep,0.34375
 skeletons ppdeep_mod,0.296875
 skeletons byteBag,0.46875
 skeletons lzjd,0.359375
-skeletons bz,0.40625
+skeletons bz,0.390625
 skeletons jump,0.234375
 skeletons ncd,0.515625
 fstSecSkel ppdeep,0.34375
 fstSecSkel ppdeep_mod,0.296875
 fstSecSkel byteBag,0.46875
 fstSecSkel lzjd,0.3125
-fstSecSkel bz,0.359375
+fstSecSkel bz,0.34375
 fstSecSkel jump,0.265625
 fstSecSkel ncd,0.5
 fStat ppdeep,0.125

@@ -151,28 +151,28 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
 "group1" "CollateralManagerState"
 "group2" "CollateralManagerState"
-"raw bzJumpi2" 0.9722222222222222
-"raw bzJumpi4" 0.9236111111111112
-"raw bzJumpi8" 0.8888888888888888
-"raw bzFixedLen32_2" 0.6402439024390244
-"raw bzFixedLen64_2" 0.6341463414634146
-"raw bzFixedLen128_2" 0.6341463414634146
-"raw bzFixedLen256_2" 0.6666666666666667
-"raw bzFixedLen256_4" 0.5238095238095238
-"raw bzFixedLen64_8" 0.5365853658536586
-"raw bzFixedLen256_8" 0.45238095238095233
-"raw bzFixedLen1024_8" 0.5454545454545454
-"skel bzJumpi2" 0.9703703703703703
-"skel bzJumpi4" 0.9481481481481482
-"skel bzJumpi8" 0.8888888888888888
-"skel bzFixedLen32_2" 0.6430769230769231
-"skel bzFixedLen64_2" 0.6441717791411044
-"skel bzFixedLen128_2" 0.6585365853658536
-"skel bzFixedLen256_2" 0.6666666666666667
-"skel bzFixedLen256_4" 0.6190476190476191
-"skel bzFixedLen64_8" 0.50920245398773
-"skel bzFixedLen256_8" 0.5952380952380952
-"skel bzFixedLen1024_8" 0.4545454545454546
+"raw bzJumpi2" 0.9452054794520548
+"raw bzJumpi4" 0.8493150684931507
+"raw bzJumpi8" 0.7808219178082192
+"raw bzFixedLen32_2" 0.4636363636363636
+"raw bzFixedLen64_2" 0.4545454545454546
+"raw bzFixedLen128_2" 0.4545454545454546
+"raw bzFixedLen256_2" 0.5
+"raw bzFixedLen256_4" 0.2857142857142857
+"raw bzFixedLen64_8" 0.3090909090909091
+"raw bzFixedLen256_8" 0.1785714285714286
+"raw bzFixedLen1024_8" 0.2857142857142857
+"skel bzJumpi2" 0.9420289855072463
+"skel bzJumpi4" 0.8985507246376812
+"skel bzJumpi8" 0.782608695652174
+"skel bzFixedLen32_2" 0.4703196347031964
+"skel bzFixedLen64_2" 0.4727272727272728
+"skel bzFixedLen128_2" 0.49090909090909096
+"skel bzFixedLen256_2" 0.5
+"skel bzFixedLen256_4" 0.4285714285714286
+"skel bzFixedLen64_8" 0.2727272727272727
+"skel bzFixedLen256_8" 0.3928571428571429
+"skel bzFixedLen1024_8" 0.1428571428571429
 ]
 edge [
 "isInner" False
@@ -180,28 +180,28 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o0 runs200"
 "group1" "CollateralManagerState"
 "group2" "CollateralManager"
-"raw bzJumpi2" 0.3397129186602871
-"raw bzJumpi4" 0.284688995215311
-"raw bzJumpi8" 0.215311004784689
-"raw bzFixedLen32_2" 0.2502896871378911
-"raw bzFixedLen64_2" 0.25
-"raw bzFixedLen128_2" 0.25
-"raw bzFixedLen256_2" 0.25688073394495414
-"raw bzFixedLen256_4" 0.24770642201834858
-"raw bzFixedLen64_8" 0.24537037037037035
-"raw bzFixedLen256_8" 0.22935779816513757
-"raw bzFixedLen1024_8" 0.25
-"skel bzJumpi2" 0.3402061855670103
-"skel bzJumpi4" 0.3402061855670103
-"skel bzJumpi8" 0.3118556701030928
-"skel bzFixedLen32_2" 0.24679860302677536
-"skel bzFixedLen64_2" 0.24651162790697678
-"skel bzFixedLen128_2" 0.25
-"skel bzFixedLen256_2" 0.25688073394495414
-"skel bzFixedLen256_4" 0.25688073394495414
-"skel bzFixedLen64_8" 0.22790697674418603
-"skel bzFixedLen256_8" 0.22935779816513757
-"skel bzFixedLen1024_8" 0.1785714285714286
+"raw bzJumpi2" 0.20461095100864557
+"raw bzJumpi4" 0.13832853025936598
+"raw bzJumpi8" 0.05475504322766567
+"raw bzFixedLen32_2" 0.14304635761589402
+"raw bzFixedLen64_2" 0.1428571428571429
+"raw bzFixedLen128_2" 0.1428571428571429
+"raw bzFixedLen256_2" 0.1473684210526316
+"raw bzFixedLen256_4" 0.13684210526315788
+"raw bzFixedLen64_8" 0.13756613756613756
+"raw bzFixedLen256_8" 0.11578947368421055
+"raw bzFixedLen1024_8" 0.125
+"skel bzJumpi2" 0.20496894409937894
+"skel bzJumpi4" 0.20496894409937894
+"skel bzJumpi8" 0.1708074534161491
+"skel bzFixedLen32_2" 0.14077025232403717
+"skel bzFixedLen64_2" 0.14058355437665782
+"skel bzFixedLen128_2" 0.1428571428571429
+"skel bzFixedLen256_2" 0.1473684210526316
+"skel bzFixedLen256_4" 0.1473684210526316
+"skel bzFixedLen64_8" 0.11936339522546424
+"skel bzFixedLen256_8" 0.11578947368421055
+"skel bzFixedLen1024_8" 0.04166666666666663
 ]
 edge [
 "isInner" False
@@ -209,28 +209,28 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "AggregationRouterV3"
-"raw bzJumpi2" 0.597457627118644
-"raw bzJumpi4" 0.44067796610169496
-"raw bzJumpi8" 0.4194915254237288
-"raw bzFixedLen32_2" 0.5413533834586466
-"raw bzFixedLen64_2" 0.54
-"raw bzFixedLen128_2" 0.54
-"raw bzFixedLen256_2" 0.5490196078431373
-"raw bzFixedLen256_4" 0.5098039215686274
-"raw bzFixedLen64_8" 0.45999999999999996
-"raw bzFixedLen256_8" 0.47058823529411764
-"raw bzFixedLen1024_8" 0.5714285714285714
-"skel bzJumpi2" 0.584070796460177
-"skel bzJumpi4" 0.4336283185840708
-"skel bzJumpi8" 0.41150442477876104
-"skel bzFixedLen32_2" 0.5367088607594936
-"skel bzFixedLen64_2" 0.5353535353535354
-"skel bzFixedLen128_2" 0.54
-"skel bzFixedLen256_2" 0.5490196078431373
-"skel bzFixedLen256_4" 0.5294117647058824
-"skel bzFixedLen64_8" 0.46464646464646464
-"skel bzFixedLen256_8" 0.47058823529411764
-"skel bzFixedLen1024_8" 0.3571428571428571
+"raw bzJumpi2" 0.4242424242424242
+"raw bzJumpi4" 0.19999999999999996
+"raw bzJumpi8" 0.16969696969696968
+"raw bzFixedLen32_2" 0.3711340206185567
+"raw bzFixedLen64_2" 0.36986301369863017
+"raw bzFixedLen128_2" 0.36986301369863017
+"raw bzFixedLen256_2" 0.3783783783783784
+"raw bzFixedLen256_4" 0.32432432432432434
+"raw bzFixedLen64_8" 0.26027397260273977
+"raw bzFixedLen256_8" 0.2702702702702703
+"raw bzFixedLen1024_8" 0.4
+"skel bzJumpi2" 0.4125
+"skel bzJumpi4" 0.19999999999999996
+"skel bzJumpi8" 0.16874999999999996
+"skel bzFixedLen32_2" 0.3667820069204152
+"skel bzFixedLen64_2" 0.3655172413793103
+"skel bzFixedLen128_2" 0.36986301369863017
+"skel bzFixedLen256_2" 0.3783783783783784
+"skel bzFixedLen256_4" 0.3513513513513513
+"skel bzFixedLen64_8" 0.2689655172413793
+"skel bzFixedLen256_8" 0.2702702702702703
+"skel bzFixedLen1024_8" 0.09999999999999998
 ]
 edge [
 "isInner" False
@@ -238,28 +238,28 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.3890410958904109
-"raw bzJumpi4" 0.30958904109589036
-"raw bzJumpi8" 0.2958904109589041
-"raw bzFixedLen32_2" 0.3262839879154078
-"raw bzFixedLen64_2" 0.3262839879154078
-"raw bzFixedLen128_2" 0.32530120481927716
-"raw bzFixedLen256_2" 0.33333333333333337
-"raw bzFixedLen256_4" 0.33333333333333337
-"raw bzFixedLen64_8" 0.3081570996978852
-"raw bzFixedLen256_8" 0.30952380952380953
-"raw bzFixedLen1024_8" 0.36363636363636365
-"skel bzJumpi2" 0.36768802228412256
-"skel bzJumpi4" 0.245125348189415
-"skel bzJumpi8" 0.245125348189415
-"skel bzFixedLen32_2" 0.3221884498480243
-"skel bzFixedLen64_2" 0.3221884498480243
-"skel bzFixedLen128_2" 0.32727272727272727
-"skel bzFixedLen256_2" 0.3373493975903614
-"skel bzFixedLen256_4" 0.3373493975903614
-"skel bzFixedLen64_8" 0.31610942249240126
-"skel bzFixedLen256_8" 0.28915662650602414
-"skel bzFixedLen1024_8" 0.2727272727272727
+"raw bzJumpi2" 0.24149659863945583
+"raw bzJumpi4" 0.1428571428571429
+"raw bzJumpi8" 0.12585034013605445
+"raw bzFixedLen32_2" 0.19494584837545126
+"raw bzFixedLen64_2" 0.19494584837545126
+"raw bzFixedLen128_2" 0.19424460431654678
+"raw bzFixedLen256_2" 0.19999999999999996
+"raw bzFixedLen256_4" 0.19999999999999996
+"raw bzFixedLen64_8" 0.1732851985559567
+"raw bzFixedLen256_8" 0.17142857142857137
+"raw bzFixedLen1024_8" 0.2222222222222222
+"skel bzJumpi2" 0.22525597269624575
+"skel bzJumpi4" 0.07508532423208192
+"skel bzJumpi8" 0.07508532423208192
+"skel bzFixedLen32_2" 0.19202898550724634
+"skel bzFixedLen64_2" 0.19202898550724634
+"skel bzFixedLen128_2" 0.19565217391304346
+"skel bzFixedLen256_2" 0.2028985507246377
+"skel bzFixedLen256_4" 0.2028985507246377
+"skel bzFixedLen64_8" 0.18478260869565222
+"skel bzFixedLen256_8" 0.14492753623188404
+"skel bzFixedLen1024_8" 0.11111111111111116
 ]
 edge [
 "isInner" False
@@ -267,260 +267,260 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o0 runs200"
 "group1" "CollateralManagerState"
 "group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.3120879120879121
-"raw bzJumpi4" 0.2637362637362637
-"raw bzJumpi8" 0.25274725274725274
-"raw bzFixedLen32_2" 0.15964523281596454
-"raw bzFixedLen64_2" 0.1595273264401772
-"raw bzFixedLen128_2" 0.15929203539823011
-"raw bzFixedLen256_2" 0.16470588235294115
-"raw bzFixedLen256_4" 0.16470588235294115
-"raw bzFixedLen64_8" 0.1595273264401772
-"raw bzFixedLen256_8" 0.1588235294117647
-"raw bzFixedLen1024_8" 0.18604651162790697
-"skel bzJumpi2" 0.3105882352941176
-"skel bzJumpi4" 0.24235294117647055
-"skel bzJumpi8" 0.23529411764705888
-"skel bzFixedLen32_2" 0.15703703703703709
-"skel bzFixedLen64_2" 0.15703703703703709
-"skel bzFixedLen128_2" 0.1597633136094675
+"raw bzJumpi2" 0.18489583333333337
+"raw bzJumpi4" 0.12760416666666663
+"raw bzJumpi8" 0.11458333333333337
+"raw bzFixedLen32_2" 0.08674698795180724
+"raw bzFixedLen64_2" 0.086677367576244
+"raw bzFixedLen128_2" 0.08653846153846156
+"raw bzFixedLen256_2" 0.08974358974358976
+"raw bzFixedLen256_4" 0.08974358974358976
+"raw bzFixedLen64_8" 0.086677367576244
+"raw bzFixedLen256_8" 0.08333333333333337
+"raw bzFixedLen1024_8" 0.10256410256410253
+"skel bzJumpi2" 0.18384401114206128
+"skel bzJumpi4" 0.10306406685236769
+"skel bzJumpi8" 0.09470752089136492
+"skel bzFixedLen32_2" 0.08520900321543412
+"skel bzFixedLen64_2" 0.08520900321543412
+"skel bzFixedLen128_2" 0.08681672025723475
+"skel bzFixedLen256_2" 0.08974358974358976
+"skel bzFixedLen256_4" 0.08974358974358976
+"skel bzFixedLen64_8" 0.0836012861736335
+"skel bzFixedLen256_8" 0.08333333333333337
+"skel bzFixedLen1024_8" 0.07692307692307687
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
+"target" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "AggregationRouterV3"
+"raw bzJumpi2" 0.36094674556213013
+"raw bzJumpi4" 0.16568047337278102
+"raw bzJumpi8" 0.15384615384615385
+"raw bzFixedLen32_2" 0.20454545454545459
+"raw bzFixedLen64_2" 0.20454545454545459
+"raw bzFixedLen128_2" 0.20454545454545459
+"raw bzFixedLen256_2" 0.21212121212121215
+"raw bzFixedLen256_4" 0.19696969696969702
+"raw bzFixedLen64_8" 0.1742424242424242
+"raw bzFixedLen256_8" 0.13636363636363635
+"raw bzFixedLen1024_8" 0.23529411764705888
+"skel bzJumpi2" 0.35757575757575755
+"skel bzJumpi4" 0.1575757575757576
+"skel bzJumpi8" 0.1333333333333333
+"skel bzFixedLen32_2" 0.20152091254752846
+"skel bzFixedLen64_2" 0.20152091254752846
+"skel bzFixedLen128_2" 0.20454545454545459
+"skel bzFixedLen256_2" 0.21212121212121215
+"skel bzFixedLen256_4" 0.18181818181818177
+"skel bzFixedLen64_8" 0.17490494296577952
+"skel bzFixedLen256_8" 0.18181818181818177
+"skel bzFixedLen1024_8" 0.23529411764705888
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
+"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "CollateralManager"
+"raw bzJumpi2" 0.23051948051948057
+"raw bzJumpi4" 0.2272727272727273
+"raw bzJumpi8" 0.20454545454545459
+"raw bzFixedLen32_2" 0.23529411764705888
+"raw bzFixedLen64_2" 0.23478260869565215
+"raw bzFixedLen128_2" 0.23478260869565215
+"raw bzFixedLen256_2" 0.24137931034482762
+"raw bzFixedLen256_4" 0.22413793103448276
+"raw bzFixedLen64_8" 0.20434782608695656
+"raw bzFixedLen256_8" 0.1724137931034483
+"raw bzFixedLen1024_8" 0.2666666666666667
+"skel bzJumpi2" 0.2214765100671141
+"skel bzJumpi4" 0.2214765100671141
+"skel bzJumpi8" 0.18791946308724827
+"skel bzFixedLen32_2" 0.2319474835886215
+"skel bzFixedLen64_2" 0.23144104803493448
+"skel bzFixedLen128_2" 0.23478260869565215
+"skel bzFixedLen256_2" 0.24137931034482762
+"skel bzFixedLen256_4" 0.24137931034482762
+"skel bzFixedLen64_8" 0.20087336244541487
+"skel bzFixedLen256_8" 0.2068965517241379
+"skel bzFixedLen1024_8" 0.1333333333333333
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
+"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "UniswapV2Router02"
+"raw bzJumpi2" 0.19293478260869568
+"raw bzJumpi4" 0.13043478260869568
+"raw bzJumpi8" 0.09510869565217395
+"raw bzFixedLen32_2" 0.11803278688524588
+"raw bzFixedLen64_2" 0.11790393013100442
+"raw bzFixedLen128_2" 0.11790393013100442
+"raw bzFixedLen256_2" 0.12173913043478257
+"raw bzFixedLen256_4" 0.12173913043478257
+"raw bzFixedLen64_8" 0.11790393013100442
+"raw bzFixedLen256_8" 0.12173913043478257
+"raw bzFixedLen1024_8" 0.10344827586206895
+"skel bzJumpi2" 0.2024539877300614
+"skel bzJumpi4" 0.06748466257668717
+"skel bzJumpi8" 0.05521472392638038
+"skel bzFixedLen32_2" 0.11610076670317637
+"skel bzFixedLen64_2" 0.11597374179431075
+"skel bzFixedLen128_2" 0.11790393013100442
+"skel bzFixedLen256_2" 0.12173913043478257
+"skel bzFixedLen256_4" 0.12173913043478257
+"skel bzFixedLen64_8" 0.11378555798687084
+"skel bzFixedLen256_8" 0.12173913043478257
+"skel bzFixedLen1024_8" 0.10344827586206895
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.1977715877437326
+"raw bzJumpi4" 0.14206128133704732
+"raw bzJumpi8" 0.11977715877437323
+"raw bzFixedLen32_2" 0.1473396998635743
+"raw bzFixedLen64_2" 0.14713896457765663
+"raw bzFixedLen128_2" 0.1467391304347826
+"raw bzFixedLen256_2" 0.15217391304347827
+"raw bzFixedLen256_4" 0.15217391304347827
+"raw bzFixedLen64_8" 0.14713896457765663
+"raw bzFixedLen256_8" 0.14130434782608692
+"raw bzFixedLen1024_8" 0.17391304347826086
+"skel bzJumpi2" 0.19130434782608696
+"skel bzJumpi4" 0.12463768115942031
+"skel bzJumpi8" 0.09275362318840574
+"skel bzFixedLen32_2" 0.1450068399452804
+"skel bzFixedLen64_2" 0.14480874316939896
+"skel bzFixedLen128_2" 0.14754098360655743
+"skel bzFixedLen256_2" 0.15217391304347827
+"skel bzFixedLen256_4" 0.15217391304347827
+"skel bzFixedLen64_8" 0.139344262295082
+"skel bzFixedLen256_8" 0.15217391304347827
+"skel bzFixedLen1024_8" 0.13043478260869568
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
+"target" "Synthetix - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.1775
+"raw bzJumpi4" 0.125
+"raw bzJumpi8" 0.12
+"raw bzFixedLen32_2" 0.11600429645542432
+"raw bzFixedLen64_2" 0.11587982832618027
+"raw bzFixedLen128_2" 0.11587982832618027
+"raw bzFixedLen256_2" 0.11965811965811968
+"raw bzFixedLen256_4" 0.11111111111111116
+"raw bzFixedLen64_8" 0.11587982832618027
+"raw bzFixedLen256_8" 0.10256410256410253
+"raw bzFixedLen1024_8" 0.1333333333333333
+"skel bzJumpi2" 0.20625000000000004
+"skel bzJumpi4" 0.20625000000000004
+"skel bzJumpi8" 0.16249999999999998
+"skel bzFixedLen32_2" 0.11397849462365595
+"skel bzFixedLen64_2" 0.11397849462365595
+"skel bzFixedLen128_2" 0.11587982832618027
+"skel bzFixedLen256_2" 0.11965811965811968
+"skel bzFixedLen256_4" 0.11965811965811968
+"skel bzFixedLen64_8" 0.09892473118279566
+"skel bzFixedLen256_8" 0.11111111111111116
+"skel bzFixedLen1024_8" 0.09999999999999998
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
+"target" "DSToken - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "DSToken"
+"raw bzJumpi2" 0.6818181818181819
+"raw bzJumpi4" 0.3522727272727273
+"raw bzJumpi8" 0.2727272727272727
+"raw bzFixedLen32_2" 0.6696428571428572
+"raw bzFixedLen64_2" 0.7321428571428572
+"raw bzFixedLen128_2" 0.6428571428571428
+"raw bzFixedLen256_2" 0.7857142857142857
+"raw bzFixedLen256_4" 0.5
+"raw bzFixedLen64_8" 0.3392857142857143
+"raw bzFixedLen256_8" 0.1428571428571429
+"raw bzFixedLen1024_8" 0.5
+"skel bzJumpi2" 0.7126436781609196
+"skel bzJumpi4" 0.31034482758620685
+"skel bzJumpi8" 0.24137931034482762
+"skel bzFixedLen32_2" 0.7
+"skel bzFixedLen64_2" 0.6909090909090909
+"skel bzFixedLen128_2" 0.7857142857142857
+"skel bzFixedLen256_2" 0.9285714285714286
+"skel bzFixedLen256_4" 0.5
+"skel bzFixedLen64_8" 0.3090909090909091
+"skel bzFixedLen256_8" 0.2857142857142857
+"skel bzFixedLen1024_8" 0.0
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.6056338028169015
+"raw bzJumpi4" 0.2816901408450704
+"raw bzJumpi8" 0.22535211267605637
+"raw bzFixedLen32_2" 0.6481481481481481
+"raw bzFixedLen64_2" 0.5555555555555556
+"raw bzFixedLen128_2" 0.5925925925925926
+"raw bzFixedLen256_2" 0.5714285714285714
+"raw bzFixedLen256_4" 0.4285714285714286
+"raw bzFixedLen64_8" 0.35185185185185186
+"raw bzFixedLen256_8" 0.2857142857142857
+"raw bzFixedLen1024_8" 0.5
+"skel bzJumpi2" 0.6212121212121212
+"skel bzJumpi4" 0.24242424242424243
+"skel bzJumpi8" 0.18181818181818177
+"skel bzFixedLen32_2" 0.5754716981132075
+"skel bzFixedLen64_2" 0.6415094339622642
+"skel bzFixedLen128_2" 0.7037037037037037
+"skel bzFixedLen256_2" 0.7142857142857143
+"skel bzFixedLen256_4" 0.5714285714285714
+"skel bzFixedLen64_8" 0.3584905660377359
+"skel bzFixedLen256_8" 0.5
+"skel bzFixedLen1024_8" 0.5
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.30567685589519655
+"raw bzJumpi4" 0.24890829694323147
+"raw bzJumpi8" 0.22707423580786024
+"raw bzFixedLen32_2" 0.15859030837004406
+"raw bzFixedLen64_2" 0.15835777126099704
+"raw bzFixedLen128_2" 0.1578947368421053
+"raw bzFixedLen256_2" 0.16279069767441856
+"raw bzFixedLen256_4" 0.13953488372093026
+"raw bzFixedLen64_8" 0.14662756598240467
+"raw bzFixedLen256_8" 0.10465116279069764
+"raw bzFixedLen1024_8" 0.18181818181818177
+"skel bzJumpi2" 0.2946428571428571
+"skel bzJumpi4" 0.2276785714285714
+"skel bzJumpi8" 0.2142857142857143
+"skel bzFixedLen32_2" 0.15588235294117647
+"skel bzFixedLen64_2" 0.15588235294117647
+"skel bzFixedLen128_2" 0.1588235294117647
 "skel bzFixedLen256_2" 0.16470588235294115
 "skel bzFixedLen256_4" 0.16470588235294115
-"skel bzFixedLen64_8" 0.15555555555555556
-"skel bzFixedLen256_8" 0.1588235294117647
-"skel bzFixedLen1024_8" 0.16279069767441856
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
-"target" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "AggregationRouterV3"
-"raw bzJumpi2" 0.55
-"raw bzJumpi4" 0.4125
-"raw bzJumpi8" 0.4041666666666667
-"raw bzFixedLen32_2" 0.339622641509434
-"raw bzFixedLen64_2" 0.339622641509434
-"raw bzFixedLen128_2" 0.339622641509434
-"raw bzFixedLen256_2" 0.35
-"raw bzFixedLen256_4" 0.3375
-"raw bzFixedLen64_8" 0.3144654088050315
-"raw bzFixedLen256_8" 0.2875
-"raw bzFixedLen1024_8" 0.38095238095238093
-"skel bzJumpi2" 0.5411255411255411
-"skel bzJumpi4" 0.3982683982683982
-"skel bzJumpi8" 0.38095238095238093
-"skel bzFixedLen32_2" 0.33544303797468356
-"skel bzFixedLen64_2" 0.33544303797468356
-"skel bzFixedLen128_2" 0.339622641509434
-"skel bzFixedLen256_2" 0.35
-"skel bzFixedLen256_4" 0.32499999999999996
-"skel bzFixedLen64_8" 0.31329113924050633
-"skel bzFixedLen256_8" 0.32499999999999996
-"skel bzFixedLen1024_8" 0.38095238095238093
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
-"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "CollateralManager"
-"raw bzJumpi2" 0.3746701846965699
-"raw bzJumpi4" 0.3720316622691293
-"raw bzJumpi8" 0.35356200527704484
-"raw bzFixedLen32_2" 0.38095238095238093
-"raw bzFixedLen64_2" 0.3802816901408451
-"raw bzFixedLen128_2" 0.3802816901408451
-"raw bzFixedLen256_2" 0.38888888888888884
-"raw bzFixedLen256_4" 0.375
-"raw bzFixedLen64_8" 0.3556338028169014
-"raw bzFixedLen256_8" 0.33333333333333337
-"raw bzFixedLen1024_8" 0.42105263157894735
-"skel bzJumpi2" 0.3626373626373627
-"skel bzJumpi4" 0.3626373626373627
-"skel bzJumpi8" 0.3351648351648352
-"skel bzFixedLen32_2" 0.3765541740674956
-"skel bzFixedLen64_2" 0.375886524822695
-"skel bzFixedLen128_2" 0.3802816901408451
-"skel bzFixedLen256_2" 0.38888888888888884
-"skel bzFixedLen256_4" 0.38888888888888884
-"skel bzFixedLen64_8" 0.35106382978723405
-"skel bzFixedLen256_8" 0.36111111111111116
-"skel bzFixedLen1024_8" 0.3157894736842105
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
-"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.3234624145785877
-"raw bzJumpi4" 0.2710706150341685
-"raw bzJumpi8" 0.24145785876993164
-"raw bzFixedLen32_2" 0.2111436950146628
-"raw bzFixedLen64_2" 0.2109375
-"raw bzFixedLen128_2" 0.2109375
-"raw bzFixedLen256_2" 0.21705426356589153
-"raw bzFixedLen256_4" 0.21705426356589153
-"raw bzFixedLen64_8" 0.2109375
-"raw bzFixedLen256_8" 0.21705426356589153
-"raw bzFixedLen1024_8" 0.21212121212121215
-"skel bzJumpi2" 0.33673469387755106
-"skel bzJumpi4" 0.22448979591836737
-"skel bzJumpi8" 0.2142857142857143
-"skel bzFixedLen32_2" 0.20804710500490675
-"skel bzFixedLen64_2" 0.207843137254902
-"skel bzFixedLen128_2" 0.2109375
-"skel bzFixedLen256_2" 0.21705426356589153
-"skel bzFixedLen256_4" 0.21705426356589153
-"skel bzFixedLen64_8" 0.20588235294117652
-"skel bzFixedLen256_8" 0.21705426356589153
-"skel bzFixedLen1024_8" 0.21212121212121215
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.3302325581395349
-"raw bzJumpi4" 0.2837209302325582
-"raw bzJumpi8" 0.2651162790697674
-"raw bzFixedLen32_2" 0.2568370986920333
-"raw bzFixedLen64_2" 0.2565320665083135
-"raw bzFixedLen128_2" 0.2559241706161137
-"raw bzFixedLen256_2" 0.26415094339622647
-"raw bzFixedLen256_4" 0.26415094339622647
-"raw bzFixedLen64_8" 0.2565320665083135
-"raw bzFixedLen256_8" 0.2547169811320755
-"raw bzFixedLen1024_8" 0.2962962962962963
-"skel bzJumpi2" 0.3211678832116789
-"skel bzJumpi4" 0.26520681265206814
-"skel bzJumpi8" 0.23844282238442827
-"skel bzFixedLen32_2" 0.2532855436081243
-"skel bzFixedLen64_2" 0.25298329355608595
-"skel bzFixedLen128_2" 0.2571428571428571
-"skel bzFixedLen256_2" 0.26415094339622647
-"skel bzFixedLen256_4" 0.26415094339622647
-"skel bzFixedLen64_8" 0.2482100238663485
-"skel bzFixedLen256_8" 0.26415094339622647
-"skel bzFixedLen1024_8" 0.2592592592592593
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
-"target" "Synthetix - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.3014861995753716
-"raw bzJumpi4" 0.2569002123142251
-"raw bzJumpi8" 0.25265392781316354
-"raw bzFixedLen32_2" 0.20789220404234843
-"raw bzFixedLen64_2" 0.20769230769230773
-"raw bzFixedLen128_2" 0.20769230769230773
-"raw bzFixedLen256_2" 0.2137404580152672
-"raw bzFixedLen256_4" 0.20610687022900764
-"raw bzFixedLen64_8" 0.20769230769230773
-"raw bzFixedLen256_8" 0.1984732824427481
-"raw bzFixedLen1024_8" 0.23529411764705888
-"skel bzJumpi2" 0.34196891191709844
-"skel bzJumpi4" 0.34196891191709844
-"skel bzJumpi8" 0.30569948186528495
-"skel bzFixedLen32_2" 0.20463320463320467
-"skel bzFixedLen64_2" 0.20463320463320467
-"skel bzFixedLen128_2" 0.20769230769230773
-"skel bzFixedLen256_2" 0.2137404580152672
-"skel bzFixedLen256_4" 0.2137404580152672
-"skel bzFixedLen64_8" 0.19111969111969107
-"skel bzFixedLen256_8" 0.20610687022900764
-"skel bzFixedLen1024_8" 0.20588235294117652
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
-"target" "DSToken - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "DSToken"
-"raw bzJumpi2" 0.8238993710691824
-"raw bzJumpi4" 0.6415094339622642
-"raw bzJumpi8" 0.5974842767295597
-"raw bzFixedLen32_2" 0.8318181818181818
-"raw bzFixedLen64_2" 0.8636363636363636
-"raw bzFixedLen128_2" 0.8181818181818181
-"raw bzFixedLen256_2" 0.8928571428571429
-"raw bzFixedLen256_4" 0.75
-"raw bzFixedLen64_8" 0.6636363636363636
-"raw bzFixedLen256_8" 0.5714285714285714
-"raw bzFixedLen1024_8" 0.75
-"skel bzJumpi2" 0.8366013071895425
-"skel bzJumpi4" 0.607843137254902
-"skel bzJumpi8" 0.5686274509803921
-"skel bzFixedLen32_2" 0.8472222222222222
-"skel bzFixedLen64_2" 0.8425925925925926
-"skel bzFixedLen128_2" 0.8909090909090909
-"skel bzFixedLen256_2" 0.9642857142857143
-"skel bzFixedLen256_4" 0.75
-"skel bzFixedLen64_8" 0.6481481481481481
-"skel bzFixedLen256_8" 0.6428571428571428
-"skel bzFixedLen1024_8" 0.5
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.7741935483870968
-"raw bzJumpi4" 0.5887096774193548
-"raw bzJumpi8" 0.5564516129032258
-"raw bzFixedLen32_2" 0.7978723404255319
-"raw bzFixedLen64_2" 0.7446808510638299
-"raw bzFixedLen128_2" 0.7659574468085106
-"raw bzFixedLen256_2" 0.75
-"raw bzFixedLen256_4" 0.6666666666666667
-"raw bzFixedLen64_8" 0.6276595744680851
-"raw bzFixedLen256_8" 0.5833333333333333
-"raw bzFixedLen1024_8" 0.7142857142857143
-"skel bzJumpi2" 0.7863247863247863
-"skel bzJumpi4" 0.5726495726495726
-"skel bzJumpi8" 0.5384615384615384
-"skel bzFixedLen32_2" 0.7554347826086957
-"skel bzFixedLen64_2" 0.7934782608695652
-"skel bzFixedLen128_2" 0.8297872340425532
-"skel bzFixedLen256_2" 0.8333333333333334
-"skel bzFixedLen256_4" 0.75
-"skel bzFixedLen64_8" 0.6304347826086957
-"skel bzFixedLen256_8" 0.7083333333333333
-"skel bzFixedLen1024_8" 0.7142857142857143
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.47
-"raw bzJumpi4" 0.42666666666666664
-"raw bzJumpi8" 0.41000000000000003
-"raw bzFixedLen32_2" 0.2737642585551331
-"raw bzFixedLen64_2" 0.27341772151898736
-"raw bzFixedLen128_2" 0.2727272727272727
-"raw bzFixedLen256_2" 0.28
-"raw bzFixedLen256_4" 0.26
-"raw bzFixedLen64_8" 0.2632911392405063
-"raw bzFixedLen256_8" 0.22999999999999998
-"raw bzFixedLen1024_8" 0.3076923076923077
-"skel bzJumpi2" 0.45517241379310347
-"skel bzJumpi4" 0.403448275862069
-"skel bzJumpi8" 0.3931034482758621
-"skel bzFixedLen32_2" 0.26972010178117045
-"skel bzFixedLen64_2" 0.26972010178117045
-"skel bzFixedLen128_2" 0.2741116751269036
-"skel bzFixedLen256_2" 0.2828282828282829
-"skel bzFixedLen256_4" 0.2828282828282829
-"skel bzFixedLen64_8" 0.24936386768447838
-"skel bzFixedLen256_8" 0.2727272727272727
-"skel bzFixedLen1024_8" 0.2692307692307693
+"skel bzFixedLen64_8" 0.13235294117647056
+"skel bzFixedLen256_8" 0.15294117647058825
+"skel bzFixedLen1024_8" 0.13636363636363635
 ]
 edge [
 "isInner" False
@@ -528,1739 +528,1739 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o0 runs200"
 "group1" "CollateralManagerState"
 "group2" "AddressResolver"
-"raw bzJumpi2" 0.8045112781954887
-"raw bzJumpi4" 0.6165413533834587
-"raw bzJumpi8" 0.5714285714285714
-"raw bzFixedLen32_2" 0.7727272727272727
-"raw bzFixedLen64_2" 0.7651515151515151
-"raw bzFixedLen128_2" 0.7727272727272727
-"raw bzFixedLen256_2" 0.7647058823529411
-"raw bzFixedLen256_4" 0.6176470588235294
-"raw bzFixedLen64_8" 0.6363636363636364
-"raw bzFixedLen256_8" 0.6176470588235294
-"raw bzFixedLen1024_8" 0.5555555555555556
-"skel bzJumpi2" 0.7795275590551181
-"skel bzJumpi4" 0.5905511811023623
-"skel bzJumpi8" 0.5511811023622047
-"skel bzFixedLen32_2" 0.7576923076923077
-"skel bzFixedLen64_2" 0.7615384615384615
-"skel bzFixedLen128_2" 0.7575757575757576
-"skel bzFixedLen256_2" 0.7647058823529411
-"skel bzFixedLen256_4" 0.6764705882352942
-"skel bzFixedLen64_8" 0.5538461538461539
-"skel bzFixedLen256_8" 0.6470588235294117
-"skel bzFixedLen1024_8" 0.7777777777777778
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
-"target" "Synthetix - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.4164222873900293
-"raw bzJumpi4" 0.4105571847507331
-"raw bzJumpi8" 0.343108504398827
-"raw bzFixedLen32_2" 0.353518821603928
-"raw bzFixedLen64_2" 0.3529411764705882
-"raw bzFixedLen128_2" 0.3529411764705882
-"raw bzFixedLen256_2" 0.36363636363636365
-"raw bzFixedLen256_4" 0.33766233766233766
-"raw bzFixedLen64_8" 0.3366013071895425
-"raw bzFixedLen256_8" 0.33766233766233766
-"raw bzFixedLen1024_8" 0.35
-"skel bzJumpi2" 0.4036697247706422
-"skel bzJumpi4" 0.4036697247706422
-"skel bzJumpi8" 0.3669724770642202
-"skel bzFixedLen32_2" 0.3486842105263158
-"skel bzFixedLen64_2" 0.3486842105263158
-"skel bzFixedLen128_2" 0.3529411764705882
-"skel bzFixedLen256_2" 0.36363636363636365
-"skel bzFixedLen256_4" 0.33766233766233766
-"skel bzFixedLen64_8" 0.33223684210526316
-"skel bzFixedLen256_8" 0.2987012987012987
-"skel bzFixedLen1024_8" 0.30000000000000004
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.501779359430605
-"raw bzJumpi4" 0.4661921708185054
-"raw bzJumpi8" 0.4555160142348754
-"raw bzFixedLen32_2" 0.4390243902439024
-"raw bzFixedLen64_2" 0.4390243902439024
-"raw bzFixedLen128_2" 0.4390243902439024
-"raw bzFixedLen256_2" 0.4354838709677419
-"raw bzFixedLen256_4" 0.4193548387096774
-"raw bzFixedLen64_8" 0.3902439024390244
-"raw bzFixedLen256_8" 0.3870967741935484
-"raw bzFixedLen1024_8" 0.3125
-"skel bzJumpi2" 0.48708487084870844
-"skel bzJumpi4" 0.44280442804428044
-"skel bzJumpi8" 0.42435424354243545
-"skel bzFixedLen32_2" 0.43442622950819676
-"skel bzFixedLen64_2" 0.43442622950819676
-"skel bzFixedLen128_2" 0.4390243902439024
-"skel bzFixedLen256_2" 0.4516129032258065
-"skel bzFixedLen256_4" 0.4516129032258065
-"skel bzFixedLen64_8" 0.39344262295081966
-"skel bzFixedLen256_8" 0.4193548387096774
-"skel bzFixedLen1024_8" 0.375
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
-"target" "DSToken - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "DSToken"
-"raw bzJumpi2" 0.7987804878048781
-"raw bzJumpi4" 0.6341463414634146
-"raw bzJumpi8" 0.6158536585365854
-"raw bzFixedLen32_2" 0.6287425149700598
-"raw bzFixedLen64_2" 0.6347305389221557
-"raw bzFixedLen128_2" 0.6309523809523809
-"raw bzFixedLen256_2" 0.627906976744186
-"raw bzFixedLen256_4" 0.5813953488372092
-"raw bzFixedLen64_8" 0.5329341317365269
-"raw bzFixedLen256_8" 0.5116279069767442
-"raw bzFixedLen1024_8" 0.5
-"skel bzJumpi2" 0.7911392405063291
-"skel bzJumpi4" 0.5886075949367089
-"skel bzJumpi8" 0.5696202531645569
-"skel bzFixedLen32_2" 0.6272727272727272
-"skel bzFixedLen64_2" 0.6242424242424243
-"skel bzFixedLen128_2" 0.6385542168674698
-"skel bzFixedLen256_2" 0.6666666666666667
-"skel bzFixedLen256_4" 0.5714285714285714
-"skel bzFixedLen64_8" 0.49696969696969695
-"skel bzFixedLen256_8" 0.5238095238095238
-"skel bzFixedLen1024_8" 0.4545454545454546
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "CollateralManager"
-"raw bzJumpi2" 0.3476190476190476
-"raw bzJumpi4" 0.29047619047619044
-"raw bzJumpi8" 0.22142857142857142
-"raw bzFixedLen32_2" 0.45128205128205123
-"raw bzFixedLen64_2" 0.4508196721311475
-"raw bzFixedLen128_2" 0.4508196721311475
-"raw bzFixedLen256_2" 0.4552845528455285
-"raw bzFixedLen256_4" 0.4552845528455285
-"raw bzFixedLen64_8" 0.4221311475409836
-"raw bzFixedLen256_8" 0.43089430894308944
-"raw bzFixedLen1024_8" 0.3870967741935484
-"skel bzJumpi2" 0.3529411764705882
-"skel bzJumpi4" 0.3529411764705882
-"skel bzJumpi8" 0.3375959079283888
-"skel bzFixedLen32_2" 0.4506172839506173
-"skel bzFixedLen64_2" 0.45174537987679675
-"skel bzFixedLen128_2" 0.4508196721311475
-"skel bzFixedLen256_2" 0.4552845528455285
-"skel bzFixedLen256_4" 0.4390243902439024
-"skel bzFixedLen64_8" 0.4065708418891171
-"skel bzFixedLen256_8" 0.41463414634146345
-"skel bzFixedLen1024_8" 0.3548387096774194
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "AggregationRouterV3"
-"raw bzJumpi2" 0.6134453781512605
-"raw bzJumpi4" 0.44957983193277307
-"raw bzJumpi8" 0.4369747899159664
-"raw bzFixedLen32_2" 0.7906066536203522
-"raw bzFixedLen64_2" 0.7734375
-"raw bzFixedLen128_2" 0.7890625
-"raw bzFixedLen256_2" 0.7692307692307692
-"raw bzFixedLen256_4" 0.676923076923077
-"raw bzFixedLen64_8" 0.62890625
-"raw bzFixedLen256_8" 0.6
-"raw bzFixedLen1024_8" 0.5294117647058824
-"skel bzJumpi2" 0.6026200873362446
-"skel bzJumpi4" 0.4454148471615721
-"skel bzJumpi8" 0.4279475982532751
-"skel bzFixedLen32_2" 0.8011811023622047
-"skel bzFixedLen64_2" 0.788235294117647
-"skel bzFixedLen128_2" 0.7734375
-"skel bzFixedLen256_2" 0.7384615384615385
-"skel bzFixedLen256_4" 0.6923076923076923
-"skel bzFixedLen64_8" 0.611764705882353
-"skel bzFixedLen256_8" 0.6
-"skel bzFixedLen1024_8" 0.5294117647058824
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.3978201634877384
-"raw bzJumpi4" 0.31607629427792916
-"raw bzJumpi8" 0.3079019073569482
-"raw bzFixedLen32_2" 0.5684754521963824
-"raw bzFixedLen64_2" 0.5684754521963824
-"raw bzFixedLen128_2" 0.5670103092783505
-"raw bzFixedLen256_2" 0.5714285714285714
-"raw bzFixedLen256_4" 0.5306122448979591
-"raw bzFixedLen64_8" 0.4832041343669251
-"raw bzFixedLen256_8" 0.47959183673469385
-"raw bzFixedLen1024_8" 0.4
-"skel bzJumpi2" 0.3812154696132597
-"skel bzJumpi4" 0.2541436464088398
-"skel bzJumpi8" 0.25138121546961323
-"skel bzFixedLen32_2" 0.5680933852140078
-"skel bzFixedLen64_2" 0.5699481865284974
-"skel bzFixedLen128_2" 0.5699481865284974
-"skel bzFixedLen256_2" 0.5773195876288659
-"skel bzFixedLen256_4" 0.5567010309278351
-"skel bzFixedLen64_8" 0.48963730569948183
-"skel bzFixedLen256_8" 0.4639175257731959
-"skel bzFixedLen1024_8" 0.48
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.3194748358862144
-"raw bzJumpi4" 0.2713347921225383
-"raw bzJumpi8" 0.2603938730853391
-"raw bzFixedLen32_2" 0.3003412969283277
-"raw bzFixedLen64_2" 0.3001364256480218
-"raw bzFixedLen128_2" 0.2997275204359673
-"raw bzFixedLen256_2" 0.30434782608695654
-"raw bzFixedLen256_4" 0.30434782608695654
-"raw bzFixedLen64_8" 0.2905866302864939
-"raw bzFixedLen256_8" 0.2934782608695652
-"raw bzFixedLen1024_8" 0.28260869565217395
-"skel bzJumpi2" 0.32242990654205606
-"skel bzJumpi4" 0.2570093457943925
-"skel bzJumpi8" 0.25233644859813087
-"skel bzFixedLen32_2" 0.2993848257006152
-"skel bzFixedLen64_2" 0.3005464480874317
-"skel bzFixedLen128_2" 0.3005464480874317
-"skel bzFixedLen256_2" 0.30434782608695654
-"skel bzFixedLen256_4" 0.2934782608695652
-"skel bzFixedLen64_8" 0.28415300546448086
-"skel bzFixedLen256_8" 0.28260869565217395
-"skel bzFixedLen1024_8" 0.23913043478260865
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "AggregationRouterV3"
-"raw bzJumpi2" 0.5661157024793388
-"raw bzJumpi4" 0.4173553719008265
-"raw bzJumpi8" 0.4132231404958677
-"raw bzFixedLen32_2" 0.5828877005347594
-"raw bzFixedLen64_2" 0.5855614973262032
-"raw bzFixedLen128_2" 0.5882352941176471
-"raw bzFixedLen256_2" 0.5957446808510638
-"raw bzFixedLen256_4" 0.5638297872340425
-"raw bzFixedLen64_8" 0.5080213903743316
-"raw bzFixedLen256_8" 0.5
-"raw bzFixedLen1024_8" 0.5
-"skel bzJumpi2" 0.5598290598290598
-"skel bzJumpi4" 0.4017094017094017
-"skel bzJumpi8" 0.3931623931623932
-"skel bzFixedLen32_2" 0.5865771812080537
-"skel bzFixedLen64_2" 0.5898123324396782
-"skel bzFixedLen128_2" 0.5775401069518716
-"skel bzFixedLen256_2" 0.5957446808510638
-"skel bzFixedLen256_4" 0.5531914893617021
-"skel bzFixedLen64_8" 0.5093833780160858
-"skel bzFixedLen256_8" 0.4787234042553191
-"skel bzFixedLen1024_8" 0.375
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "CollateralManager"
-"raw bzJumpi2" 0.38320209973753283
-"raw bzJumpi4" 0.38320209973753283
-"raw bzJumpi8" 0.3700787401574803
-"raw bzFixedLen32_2" 0.6465390279823269
-"raw bzFixedLen64_2" 0.6411764705882352
-"raw bzFixedLen128_2" 0.6411764705882352
-"raw bzFixedLen256_2" 0.627906976744186
-"raw bzFixedLen256_4" 0.5813953488372092
-"raw bzFixedLen64_8" 0.5352941176470588
-"raw bzFixedLen256_8" 0.5348837209302326
-"raw bzFixedLen1024_8" 0.4545454545454546
-"skel bzJumpi2" 0.3760217983651226
-"skel bzJumpi4" 0.3760217983651226
-"skel bzJumpi8" 0.36239782016348776
-"skel bzFixedLen32_2" 0.643491124260355
-"skel bzFixedLen64_2" 0.640117994100295
-"skel bzFixedLen128_2" 0.6470588235294117
-"skel bzFixedLen256_2" 0.6511627906976745
-"skel bzFixedLen256_4" 0.6046511627906976
-"skel bzFixedLen64_8" 0.5221238938053097
-"skel bzFixedLen256_8" 0.5232558139534884
-"skel bzFixedLen1024_8" 0.5
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.3310657596371882
-"raw bzJumpi4" 0.27664399092970526
-"raw bzJumpi8" 0.2403628117913832
-"raw bzFixedLen32_2" 0.3876651982378855
-"raw bzFixedLen64_2" 0.38732394366197187
-"raw bzFixedLen128_2" 0.38732394366197187
-"raw bzFixedLen256_2" 0.39160839160839156
-"raw bzFixedLen256_4" 0.39160839160839156
-"raw bzFixedLen64_8" 0.3661971830985915
-"raw bzFixedLen256_8" 0.3706293706293706
-"raw bzFixedLen1024_8" 0.33333333333333337
-"skel bzJumpi2" 0.3493670886075949
-"skel bzJumpi4" 0.2329113924050633
-"skel bzJumpi8" 0.22278481012658224
-"skel bzFixedLen32_2" 0.3869257950530035
-"skel bzFixedLen64_2" 0.3880070546737213
-"skel bzFixedLen128_2" 0.38732394366197187
-"skel bzFixedLen256_2" 0.39160839160839156
-"skel bzFixedLen256_4" 0.3846153846153846
-"skel bzFixedLen64_8" 0.35449735449735453
-"skel bzFixedLen256_8" 0.36363636363636365
-"skel bzFixedLen1024_8" 0.3055555555555556
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.3379629629629629
-"raw bzJumpi4" 0.28935185185185186
-"raw bzJumpi8" 0.2754629629629629
-"raw bzFixedLen32_2" 0.46169989506820563
-"raw bzFixedLen64_2" 0.46121593291404617
-"raw bzFixedLen128_2" 0.4602510460251046
-"raw bzFixedLen256_2" 0.4666666666666667
-"raw bzFixedLen256_4" 0.44999999999999996
-"raw bzFixedLen64_8" 0.4088050314465409
-"raw bzFixedLen256_8" 0.3916666666666667
-"raw bzFixedLen1024_8" 0.3666666666666667
-"skel bzJumpi2" 0.33333333333333337
-"skel bzJumpi4" 0.27294685990338163
-"skel bzJumpi8" 0.2632850241545893
-"skel bzFixedLen32_2" 0.4610526315789474
-"skel bzFixedLen64_2" 0.46218487394957986
-"skel bzFixedLen128_2" 0.46218487394957986
-"skel bzFixedLen256_2" 0.4666666666666667
-"skel bzFixedLen256_4" 0.4666666666666667
-"skel bzFixedLen64_8" 0.4117647058823529
-"skel bzFixedLen256_8" 0.44166666666666665
-"skel bzFixedLen1024_8" 0.4666666666666667
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "Synthetix - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.30866807610993663
-"raw bzJumpi4" 0.2642706131078224
-"raw bzJumpi8" 0.2621564482029598
-"raw bzFixedLen32_2" 0.3822762814943528
-"raw bzFixedLen64_2" 0.3819444444444444
-"raw bzFixedLen128_2" 0.3819444444444444
-"raw bzFixedLen256_2" 0.38620689655172413
-"raw bzFixedLen256_4" 0.38620689655172413
-"raw bzFixedLen64_8" 0.3663194444444444
-"raw bzFixedLen256_8" 0.35862068965517246
-"raw bzFixedLen1024_8" 0.32432432432432434
-"skel bzJumpi2" 0.3547557840616966
-"skel bzJumpi4" 0.3547557840616966
-"skel bzJumpi8" 0.33419023136246784
-"skel bzFixedLen32_2" 0.381201044386423
-"skel bzFixedLen64_2" 0.3826086956521739
-"skel bzFixedLen128_2" 0.3819444444444444
-"skel bzFixedLen256_2" 0.38620689655172413
-"skel bzFixedLen256_4" 0.37241379310344824
-"skel bzFixedLen64_8" 0.36
-"skel bzFixedLen256_8" 0.3517241379310345
-"skel bzFixedLen1024_8" 0.3513513513513513
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "DSToken - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "DSToken"
-"raw bzJumpi2" 0.8509316770186335
-"raw bzJumpi4" 0.6459627329192547
-"raw bzJumpi8" 0.5900621118012422
-"raw bzFixedLen32_2" 0.6536144578313253
-"raw bzFixedLen64_2" 0.6746987951807228
-"raw bzFixedLen128_2" 0.6626506024096386
-"raw bzFixedLen256_2" 0.6666666666666667
-"raw bzFixedLen256_4" 0.5714285714285714
-"raw bzFixedLen64_8" 0.5180722891566265
-"raw bzFixedLen256_8" 0.47619047619047616
-"raw bzFixedLen1024_8" 0.5454545454545454
-"skel bzJumpi2" 0.858974358974359
-"skel bzJumpi4" 0.6153846153846154
-"skel bzJumpi8" 0.5769230769230769
-"skel bzFixedLen32_2" 0.6595744680851063
-"skel bzFixedLen64_2" 0.6545454545454545
-"skel bzFixedLen128_2" 0.6626506024096386
-"skel bzFixedLen256_2" 0.6666666666666667
-"skel bzFixedLen256_4" 0.6428571428571428
-"skel bzFixedLen64_8" 0.5212121212121212
-"skel bzFixedLen256_8" 0.5952380952380952
-"skel bzFixedLen1024_8" 0.5454545454545454
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.7619047619047619
-"raw bzJumpi4" 0.6111111111111112
-"raw bzJumpi8" 0.5555555555555556
-"raw bzFixedLen32_2" 0.53
-"raw bzFixedLen64_2" 0.5333333333333333
-"raw bzFixedLen128_2" 0.5333333333333333
-"raw bzFixedLen256_2" 0.5263157894736843
-"raw bzFixedLen256_4" 0.4473684210526315
-"raw bzFixedLen64_8" 0.42000000000000004
-"raw bzFixedLen256_8" 0.4473684210526315
-"raw bzFixedLen1024_8" 0.5
-"skel bzJumpi2" 0.775
-"skel bzJumpi4" 0.575
-"skel bzJumpi8" 0.5583333333333333
-"skel bzFixedLen32_2" 0.5252525252525253
-"skel bzFixedLen64_2" 0.5234899328859061
-"skel bzFixedLen128_2" 0.5333333333333333
-"skel bzFixedLen256_2" 0.5263157894736843
-"skel bzFixedLen256_4" 0.5263157894736843
-"skel bzFixedLen64_8" 0.4295302013422819
-"skel bzFixedLen256_8" 0.4736842105263158
-"skel bzFixedLen1024_8" 0.5
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.48344370860927155
-"raw bzJumpi4" 0.4370860927152318
-"raw bzJumpi8" 0.42052980132450335
-"raw bzFixedLen32_2" 0.48834628190899
-"raw bzFixedLen64_2" 0.4878048780487805
-"raw bzFixedLen128_2" 0.48672566371681414
-"raw bzFixedLen256_2" 0.49122807017543857
-"raw bzFixedLen256_4" 0.4736842105263158
-"raw bzFixedLen64_8" 0.4390243902439024
-"raw bzFixedLen256_8" 0.4473684210526315
-"raw bzFixedLen1024_8" 0.3793103448275862
-"skel bzJumpi2" 0.4709897610921502
-"skel bzJumpi4" 0.41638225255972694
-"skel bzJumpi8" 0.40955631399317405
-"skel bzFixedLen32_2" 0.48720800889877647
-"skel bzFixedLen64_2" 0.48888888888888893
-"skel bzFixedLen128_2" 0.48888888888888893
-"skel bzFixedLen256_2" 0.49557522123893805
-"skel bzFixedLen256_4" 0.4690265486725663
-"skel bzFixedLen64_8" 0.4288888888888889
-"skel bzFixedLen256_8" 0.4513274336283186
-"skel bzFixedLen1024_8" 0.3793103448275862
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.8148148148148149
-"raw bzJumpi4" 0.6296296296296297
-"raw bzJumpi8" 0.5851851851851853
-"raw bzFixedLen32_2" 0.773936170212766
-"raw bzFixedLen64_2" 0.75
-"raw bzFixedLen128_2" 0.7978723404255319
-"raw bzFixedLen256_2" 0.7916666666666666
-"raw bzFixedLen256_4" 0.75
-"raw bzFixedLen64_8" 0.6329787234042553
-"raw bzFixedLen256_8" 0.6875
-"raw bzFixedLen1024_8" 0.6666666666666667
-"skel bzJumpi2" 0.7615384615384615
-"skel bzJumpi4" 0.6
-"skel bzJumpi8" 0.5769230769230769
-"skel bzFixedLen32_2" 0.7935656836461126
-"skel bzFixedLen64_2" 0.786096256684492
-"skel bzFixedLen128_2" 0.7872340425531915
-"skel bzFixedLen256_2" 0.8125
-"skel bzFixedLen256_4" 0.7916666666666666
-"skel bzFixedLen64_8" 0.6417112299465241
-"skel bzFixedLen256_8" 0.6666666666666667
-"skel bzFixedLen1024_8" 0.5
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "Synthetix - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.4256559766763849
-"raw bzJumpi4" 0.4256559766763849
-"raw bzJumpi8" 0.36443148688046645
-"raw bzFixedLen32_2" 0.6085753803596128
-"raw bzFixedLen64_2" 0.6049723756906078
-"raw bzFixedLen128_2" 0.5856353591160222
-"raw bzFixedLen256_2" 0.5934065934065934
-"raw bzFixedLen256_4" 0.5164835164835164
-"raw bzFixedLen64_8" 0.48895027624309395
-"raw bzFixedLen256_8" 0.46153846153846156
-"raw bzFixedLen1024_8" 0.4347826086956522
-"skel bzJumpi2" 0.4181818181818182
-"skel bzJumpi4" 0.4181818181818182
-"skel bzJumpi8" 0.396969696969697
-"skel bzFixedLen32_2" 0.5977808599167822
-"skel bzFixedLen64_2" 0.6066481994459834
-"skel bzFixedLen128_2" 0.6077348066298343
-"skel bzFixedLen256_2" 0.6043956043956045
-"skel bzFixedLen256_4" 0.5714285714285714
-"skel bzFixedLen64_8" 0.4958448753462604
-"skel bzFixedLen256_8" 0.5054945054945055
-"skel bzFixedLen1024_8" 0.5652173913043479
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManagerState"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.5159010600706714
-"raw bzJumpi4" 0.47349823321554774
-"raw bzJumpi8" 0.4664310954063604
-"raw bzFixedLen32_2" 0.7003311258278146
-"raw bzFixedLen64_2" 0.6721854304635762
-"raw bzFixedLen128_2" 0.6821192052980132
-"raw bzFixedLen256_2" 0.6578947368421053
-"raw bzFixedLen256_4" 0.6052631578947368
-"raw bzFixedLen64_8" 0.5364238410596027
-"raw bzFixedLen256_8" 0.5394736842105263
-"raw bzFixedLen1024_8" 0.4736842105263158
-"skel bzJumpi2" 0.5036496350364963
-"skel bzJumpi4" 0.45620437956204385
-"skel bzJumpi8" 0.45255474452554745
-"skel bzFixedLen32_2" 0.7154742096505824
-"skel bzFixedLen64_2" 0.6976744186046512
-"skel bzFixedLen128_2" 0.7152317880794702
-"skel bzFixedLen256_2" 0.736842105263158
-"skel bzFixedLen256_4" 0.6710526315789473
-"skel bzFixedLen64_8" 0.5647840531561461
-"skel bzFixedLen256_8" 0.6052631578947368
-"skel bzFixedLen1024_8" 0.631578947368421
-]
-edge [
-"isInner" False
-"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
-"target" "DSToken - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManagerState"
-"group2" "DSToken"
-"raw bzJumpi2" 0.8253012048192772
-"raw bzJumpi4" 0.6506024096385542
-"raw bzJumpi8" 0.6144578313253012
-"raw bzFixedLen32_2" 0.8878923766816144
-"raw bzFixedLen64_2" 0.8789237668161435
-"raw bzFixedLen128_2" 0.8303571428571428
-"raw bzFixedLen256_2" 0.7894736842105263
-"raw bzFixedLen256_4" 0.6842105263157895
-"raw bzFixedLen64_8" 0.6681614349775784
-"raw bzFixedLen256_8" 0.631578947368421
-"raw bzFixedLen1024_8" 0.6
-"skel bzJumpi2" 0.8136645962732919
-"skel bzJumpi4" 0.6086956521739131
-"skel bzJumpi8" 0.6086956521739131
-"skel bzFixedLen32_2" 0.8645598194130926
-"skel bzFixedLen64_2" 0.8648648648648649
-"skel bzFixedLen128_2" 0.7747747747747747
-"skel bzFixedLen256_2" 0.8392857142857143
-"skel bzFixedLen256_4" 0.6964285714285714
-"skel bzFixedLen64_8" 0.6216216216216216
-"skel bzFixedLen256_8" 0.625
-"skel bzFixedLen1024_8" 0.6428571428571428
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "AggregationRouterV3"
-"raw bzJumpi2" 0.634765625
-"raw bzJumpi4" 0.56640625
-"raw bzJumpi8" 0.47265625
-"raw bzFixedLen32_2" 0.5564053537284894
-"raw bzFixedLen64_2" 0.5572519083969465
-"raw bzFixedLen128_2" 0.5572519083969465
-"raw bzFixedLen256_2" 0.553030303030303
-"raw bzFixedLen256_4" 0.5227272727272727
-"raw bzFixedLen64_8" 0.4885496183206107
-"raw bzFixedLen256_8" 0.4772727272727273
-"raw bzFixedLen1024_8" 0.5294117647058824
-"skel bzJumpi2" 0.6597510373443983
-"skel bzJumpi4" 0.607883817427386
-"skel bzJumpi8" 0.5373443983402489
-"skel bzFixedLen32_2" 0.5547024952015356
-"skel bzFixedLen64_2" 0.5555555555555556
-"skel bzFixedLen128_2" 0.5534351145038168
-"skel bzFixedLen256_2" 0.5454545454545454
-"skel bzFixedLen256_4" 0.5
-"skel bzFixedLen64_8" 0.4693486590038314
-"skel bzFixedLen256_8" 0.4545454545454546
-"skel bzFixedLen1024_8" 0.5294117647058824
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.8361934477379095
-"raw bzJumpi4" 0.7238689547581904
-"raw bzJumpi8" 0.625585023400936
-"raw bzFixedLen32_2" 0.7967914438502673
-"raw bzFixedLen64_2" 0.7801526717557252
-"raw bzFixedLen128_2" 0.774390243902439
-"raw bzFixedLen256_2" 0.7393939393939394
-"raw bzFixedLen256_4" 0.6666666666666667
-"raw bzFixedLen64_8" 0.6244274809160305
-"raw bzFixedLen256_8" 0.6060606060606061
-"raw bzFixedLen1024_8" 0.5
-"skel bzJumpi2" 0.8422764227642277
-"skel bzJumpi4" 0.7252032520325203
-"skel bzJumpi8" 0.6390243902439025
-"skel bzFixedLen32_2" 0.7977011494252874
-"skel bzFixedLen64_2" 0.7917304747320061
-"skel bzFixedLen128_2" 0.7859327217125383
-"skel bzFixedLen256_2" 0.7682926829268293
-"skel bzFixedLen256_4" 0.7073170731707317
-"skel bzFixedLen64_8" 0.6079632465543645
-"skel bzFixedLen256_8" 0.6280487804878049
-"skel bzFixedLen1024_8" 0.6666666666666667
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.8604651162790697
-"raw bzJumpi4" 0.8563611491108071
-"raw bzJumpi8" 0.7441860465116279
-"raw bzFixedLen32_2" 0.7324999999999999
-"raw bzFixedLen64_2" 0.7282717282717283
-"raw bzFixedLen128_2" 0.7385229540918163
-"raw bzFixedLen256_2" 0.7450199203187251
-"raw bzFixedLen256_4" 0.6772908366533865
-"raw bzFixedLen64_8" 0.6013986013986015
-"raw bzFixedLen256_8" 0.601593625498008
-"raw bzFixedLen1024_8" 0.6031746031746033
-"skel bzJumpi2" 0.8516886930983847
-"skel bzJumpi4" 0.7415565345080763
-"skel bzJumpi8" 0.6519823788546255
-"skel bzFixedLen32_2" 0.7376064096144217
-"skel bzFixedLen64_2" 0.7257257257257257
-"skel bzFixedLen128_2" 0.726
-"skel bzFixedLen256_2" 0.7450199203187251
-"skel bzFixedLen256_4" 0.6812749003984064
-"skel bzFixedLen64_8" 0.5925925925925926
-"skel bzFixedLen256_8" 0.593625498007968
-"skel bzFixedLen1024_8" 0.6507936507936508
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "AggregationRouterV3"
-"raw bzJumpi2" 0.6472868217054264
-"raw bzJumpi4" 0.6027131782945736
-"raw bzJumpi8" 0.49224806201550386
-"raw bzFixedLen32_2" 0.774746687451286
-"raw bzFixedLen64_2" 0.7725856697819314
-"raw bzFixedLen128_2" 0.7850467289719626
-"raw bzFixedLen256_2" 0.7639751552795031
-"raw bzFixedLen256_4" 0.6956521739130435
-"raw bzFixedLen64_8" 0.6152647975077882
-"raw bzFixedLen256_8" 0.6211180124223603
-"raw bzFixedLen1024_8" 0.6585365853658536
-"skel bzJumpi2" 0.6694045174537988
-"skel bzJumpi4" 0.6180698151950719
-"skel bzJumpi8" 0.5379876796714579
-"skel bzFixedLen32_2" 0.7756059421422987
-"skel bzFixedLen64_2" 0.7796875
-"skel bzFixedLen128_2" 0.7694704049844237
-"skel bzFixedLen256_2" 0.7639751552795031
-"skel bzFixedLen256_4" 0.6956521739130435
-"skel bzFixedLen64_8" 0.609375
-"skel bzFixedLen256_8" 0.6086956521739131
-"skel bzFixedLen1024_8" 0.6097560975609756
-]
-edge [
-"isInner" True
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "CollateralManager"
-"raw bzJumpi2" 0.9038167938931297
-"raw bzJumpi4" 0.7190839694656488
-"raw bzJumpi8" 0.5725190839694656
-"raw bzFixedLen32_2" 0.7265238879736409
-"raw bzFixedLen64_2" 0.725328947368421
-"raw bzFixedLen128_2" 0.736842105263158
-"raw bzFixedLen256_2" 0.6993464052287581
-"raw bzFixedLen256_4" 0.6535947712418301
-"raw bzFixedLen64_8" 0.5855263157894737
-"raw bzFixedLen256_8" 0.5947712418300654
-"raw bzFixedLen1024_8" 0.5897435897435898
-"skel bzJumpi2" 0.9435483870967742
-"skel bzJumpi4" 0.8983870967741936
-"skel bzJumpi8" 0.8548387096774194
-"skel bzFixedLen32_2" 0.7322314049586777
-"skel bzFixedLen64_2" 0.7392739273927393
-"skel bzFixedLen128_2" 0.743421052631579
-"skel bzFixedLen256_2" 0.7516339869281046
-"skel bzFixedLen256_4" 0.7058823529411764
-"skel bzFixedLen64_8" 0.5792079207920793
-"skel bzFixedLen256_8" 0.607843137254902
-"skel bzFixedLen1024_8" 0.6153846153846154
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.8363636363636364
-"raw bzJumpi4" 0.8307692307692307
-"raw bzJumpi8" 0.7608391608391608
-"raw bzFixedLen32_2" 0.8347305389221557
-"raw bzFixedLen64_2" 0.8289473684210527
-"raw bzFixedLen128_2" 0.8277511961722488
-"raw bzFixedLen256_2" 0.8142857142857143
-"raw bzFixedLen256_4" 0.7380952380952381
-"raw bzFixedLen64_8" 0.6566985645933014
-"raw bzFixedLen256_8" 0.638095238095238
-"raw bzFixedLen1024_8" 0.6603773584905661
-"skel bzJumpi2" 0.8503086419753086
-"skel bzJumpi4" 0.7237654320987654
-"skel bzJumpi8" 0.632716049382716
-"skel bzFixedLen32_2" 0.8475390156062426
-"skel bzFixedLen64_2" 0.8261390887290168
-"skel bzFixedLen128_2" 0.8444976076555024
-"skel bzFixedLen256_2" 0.8571428571428572
-"skel bzFixedLen256_4" 0.7666666666666666
-"skel bzFixedLen64_8" 0.6642685851318945
-"skel bzFixedLen256_8" 0.6761904761904762
-"skel bzFixedLen1024_8" 0.679245283018868
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.8753541076487252
-"raw bzJumpi4" 0.8668555240793201
-"raw bzJumpi8" 0.726628895184136
-"raw bzFixedLen32_2" 0.8353494623655914
-"raw bzFixedLen64_2" 0.8241610738255034
-"raw bzFixedLen128_2" 0.8471849865951743
-"raw bzFixedLen256_2" 0.8288770053475936
-"raw bzFixedLen256_4" 0.7486631016042781
-"raw bzFixedLen64_8" 0.6496644295302013
-"raw bzFixedLen256_8" 0.679144385026738
-"raw bzFixedLen1024_8" 0.6595744680851063
-"skel bzJumpi2" 0.8650674662668666
-"skel bzJumpi4" 0.7586206896551724
-"skel bzJumpi8" 0.664167916041979
-"skel bzFixedLen32_2" 0.8497304582210242
-"skel bzFixedLen64_2" 0.8250336473755047
-"skel bzFixedLen128_2" 0.8279569892473118
-"skel bzFixedLen256_2" 0.8449197860962567
-"skel bzFixedLen256_4" 0.7593582887700535
-"skel bzFixedLen64_8" 0.6379542395693136
-"skel bzFixedLen256_8" 0.679144385026738
-"skel bzFixedLen1024_8" 0.7021276595744681
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "Synthetix - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.8688085676037484
-"raw bzJumpi4" 0.8554216867469879
-"raw bzJumpi8" 0.6639892904953146
-"raw bzFixedLen32_2" 0.8327402135231317
-"raw bzFixedLen64_2" 0.8293838862559242
-"raw bzFixedLen128_2" 0.8412322274881516
-"raw bzFixedLen256_2" 0.8443396226415094
-"raw bzFixedLen256_4" 0.7688679245283019
-"raw bzFixedLen64_8" 0.6682464454976303
-"raw bzFixedLen256_8" 0.6698113207547169
-"raw bzFixedLen1024_8" 0.7222222222222222
-"skel bzJumpi2" 0.881619937694704
-"skel bzJumpi4" 0.7850467289719626
-"skel bzJumpi8" 0.7476635514018692
-"skel bzFixedLen32_2" 0.8324420677361853
-"skel bzFixedLen64_2" 0.8230403800475059
-"skel bzFixedLen128_2" 0.8364928909952607
-"skel bzFixedLen256_2" 0.8349056603773585
-"skel bzFixedLen256_4" 0.7971698113207547
-"skel bzFixedLen64_8" 0.680522565320665
-"skel bzFixedLen256_8" 0.6933962264150944
-"skel bzFixedLen1024_8" 0.7037037037037037
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "DSToken - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "DSToken"
-"raw bzJumpi2" 0.4045977011494253
-"raw bzJumpi4" 0.3172413793103448
-"raw bzJumpi8" 0.303448275862069
-"raw bzFixedLen32_2" 0.2583621683967705
-"raw bzFixedLen64_2" 0.25806451612903225
-"raw bzFixedLen128_2" 0.25806451612903225
-"raw bzFixedLen256_2" 0.25688073394495414
-"raw bzFixedLen256_4" 0.23853211009174313
-"raw bzFixedLen64_8" 0.2465437788018433
-"raw bzFixedLen256_8" 0.22935779816513757
-"raw bzFixedLen1024_8" 0.25
-"skel bzJumpi2" 0.42542787286063566
-"skel bzJumpi4" 0.42542787286063566
-"skel bzJumpi8" 0.41320293398533003
-"skel bzFixedLen32_2" 0.25492468134414836
-"skel bzFixedLen64_2" 0.25462962962962965
-"skel bzFixedLen128_2" 0.25806451612903225
-"skel bzFixedLen256_2" 0.25688073394495414
-"skel bzFixedLen256_4" 0.24770642201834858
-"skel bzFixedLen64_8" 0.25
-"skel bzFixedLen256_8" 0.22935779816513757
-"skel bzFixedLen1024_8" 0.1785714285714286
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.265
-"raw bzJumpi4" 0.2025
-"raw bzJumpi8" 0.1975
-"raw bzFixedLen32_2" 0.19161676646706582
-"raw bzFixedLen64_2" 0.19138755980861244
-"raw bzFixedLen128_2" 0.19138755980861244
-"raw bzFixedLen256_2" 0.19047619047619047
-"raw bzFixedLen256_4" 0.19047619047619047
-"raw bzFixedLen64_8" 0.19138755980861244
-"raw bzFixedLen256_8" 0.19047619047619047
-"raw bzFixedLen1024_8" 0.2222222222222222
-"skel bzJumpi2" 0.27345844504021444
-"skel bzJumpi4" 0.27345844504021444
-"skel bzJumpi8" 0.26809651474530827
-"skel bzFixedLen32_2" 0.18772563176895307
-"skel bzFixedLen64_2" 0.1875
-"skel bzFixedLen128_2" 0.19138755980861244
-"skel bzFixedLen256_2" 0.19047619047619047
-"skel bzFixedLen256_4" 0.19047619047619047
-"skel bzFixedLen64_8" 0.1826923076923077
-"skel bzFixedLen256_8" 0.17142857142857137
-"skel bzFixedLen1024_8" 0.14814814814814814
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.7881944444444444
-"raw bzJumpi4" 0.6666666666666667
-"raw bzJumpi8" 0.515625
-"raw bzFixedLen32_2" 0.8447075208913649
-"raw bzFixedLen64_2" 0.8456189151599444
-"raw bzFixedLen128_2" 0.85
-"raw bzFixedLen256_2" 0.8232044198895028
-"raw bzFixedLen256_4" 0.7679558011049724
-"raw bzFixedLen64_8" 0.6703755215577191
-"raw bzFixedLen256_8" 0.6740331491712708
-"raw bzFixedLen1024_8" 0.6739130434782609
-"skel bzJumpi2" 0.815018315018315
-"skel bzJumpi4" 0.7619047619047619
-"skel bzJumpi8" 0.728937728937729
-"skel bzFixedLen32_2" 0.854152128401954
-"skel bzFixedLen64_2" 0.8382147838214784
-"skel bzFixedLen128_2" 0.8607242339832869
-"skel bzFixedLen256_2" 0.8944444444444445
-"skel bzFixedLen256_4" 0.7611111111111111
-"skel bzFixedLen64_8" 0.6610878661087867
-"skel bzFixedLen256_8" 0.6722222222222223
-"skel bzFixedLen1024_8" 0.7173913043478262
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.3031784841075794
-"raw bzJumpi4" 0.23227383863080686
-"raw bzJumpi8" 0.22249388753056232
-"raw bzFixedLen32_2" 0.34248079034028545
-"raw bzFixedLen64_2" 0.3421052631578947
-"raw bzFixedLen128_2" 0.3421052631578947
-"raw bzFixedLen256_2" 0.34782608695652173
-"raw bzFixedLen256_4" 0.33913043478260874
-"raw bzFixedLen64_8" 0.32675438596491224
-"raw bzFixedLen256_8" 0.33043478260869563
-"raw bzFixedLen1024_8" 0.3448275862068966
-"skel bzJumpi2" 0.31853785900783294
-"skel bzJumpi4" 0.31853785900783294
-"skel bzJumpi8" 0.30026109660574407
-"skel bzFixedLen32_2" 0.3395810363836824
-"skel bzFixedLen64_2" 0.33920704845814975
-"skel bzFixedLen128_2" 0.3421052631578947
-"skel bzFixedLen256_2" 0.34782608695652173
-"skel bzFixedLen256_4" 0.33913043478260874
-"skel bzFixedLen64_8" 0.32378854625550657
-"skel bzFixedLen256_8" 0.31304347826086953
-"skel bzFixedLen1024_8" 0.24137931034482762
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "Synthetix - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.839546191247974
-"raw bzJumpi4" 0.6418152350081037
-"raw bzJumpi8" 0.5786061588330632
-"raw bzFixedLen32_2" 0.7527821939586645
-"raw bzFixedLen64_2" 0.7476190476190476
-"raw bzFixedLen128_2" 0.7333333333333334
-"raw bzFixedLen256_2" 0.7468354430379747
-"raw bzFixedLen256_4" 0.6455696202531646
-"raw bzFixedLen64_8" 0.6
-"raw bzFixedLen256_8" 0.6075949367088608
-"raw bzFixedLen1024_8" 0.575
-"skel bzJumpi2" 0.8473413379073756
-"skel bzJumpi4" 0.7615780445969125
-"skel bzJumpi8" 0.7118353344768439
-"skel bzFixedLen32_2" 0.7585657370517929
-"skel bzFixedLen64_2" 0.7547770700636942
-"skel bzFixedLen128_2" 0.7682539682539682
-"skel bzFixedLen256_2" 0.7658227848101266
-"skel bzFixedLen256_4" 0.740506329113924
-"skel bzFixedLen64_8" 0.5923566878980892
-"skel bzFixedLen256_8" 0.639240506329114
-"skel bzFixedLen1024_8" 0.65
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.7450628366247756
-"raw bzJumpi4" 0.6014362657091562
-"raw bzJumpi8" 0.49012567324955114
-"raw bzFixedLen32_2" 0.6628621597892889
-"raw bzFixedLen64_2" 0.6649122807017545
-"raw bzFixedLen128_2" 0.6631578947368422
-"raw bzFixedLen256_2" 0.6643356643356644
-"raw bzFixedLen256_4" 0.6153846153846154
-"raw bzFixedLen64_8" 0.5456140350877192
-"raw bzFixedLen256_8" 0.5664335664335665
-"raw bzFixedLen1024_8" 0.5277777777777778
-"skel bzJumpi2" 0.7741935483870968
-"skel bzJumpi4" 0.7400379506641366
-"skel bzJumpi8" 0.7058823529411764
-"skel bzFixedLen32_2" 0.666079295154185
-"skel bzFixedLen64_2" 0.6725352112676056
-"skel bzFixedLen128_2" 0.6596491228070176
-"skel bzFixedLen256_2" 0.6503496503496504
-"skel bzFixedLen256_4" 0.6013986013986015
-"skel bzFixedLen64_8" 0.551056338028169
-"skel bzFixedLen256_8" 0.5454545454545454
-"skel bzFixedLen1024_8" 0.5
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
-"target" "DSToken - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "DSToken"
-"raw bzJumpi2" 0.42272727272727273
-"raw bzJumpi4" 0.32499999999999996
-"raw bzJumpi8" 0.3090909090909091
-"raw bzFixedLen32_2" 0.46075433231396534
-"raw bzFixedLen64_2" 0.46028513238289204
-"raw bzFixedLen128_2" 0.46341463414634143
-"raw bzFixedLen256_2" 0.467741935483871
-"raw bzFixedLen256_4" 0.4516129032258065
-"raw bzFixedLen64_8" 0.41547861507128314
-"raw bzFixedLen256_8" 0.4032258064516129
-"raw bzFixedLen1024_8" 0.40625
-"skel bzJumpi2" 0.4444444444444444
-"skel bzJumpi4" 0.4444444444444444
-"skel bzJumpi8" 0.4227053140096618
-"skel bzFixedLen32_2" 0.45854657113613106
-"skel bzFixedLen64_2" 0.4580777096114519
-"skel bzFixedLen128_2" 0.4571428571428572
-"skel bzFixedLen256_2" 0.44715447154471544
-"skel bzFixedLen256_4" 0.4065040650406504
-"skel bzFixedLen64_8" 0.40899795501022496
-"skel bzFixedLen256_8" 0.3739837398373984
-"skel bzFixedLen1024_8" 0.3870967741935484
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.7167755991285403
-"raw bzJumpi4" 0.6666666666666667
-"raw bzJumpi8" 0.6252723311546842
-"raw bzFixedLen32_2" 0.6745562130177515
-"raw bzFixedLen64_2" 0.6879432624113475
-"raw bzFixedLen128_2" 0.6745283018867925
-"raw bzFixedLen256_2" 0.6822429906542056
-"raw bzFixedLen256_4" 0.6074766355140186
-"raw bzFixedLen64_8" 0.5602836879432624
-"raw bzFixedLen256_8" 0.5514018691588785
-"raw bzFixedLen1024_8" 0.5357142857142857
-"skel bzJumpi2" 0.695364238410596
-"skel bzJumpi4" 0.6379690949227372
-"skel bzJumpi8" 0.6048565121412803
-"skel bzFixedLen32_2" 0.6825208085612366
-"skel bzFixedLen64_2" 0.6793349168646081
-"skel bzFixedLen128_2" 0.6872037914691943
-"skel bzFixedLen256_2" 0.6886792452830188
-"skel bzFixedLen256_4" 0.6226415094339622
-"skel bzFixedLen64_8" 0.5629453681710214
-"skel bzFixedLen256_8" 0.5471698113207547
-"skel bzFixedLen1024_8" 0.6428571428571428
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o0 runs200"
-"group1" "AggregationRouterV3"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.5938069216757742
-"raw bzJumpi4" 0.5300546448087431
-"raw bzJumpi8" 0.4480874316939891
-"raw bzFixedLen32_2" 0.37890625
-"raw bzFixedLen64_2" 0.37971391417425226
-"raw bzFixedLen128_2" 0.37922077922077924
-"raw bzFixedLen256_2" 0.383419689119171
-"raw bzFixedLen256_4" 0.37823834196891193
-"raw bzFixedLen64_8" 0.35500650195058514
-"raw bzFixedLen256_8" 0.3471502590673575
-"raw bzFixedLen1024_8" 0.36734693877551017
-"skel bzJumpi2" 0.605009633911368
-"skel bzJumpi4" 0.5722543352601156
-"skel bzJumpi8" 0.5317919075144508
-"skel bzFixedLen32_2" 0.3770384866275277
-"skel bzFixedLen64_2" 0.37809647979139505
-"skel bzFixedLen128_2" 0.38020833333333337
-"skel bzFixedLen256_2" 0.383419689119171
-"skel bzFixedLen256_4" 0.36787564766839376
-"skel bzFixedLen64_8" 0.34419817470664926
-"skel bzFixedLen256_8" 0.3575129533678757
-"skel bzFixedLen1024_8" 0.34693877551020413
-]
-edge [
-"isInner" True
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"group1" "AggregationRouterV3"
-"group2" "AggregationRouterV3"
-"raw bzJumpi2" 0.907185628742515
-"raw bzJumpi4" 0.8682634730538922
-"raw bzJumpi8" 0.721556886227545
-"raw bzFixedLen32_2" 0.6642246642246643
-"raw bzFixedLen64_2" 0.6902439024390243
-"raw bzFixedLen128_2" 0.6926829268292682
-"raw bzFixedLen256_2" 0.6990291262135923
-"raw bzFixedLen256_4" 0.6310679611650485
-"raw bzFixedLen64_8" 0.5731707317073171
-"raw bzFixedLen256_8" 0.5533980582524272
-"raw bzFixedLen1024_8" 0.5185185185185186
-"skel bzJumpi2" 0.9107692307692308
-"skel bzJumpi4" 0.8553846153846154
-"skel bzJumpi8" 0.7384615384615385
-"skel bzFixedLen32_2" 0.6871165644171779
-"skel bzFixedLen64_2" 0.6715686274509804
-"skel bzFixedLen128_2" 0.6682926829268292
-"skel bzFixedLen256_2" 0.6796116504854368
-"skel bzFixedLen256_4" 0.6407766990291262
-"skel bzFixedLen64_8" 0.5343137254901961
-"skel bzFixedLen256_8" 0.5436893203883495
-"skel bzFixedLen1024_8" 0.6296296296296297
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "CollateralManager"
-"raw bzJumpi2" 0.6828752642706131
-"raw bzJumpi4" 0.6173361522198731
-"raw bzJumpi8" 0.5560253699788584
-"raw bzFixedLen32_2" 0.7493333333333334
-"raw bzFixedLen64_2" 0.7526595744680851
-"raw bzFixedLen128_2" 0.75
-"raw bzFixedLen256_2" 0.7263157894736842
-"raw bzFixedLen256_4" 0.6631578947368422
-"raw bzFixedLen64_8" 0.6063829787234043
-"raw bzFixedLen256_8" 0.6105263157894737
-"raw bzFixedLen1024_8" 0.6799999999999999
-"skel bzJumpi2" 0.685589519650655
-"skel bzJumpi4" 0.6179039301310043
-"skel bzJumpi8" 0.5393013100436681
-"skel bzFixedLen32_2" 0.7386058981233243
-"skel bzFixedLen64_2" 0.7352941176470589
-"skel bzFixedLen128_2" 0.7234042553191489
-"skel bzFixedLen256_2" 0.7473684210526316
-"skel bzFixedLen256_4" 0.6736842105263158
-"skel bzFixedLen64_8" 0.6042780748663101
-"skel bzFixedLen256_8" 0.5894736842105264
-"skel bzFixedLen1024_8" 0.6799999999999999
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"group1" "AggregationRouterV3"
-"group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.6172607879924953
-"raw bzJumpi4" 0.5459662288930582
-"raw bzJumpi8" 0.4165103189493433
-"raw bzFixedLen32_2" 0.48258706467661694
-"raw bzFixedLen64_2" 0.48344370860927155
-"raw bzFixedLen128_2" 0.48344370860927155
-"raw bzFixedLen256_2" 0.48684210526315785
-"raw bzFixedLen256_4" 0.48026315789473684
-"raw bzFixedLen64_8" 0.4337748344370861
-"raw bzFixedLen256_8" 0.4276315789473685
-"raw bzFixedLen1024_8" 0.41025641025641024
-"skel bzJumpi2" 0.6481481481481481
-"skel bzJumpi4" 0.5864197530864197
-"skel bzJumpi8" 0.5514403292181069
-"skel bzFixedLen32_2" 0.480865224625624
-"skel bzFixedLen64_2" 0.4817275747508306
-"skel bzFixedLen128_2" 0.48344370860927155
-"skel bzFixedLen256_2" 0.48684210526315785
-"skel bzFixedLen256_4" 0.4671052631578947
-"skel bzFixedLen64_8" 0.4169435215946844
-"skel bzFixedLen256_8" 0.4276315789473685
-"skel bzFixedLen1024_8" 0.4871794871794872
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.6278625954198473
-"raw bzJumpi4" 0.5629770992366412
-"raw bzJumpi8" 0.517175572519084
-"raw bzFixedLen32_2" 0.568359375
-"raw bzFixedLen64_2" 0.5692007797270955
-"raw bzFixedLen128_2" 0.5680933852140078
-"raw bzFixedLen256_2" 0.5736434108527132
-"raw bzFixedLen256_4" 0.5503875968992248
-"raw bzFixedLen64_8" 0.5029239766081872
-"raw bzFixedLen256_8" 0.4883720930232558
-"raw bzFixedLen1024_8" 0.5151515151515151
-"skel bzJumpi2" 0.6297029702970297
-"skel bzJumpi4" 0.594059405940594
-"skel bzJumpi8" 0.5485148514851486
-"skel bzFixedLen32_2" 0.5666666666666667
-"skel bzFixedLen64_2" 0.5675146771037183
-"skel bzFixedLen128_2" 0.56640625
-"skel bzFixedLen256_2" 0.5736434108527132
-"skel bzFixedLen256_4" 0.5503875968992248
-"skel bzFixedLen64_8" 0.5009784735812133
-"skel bzFixedLen256_8" 0.49612403100775193
-"skel bzFixedLen1024_8" 0.5151515151515151
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "Synthetix - v0.8.4 abi2 o0 runs200"
-"group1" "AggregationRouterV3"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.584070796460177
-"raw bzJumpi4" 0.5221238938053097
-"raw bzJumpi8" 0.47433628318584076
-"raw bzFixedLen32_2" 0.47626841243862517
-"raw bzFixedLen64_2" 0.4771241830065359
-"raw bzFixedLen128_2" 0.4771241830065359
-"raw bzFixedLen256_2" 0.48051948051948057
-"raw bzFixedLen256_4" 0.4545454545454546
-"raw bzFixedLen64_8" 0.4297385620915033
-"raw bzFixedLen256_8" 0.4415584415584416
-"raw bzFixedLen1024_8" 0.475
-"skel bzJumpi2" 0.6375
-"skel bzJumpi4" 0.5416666666666667
-"skel bzJumpi8" 0.48750000000000004
-"skel bzFixedLen32_2" 0.4741591468416735
-"skel bzFixedLen64_2" 0.47540983606557374
-"skel bzFixedLen128_2" 0.4771241830065359
-"skel bzFixedLen256_2" 0.461038961038961
-"skel bzFixedLen256_4" 0.42207792207792205
-"skel bzFixedLen64_8" 0.4049180327868852
-"skel bzFixedLen256_8" 0.3701298701298701
-"skel bzFixedLen1024_8" 0.42500000000000004
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "DSToken - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "DSToken"
-"raw bzJumpi2" 0.6837944664031621
-"raw bzJumpi4" 0.6086956521739131
-"raw bzJumpi8" 0.5375494071146245
-"raw bzFixedLen32_2" 0.5558312655086849
-"raw bzFixedLen64_2" 0.5544554455445545
-"raw bzFixedLen128_2" 0.5544554455445545
-"raw bzFixedLen256_2" 0.5490196078431373
-"raw bzFixedLen256_4" 0.47058823529411764
-"raw bzFixedLen64_8" 0.4653465346534653
-"raw bzFixedLen256_8" 0.4509803921568627
-"raw bzFixedLen1024_8" 0.5714285714285714
-"skel bzJumpi2" 0.6923076923076923
-"skel bzJumpi4" 0.611336032388664
-"skel bzJumpi8" 0.5425101214574899
-"skel bzFixedLen32_2" 0.5513784461152882
-"skel bzFixedLen64_2" 0.55
-"skel bzFixedLen128_2" 0.5544554455445545
-"skel bzFixedLen256_2" 0.5490196078431373
-"skel bzFixedLen256_4" 0.5098039215686274
-"skel bzFixedLen64_8" 0.49
-"skel bzFixedLen256_8" 0.4509803921568627
-"skel bzFixedLen1024_8" 0.3571428571428571
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.4862385321100917
-"raw bzJumpi4" 0.45871559633027525
-"raw bzJumpi8" 0.3990825688073395
-"raw bzFixedLen32_2" 0.43126684636118595
-"raw bzFixedLen64_2" 0.4301075268817204
-"raw bzFixedLen128_2" 0.4301075268817204
-"raw bzFixedLen256_2" 0.42553191489361697
-"raw bzFixedLen256_4" 0.42553191489361697
-"raw bzFixedLen64_8" 0.3817204301075269
-"raw bzFixedLen256_8" 0.36170212765957444
-"raw bzFixedLen1024_8" 0.3846153846153846
-"skel bzJumpi2" 0.4834123222748815
-"skel bzJumpi4" 0.4597156398104265
-"skel bzJumpi8" 0.4075829383886256
-"skel bzFixedLen32_2" 0.4250681198910081
-"skel bzFixedLen64_2" 0.42391304347826086
-"skel bzFixedLen128_2" 0.4301075268817204
-"skel bzFixedLen256_2" 0.42553191489361697
-"skel bzFixedLen256_4" 0.42553191489361697
-"skel bzFixedLen64_8" 0.3967391304347826
-"skel bzFixedLen256_8" 0.3829787234042553
-"skel bzFixedLen1024_8" 0.3076923076923077
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
-"group1" "AggregationRouterV3"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.766497461928934
-"raw bzJumpi4" 0.7233502538071066
-"raw bzJumpi8" 0.6624365482233503
-"raw bzFixedLen32_2" 0.5967078189300412
-"raw bzFixedLen64_2" 0.5975359342915811
-"raw bzFixedLen128_2" 0.5901639344262295
-"raw bzFixedLen256_2" 0.6016260162601625
-"raw bzFixedLen256_4" 0.5772357723577235
-"raw bzFixedLen64_8" 0.5112936344969199
-"raw bzFixedLen256_8" 0.49593495934959353
-"raw bzFixedLen1024_8" 0.53125
-"skel bzJumpi2" 0.7708333333333334
-"skel bzJumpi4" 0.7057291666666667
-"skel bzJumpi8" 0.6276041666666667
-"skel bzFixedLen32_2" 0.5964912280701755
-"skel bzFixedLen64_2" 0.5958762886597938
-"skel bzFixedLen128_2" 0.5720164609053497
-"skel bzFixedLen256_2" 0.5573770491803278
-"skel bzFixedLen256_4" 0.5163934426229508
-"skel bzFixedLen64_8" 0.5030927835051546
-"skel bzFixedLen256_8" 0.4918032786885246
-"skel bzFixedLen1024_8" 0.5
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
-"group1" "AggregationRouterV3"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.5462555066079295
-"raw bzJumpi4" 0.5066079295154184
-"raw bzJumpi8" 0.46696035242290745
-"raw bzFixedLen32_2" 0.6957494407158837
-"raw bzFixedLen64_2" 0.6741071428571428
-"raw bzFixedLen128_2" 0.6696428571428572
-"raw bzFixedLen256_2" 0.7017543859649122
-"raw bzFixedLen256_4" 0.6140350877192983
-"raw bzFixedLen64_8" 0.5625
-"raw bzFixedLen256_8" 0.5614035087719298
-"raw bzFixedLen1024_8" 0.4666666666666667
-"skel bzJumpi2" 0.5520361990950227
-"skel bzJumpi4" 0.502262443438914
-"skel bzJumpi8" 0.4434389140271493
-"skel bzFixedLen32_2" 0.6817155756207676
-"skel bzFixedLen64_2" 0.6801801801801801
-"skel bzFixedLen128_2" 0.6875
-"skel bzFixedLen256_2" 0.6842105263157895
-"skel bzFixedLen256_4" 0.631578947368421
-"skel bzFixedLen64_8" 0.5540540540540541
-"skel bzFixedLen256_8" 0.5087719298245614
-"skel bzFixedLen1024_8" 0.4666666666666667
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "Synthetix - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.703448275862069
-"raw bzJumpi4" 0.5724137931034483
-"raw bzJumpi8" 0.5241379310344827
-"raw bzFixedLen32_2" 0.716624685138539
-"raw bzFixedLen64_2" 0.721105527638191
-"raw bzFixedLen128_2" 0.7185929648241206
-"raw bzFixedLen256_2" 0.71
-"raw bzFixedLen256_4" 0.65
-"raw bzFixedLen64_8" 0.585427135678392
-"raw bzFixedLen256_8" 0.56
-"raw bzFixedLen1024_8" 0.5384615384615384
-"skel bzJumpi2" 0.7054631828978623
-"skel bzJumpi4" 0.5653206650831354
-"skel bzJumpi8" 0.501187648456057
-"skel bzFixedLen32_2" 0.6991150442477876
-"skel bzFixedLen64_2" 0.702020202020202
-"skel bzFixedLen128_2" 0.6884422110552764
-"skel bzFixedLen256_2" 0.6699999999999999
-"skel bzFixedLen256_4" 0.61
-"skel bzFixedLen64_8" 0.5782828282828283
-"skel bzFixedLen256_8" 0.55
-"skel bzFixedLen1024_8" 0.5769230769230769
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.7973333333333333
-"raw bzJumpi4" 0.7173333333333334
-"raw bzJumpi8" 0.6506666666666667
-"raw bzFixedLen32_2" 0.802962962962963
-"raw bzFixedLen64_2" 0.8076923076923077
-"raw bzFixedLen128_2" 0.7988165680473372
-"raw bzFixedLen256_2" 0.7647058823529411
-"raw bzFixedLen256_4" 0.6823529411764706
-"raw bzFixedLen64_8" 0.6479289940828402
-"raw bzFixedLen256_8" 0.6352941176470588
-"raw bzFixedLen1024_8" 0.5454545454545454
-"skel bzJumpi2" 0.8
-"skel bzJumpi4" 0.7068493150684931
-"skel bzJumpi8" 0.6273972602739726
-"skel bzFixedLen32_2" 0.8002980625931446
-"skel bzFixedLen64_2" 0.7946428571428572
-"skel bzFixedLen128_2" 0.8047337278106509
-"skel bzFixedLen256_2" 0.788235294117647
-"skel bzFixedLen256_4" 0.6941176470588235
-"skel bzFixedLen64_8" 0.6458333333333333
-"skel bzFixedLen256_8" 0.6235294117647059
-"skel bzFixedLen1024_8" 0.5909090909090908
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
-"target" "DSToken - v0.8.4 abi2 o0 runs200"
-"group1" "AggregationRouterV3"
-"group2" "DSToken"
-"raw bzJumpi2" 0.7054263565891472
-"raw bzJumpi4" 0.6162790697674418
-"raw bzJumpi8" 0.562015503875969
-"raw bzFixedLen32_2" 0.7872340425531915
-"raw bzFixedLen64_2" 0.7335907335907336
-"raw bzFixedLen128_2" 0.7923076923076923
-"raw bzFixedLen256_2" 0.8181818181818181
-"raw bzFixedLen256_4" 0.6818181818181819
-"raw bzFixedLen64_8" 0.5984555984555985
-"raw bzFixedLen256_8" 0.5909090909090908
-"raw bzFixedLen1024_8" 0.6666666666666667
-"skel bzJumpi2" 0.7142857142857143
-"skel bzJumpi4" 0.6349206349206349
-"skel bzJumpi8" 0.5317460317460317
-"skel bzFixedLen32_2" 0.8031189083820662
-"skel bzFixedLen64_2" 0.7898832684824902
-"skel bzFixedLen128_2" 0.8217054263565892
-"skel bzFixedLen256_2" 0.8
-"skel bzFixedLen256_4" 0.6615384615384615
-"skel bzFixedLen64_8" 0.6381322957198443
-"skel bzFixedLen256_8" 0.6
-"skel bzFixedLen1024_8" 0.5882352941176471
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o0 runs200"
-"group1" "UniswapV2Router02"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.8126843657817109
-"raw bzJumpi4" 0.7138643067846608
-"raw bzJumpi8" 0.6106194690265487
-"raw bzFixedLen32_2" 0.6125625347415231
-"raw bzFixedLen64_2" 0.6111111111111112
-"raw bzFixedLen128_2" 0.6141906873614191
-"raw bzFixedLen256_2" 0.6106194690265487
-"raw bzFixedLen256_4" 0.5575221238938053
-"raw bzFixedLen64_8" 0.5066666666666666
-"raw bzFixedLen256_8" 0.48672566371681414
-"raw bzFixedLen1024_8" 0.5263157894736843
-"skel bzJumpi2" 0.8466257668711656
-"skel bzJumpi4" 0.8159509202453987
-"skel bzJumpi8" 0.7315950920245399
-"skel bzFixedLen32_2" 0.6135857461024499
-"skel bzFixedLen64_2" 0.6069042316258352
-"skel bzFixedLen128_2" 0.6080178173719377
-"skel bzFixedLen256_2" 0.6044444444444445
-"skel bzFixedLen256_4" 0.5733333333333333
-"skel bzFixedLen64_8" 0.4966592427616926
-"skel bzFixedLen256_8" 0.52
-"skel bzFixedLen1024_8" 0.5087719298245614
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"target" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"group1" "UniswapV2Router02"
-"group2" "AggregationRouterV3"
-"raw bzJumpi2" 0.7278617710583153
-"raw bzJumpi4" 0.7019438444924406
-"raw bzJumpi8" 0.6263498920086393
-"raw bzFixedLen32_2" 0.833641404805915
-"raw bzFixedLen64_2" 0.8373382624768946
-"raw bzFixedLen128_2" 0.8302583025830258
-"raw bzFixedLen256_2" 0.8088235294117647
-"raw bzFixedLen256_4" 0.7132352941176471
-"raw bzFixedLen64_8" 0.6543438077634012
-"raw bzFixedLen256_8" 0.6176470588235294
-"raw bzFixedLen1024_8" 0.6
-"skel bzJumpi2" 0.7161572052401747
-"skel bzJumpi4" 0.6812227074235808
-"skel bzJumpi8" 0.6331877729257642
-"skel bzFixedLen32_2" 0.8218923933209648
-"skel bzFixedLen64_2" 0.8200371057513914
-"skel bzFixedLen128_2" 0.8185185185185185
-"skel bzFixedLen256_2" 0.8222222222222222
-"skel bzFixedLen256_4" 0.6962962962962963
-"skel bzFixedLen64_8" 0.6289424860853432
-"skel bzFixedLen256_8" 0.6370370370370371
-"skel bzFixedLen1024_8" 0.6571428571428571
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"group1" "UniswapV2Router02"
-"group2" "CollateralManager"
-"raw bzJumpi2" 0.8504983388704319
-"raw bzJumpi4" 0.7375415282392026
-"raw bzJumpi8" 0.6644518272425249
-"raw bzFixedLen32_2" 0.8173741362290228
-"raw bzFixedLen64_2" 0.8284023668639053
-"raw bzFixedLen128_2" 0.8228346456692913
-"raw bzFixedLen256_2" 0.8125
-"raw bzFixedLen256_4" 0.703125
-"raw bzFixedLen64_8" 0.6390532544378698
-"raw bzFixedLen256_8" 0.6484375
-"raw bzFixedLen1024_8" 0.6060606060606061
-"skel bzJumpi2" 0.8426395939086294
-"skel bzJumpi4" 0.7191201353637902
-"skel bzJumpi8" 0.6294416243654822
-"skel bzFixedLen32_2" 0.8285431119920714
-"skel bzFixedLen64_2" 0.8356435643564356
-"skel bzFixedLen128_2" 0.8379446640316206
-"skel bzFixedLen256_2" 0.8661417322834646
-"skel bzFixedLen256_4" 0.7637795275590551
-"skel bzFixedLen64_8" 0.6653465346534653
-"skel bzFixedLen256_8" 0.6771653543307087
-"skel bzFixedLen1024_8" 0.6060606060606061
-]
-edge [
-"isInner" True
-"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"group1" "UniswapV2Router02"
-"group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.8670694864048338
-"raw bzJumpi4" 0.743202416918429
-"raw bzJumpi8" 0.6012084592145015
-"raw bzFixedLen32_2" 0.7413206262763785
-"raw bzFixedLen64_2" 0.7360544217687075
-"raw bzFixedLen128_2" 0.7364130434782609
-"raw bzFixedLen256_2" 0.7459459459459459
-"raw bzFixedLen256_4" 0.6486486486486487
-"raw bzFixedLen64_8" 0.5945578231292517
-"raw bzFixedLen256_8" 0.5729729729729729
-"raw bzFixedLen1024_8" 0.5319148936170213
-"skel bzJumpi2" 0.9240710823909531
-"skel bzJumpi4" 0.901453957996769
-"skel bzJumpi8" 0.8287560581583199
-"skel bzFixedLen32_2" 0.736518771331058
-"skel bzFixedLen64_2" 0.7189631650750341
-"skel bzFixedLen128_2" 0.7384196185286104
-"skel bzFixedLen256_2" 0.7391304347826086
-"skel bzFixedLen256_4" 0.6684782608695652
-"skel bzFixedLen64_8" 0.5607094133697135
-"skel bzFixedLen256_8" 0.5978260869565217
-"skel bzFixedLen1024_8" 0.6808510638297872
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"group1" "UniswapV2Router02"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.8483920367534457
-"raw bzJumpi4" 0.7427258805513017
-"raw bzJumpi8" 0.656967840735069
-"raw bzFixedLen32_2" 0.8034188034188035
-"raw bzFixedLen64_2" 0.7950310559006211
-"raw bzFixedLen128_2" 0.7956656346749226
-"raw bzFixedLen256_2" 0.7839506172839507
-"raw bzFixedLen256_4" 0.7098765432098766
-"raw bzFixedLen64_8" 0.639751552795031
-"raw bzFixedLen256_8" 0.6296296296296297
-"raw bzFixedLen1024_8" 0.5609756097560976
-"skel bzJumpi2" 0.8557993730407524
-"skel bzJumpi4" 0.786833855799373
-"skel bzJumpi8" 0.7163009404388715
-"skel bzFixedLen32_2" 0.8067030397505845
-"skel bzFixedLen64_2" 0.794392523364486
-"skel bzFixedLen128_2" 0.8037383177570093
-"skel bzFixedLen256_2" 0.8074534161490683
-"skel bzFixedLen256_4" 0.7453416149068324
-"skel bzFixedLen64_8" 0.6417445482866044
-"skel bzFixedLen256_8" 0.6521739130434783
-"skel bzFixedLen1024_8" 0.6341463414634146
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"target" "Synthetix - v0.8.4 abi2 o0 runs200"
-"group1" "UniswapV2Router02"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.792507204610951
-"raw bzJumpi4" 0.6902017291066282
-"raw bzJumpi8" 0.5951008645533141
-"raw bzFixedLen32_2" 0.7218855218855219
-"raw bzFixedLen64_2" 0.7160161507402423
-"raw bzFixedLen128_2" 0.7123655913978495
-"raw bzFixedLen256_2" 0.6898395721925134
-"raw bzFixedLen256_4" 0.6203208556149733
-"raw bzFixedLen64_8" 0.5773889636608345
-"raw bzFixedLen256_8" 0.572192513368984
-"raw bzFixedLen1024_8" 0.5416666666666667
-"skel bzJumpi2" 0.8123980424143556
-"skel bzJumpi4" 0.66721044045677
-"skel bzJumpi8" 0.600326264274062
-"skel bzFixedLen32_2" 0.7219973009446694
-"skel bzFixedLen64_2" 0.7233468286099864
-"skel bzFixedLen128_2" 0.7169811320754718
-"skel bzFixedLen256_2" 0.6720430107526882
-"skel bzFixedLen256_4" 0.6236559139784946
-"skel bzFixedLen64_8" 0.5573549257759784
-"skel bzFixedLen256_8" 0.521505376344086
-"skel bzFixedLen1024_8" 0.5625
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"target" "DSToken - v0.8.4 abi2 o1 runs200"
-"group1" "UniswapV2Router02"
-"group2" "DSToken"
-"raw bzJumpi2" 0.46073298429319376
-"raw bzJumpi4" 0.44764397905759157
-"raw bzJumpi8" 0.40575916230366493
-"raw bzFixedLen32_2" 0.3363363363363363
-"raw bzFixedLen64_2" 0.3363363363363363
-"raw bzFixedLen128_2" 0.33532934131736525
-"raw bzFixedLen256_2" 0.33333333333333337
-"raw bzFixedLen256_4" 0.33333333333333337
-"raw bzFixedLen64_8" 0.3063063063063063
-"raw bzFixedLen256_8" 0.33333333333333337
-"raw bzFixedLen1024_8" 0.36363636363636365
-"skel bzJumpi2" 0.45789473684210524
-"skel bzJumpi4" 0.43157894736842106
-"skel bzJumpi8" 0.41315789473684206
-"skel bzFixedLen32_2" 0.3323262839879154
-"skel bzFixedLen64_2" 0.3323262839879154
-"skel bzFixedLen128_2" 0.3373493975903614
-"skel bzFixedLen256_2" 0.3373493975903614
-"skel bzFixedLen256_4" 0.32530120481927716
-"skel bzFixedLen64_8" 0.32930513595166166
-"skel bzFixedLen256_8" 0.3132530120481928
-"skel bzFixedLen1024_8" 0.2727272727272727
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"group1" "UniswapV2Router02"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.3054755043227666
-"raw bzJumpi4" 0.3025936599423631
-"raw bzJumpi8" 0.28242074927953886
-"raw bzFixedLen32_2" 0.25236593059936907
-"raw bzFixedLen64_2" 0.25236593059936907
-"raw bzFixedLen128_2" 0.2515723270440252
-"raw bzFixedLen256_2" 0.25
-"raw bzFixedLen256_4" 0.25
-"raw bzFixedLen64_8" 0.2365930599369085
-"raw bzFixedLen256_8" 0.22499999999999998
-"raw bzFixedLen1024_8" 0.23809523809523814
-"skel bzJumpi2" 0.2965116279069767
-"skel bzJumpi4" 0.2906976744186046
-"skel bzJumpi8" 0.27616279069767447
-"skel bzFixedLen32_2" 0.24761904761904763
-"skel bzFixedLen64_2" 0.24761904761904763
-"skel bzFixedLen128_2" 0.25316455696202533
-"skel bzFixedLen256_2" 0.25316455696202533
-"skel bzFixedLen256_4" 0.25316455696202533
-"skel bzFixedLen64_8" 0.24444444444444446
-"skel bzFixedLen256_8" 0.22784810126582278
-"skel bzFixedLen1024_8" 0.23809523809523814
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
-"group1" "UniswapV2Router02"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.8164435946462715
-"raw bzJumpi4" 0.7476099426386233
-"raw bzJumpi8" 0.6711281070745698
-"raw bzFixedLen32_2" 0.8226720647773279
-"raw bzFixedLen64_2" 0.7864077669902912
-"raw bzFixedLen128_2" 0.7774193548387096
-"raw bzFixedLen256_2" 0.7564102564102564
-"raw bzFixedLen256_4" 0.6858974358974359
-"raw bzFixedLen64_8" 0.6423948220064725
-"raw bzFixedLen256_8" 0.6153846153846154
-"raw bzFixedLen1024_8" 0.575
-"skel bzJumpi2" 0.8065764023210832
-"skel bzJumpi4" 0.700193423597679
-"skel bzJumpi8" 0.6228239845261122
-"skel bzFixedLen32_2" 0.8141233766233766
-"skel bzFixedLen64_2" 0.801948051948052
-"skel bzFixedLen128_2" 0.788961038961039
-"skel bzFixedLen256_2" 0.7662337662337663
-"skel bzFixedLen256_4" 0.7142857142857143
-"skel bzFixedLen64_8" 0.6185064935064934
-"skel bzFixedLen256_8" 0.6233766233766234
+"raw bzJumpi2" 0.6338028169014085
+"raw bzJumpi4" 0.2816901408450704
+"raw bzJumpi8" 0.19718309859154926
+"raw bzFixedLen32_2" 0.6153846153846154
+"raw bzFixedLen64_2" 0.6025641025641026
+"raw bzFixedLen128_2" 0.6153846153846154
+"raw bzFixedLen256_2" 0.6
+"raw bzFixedLen256_4" 0.35
+"raw bzFixedLen64_8" 0.3846153846153846
+"raw bzFixedLen256_8" 0.35
+"raw bzFixedLen1024_8" 0.19999999999999996
+"skel bzJumpi2" 0.5757575757575757
+"skel bzJumpi4" 0.21212121212121215
+"skel bzJumpi8" 0.13636363636363635
+"skel bzFixedLen32_2" 0.5909090909090908
+"skel bzFixedLen64_2" 0.5974025974025974
+"skel bzFixedLen128_2" 0.5897435897435898
+"skel bzFixedLen256_2" 0.6
+"skel bzFixedLen256_4" 0.44999999999999996
+"skel bzFixedLen64_8" 0.24675324675324672
+"skel bzFixedLen256_8" 0.4
 "skel bzFixedLen1024_8" 0.6
 ]
 edge [
 "isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
-"group1" "UniswapV2Router02"
+"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
+"target" "Synthetix - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.26296296296296295
+"raw bzJumpi4" 0.25555555555555554
+"raw bzJumpi8" 0.1703703703703704
+"raw bzFixedLen32_2" 0.21471172962226637
+"raw bzFixedLen64_2" 0.2142857142857143
+"raw bzFixedLen128_2" 0.2142857142857143
+"raw bzFixedLen256_2" 0.2222222222222222
+"raw bzFixedLen256_4" 0.19047619047619047
+"raw bzFixedLen64_8" 0.19444444444444442
+"raw bzFixedLen256_8" 0.19047619047619047
+"raw bzFixedLen1024_8" 0.1875
+"skel bzJumpi2" 0.25287356321839083
+"skel bzJumpi4" 0.25287356321839083
+"skel bzJumpi8" 0.2068965517241379
+"skel bzFixedLen32_2" 0.2111553784860558
+"skel bzFixedLen64_2" 0.2111553784860558
+"skel bzFixedLen128_2" 0.2142857142857143
+"skel bzFixedLen256_2" 0.2222222222222222
+"skel bzFixedLen256_4" 0.19047619047619047
+"skel bzFixedLen64_8" 0.19123505976095623
+"skel bzFixedLen256_8" 0.1428571428571429
+"skel bzFixedLen1024_8" 0.125
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.33333333333333337
+"raw bzJumpi4" 0.2857142857142857
+"raw bzJumpi8" 0.27142857142857146
+"raw bzFixedLen32_2" 0.28125
+"raw bzFixedLen64_2" 0.28125
+"raw bzFixedLen128_2" 0.28125
+"raw bzFixedLen256_2" 0.27083333333333337
+"raw bzFixedLen256_4" 0.25
+"raw bzFixedLen64_8" 0.21875
+"raw bzFixedLen256_8" 0.20833333333333337
+"raw bzFixedLen1024_8" 0.08333333333333337
+"skel bzJumpi2" 0.3219512195121951
+"skel bzJumpi4" 0.2634146341463415
+"skel bzJumpi8" 0.23902439024390243
+"skel bzFixedLen32_2" 0.2774869109947644
+"skel bzFixedLen64_2" 0.2774869109947644
+"skel bzFixedLen128_2" 0.28125
+"skel bzFixedLen256_2" 0.29166666666666663
+"skel bzFixedLen256_4" 0.29166666666666663
+"skel bzFixedLen64_8" 0.22513089005235598
+"skel bzFixedLen256_8" 0.25
+"skel bzFixedLen1024_8" 0.16666666666666663
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
+"target" "DSToken - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "DSToken"
+"raw bzJumpi2" 0.6451612903225806
+"raw bzJumpi4" 0.3548387096774194
+"raw bzJumpi8" 0.32258064516129037
+"raw bzFixedLen32_2" 0.4513274336283186
+"raw bzFixedLen64_2" 0.4601769911504425
+"raw bzFixedLen128_2" 0.45614035087719296
+"raw bzFixedLen256_2" 0.4482758620689655
+"raw bzFixedLen256_4" 0.3793103448275862
+"raw bzFixedLen64_8" 0.3097345132743363
+"raw bzFixedLen256_8" 0.27586206896551724
+"raw bzFixedLen1024_8" 0.25
+"skel bzJumpi2" 0.6413043478260869
+"skel bzJumpi4" 0.2934782608695652
+"skel bzJumpi8" 0.26086956521739135
+"skel bzFixedLen32_2" 0.4508928571428571
+"skel bzFixedLen64_2" 0.4464285714285714
+"skel bzFixedLen128_2" 0.4642857142857143
+"skel bzFixedLen256_2" 0.5
+"skel bzFixedLen256_4" 0.3571428571428571
+"skel bzFixedLen64_8" 0.2589285714285714
+"skel bzFixedLen256_8" 0.2857142857142857
+"skel bzFixedLen1024_8" 0.1428571428571429
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "CollateralManager"
+"raw bzJumpi2" 0.21037463976945248
+"raw bzJumpi4" 0.1412103746397695
+"raw bzJumpi8" 0.057636887608069176
+"raw bzFixedLen32_2" 0.29139072847682124
+"raw bzFixedLen64_2" 0.29100529100529104
+"raw bzFixedLen128_2" 0.29100529100529104
+"raw bzFixedLen256_2" 0.2947368421052632
+"raw bzFixedLen256_4" 0.2947368421052632
+"raw bzFixedLen64_8" 0.25396825396825395
+"raw bzFixedLen256_8" 0.26315789473684215
+"raw bzFixedLen1024_8" 0.20833333333333337
+"skel bzJumpi2" 0.2142857142857143
+"skel bzJumpi4" 0.2142857142857143
+"skel bzJumpi8" 0.19565217391304346
+"skel bzFixedLen32_2" 0.29083665338645415
+"skel bzFixedLen64_2" 0.2917771883289124
+"skel bzFixedLen128_2" 0.29100529100529104
+"skel bzFixedLen256_2" 0.2947368421052632
+"skel bzFixedLen256_4" 0.27368421052631575
+"skel bzFixedLen64_8" 0.23342175066312998
+"skel bzFixedLen256_8" 0.2421052631578947
+"skel bzFixedLen1024_8" 0.16666666666666663
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "AggregationRouterV3"
+"raw bzJumpi2" 0.4424242424242424
+"raw bzJumpi4" 0.20606060606060606
+"raw bzJumpi8" 0.18787878787878787
+"raw bzFixedLen32_2" 0.6323024054982818
+"raw bzFixedLen64_2" 0.6027397260273972
+"raw bzFixedLen128_2" 0.6301369863013699
+"raw bzFixedLen256_2" 0.5945945945945945
+"raw bzFixedLen256_4" 0.43243243243243246
+"raw bzFixedLen64_8" 0.34931506849315064
+"raw bzFixedLen256_8" 0.29729729729729726
+"raw bzFixedLen1024_8" 0.19999999999999996
+"skel bzJumpi2" 0.43125
+"skel bzJumpi4" 0.20625000000000004
+"skel bzJumpi8" 0.18125000000000002
+"skel bzFixedLen32_2" 0.6505190311418685
+"skel bzFixedLen64_2" 0.6275862068965516
+"skel bzFixedLen128_2" 0.6027397260273972
+"skel bzFixedLen256_2" 0.5405405405405406
+"skel bzFixedLen256_4" 0.45945945945945943
+"skel bzFixedLen64_8" 0.3172413793103448
+"skel bzFixedLen256_8" 0.29729729729729726
+"skel bzFixedLen1024_8" 0.19999999999999996
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "UniswapV2Router02"
+"raw bzJumpi2" 0.2482993197278912
+"raw bzJumpi4" 0.1462585034013606
+"raw bzJumpi8" 0.13605442176870752
+"raw bzFixedLen32_2" 0.3971119133574007
+"raw bzFixedLen64_2" 0.3971119133574007
+"raw bzFixedLen128_2" 0.39568345323741005
+"raw bzFixedLen256_2" 0.4
+"raw bzFixedLen256_4" 0.34285714285714286
+"raw bzFixedLen64_8" 0.27797833935018046
+"raw bzFixedLen256_8" 0.27142857142857146
+"raw bzFixedLen1024_8" 0.16666666666666663
+"skel bzJumpi2" 0.23549488054607504
+"skel bzJumpi4" 0.07849829351535831
+"skel bzJumpi8" 0.07508532423208192
+"skel bzFixedLen32_2" 0.3967391304347826
+"skel bzFixedLen64_2" 0.39855072463768115
+"skel bzFixedLen128_2" 0.39855072463768115
+"skel bzFixedLen256_2" 0.4057971014492754
+"skel bzFixedLen256_4" 0.37681159420289856
+"skel bzFixedLen64_8" 0.28623188405797106
+"skel bzFixedLen256_8" 0.24637681159420288
+"skel bzFixedLen1024_8" 0.2777777777777778
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.19010416666666663
+"raw bzJumpi4" 0.1328125
+"raw bzJumpi8" 0.11979166666666663
+"raw bzFixedLen32_2" 0.17670682730923692
+"raw bzFixedLen64_2" 0.1765650080256822
+"raw bzFixedLen128_2" 0.17628205128205132
+"raw bzFixedLen256_2" 0.17948717948717952
+"raw bzFixedLen256_4" 0.17948717948717952
+"raw bzFixedLen64_8" 0.1653290529695024
+"raw bzFixedLen256_8" 0.16666666666666663
+"raw bzFixedLen1024_8" 0.15384615384615385
+"skel bzJumpi2" 0.19220055710306405
+"skel bzJumpi4" 0.11420612813370479
+"skel bzJumpi8" 0.10863509749303624
+"skel bzFixedLen32_2" 0.17604501607717038
+"skel bzFixedLen64_2" 0.17684887459807075
+"skel bzFixedLen128_2" 0.17684887459807075
+"skel bzFixedLen256_2" 0.17948717948717952
+"skel bzFixedLen256_4" 0.16666666666666663
+"skel bzFixedLen64_8" 0.157556270096463
+"skel bzFixedLen256_8" 0.15384615384615385
+"skel bzFixedLen1024_8" 0.10256410256410253
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "AggregationRouterV3"
+"raw bzJumpi2" 0.37869822485207105
+"raw bzJumpi4" 0.16568047337278102
+"raw bzJumpi8" 0.1597633136094675
+"raw bzFixedLen32_2" 0.40909090909090906
+"raw bzFixedLen64_2" 0.41287878787878785
+"raw bzFixedLen128_2" 0.41666666666666663
+"raw bzFixedLen256_2" 0.4242424242424242
+"raw bzFixedLen256_4" 0.3787878787878788
+"raw bzFixedLen64_8" 0.303030303030303
+"raw bzFixedLen256_8" 0.28787878787878785
+"raw bzFixedLen1024_8" 0.2941176470588235
+"skel bzJumpi2" 0.37575757575757573
+"skel bzJumpi4" 0.1515151515151515
+"skel bzJumpi8" 0.1393939393939394
+"skel bzFixedLen32_2" 0.4144486692015209
+"skel bzFixedLen64_2" 0.41825095057034223
+"skel bzFixedLen128_2" 0.4015151515151515
+"skel bzFixedLen256_2" 0.4242424242424242
+"skel bzFixedLen256_4" 0.36363636363636365
+"skel bzFixedLen64_8" 0.30418250950570347
+"skel bzFixedLen256_8" 0.25757575757575757
+"skel bzFixedLen1024_8" 0.11764705882352944
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "CollateralManager"
+"raw bzJumpi2" 0.237012987012987
+"raw bzJumpi4" 0.237012987012987
+"raw bzJumpi8" 0.22077922077922074
+"raw bzFixedLen32_2" 0.4771241830065359
+"raw bzFixedLen64_2" 0.4695652173913043
+"raw bzFixedLen128_2" 0.4695652173913043
+"raw bzFixedLen256_2" 0.4482758620689655
+"raw bzFixedLen256_4" 0.3793103448275862
+"raw bzFixedLen64_8" 0.31304347826086953
+"raw bzFixedLen256_8" 0.31034482758620685
+"raw bzFixedLen1024_8" 0.19999999999999996
+"skel bzJumpi2" 0.23154362416107388
+"skel bzJumpi4" 0.23154362416107388
+"skel bzJumpi8" 0.21476510067114096
+"skel bzFixedLen32_2" 0.47264770240700216
+"skel bzFixedLen64_2" 0.4672489082969432
+"skel bzFixedLen128_2" 0.4782608695652174
+"skel bzFixedLen256_2" 0.48275862068965514
+"skel bzFixedLen256_4" 0.4137931034482759
+"skel bzFixedLen64_8" 0.2925764192139738
+"skel bzFixedLen256_8" 0.2931034482758621
+"skel bzFixedLen1024_8" 0.2666666666666667
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "UniswapV2Router02"
+"raw bzJumpi2" 0.19836956521739135
+"raw bzJumpi4" 0.13315217391304346
+"raw bzJumpi8" 0.08967391304347827
+"raw bzFixedLen32_2" 0.2404371584699454
+"raw bzFixedLen64_2" 0.24017467248908297
+"raw bzFixedLen128_2" 0.24017467248908297
+"raw bzFixedLen256_2" 0.24347826086956526
+"raw bzFixedLen256_4" 0.24347826086956526
+"raw bzFixedLen64_8" 0.2139737991266376
+"raw bzFixedLen256_8" 0.21739130434782605
+"raw bzFixedLen1024_8" 0.1724137931034483
+"skel bzJumpi2" 0.2116564417177914
+"skel bzJumpi4" 0.07055214723926384
+"skel bzJumpi8" 0.05828220858895705
+"skel bzFixedLen32_2" 0.23986856516976995
+"skel bzFixedLen64_2" 0.24070021881838077
+"skel bzFixedLen128_2" 0.24017467248908297
+"skel bzFixedLen256_2" 0.24347826086956526
+"skel bzFixedLen256_4" 0.23478260869565215
+"skel bzFixedLen64_8" 0.19912472647702406
+"skel bzFixedLen256_8" 0.20869565217391306
+"skel bzFixedLen1024_8" 0.13793103448275867
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.20334261838440115
+"raw bzJumpi4" 0.14484679665738165
+"raw bzJumpi8" 0.128133704735376
+"raw bzFixedLen32_2" 0.3001364256480218
+"raw bzFixedLen64_2" 0.2997275204359673
+"raw bzFixedLen128_2" 0.29891304347826086
+"raw bzFixedLen256_2" 0.30434782608695654
+"raw bzFixedLen256_4" 0.28260869565217395
+"raw bzFixedLen64_8" 0.2316076294277929
+"raw bzFixedLen256_8" 0.2065217391304348
+"raw bzFixedLen1024_8" 0.17391304347826086
+"skel bzJumpi2" 0.19999999999999996
+"skel bzJumpi4" 0.12753623188405794
+"skel bzJumpi8" 0.1159420289855072
+"skel bzFixedLen32_2" 0.29958960328317374
+"skel bzFixedLen64_2" 0.3005464480874317
+"skel bzFixedLen128_2" 0.3005464480874317
+"skel bzFixedLen256_2" 0.30434782608695654
+"skel bzFixedLen256_4" 0.30434782608695654
+"skel bzFixedLen64_8" 0.23497267759562845
+"skel bzFixedLen256_8" 0.2717391304347826
+"skel bzFixedLen1024_8" 0.30434782608695654
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "Synthetix - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.1825
+"raw bzJumpi4" 0.13
+"raw bzJumpi8" 0.12749999999999995
+"raw bzFixedLen32_2" 0.23630504833512356
+"raw bzFixedLen64_2" 0.23605150214592274
+"raw bzFixedLen128_2" 0.23605150214592274
+"raw bzFixedLen256_2" 0.23931623931623935
+"raw bzFixedLen256_4" 0.23931623931623935
+"raw bzFixedLen64_8" 0.21673819742489275
+"raw bzFixedLen256_8" 0.20512820512820518
+"raw bzFixedLen1024_8" 0.16666666666666663
+"skel bzJumpi2" 0.21562499999999996
+"skel bzJumpi4" 0.21562499999999996
+"skel bzJumpi8" 0.19062500000000004
+"skel bzFixedLen32_2" 0.23548387096774193
+"skel bzFixedLen64_2" 0.23655913978494625
+"skel bzFixedLen128_2" 0.23605150214592274
+"skel bzFixedLen256_2" 0.23931623931623935
+"skel bzFixedLen256_4" 0.2222222222222222
+"skel bzFixedLen64_8" 0.20860215053763442
+"skel bzFixedLen256_8" 0.19658119658119655
+"skel bzFixedLen1024_8" 0.19999999999999996
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "DSToken - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "DSToken"
+"raw bzJumpi2" 0.7272727272727273
+"raw bzJumpi4" 0.3522727272727273
+"raw bzJumpi8" 0.25
+"raw bzFixedLen32_2" 0.4772727272727273
+"raw bzFixedLen64_2" 0.509090909090909
+"raw bzFixedLen128_2" 0.49090909090909096
+"raw bzFixedLen256_2" 0.5
+"raw bzFixedLen256_4" 0.3571428571428571
+"raw bzFixedLen64_8" 0.2727272727272727
+"raw bzFixedLen256_8" 0.2142857142857143
+"raw bzFixedLen1024_8" 0.2857142857142857
+"skel bzJumpi2" 0.7471264367816092
+"skel bzJumpi4" 0.31034482758620685
+"skel bzJumpi8" 0.24137931034482762
+"skel bzFixedLen32_2" 0.4885844748858448
+"skel bzFixedLen64_2" 0.4818181818181818
+"skel bzFixedLen128_2" 0.49090909090909096
+"skel bzFixedLen256_2" 0.5
+"skel bzFixedLen256_4" 0.4642857142857143
+"skel bzFixedLen64_8" 0.28181818181818186
+"skel bzFixedLen256_8" 0.3928571428571429
+"skel bzFixedLen1024_8" 0.2857142857142857
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
 "group2" "AddressResolver"
-"raw bzJumpi2" 0.348314606741573
-"raw bzJumpi4" 0.3426966292134831
-"raw bzJumpi8" 0.3370786516853933
-"raw bzFixedLen32_2" 0.43943661971830983
-"raw bzFixedLen64_2" 0.43943661971830983
-"raw bzFixedLen128_2" 0.4382022471910112
-"raw bzFixedLen256_2" 0.4444444444444444
-"raw bzFixedLen256_4" 0.4444444444444444
-"raw bzFixedLen64_8" 0.4056338028169014
-"raw bzFixedLen256_8" 0.38888888888888884
+"raw bzJumpi2" 0.589041095890411
+"raw bzJumpi4" 0.3287671232876712
+"raw bzJumpi8" 0.23287671232876717
+"raw bzFixedLen32_2" 0.3590909090909091
+"raw bzFixedLen64_2" 0.36363636363636365
+"raw bzFixedLen128_2" 0.36363636363636365
+"raw bzFixedLen256_2" 0.3571428571428571
+"raw bzFixedLen256_4" 0.25
+"raw bzFixedLen64_8" 0.2090909090909091
+"raw bzFixedLen256_8" 0.25
+"raw bzFixedLen1024_8" 0.2857142857142857
+"skel bzJumpi2" 0.6086956521739131
+"skel bzJumpi4" 0.26086956521739135
+"skel bzJumpi8" 0.23188405797101452
+"skel bzFixedLen32_2" 0.3561643835616438
+"skel bzFixedLen64_2" 0.3545454545454545
+"skel bzFixedLen128_2" 0.36363636363636365
+"skel bzFixedLen256_2" 0.3571428571428571
+"skel bzFixedLen256_4" 0.3571428571428571
+"skel bzFixedLen64_8" 0.2272727272727273
+"skel bzFixedLen256_8" 0.2857142857142857
+"skel bzFixedLen1024_8" 0.2857142857142857
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.3187772925764192
+"raw bzJumpi4" 0.25764192139737996
+"raw bzJumpi8" 0.23580786026200873
+"raw bzFixedLen32_2" 0.3230543318649045
+"raw bzFixedLen64_2" 0.32258064516129037
+"raw bzFixedLen128_2" 0.32163742690058483
+"raw bzFixedLen256_2" 0.32558139534883723
+"raw bzFixedLen256_4" 0.3023255813953488
+"raw bzFixedLen64_8" 0.25806451612903225
+"raw bzFixedLen256_8" 0.2674418604651163
+"raw bzFixedLen1024_8" 0.18181818181818177
+"skel bzJumpi2" 0.3080357142857143
+"skel bzJumpi4" 0.2366071428571429
+"skel bzJumpi8" 0.2276785714285714
+"skel bzFixedLen32_2" 0.32205882352941173
+"skel bzFixedLen64_2" 0.32352941176470584
+"skel bzFixedLen128_2" 0.32352941176470584
+"skel bzFixedLen256_2" 0.3294117647058824
+"skel bzFixedLen256_4" 0.2941176470588235
+"skel bzFixedLen64_8" 0.24411764705882355
+"skel bzFixedLen256_8" 0.2705882352941177
+"skel bzFixedLen1024_8" 0.18181818181818177
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.6575342465753424
+"raw bzJumpi4" 0.31506849315068497
+"raw bzJumpi8" 0.23287671232876717
+"raw bzFixedLen32_2" 0.6136363636363636
+"raw bzFixedLen64_2" 0.5727272727272728
+"raw bzFixedLen128_2" 0.6545454545454545
+"raw bzFixedLen256_2" 0.6428571428571428
+"raw bzFixedLen256_4" 0.5714285714285714
+"raw bzFixedLen64_8" 0.3727272727272727
+"raw bzFixedLen256_8" 0.4642857142857143
+"raw bzFixedLen1024_8" 0.4285714285714286
+"skel bzJumpi2" 0.5507246376811594
+"skel bzJumpi4" 0.24637681159420288
+"skel bzJumpi8" 0.2028985507246377
+"skel bzFixedLen32_2" 0.6484018264840183
+"skel bzFixedLen64_2" 0.6363636363636364
+"skel bzFixedLen128_2" 0.6363636363636364
+"skel bzFixedLen256_2" 0.6785714285714286
+"skel bzFixedLen256_4" 0.6428571428571428
+"skel bzFixedLen64_8" 0.3909090909090909
+"skel bzFixedLen256_8" 0.4285714285714286
+"skel bzFixedLen1024_8" 0.1428571428571429
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "Synthetix - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.27037037037037037
+"raw bzJumpi4" 0.27037037037037037
+"raw bzJumpi8" 0.19259259259259254
+"raw bzFixedLen32_2" 0.437375745526839
+"raw bzFixedLen64_2" 0.43253968253968256
+"raw bzFixedLen128_2" 0.40476190476190477
+"raw bzFixedLen256_2" 0.4126984126984127
+"raw bzFixedLen256_4" 0.3015873015873016
+"raw bzFixedLen64_8" 0.2658730158730159
+"raw bzFixedLen256_8" 0.2222222222222222
+"raw bzFixedLen1024_8" 0.1875
+"skel bzJumpi2" 0.26436781609195403
+"skel bzJumpi4" 0.26436781609195403
+"skel bzJumpi8" 0.23754789272030652
+"skel bzFixedLen32_2" 0.4223107569721115
+"skel bzFixedLen64_2" 0.43426294820717126
+"skel bzFixedLen128_2" 0.4365079365079365
+"skel bzFixedLen256_2" 0.4285714285714286
+"skel bzFixedLen256_4" 0.38095238095238093
+"skel bzFixedLen64_8" 0.2749003984063745
+"skel bzFixedLen256_8" 0.2857142857142857
+"skel bzFixedLen1024_8" 0.375
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManagerState"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.3476190476190476
+"raw bzJumpi4" 0.29047619047619044
+"raw bzJumpi8" 0.28095238095238095
+"raw bzFixedLen32_2" 0.5286458333333333
+"raw bzFixedLen64_2" 0.484375
+"raw bzFixedLen128_2" 0.5
+"raw bzFixedLen256_2" 0.45833333333333337
+"raw bzFixedLen256_4" 0.375
+"raw bzFixedLen64_8" 0.27083333333333337
+"raw bzFixedLen256_8" 0.27083333333333337
+"raw bzFixedLen1024_8" 0.16666666666666663
+"skel bzJumpi2" 0.3365853658536585
+"skel bzJumpi4" 0.2731707317073171
+"skel bzJumpi8" 0.2682926829268293
+"skel bzFixedLen32_2" 0.5523560209424083
+"skel bzFixedLen64_2" 0.5235602094240838
+"skel bzFixedLen128_2" 0.5520833333333333
+"skel bzFixedLen256_2" 0.5833333333333333
+"skel bzFixedLen256_4" 0.47916666666666663
+"skel bzFixedLen64_8" 0.31413612565445026
+"skel bzFixedLen256_8" 0.375
+"skel bzFixedLen1024_8" 0.41666666666666663
+]
+edge [
+"isInner" False
+"source" "CollateralManagerState - v0.8.4 abi2 o0 runs200"
+"target" "DSToken - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManagerState"
+"group2" "DSToken"
+"raw bzJumpi2" 0.6881720430107527
+"raw bzJumpi4" 0.3763440860215054
+"raw bzJumpi8" 0.31182795698924726
+"raw bzFixedLen32_2" 0.7787610619469026
+"raw bzFixedLen64_2" 0.7610619469026548
+"raw bzFixedLen128_2" 0.6666666666666667
+"raw bzFixedLen256_2" 0.5862068965517242
+"raw bzFixedLen256_4" 0.3793103448275862
+"raw bzFixedLen64_8" 0.34513274336283184
+"raw bzFixedLen256_8" 0.27586206896551724
+"raw bzFixedLen1024_8" 0.25
+"skel bzJumpi2" 0.6739130434782609
+"skel bzJumpi4" 0.3152173913043478
+"skel bzJumpi8" 0.3152173913043478
+"skel bzFixedLen32_2" 0.7321428571428572
+"skel bzFixedLen64_2" 0.7321428571428572
+"skel bzFixedLen128_2" 0.5535714285714286
+"skel bzFixedLen256_2" 0.6785714285714286
+"skel bzFixedLen256_4" 0.3928571428571429
+"skel bzFixedLen64_8" 0.25
+"skel bzFixedLen256_8" 0.25
+"skel bzFixedLen1024_8" 0.2857142857142857
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "AggregationRouterV3"
+"raw bzJumpi2" 0.4610951008645533
+"raw bzJumpi4" 0.36023054755043227
+"raw bzJumpi8" 0.2219020172910663
+"raw bzFixedLen32_2" 0.38543046357615895
+"raw bzFixedLen64_2" 0.3862433862433863
+"raw bzFixedLen128_2" 0.3862433862433863
+"raw bzFixedLen256_2" 0.3789473684210526
+"raw bzFixedLen256_4" 0.33684210526315794
+"raw bzFixedLen64_8" 0.29100529100529104
+"raw bzFixedLen256_8" 0.27368421052631575
+"raw bzFixedLen1024_8" 0.33333333333333337
+"skel bzJumpi2" 0.49068322981366463
+"skel bzJumpi4" 0.4130434782608695
+"skel bzJumpi8" 0.3074534161490683
+"skel bzFixedLen32_2" 0.3837981407702523
+"skel bzFixedLen64_2" 0.3846153846153846
+"skel bzFixedLen128_2" 0.38095238095238093
+"skel bzFixedLen256_2" 0.368421052631579
+"skel bzFixedLen256_4" 0.3052631578947368
+"skel bzFixedLen64_8" 0.26525198938992045
+"skel bzFixedLen256_8" 0.2421052631578947
+"skel bzFixedLen1024_8" 0.33333333333333337
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "UniswapV2Router02"
+"raw bzJumpi2" 0.6974063400576369
+"raw bzJumpi4" 0.48991354466858794
+"raw bzJumpi8" 0.30835734870317
+"raw bzFixedLen32_2" 0.647682119205298
+"raw bzFixedLen64_2" 0.6190476190476191
+"raw bzFixedLen128_2" 0.6084656084656085
+"raw bzFixedLen256_2" 0.5473684210526315
+"raw bzFixedLen256_4" 0.42105263157894735
+"raw bzFixedLen64_8" 0.3492063492063492
+"raw bzFixedLen256_8" 0.3157894736842105
+"raw bzFixedLen1024_8" 0.125
+"skel bzJumpi2" 0.6987577639751552
+"skel bzJumpi4" 0.47515527950310554
+"skel bzJumpi8" 0.31055900621118016
+"skel bzFixedLen32_2" 0.649402390438247
+"skel bzFixedLen64_2" 0.6392572944297082
+"skel bzFixedLen128_2" 0.6296296296296297
+"skel bzFixedLen256_2" 0.6
+"skel bzFixedLen256_4" 0.49473684210526314
+"skel bzFixedLen64_8" 0.32095490716180375
+"skel bzFixedLen256_8" 0.35789473684210527
+"skel bzFixedLen1024_8" 0.41666666666666663
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.734375
+"raw bzJumpi4" 0.7265625
+"raw bzJumpi8" 0.5130208333333333
+"raw bzFixedLen32_2" 0.570281124497992
+"raw bzFixedLen64_2" 0.5634028892455858
+"raw bzFixedLen128_2" 0.5801282051282051
+"raw bzFixedLen256_2" 0.5897435897435898
+"raw bzFixedLen256_4" 0.4807692307692307
+"raw bzFixedLen64_8" 0.3595505617977528
+"raw bzFixedLen256_8" 0.3589743589743589
+"raw bzFixedLen1024_8" 0.3589743589743589
+"skel bzJumpi2" 0.7186629526462396
+"skel bzJumpi4" 0.50974930362117
+"skel bzJumpi8" 0.3398328690807799
+"skel bzFixedLen32_2" 0.5787781350482315
+"skel bzFixedLen64_2" 0.5594855305466238
+"skel bzFixedLen128_2" 0.5594855305466238
+"skel bzFixedLen256_2" 0.5897435897435898
+"skel bzFixedLen256_4" 0.4871794871794872
+"skel bzFixedLen64_8" 0.34565916398713825
+"skel bzFixedLen256_8" 0.34615384615384615
+"skel bzFixedLen1024_8" 0.4358974358974359
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
+"group2" "AggregationRouterV3"
+"raw bzJumpi2" 0.4755043227665706
+"raw bzJumpi4" 0.40922190201729103
+"raw bzJumpi8" 0.24495677233429392
+"raw bzFixedLen32_2" 0.6172185430463576
+"raw bzFixedLen64_2" 0.6137566137566137
+"raw bzFixedLen128_2" 0.6349206349206349
+"raw bzFixedLen256_2" 0.6
+"raw bzFixedLen256_4" 0.4842105263157894
+"raw bzFixedLen64_8" 0.3465608465608465
+"raw bzFixedLen256_8" 0.35789473684210527
+"raw bzFixedLen1024_8" 0.41666666666666663
+"skel bzJumpi2" 0.5
+"skel bzJumpi4" 0.422360248447205
+"skel bzJumpi8" 0.3012422360248447
+"skel bzFixedLen32_2" 0.6188579017264276
+"skel bzFixedLen64_2" 0.6259946949602122
+"skel bzFixedLen128_2" 0.6084656084656085
+"skel bzFixedLen256_2" 0.6
+"skel bzFixedLen256_4" 0.4842105263157894
+"skel bzFixedLen64_8" 0.33687002652519893
+"skel bzFixedLen256_8" 0.33684210526315794
+"skel bzFixedLen1024_8" 0.33333333333333337
+]
+edge [
+"isInner" True
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "CollateralManager"
+"raw bzJumpi2" 0.8184438040345822
+"raw bzJumpi4" 0.4697406340057637
+"raw bzJumpi8" 0.19308357348703165
+"raw bzFixedLen32_2" 0.5602649006622517
+"raw bzFixedLen64_2" 0.5582010582010581
+"raw bzFixedLen128_2" 0.5767195767195767
+"raw bzFixedLen256_2" 0.5157894736842106
+"raw bzFixedLen256_4" 0.4421052631578948
+"raw bzFixedLen64_8" 0.33333333333333337
+"raw bzFixedLen256_8" 0.34736842105263155
+"raw bzFixedLen1024_8" 0.33333333333333337
+"skel bzJumpi2" 0.8913043478260869
+"skel bzJumpi4" 0.8043478260869565
+"skel bzJumpi8" 0.7204968944099379
+"skel bzFixedLen32_2" 0.5697211155378485
+"skel bzFixedLen64_2" 0.5809018567639257
+"skel bzFixedLen128_2" 0.5873015873015873
+"skel bzFixedLen256_2" 0.6
+"skel bzFixedLen256_4" 0.5263157894736843
+"skel bzFixedLen64_8" 0.3236074270557029
+"skel bzFixedLen256_8" 0.368421052631579
+"skel bzFixedLen1024_8" 0.375
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
+"group2" "UniswapV2Router02"
+"raw bzJumpi2" 0.6820652173913043
+"raw bzJumpi4" 0.6711956521739131
+"raw bzJumpi8" 0.5353260869565217
+"raw bzFixedLen32_2" 0.6983606557377049
+"raw bzFixedLen64_2" 0.6877729257641921
+"raw bzFixedLen128_2" 0.685589519650655
+"raw bzFixedLen256_2" 0.6608695652173913
+"raw bzFixedLen256_4" 0.5217391304347826
+"raw bzFixedLen64_8" 0.3733624454148472
+"raw bzFixedLen256_8" 0.33913043478260874
+"raw bzFixedLen1024_8" 0.3793103448275862
+"skel bzJumpi2" 0.7024539877300613
+"skel bzJumpi4" 0.45092024539877296
+"skel bzJumpi8" 0.26993865030674846
+"skel bzFixedLen32_2" 0.7217962760131436
+"skel bzFixedLen64_2" 0.6827133479212254
+"skel bzFixedLen128_2" 0.7161572052401747
+"skel bzFixedLen256_2" 0.7391304347826086
+"skel bzFixedLen256_4" 0.5739130434782609
+"skel bzFixedLen64_8" 0.38730853391684905
+"skel bzFixedLen256_8" 0.408695652173913
+"skel bzFixedLen1024_8" 0.4137931034482759
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.754874651810585
+"raw bzJumpi4" 0.7381615598885793
+"raw bzJumpi8" 0.4623955431754875
+"raw bzFixedLen32_2" 0.6754966887417219
+"raw bzFixedLen64_2" 0.6534391534391535
+"raw bzFixedLen128_2" 0.6984126984126984
+"raw bzFixedLen256_2" 0.6631578947368422
+"raw bzFixedLen256_4" 0.5052631578947369
+"raw bzFixedLen64_8" 0.30952380952380953
+"raw bzFixedLen256_8" 0.368421052631579
+"raw bzFixedLen1024_8" 0.33333333333333337
+"skel bzJumpi2" 0.7391304347826086
+"skel bzJumpi4" 0.5333333333333333
+"skel bzJumpi8" 0.35072463768115947
+"skel bzFixedLen32_2" 0.703851261620186
+"skel bzFixedLen64_2" 0.6551724137931034
+"skel bzFixedLen128_2" 0.6613756613756614
+"skel bzFixedLen256_2" 0.6947368421052631
+"skel bzFixedLen256_4" 0.5263157894736843
+"skel bzFixedLen64_8" 0.286472148541114
+"skel bzFixedLen256_8" 0.368421052631579
+"skel bzFixedLen1024_8" 0.41666666666666663
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "Synthetix - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.755
+"raw bzJumpi4" 0.73
+"raw bzJumpi8" 0.37250000000000005
+"raw bzFixedLen32_2" 0.6970998925886144
+"raw bzFixedLen64_2" 0.6909871244635193
+"raw bzFixedLen128_2" 0.7124463519313304
+"raw bzFixedLen256_2" 0.717948717948718
+"raw bzFixedLen256_4" 0.5811965811965811
+"raw bzFixedLen64_8" 0.3991416309012875
+"raw bzFixedLen256_8" 0.4017094017094017
+"raw bzFixedLen1024_8" 0.5
+"skel bzJumpi2" 0.7639751552795031
+"skel bzJumpi4" 0.5714285714285714
+"skel bzJumpi8" 0.49689440993788825
+"skel bzFixedLen32_2" 0.6967741935483871
+"skel bzFixedLen64_2" 0.6795698924731183
+"skel bzFixedLen128_2" 0.703862660944206
+"skel bzFixedLen256_2" 0.7008547008547008
+"skel bzFixedLen256_4" 0.6324786324786325
+"skel bzFixedLen64_8" 0.421505376344086
+"skel bzFixedLen256_8" 0.4444444444444444
+"skel bzFixedLen1024_8" 0.4666666666666667
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "DSToken - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "DSToken"
+"raw bzJumpi2" 0.25360230547550433
+"raw bzJumpi4" 0.14409221902017288
+"raw bzJumpi8" 0.12680115273775217
+"raw bzFixedLen32_2" 0.1483443708609271
+"raw bzFixedLen64_2" 0.14814814814814814
+"raw bzFixedLen128_2" 0.14814814814814814
+"raw bzFixedLen256_2" 0.1473684210526316
+"raw bzFixedLen256_4" 0.12631578947368416
+"raw bzFixedLen64_8" 0.13492063492063489
+"raw bzFixedLen256_8" 0.11578947368421055
+"raw bzFixedLen1024_8" 0.125
+"skel bzJumpi2" 0.2701863354037267
+"skel bzJumpi4" 0.2701863354037267
+"skel bzJumpi8" 0.25465838509316774
+"skel bzFixedLen32_2" 0.14608233731739706
+"skel bzFixedLen64_2" 0.1458885941644562
+"skel bzFixedLen128_2" 0.14814814814814814
+"skel bzFixedLen256_2" 0.1473684210526316
+"skel bzFixedLen256_4" 0.13684210526315788
+"skel bzFixedLen64_8" 0.14058355437665782
+"skel bzFixedLen256_8" 0.11578947368421055
+"skel bzFixedLen1024_8" 0.04166666666666663
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.1527377521613833
+"raw bzJumpi4" 0.0806916426512968
+"raw bzJumpi8" 0.0749279538904899
+"raw bzFixedLen32_2" 0.10596026490066224
+"raw bzFixedLen64_2" 0.10582010582010581
+"raw bzFixedLen128_2" 0.10582010582010581
+"raw bzFixedLen256_2" 0.10526315789473684
+"raw bzFixedLen256_4" 0.10526315789473684
+"raw bzFixedLen64_8" 0.10582010582010581
+"raw bzFixedLen256_8" 0.10526315789473684
+"raw bzFixedLen1024_8" 0.125
+"skel bzJumpi2" 0.15838509316770188
+"skel bzJumpi4" 0.15838509316770188
+"skel bzJumpi8" 0.15217391304347827
+"skel bzFixedLen32_2" 0.10358565737051795
+"skel bzFixedLen64_2" 0.10344827586206895
+"skel bzFixedLen128_2" 0.10582010582010581
+"skel bzFixedLen256_2" 0.10526315789473684
+"skel bzFixedLen256_4" 0.10526315789473684
+"skel bzFixedLen64_8" 0.09814323607427056
+"skel bzFixedLen256_8" 0.08421052631578951
+"skel bzFixedLen1024_8" 0.04166666666666663
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.6484149855907781
+"raw bzJumpi4" 0.446685878962536
+"raw bzJumpi8" 0.19596541786743515
+"raw bzFixedLen32_2" 0.704635761589404
+"raw bzFixedLen64_2" 0.7063492063492063
+"raw bzFixedLen128_2" 0.7142857142857143
+"raw bzFixedLen256_2" 0.6631578947368422
+"raw bzFixedLen256_4" 0.5578947368421052
+"raw bzFixedLen64_8" 0.373015873015873
+"raw bzFixedLen256_8" 0.3789473684210526
+"raw bzFixedLen1024_8" 0.375
+"skel bzJumpi2" 0.6863354037267081
+"skel bzJumpi4" 0.5962732919254659
+"skel bzJumpi8" 0.5403726708074534
+"skel bzFixedLen32_2" 0.7224435590969456
+"skel bzFixedLen64_2" 0.6923076923076923
+"skel bzFixedLen128_2" 0.7354497354497355
+"skel bzFixedLen256_2" 0.8
+"skel bzFixedLen256_4" 0.5473684210526315
+"skel bzFixedLen64_8" 0.35543766578249336
+"skel bzFixedLen256_8" 0.3789473684210526
+"skel bzFixedLen1024_8" 0.45833333333333337
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.17867435158501443
+"raw bzJumpi4" 0.09510086455331412
+"raw bzJumpi8" 0.08357348703170031
+"raw bzFixedLen32_2" 0.20662251655629138
+"raw bzFixedLen64_2" 0.2063492063492064
+"raw bzFixedLen128_2" 0.2063492063492064
+"raw bzFixedLen256_2" 0.21052631578947367
+"raw bzFixedLen256_4" 0.19999999999999996
+"raw bzFixedLen64_8" 0.1878306878306878
+"raw bzFixedLen256_8" 0.18947368421052635
+"raw bzFixedLen1024_8" 0.20833333333333337
+"skel bzJumpi2" 0.18944099378881984
+"skel bzJumpi4" 0.18944099378881984
+"skel bzJumpi8" 0.16770186335403725
+"skel bzFixedLen32_2" 0.20451527224435595
+"skel bzFixedLen64_2" 0.20424403183023876
+"skel bzFixedLen128_2" 0.2063492063492064
+"skel bzFixedLen256_2" 0.21052631578947367
+"skel bzFixedLen256_4" 0.19999999999999996
+"skel bzFixedLen64_8" 0.18567639257294433
+"skel bzFixedLen256_8" 0.16842105263157892
+"skel bzFixedLen1024_8" 0.08333333333333337
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "Synthetix - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.7146974063400576
+"raw bzJumpi4" 0.3631123919308358
+"raw bzJumpi8" 0.2507204610951008
+"raw bzFixedLen32_2" 0.5880794701986756
+"raw bzFixedLen64_2" 0.5793650793650793
+"raw bzFixedLen128_2" 0.5555555555555556
+"raw bzFixedLen256_2" 0.5789473684210527
+"raw bzFixedLen256_4" 0.41052631578947374
+"raw bzFixedLen64_8" 0.33333333333333337
+"raw bzFixedLen256_8" 0.34736842105263155
+"raw bzFixedLen1024_8" 0.29166666666666663
+"skel bzJumpi2" 0.7236024844720497
+"skel bzJumpi4" 0.5683229813664596
+"skel bzJumpi8" 0.4782608695652174
+"skel bzFixedLen32_2" 0.5976095617529881
+"skel bzFixedLen64_2" 0.5915119363395225
+"skel bzFixedLen128_2" 0.6137566137566137
+"skel bzFixedLen256_2" 0.6105263157894737
+"skel bzFixedLen256_4" 0.5684210526315789
+"skel bzFixedLen64_8" 0.32095490716180375
+"skel bzFixedLen256_8" 0.4
+"skel bzFixedLen1024_8" 0.41666666666666663
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.5907780979827089
+"raw bzJumpi4" 0.36023054755043227
+"raw bzJumpi8" 0.18155619596541783
+"raw bzFixedLen32_2" 0.4913907284768212
+"raw bzFixedLen64_2" 0.49470899470899465
+"raw bzFixedLen128_2" 0.4920634920634921
+"raw bzFixedLen256_2" 0.49473684210526314
+"raw bzFixedLen256_4" 0.42105263157894735
+"raw bzFixedLen64_8" 0.31481481481481477
+"raw bzFixedLen256_8" 0.34736842105263155
+"raw bzFixedLen1024_8" 0.29166666666666663
+"skel bzJumpi2" 0.6304347826086957
+"skel bzJumpi4" 0.5745341614906831
+"skel bzJumpi8" 0.5186335403726707
+"skel bzFixedLen32_2" 0.49667994687915007
+"skel bzFixedLen64_2" 0.506631299734748
+"skel bzFixedLen128_2" 0.48677248677248675
+"skel bzFixedLen256_2" 0.4736842105263158
+"skel bzFixedLen256_4" 0.4
+"skel bzFixedLen64_8" 0.3236074270557029
+"skel bzFixedLen256_8" 0.3157894736842105
+"skel bzFixedLen1024_8" 0.25
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o0 runs200"
+"target" "DSToken - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
+"group2" "DSToken"
+"raw bzJumpi2" 0.26801152737752165
+"raw bzJumpi4" 0.14409221902017288
+"raw bzJumpi8" 0.12391930835734866
+"raw bzFixedLen32_2" 0.2993377483443709
+"raw bzFixedLen64_2" 0.29894179894179895
+"raw bzFixedLen128_2" 0.3015873015873016
+"raw bzFixedLen256_2" 0.3052631578947368
+"raw bzFixedLen256_4" 0.28421052631578947
+"raw bzFixedLen64_8" 0.2407407407407407
+"raw bzFixedLen256_8" 0.2210526315789474
+"raw bzFixedLen1024_8" 0.20833333333333337
+"skel bzJumpi2" 0.2857142857142857
+"skel bzJumpi4" 0.2857142857142857
+"skel bzJumpi8" 0.2577639751552795
+"skel bzFixedLen32_2" 0.297476759628154
+"skel bzFixedLen64_2" 0.2970822281167109
+"skel bzFixedLen128_2" 0.2962962962962963
+"skel bzFixedLen256_2" 0.28421052631578947
+"skel bzFixedLen256_4" 0.2315789473684211
+"skel bzFixedLen64_8" 0.23342175066312998
+"skel bzFixedLen256_8" 0.18947368421052635
+"skel bzFixedLen1024_8" 0.20833333333333337
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"group1" "AggregationRouterV3"
+"group2" "UniswapV2Router02"
+"raw bzJumpi2" 0.5578231292517006
+"raw bzJumpi4" 0.47959183673469385
+"raw bzJumpi8" 0.41496598639455784
+"raw bzFixedLen32_2" 0.5036101083032491
+"raw bzFixedLen64_2" 0.5234657039711191
+"raw bzFixedLen128_2" 0.5035971223021583
+"raw bzFixedLen256_2" 0.5142857142857142
+"raw bzFixedLen256_4" 0.4
+"raw bzFixedLen64_8" 0.3285198555956679
+"raw bzFixedLen256_8" 0.3142857142857143
+"raw bzFixedLen1024_8" 0.2777777777777778
+"skel bzJumpi2" 0.5290102389078498
+"skel bzJumpi4" 0.4402730375426621
+"skel bzJumpi8" 0.3890784982935154
+"skel bzFixedLen32_2" 0.5163043478260869
+"skel bzFixedLen64_2" 0.5108695652173914
+"skel bzFixedLen128_2" 0.5217391304347826
+"skel bzFixedLen256_2" 0.5217391304347826
+"skel bzFixedLen256_4" 0.42028985507246375
+"skel bzFixedLen64_8" 0.33333333333333337
+"skel bzFixedLen256_8" 0.30434782608695654
+"skel bzFixedLen1024_8" 0.4444444444444444
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o0 runs200"
+"group1" "AggregationRouterV3"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.41927083333333337
+"raw bzJumpi4" 0.328125
+"raw bzJumpi8" 0.2109375
+"raw bzFixedLen32_2" 0.23373493975903614
+"raw bzFixedLen64_2" 0.2343499197431782
+"raw bzFixedLen128_2" 0.23397435897435892
+"raw bzFixedLen256_2" 0.23717948717948723
+"raw bzFixedLen256_4" 0.23076923076923073
+"raw bzFixedLen64_8" 0.2038523274478331
+"raw bzFixedLen256_8" 0.1923076923076923
+"raw bzFixedLen1024_8" 0.20512820512820518
+"skel bzJumpi2" 0.4289693593314763
+"skel bzJumpi4" 0.3816155988857939
+"skel bzJumpi8" 0.3231197771587744
+"skel bzFixedLen32_2" 0.23231511254019288
+"skel bzFixedLen64_2" 0.23311897106109325
+"skel bzFixedLen128_2" 0.23472668810289388
+"skel bzFixedLen256_2" 0.23717948717948723
+"skel bzFixedLen256_4" 0.21794871794871795
+"skel bzFixedLen64_8" 0.1913183279742765
+"skel bzFixedLen256_8" 0.20512820512820518
+"skel bzFixedLen1024_8" 0.17948717948717952
+]
+edge [
+"isInner" True
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
+"group1" "AggregationRouterV3"
+"group2" "AggregationRouterV3"
+"raw bzJumpi2" 0.8165680473372781
+"raw bzJumpi4" 0.7396449704142012
+"raw bzJumpi8" 0.4497041420118343
+"raw bzFixedLen32_2" 0.47916666666666663
+"raw bzFixedLen64_2" 0.5189393939393939
+"raw bzFixedLen128_2" 0.5227272727272727
+"raw bzFixedLen256_2" 0.5303030303030303
+"raw bzFixedLen256_4" 0.4242424242424242
+"raw bzFixedLen64_8" 0.33712121212121215
+"raw bzFixedLen256_8" 0.303030303030303
+"raw bzFixedLen1024_8" 0.23529411764705888
+"skel bzJumpi2" 0.8242424242424242
+"skel bzJumpi4" 0.7151515151515151
+"skel bzJumpi8" 0.48484848484848486
+"skel bzFixedLen32_2" 0.5152091254752852
+"skel bzFixedLen64_2" 0.49049429657794674
+"skel bzFixedLen128_2" 0.48484848484848486
+"skel bzFixedLen256_2" 0.5
+"skel bzFixedLen256_4" 0.43939393939393945
+"skel bzFixedLen64_8" 0.2775665399239544
+"skel bzFixedLen256_8" 0.28787878787878785
+"skel bzFixedLen1024_8" 0.4117647058823529
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"group1" "AggregationRouterV3"
+"group2" "CollateralManager"
+"raw bzJumpi2" 0.512987012987013
+"raw bzJumpi4" 0.41233766233766234
+"raw bzJumpi8" 0.31818181818181823
+"raw bzFixedLen32_2" 0.5904139433551199
+"raw bzFixedLen64_2" 0.5956521739130435
+"raw bzFixedLen128_2" 0.5913043478260869
+"raw bzFixedLen256_2" 0.5517241379310345
+"raw bzFixedLen256_4" 0.4482758620689655
+"raw bzFixedLen64_8" 0.35652173913043483
+"raw bzFixedLen256_8" 0.3620689655172413
+"raw bzFixedLen1024_8" 0.4666666666666667
+"skel bzJumpi2" 0.5167785234899329
+"skel bzJumpi4" 0.412751677852349
+"skel bzJumpi8" 0.2919463087248322
+"skel bzFixedLen32_2" 0.5733041575492341
+"skel bzFixedLen64_2" 0.5676855895196506
+"skel bzFixedLen128_2" 0.5478260869565217
+"skel bzFixedLen256_2" 0.5862068965517242
+"skel bzFixedLen256_4" 0.4655172413793104
+"skel bzFixedLen64_8" 0.35371179039301315
+"skel bzFixedLen256_8" 0.3275862068965517
+"skel bzFixedLen1024_8" 0.4666666666666667
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"group1" "AggregationRouterV3"
+"group2" "UniswapV2Router02"
+"raw bzJumpi2" 0.44565217391304346
+"raw bzJumpi4" 0.34239130434782605
+"raw bzJumpi8" 0.15489130434782605
+"raw bzFixedLen32_2" 0.31803278688524594
+"raw bzFixedLen64_2" 0.3187772925764192
+"raw bzFixedLen128_2" 0.3187772925764192
+"raw bzFixedLen256_2" 0.32173913043478264
+"raw bzFixedLen256_4" 0.31304347826086953
+"raw bzFixedLen64_8" 0.2532751091703057
+"raw bzFixedLen256_8" 0.24347826086956526
+"raw bzFixedLen1024_8" 0.2068965517241379
+"skel bzJumpi2" 0.47546012269938653
+"skel bzJumpi4" 0.3834355828220859
+"skel bzJumpi8" 0.3312883435582822
+"skel bzFixedLen32_2" 0.31653888280394304
+"skel bzFixedLen64_2" 0.3172866520787746
+"skel bzFixedLen128_2" 0.3187772925764192
+"skel bzFixedLen256_2" 0.32173913043478264
+"skel bzFixedLen256_4" 0.29565217391304344
+"skel bzFixedLen64_8" 0.2319474835886215
+"skel bzFixedLen256_8" 0.24347826086956526
+"skel bzFixedLen1024_8" 0.31034482758620685
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"group1" "AggregationRouterV3"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.4568245125348189
+"raw bzJumpi4" 0.362116991643454
+"raw bzJumpi8" 0.29526462395543174
+"raw bzFixedLen32_2" 0.3969986357435198
+"raw bzFixedLen64_2" 0.3978201634877384
+"raw bzFixedLen128_2" 0.3967391304347826
+"raw bzFixedLen256_2" 0.40217391304347827
+"raw bzFixedLen256_4" 0.3695652173913043
+"raw bzFixedLen64_8" 0.3051771117166212
+"raw bzFixedLen256_8" 0.28260869565217395
 "raw bzFixedLen1024_8" 0.30434782608695654
-"skel bzJumpi2" 0.34463276836158196
-"skel bzJumpi4" 0.32485875706214684
-"skel bzJumpi8" 0.2966101694915254
-"skel bzFixedLen32_2" 0.4362606232294618
-"skel bzFixedLen64_2" 0.4362606232294618
-"skel bzFixedLen128_2" 0.44067796610169496
-"skel bzFixedLen256_2" 0.449438202247191
-"skel bzFixedLen256_4" 0.4382022471910112
-"skel bzFixedLen64_8" 0.38243626062322944
-"skel bzFixedLen256_8" 0.3820224719101124
+"skel bzJumpi2" 0.45797101449275357
+"skel bzJumpi4" 0.4057971014492754
+"skel bzJumpi8" 0.33913043478260874
+"skel bzFixedLen32_2" 0.39534883720930236
+"skel bzFixedLen64_2" 0.39617486338797814
+"skel bzFixedLen128_2" 0.39344262295081966
+"skel bzFixedLen256_2" 0.40217391304347827
+"skel bzFixedLen256_4" 0.3695652173913043
+"skel bzFixedLen64_8" 0.30327868852459017
+"skel bzFixedLen256_8" 0.2934782608695652
+"skel bzFixedLen1024_8" 0.30434782608695654
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "Synthetix - v0.8.4 abi2 o0 runs200"
+"group1" "AggregationRouterV3"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.4125
+"raw bzJumpi4" 0.32499999999999996
+"raw bzJumpi8" 0.25749999999999995
+"raw bzFixedLen32_2" 0.3125671321160043
+"raw bzFixedLen64_2" 0.3133047210300429
+"raw bzFixedLen128_2" 0.3133047210300429
+"raw bzFixedLen256_2" 0.3162393162393162
+"raw bzFixedLen256_4" 0.28205128205128205
+"raw bzFixedLen64_8" 0.2510729613733905
+"raw bzFixedLen256_8" 0.2649572649572649
+"raw bzFixedLen1024_8" 0.30000000000000004
+"skel bzJumpi2" 0.45625000000000004
+"skel bzJumpi4" 0.3125
+"skel bzJumpi8" 0.23124999999999996
+"skel bzFixedLen32_2" 0.31075268817204305
+"skel bzFixedLen64_2" 0.31182795698924726
+"skel bzFixedLen128_2" 0.3133047210300429
+"skel bzFixedLen256_2" 0.29059829059829057
+"skel bzFixedLen256_4" 0.23931623931623935
+"skel bzFixedLen64_8" 0.21935483870967742
+"skel bzFixedLen256_8" 0.1709401709401709
+"skel bzFixedLen1024_8" 0.23333333333333328
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "DSToken - v0.8.4 abi2 o1 runs200"
+"group1" "AggregationRouterV3"
+"group2" "DSToken"
+"raw bzJumpi2" 0.5151515151515151
+"raw bzJumpi4" 0.4
+"raw bzJumpi8" 0.2909090909090909
+"raw bzFixedLen32_2" 0.3848797250859106
+"raw bzFixedLen64_2" 0.3835616438356164
+"raw bzFixedLen128_2" 0.3835616438356164
+"raw bzFixedLen256_2" 0.3783783783783784
+"raw bzFixedLen256_4" 0.2702702702702703
+"raw bzFixedLen64_8" 0.26027397260273977
+"raw bzFixedLen256_8" 0.2432432432432432
+"raw bzFixedLen1024_8" 0.4
+"skel bzJumpi2" 0.525
+"skel bzJumpi4" 0.4
+"skel bzJumpi8" 0.29374999999999996
+"skel bzFixedLen32_2" 0.38062283737024216
+"skel bzFixedLen64_2" 0.3793103448275862
+"skel bzFixedLen128_2" 0.3835616438356164
+"skel bzFixedLen256_2" 0.3783783783783784
+"skel bzFixedLen256_4" 0.32432432432432434
+"skel bzFixedLen64_8" 0.29655172413793107
+"skel bzFixedLen256_8" 0.2432432432432432
+"skel bzFixedLen1024_8" 0.09999999999999998
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"group1" "AggregationRouterV3"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.32121212121212117
+"raw bzJumpi4" 0.2848484848484848
+"raw bzJumpi8" 0.20606060606060606
+"raw bzFixedLen32_2" 0.27491408934707906
+"raw bzFixedLen64_2" 0.273972602739726
+"raw bzFixedLen128_2" 0.273972602739726
+"raw bzFixedLen256_2" 0.2702702702702703
+"raw bzFixedLen256_4" 0.2702702702702703
+"raw bzFixedLen64_8" 0.21232876712328763
+"raw bzFixedLen256_8" 0.18918918918918914
+"raw bzFixedLen1024_8" 0.19999999999999996
+"skel bzJumpi2" 0.31875
+"skel bzJumpi4" 0.2875
+"skel bzJumpi8" 0.21875
+"skel bzFixedLen32_2" 0.2698961937716263
+"skel bzFixedLen64_2" 0.2689655172413793
+"skel bzFixedLen128_2" 0.273972602739726
+"skel bzFixedLen256_2" 0.2702702702702703
+"skel bzFixedLen256_4" 0.2702702702702703
+"skel bzFixedLen64_8" 0.23448275862068968
+"skel bzFixedLen256_8" 0.21621621621621623
+"skel bzFixedLen1024_8" 0.09999999999999998
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
+"group1" "AggregationRouterV3"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.5982532751091703
+"raw bzJumpi4" 0.5240174672489083
+"raw bzJumpi8" 0.4192139737991266
+"raw bzFixedLen32_2" 0.4243759177679882
+"raw bzFixedLen64_2" 0.42521994134897356
+"raw bzFixedLen128_2" 0.41520467836257313
+"raw bzFixedLen256_2" 0.43023255813953487
+"raw bzFixedLen256_4" 0.39534883720930236
+"raw bzFixedLen64_8" 0.3020527859237536
+"raw bzFixedLen256_8" 0.2790697674418605
+"raw bzFixedLen1024_8" 0.31818181818181823
+"skel bzJumpi2" 0.6071428571428572
+"skel bzJumpi4" 0.4955357142857143
+"skel bzJumpi8" 0.3616071428571429
+"skel bzFixedLen32_2" 0.42500000000000004
+"skel bzFixedLen64_2" 0.42352941176470593
+"skel bzFixedLen128_2" 0.388235294117647
+"skel bzFixedLen256_2" 0.3647058823529412
+"skel bzFixedLen256_4" 0.3058823529411765
+"skel bzFixedLen64_8" 0.29117647058823526
+"skel bzFixedLen256_8" 0.2705882352941177
+"skel bzFixedLen1024_8" 0.2727272727272727
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
+"group1" "AggregationRouterV3"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.37575757575757573
+"raw bzJumpi4" 0.32121212121212117
+"raw bzJumpi8" 0.2666666666666667
+"raw bzFixedLen32_2" 0.5326460481099656
+"raw bzFixedLen64_2" 0.5
+"raw bzFixedLen128_2" 0.4931506849315068
+"raw bzFixedLen256_2" 0.5405405405405406
+"raw bzFixedLen256_4" 0.4054054054054054
+"raw bzFixedLen64_8" 0.3287671232876712
+"raw bzFixedLen256_8" 0.32432432432432434
+"raw bzFixedLen1024_8" 0.19999999999999996
+"skel bzJumpi2" 0.38125
+"skel bzJumpi4" 0.3125
+"skel bzJumpi8" 0.23124999999999996
+"skel bzFixedLen32_2" 0.5121107266435987
+"skel bzFixedLen64_2" 0.5103448275862069
+"skel bzFixedLen128_2" 0.5205479452054795
+"skel bzFixedLen256_2" 0.5135135135135135
+"skel bzFixedLen256_4" 0.43243243243243246
+"skel bzFixedLen64_8" 0.3172413793103448
+"skel bzFixedLen256_8" 0.2432432432432432
+"skel bzFixedLen1024_8" 0.19999999999999996
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "Synthetix - v0.8.4 abi2 o1 runs200"
+"group1" "AggregationRouterV3"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.5222222222222221
+"raw bzJumpi4" 0.3111111111111111
+"raw bzJumpi8" 0.23333333333333328
+"raw bzFixedLen32_2" 0.5526838966202783
+"raw bzFixedLen64_2" 0.5595238095238095
+"raw bzFixedLen128_2" 0.5555555555555556
+"raw bzFixedLen256_2" 0.5396825396825398
+"raw bzFixedLen256_4" 0.4444444444444444
+"raw bzFixedLen64_8" 0.34523809523809523
+"raw bzFixedLen256_8" 0.3015873015873016
+"raw bzFixedLen1024_8" 0.25
+"skel bzJumpi2" 0.524904214559387
+"skel bzJumpi4" 0.29885057471264365
+"skel bzJumpi8" 0.1954022988505747
+"skel bzFixedLen32_2" 0.5258964143426295
+"skel bzFixedLen64_2" 0.5298804780876494
+"skel bzFixedLen128_2" 0.5079365079365079
+"skel bzFixedLen256_2" 0.47619047619047616
+"skel bzFixedLen256_4" 0.38095238095238093
+"skel bzFixedLen64_8" 0.33466135458167334
+"skel bzFixedLen256_8" 0.2857142857142857
+"skel bzFixedLen1024_8" 0.3125
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
+"group1" "AggregationRouterV3"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.638095238095238
+"raw bzJumpi4" 0.49523809523809526
+"raw bzJumpi8" 0.3761904761904762
+"raw bzFixedLen32_2" 0.6536458333333333
+"raw bzFixedLen64_2" 0.6614583333333333
+"raw bzFixedLen128_2" 0.6458333333333333
+"raw bzFixedLen256_2" 0.5833333333333333
+"raw bzFixedLen256_4" 0.4375
+"raw bzFixedLen64_8" 0.38020833333333337
+"raw bzFixedLen256_8" 0.35416666666666663
+"raw bzFixedLen1024_8" 0.16666666666666663
+"skel bzJumpi2" 0.6439024390243903
+"skel bzJumpi4" 0.47804878048780486
+"skel bzJumpi8" 0.3365853658536585
+"skel bzFixedLen32_2" 0.6492146596858639
+"skel bzFixedLen64_2" 0.6387434554973822
+"skel bzFixedLen128_2" 0.65625
+"skel bzFixedLen256_2" 0.625
+"skel bzFixedLen256_4" 0.45833333333333337
+"skel bzFixedLen64_8" 0.37696335078534027
+"skel bzFixedLen256_8" 0.33333333333333337
+"skel bzFixedLen1024_8" 0.25
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
+"target" "DSToken - v0.8.4 abi2 o0 runs200"
+"group1" "AggregationRouterV3"
+"group2" "DSToken"
+"raw bzJumpi2" 0.5393939393939393
+"raw bzJumpi4" 0.4
+"raw bzJumpi8" 0.3151515151515152
+"raw bzFixedLen32_2" 0.6219931271477663
+"raw bzFixedLen64_2" 0.5273972602739726
+"raw bzFixedLen128_2" 0.6301369863013699
+"raw bzFixedLen256_2" 0.6756756756756757
+"raw bzFixedLen256_4" 0.43243243243243246
+"raw bzFixedLen64_8" 0.28767123287671237
+"raw bzFixedLen256_8" 0.2702702702702703
+"raw bzFixedLen1024_8" 0.4
+"skel bzJumpi2" 0.55
+"skel bzJumpi4" 0.42500000000000004
+"skel bzJumpi8" 0.26249999999999996
+"skel bzFixedLen32_2" 0.6505190311418685
+"skel bzFixedLen64_2" 0.6275862068965516
+"skel bzFixedLen128_2" 0.6849315068493151
+"skel bzFixedLen256_2" 0.6486486486486487
+"skel bzFixedLen256_4" 0.4054054054054054
+"skel bzFixedLen64_8" 0.35862068965517246
+"skel bzFixedLen256_8" 0.29729729729729726
+"skel bzFixedLen1024_8" 0.30000000000000004
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o0 runs200"
+"group1" "UniswapV2Router02"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.6692708333333333
+"raw bzJumpi4" 0.49479166666666663
+"raw bzJumpi8" 0.3125
+"raw bzFixedLen32_2" 0.4401606425702811
+"raw bzFixedLen64_2" 0.4382022471910112
+"raw bzFixedLen128_2" 0.4423076923076923
+"raw bzFixedLen256_2" 0.4358974358974359
+"raw bzFixedLen256_4" 0.3589743589743589
+"raw bzFixedLen64_8" 0.2873194221508828
+"raw bzFixedLen256_8" 0.2564102564102564
+"raw bzFixedLen1024_8" 0.3076923076923077
+"skel bzJumpi2" 0.7214484679665738
+"skel bzJumpi4" 0.6657381615598885
+"skel bzJumpi8" 0.5125348189415042
+"skel bzFixedLen32_2" 0.44212218649517687
+"skel bzFixedLen64_2" 0.432475884244373
+"skel bzFixedLen128_2" 0.4340836012861736
+"skel bzFixedLen256_2" 0.4294871794871795
+"skel bzFixedLen256_4" 0.3846153846153846
+"skel bzFixedLen64_8" 0.27331189710610937
+"skel bzFixedLen256_8" 0.3076923076923077
+"skel bzFixedLen1024_8" 0.28205128205128205
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"target" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
+"group1" "UniswapV2Router02"
+"group2" "AggregationRouterV3"
+"raw bzJumpi2" 0.5714285714285714
+"raw bzJumpi4" 0.5306122448979591
+"raw bzJumpi8" 0.41156462585034015
+"raw bzFixedLen32_2" 0.6750902527075813
+"raw bzFixedLen64_2" 0.6823104693140793
+"raw bzFixedLen128_2" 0.6690647482014389
+"raw bzFixedLen256_2" 0.6285714285714286
+"raw bzFixedLen256_4" 0.44285714285714284
+"raw bzFixedLen64_8" 0.3249097472924187
+"raw bzFixedLen256_8" 0.2571428571428571
+"raw bzFixedLen1024_8" 0.2222222222222222
+"skel bzJumpi2" 0.5563139931740615
+"skel bzJumpi4" 0.5017064846416383
+"skel bzJumpi8" 0.42662116040955633
+"skel bzFixedLen32_2" 0.6521739130434783
+"skel bzFixedLen64_2" 0.6485507246376812
+"skel bzFixedLen128_2" 0.644927536231884
+"skel bzFixedLen256_2" 0.6521739130434783
+"skel bzFixedLen256_4" 0.4057971014492754
+"skel bzFixedLen64_8" 0.2753623188405797
+"skel bzFixedLen256_8" 0.28985507246376807
+"skel bzFixedLen1024_8" 0.33333333333333337
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"group1" "UniswapV2Router02"
+"group2" "CollateralManager"
+"raw bzJumpi2" 0.7077922077922079
+"raw bzJumpi4" 0.487012987012987
+"raw bzJumpi8" 0.3441558441558441
+"raw bzFixedLen32_2" 0.6660649819494584
+"raw bzFixedLen64_2" 0.6859205776173285
+"raw bzFixedLen128_2" 0.6762589928057554
+"raw bzFixedLen256_2" 0.6571428571428571
+"raw bzFixedLen256_4" 0.4571428571428572
+"raw bzFixedLen64_8" 0.3393501805054152
+"raw bzFixedLen256_8" 0.3571428571428571
+"raw bzFixedLen1024_8" 0.2777777777777778
+"skel bzJumpi2" 0.6879194630872483
+"skel bzJumpi4" 0.4429530201342282
+"skel bzJumpi8" 0.2651006711409396
+"skel bzFixedLen32_2" 0.6865942028985508
+"skel bzFixedLen64_2" 0.6992753623188406
+"skel bzFixedLen128_2" 0.7028985507246377
+"skel bzFixedLen256_2" 0.7536231884057971
+"skel bzFixedLen256_4" 0.5652173913043479
+"skel bzFixedLen64_8" 0.3876811594202898
+"skel bzFixedLen256_8" 0.4057971014492754
+"skel bzFixedLen1024_8" 0.2777777777777778
+]
+edge [
+"isInner" True
+"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"group1" "UniswapV2Router02"
+"group2" "UniswapV2Router02"
+"raw bzJumpi2" 0.7608695652173914
+"raw bzJumpi4" 0.5380434782608696
+"raw bzJumpi8" 0.28260869565217395
+"raw bzFixedLen32_2" 0.5846994535519126
+"raw bzFixedLen64_2" 0.5764192139737991
+"raw bzFixedLen128_2" 0.5764192139737991
+"raw bzFixedLen256_2" 0.5913043478260869
+"raw bzFixedLen256_4" 0.4347826086956522
+"raw bzFixedLen64_8" 0.3493449781659389
+"raw bzFixedLen256_8" 0.31304347826086953
+"raw bzFixedLen1024_8" 0.24137931034482762
+"skel bzJumpi2" 0.8558282208588956
+"skel bzJumpi4" 0.8128834355828221
+"skel bzJumpi8" 0.6748466257668712
+"skel bzFixedLen32_2" 0.5772179627601315
+"skel bzFixedLen64_2" 0.549234135667396
+"skel bzFixedLen128_2" 0.5807860262008734
+"skel bzFixedLen256_2" 0.5826086956521739
+"skel bzFixedLen256_4" 0.4695652173913043
+"skel bzFixedLen64_8" 0.29540481400437635
+"skel bzFixedLen256_8" 0.35652173913043483
+"skel bzFixedLen1024_8" 0.48275862068965514
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"group1" "UniswapV2Router02"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.724233983286908
+"raw bzJumpi4" 0.532033426183844
+"raw bzJumpi8" 0.37604456824512533
+"raw bzFixedLen32_2" 0.654843110504775
+"raw bzFixedLen64_2" 0.6403269754768393
+"raw bzFixedLen128_2" 0.6413043478260869
+"raw bzFixedLen256_2" 0.6195652173913043
+"raw bzFixedLen256_4" 0.48913043478260865
+"raw bzFixedLen64_8" 0.3678474114441417
+"raw bzFixedLen256_8" 0.34782608695652173
+"raw bzFixedLen1024_8" 0.21739130434782605
+"skel bzJumpi2" 0.7333333333333334
+"skel bzJumpi4" 0.6057971014492753
+"skel bzJumpi8" 0.47536231884057967
+"skel bzFixedLen32_2" 0.6607387140902873
+"skel bzFixedLen64_2" 0.639344262295082
+"skel bzFixedLen128_2" 0.6557377049180328
+"skel bzFixedLen256_2" 0.6630434782608696
+"skel bzFixedLen256_4" 0.5543478260869565
+"skel bzFixedLen64_8" 0.3715846994535519
+"skel bzFixedLen256_8" 0.3913043478260869
 "skel bzFixedLen1024_8" 0.34782608695652173
 ]
 edge [
 "isInner" False
 "source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"target" "Synthetix - v0.8.4 abi2 o0 runs200"
+"group1" "UniswapV2Router02"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.64
+"raw bzJumpi4" 0.4625
+"raw bzJumpi8" 0.2975
+"raw bzFixedLen32_2" 0.5563909774436091
+"raw bzFixedLen64_2" 0.5472103004291846
+"raw bzFixedLen128_2" 0.5407725321888412
+"raw bzFixedLen256_2" 0.5042735042735043
+"raw bzFixedLen256_4" 0.3931623931623932
+"raw bzFixedLen64_8" 0.32618025751072965
+"raw bzFixedLen256_8" 0.3162393162393162
+"raw bzFixedLen1024_8" 0.2666666666666667
+"skel bzJumpi2" 0.640625
+"skel bzJumpi4" 0.36250000000000004
+"skel bzJumpi8" 0.234375
+"skel bzFixedLen32_2" 0.556989247311828
+"skel bzFixedLen64_2" 0.5591397849462365
+"skel bzFixedLen128_2" 0.5493562231759657
+"skel bzFixedLen256_2" 0.4786324786324786
+"skel bzFixedLen256_4" 0.4017094017094017
+"skel bzFixedLen64_8" 0.29462365591397854
+"skel bzFixedLen256_8" 0.23931623931623935
+"skel bzFixedLen1024_8" 0.30000000000000004
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"target" "DSToken - v0.8.4 abi2 o1 runs200"
+"group1" "UniswapV2Router02"
+"group2" "DSToken"
+"raw bzJumpi2" 0.29931972789115646
+"raw bzJumpi4" 0.282312925170068
+"raw bzJumpi8" 0.22789115646258506
+"raw bzFixedLen32_2" 0.20216606498194944
+"raw bzFixedLen64_2" 0.20216606498194944
+"raw bzFixedLen128_2" 0.20143884892086328
+"raw bzFixedLen256_2" 0.19999999999999996
+"raw bzFixedLen256_4" 0.19999999999999996
+"raw bzFixedLen64_8" 0.1660649819494585
+"raw bzFixedLen256_8" 0.19999999999999996
+"raw bzFixedLen1024_8" 0.2222222222222222
+"skel bzJumpi2" 0.29692832764505117
+"skel bzJumpi4" 0.2627986348122867
+"skel bzJumpi8" 0.23890784982935154
+"skel bzFixedLen32_2" 0.19927536231884058
+"skel bzFixedLen64_2" 0.19927536231884058
+"skel bzFixedLen128_2" 0.2028985507246377
+"skel bzFixedLen256_2" 0.2028985507246377
+"skel bzFixedLen256_4" 0.18840579710144922
+"skel bzFixedLen64_8" 0.19565217391304346
+"skel bzFixedLen256_8" 0.17391304347826086
+"skel bzFixedLen1024_8" 0.11111111111111116
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"group1" "UniswapV2Router02"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.1802721088435374
+"raw bzJumpi4" 0.1768707482993197
+"raw bzJumpi8" 0.15306122448979587
+"raw bzFixedLen32_2" 0.14440433212996395
+"raw bzFixedLen64_2" 0.14440433212996395
+"raw bzFixedLen128_2" 0.14388489208633093
+"raw bzFixedLen256_2" 0.1428571428571429
+"raw bzFixedLen256_4" 0.1428571428571429
+"raw bzFixedLen64_8" 0.12635379061371843
+"raw bzFixedLen256_8" 0.11428571428571432
+"raw bzFixedLen1024_8" 0.11111111111111116
+"skel bzJumpi2" 0.174061433447099
+"skel bzJumpi4" 0.16723549488054612
+"skel bzJumpi8" 0.15017064846416384
+"skel bzFixedLen32_2" 0.14130434782608692
+"skel bzFixedLen64_2" 0.14130434782608692
+"skel bzFixedLen128_2" 0.14492753623188404
+"skel bzFixedLen256_2" 0.14492753623188404
+"skel bzFixedLen256_4" 0.14492753623188404
+"skel bzFixedLen64_8" 0.1376811594202898
+"skel bzFixedLen256_8" 0.1159420289855072
+"skel bzFixedLen1024_8" 0.11111111111111116
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
+"group1" "UniswapV2Router02"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.6734693877551021
+"raw bzJumpi4" 0.5510204081632653
+"raw bzJumpi8" 0.41496598639455784
+"raw bzFixedLen32_2" 0.6784140969162995
+"raw bzFixedLen64_2" 0.6129032258064516
+"raw bzFixedLen128_2" 0.5964912280701755
+"raw bzFixedLen256_2" 0.5581395348837209
+"raw bzFixedLen256_4" 0.43023255813953487
+"raw bzFixedLen64_8" 0.3519061583577713
+"raw bzFixedLen256_8" 0.3023255813953488
+"raw bzFixedLen1024_8" 0.2272727272727273
+"skel bzJumpi2" 0.658703071672355
+"skel bzJumpi4" 0.4709897610921502
+"skel bzJumpi8" 0.33447098976109213
+"skel bzFixedLen32_2" 0.663235294117647
+"skel bzFixedLen64_2" 0.6411764705882352
+"skel bzFixedLen128_2" 0.6176470588235294
+"skel bzFixedLen256_2" 0.5764705882352941
+"skel bzFixedLen256_4" 0.48235294117647054
+"skel bzFixedLen64_8" 0.3088235294117647
+"skel bzFixedLen256_8" 0.3176470588235294
+"skel bzFixedLen1024_8" 0.2727272727272727
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
+"group1" "UniswapV2Router02"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.2108843537414966
+"raw bzJumpi4" 0.20408163265306123
+"raw bzJumpi8" 0.19727891156462585
+"raw bzFixedLen32_2" 0.2815884476534296
+"raw bzFixedLen64_2" 0.2815884476534296
+"raw bzFixedLen128_2" 0.28057553956834536
+"raw bzFixedLen256_2" 0.2857142857142857
+"raw bzFixedLen256_4" 0.2857142857142857
+"raw bzFixedLen64_8" 0.2382671480144405
+"raw bzFixedLen256_8" 0.2142857142857143
+"raw bzFixedLen1024_8" 0.11111111111111116
+"skel bzJumpi2" 0.20819112627986347
+"skel bzJumpi4" 0.1843003412969283
+"skel bzJumpi8" 0.15017064846416384
+"skel bzFixedLen32_2" 0.27898550724637683
+"skel bzFixedLen64_2" 0.27898550724637683
+"skel bzFixedLen128_2" 0.28260869565217395
+"skel bzFixedLen256_2" 0.28985507246376807
+"skel bzFixedLen256_4" 0.2753623188405797
+"skel bzFixedLen64_8" 0.21014492753623193
+"skel bzFixedLen256_8" 0.2028985507246377
+"skel bzFixedLen1024_8" 0.16666666666666663
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "Synthetix"
-"raw bzJumpi2" 0.8120567375886525
-"raw bzJumpi4" 0.6897163120567376
-"raw bzJumpi8" 0.6081560283687943
-"raw bzFixedLen32_2" 0.8372753074739829
-"raw bzFixedLen64_2" 0.8393194706994329
-"raw bzFixedLen128_2" 0.8264150943396227
-"raw bzFixedLen256_2" 0.8421052631578947
-"raw bzFixedLen256_4" 0.7218045112781954
-"raw bzFixedLen64_8" 0.6616257088846881
-"raw bzFixedLen256_8" 0.631578947368421
-"raw bzFixedLen1024_8" 0.6176470588235294
-"skel bzJumpi2" 0.7978339350180506
-"skel bzJumpi4" 0.6462093862815885
-"skel bzJumpi8" 0.5794223826714802
-"skel bzFixedLen32_2" 0.8377609108159393
-"skel bzFixedLen64_2" 0.8538899430740038
-"skel bzFixedLen128_2" 0.8560606060606061
-"skel bzFixedLen256_2" 0.8484848484848485
-"skel bzFixedLen256_4" 0.75
-"skel bzFixedLen64_8" 0.6470588235294117
-"skel bzFixedLen256_8" 0.6742424242424243
-"skel bzFixedLen1024_8" 0.7058823529411764
+"raw bzJumpi2" 0.6394557823129252
+"raw bzJumpi4" 0.40476190476190477
+"raw bzJumpi8" 0.2482993197278912
+"raw bzFixedLen32_2" 0.6895306859205776
+"raw bzFixedLen64_2" 0.6931407942238268
+"raw bzFixedLen128_2" 0.6690647482014389
+"raw bzFixedLen256_2" 0.7
+"raw bzFixedLen256_4" 0.4714285714285714
+"raw bzFixedLen64_8" 0.3537906137184116
+"raw bzFixedLen256_8" 0.30000000000000004
+"raw bzFixedLen1024_8" 0.2777777777777778
+"skel bzJumpi2" 0.6177474402730375
+"skel bzJumpi4" 0.33105802047781574
+"skel bzJumpi8" 0.20477815699658708
+"skel bzFixedLen32_2" 0.6902173913043479
+"skel bzFixedLen64_2" 0.7210144927536232
+"skel bzFixedLen128_2" 0.7246376811594203
+"skel bzFixedLen256_2" 0.7101449275362319
+"skel bzFixedLen256_4" 0.5217391304347826
+"skel bzFixedLen64_8" 0.32608695652173914
+"skel bzFixedLen256_8" 0.37681159420289856
+"skel bzFixedLen1024_8" 0.4444444444444444
 ]
 edge [
 "isInner" False
@@ -2268,28 +2268,28 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.7916666666666666
-"raw bzJumpi4" 0.7083333333333333
-"raw bzJumpi8" 0.6507936507936508
-"raw bzFixedLen32_2" 0.7462686567164178
-"raw bzFixedLen64_2" 0.7931769722814499
-"raw bzFixedLen128_2" 0.7829787234042553
-"raw bzFixedLen256_2" 0.7457627118644068
-"raw bzFixedLen256_4" 0.6440677966101696
-"raw bzFixedLen64_8" 0.6204690831556503
-"raw bzFixedLen256_8" 0.5847457627118644
-"raw bzFixedLen1024_8" 0.5333333333333333
-"skel bzJumpi2" 0.7751004016064257
-"skel bzJumpi4" 0.6465863453815262
-"skel bzJumpi8" 0.5823293172690763
-"skel bzFixedLen32_2" 0.7858672376873661
-"skel bzFixedLen64_2" 0.7815845824411135
-"skel bzFixedLen128_2" 0.782051282051282
-"skel bzFixedLen256_2" 0.8034188034188035
-"skel bzFixedLen256_4" 0.7350427350427351
-"skel bzFixedLen64_8" 0.6167023554603854
-"skel bzFixedLen256_8" 0.6324786324786325
-"skel bzFixedLen1024_8" 0.6666666666666667
+"raw bzJumpi2" 0.6428571428571428
+"raw bzJumpi4" 0.5
+"raw bzJumpi8" 0.4013605442176871
+"raw bzFixedLen32_2" 0.5703971119133574
+"raw bzFixedLen64_2" 0.6498194945848376
+"raw bzFixedLen128_2" 0.6330935251798562
+"raw bzFixedLen256_2" 0.5714285714285714
+"raw bzFixedLen256_4" 0.4
+"raw bzFixedLen64_8" 0.3574007220216606
+"raw bzFixedLen256_8" 0.30000000000000004
+"raw bzFixedLen1024_8" 0.2222222222222222
+"skel bzJumpi2" 0.6177474402730375
+"skel bzJumpi4" 0.39931740614334466
+"skel bzJumpi8" 0.2901023890784983
+"skel bzFixedLen32_2" 0.6376811594202898
+"skel bzFixedLen64_2" 0.6304347826086957
+"skel bzFixedLen128_2" 0.6304347826086957
+"skel bzFixedLen256_2" 0.6666666666666667
+"skel bzFixedLen256_4" 0.5507246376811594
+"skel bzFixedLen64_8" 0.35144927536231885
+"skel bzFixedLen256_8" 0.37681159420289856
+"skel bzFixedLen1024_8" 0.4444444444444444
 ]
 edge [
 "isInner" False
@@ -2297,28 +2297,28 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o0 runs200"
 "group1" "UniswapV2Router02"
 "group2" "DSToken"
-"raw bzJumpi2" 0.48062015503875966
-"raw bzJumpi4" 0.4651162790697675
-"raw bzJumpi8" 0.42894056847545214
-"raw bzFixedLen32_2" 0.5794871794871794
-"raw bzFixedLen64_2" 0.5794871794871794
-"raw bzFixedLen128_2" 0.5816326530612245
-"raw bzFixedLen256_2" 0.5858585858585859
-"raw bzFixedLen256_4" 0.5454545454545454
-"raw bzFixedLen64_8" 0.4641025641025641
-"raw bzFixedLen256_8" 0.48484848484848486
-"raw bzFixedLen1024_8" 0.5384615384615384
-"skel bzJumpi2" 0.47792207792207797
-"skel bzJumpi4" 0.4493506493506494
-"skel bzJumpi8" 0.425974025974026
-"skel bzFixedLen32_2" 0.5773195876288659
-"skel bzFixedLen64_2" 0.5773195876288659
-"skel bzFixedLen128_2" 0.5773195876288659
-"skel bzFixedLen256_2" 0.5773195876288659
-"skel bzFixedLen256_4" 0.5154639175257731
-"skel bzFixedLen64_8" 0.47164948453608246
-"skel bzFixedLen256_8" 0.4329896907216495
-"skel bzFixedLen1024_8" 0.48
+"raw bzJumpi2" 0.3163265306122449
+"raw bzJumpi4" 0.29591836734693877
+"raw bzJumpi8" 0.2482993197278912
+"raw bzFixedLen32_2" 0.40794223826714804
+"raw bzFixedLen64_2" 0.40794223826714804
+"raw bzFixedLen128_2" 0.41007194244604317
+"raw bzFixedLen256_2" 0.41428571428571426
+"raw bzFixedLen256_4" 0.3571428571428571
+"raw bzFixedLen64_8" 0.24548736462093868
+"raw bzFixedLen256_8" 0.27142857142857146
+"raw bzFixedLen1024_8" 0.33333333333333337
+"skel bzJumpi2" 0.31399317406143346
+"skel bzJumpi4" 0.2764505119453925
+"skel bzJumpi8" 0.24573378839590443
+"skel bzFixedLen32_2" 0.4057971014492754
+"skel bzFixedLen64_2" 0.4057971014492754
+"skel bzFixedLen128_2" 0.4057971014492754
+"skel bzFixedLen256_2" 0.4057971014492754
+"skel bzFixedLen256_4" 0.3188405797101449
+"skel bzFixedLen64_8" 0.25724637681159424
+"skel bzFixedLen256_8" 0.2028985507246377
+"skel bzFixedLen1024_8" 0.2777777777777778
 ]
 edge [
 "isInner" False
@@ -2326,28 +2326,28 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "AggregationRouterV3"
-"raw bzJumpi2" 0.6075949367088608
-"raw bzJumpi4" 0.5678119349005425
-"raw bzJumpi8" 0.4737793851717902
-"raw bzFixedLen32_2" 0.595600676818951
-"raw bzFixedLen64_2" 0.5918827508455469
-"raw bzFixedLen128_2" 0.5923423423423424
-"raw bzFixedLen256_2" 0.5945945945945945
-"raw bzFixedLen256_4" 0.5765765765765766
-"raw bzFixedLen64_8" 0.5140924464487036
-"raw bzFixedLen256_8" 0.5315315315315315
-"raw bzFixedLen1024_8" 0.4821428571428571
-"skel bzJumpi2" 0.6202290076335878
-"skel bzJumpi4" 0.5973282442748091
-"skel bzJumpi8" 0.5477099236641221
-"skel bzFixedLen32_2" 0.5943502824858757
-"skel bzFixedLen64_2" 0.5932203389830508
-"skel bzFixedLen128_2" 0.5936794582392777
-"skel bzFixedLen256_2" 0.5945945945945945
-"skel bzFixedLen256_4" 0.5855855855855856
-"skel bzFixedLen64_8" 0.5231638418079096
-"skel bzFixedLen256_8" 0.545045045045045
-"skel bzFixedLen1024_8" 0.4821428571428571
+"raw bzJumpi2" 0.43489583333333337
+"raw bzJumpi4" 0.37760416666666663
+"raw bzJumpi8" 0.2421875
+"raw bzFixedLen32_2" 0.42409638554216866
+"raw bzFixedLen64_2" 0.4189406099518459
+"raw bzFixedLen128_2" 0.4198717948717948
+"raw bzFixedLen256_2" 0.42307692307692313
+"raw bzFixedLen256_4" 0.39743589743589747
+"raw bzFixedLen64_8" 0.3081861958266453
+"raw bzFixedLen256_8" 0.33333333333333337
+"raw bzFixedLen1024_8" 0.2564102564102564
+"skel bzJumpi2" 0.44568245125348194
+"skel bzJumpi4" 0.41225626740947074
+"skel bzJumpi8" 0.3398328690807799
+"skel bzFixedLen32_2" 0.4228295819935691
+"skel bzFixedLen64_2" 0.4212218649517685
+"skel bzFixedLen128_2" 0.4212218649517685
+"skel bzFixedLen256_2" 0.42307692307692313
+"skel bzFixedLen256_4" 0.41025641025641024
+"skel bzFixedLen64_8" 0.3215434083601286
+"skel bzFixedLen256_8" 0.35256410256410253
+"skel bzFixedLen1024_8" 0.2564102564102564
 ]
 edge [
 "isInner" False
@@ -2355,28 +2355,28 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "CollateralManager"
-"raw bzJumpi2" 0.8222543352601156
-"raw bzJumpi4" 0.6618497109826589
-"raw bzJumpi8" 0.5635838150289018
-"raw bzFixedLen32_2" 0.5381455399061033
-"raw bzFixedLen64_2" 0.5392731535756154
-"raw bzFixedLen128_2" 0.5386416861826697
-"raw bzFixedLen256_2" 0.5420560747663552
-"raw bzFixedLen256_4" 0.5093457943925234
-"raw bzFixedLen64_8" 0.46776084407971863
-"raw bzFixedLen256_8" 0.46261682242990654
-"raw bzFixedLen1024_8" 0.4814814814814815
-"skel bzJumpi2" 0.8249619482496195
-"skel bzJumpi4" 0.7047184170471842
-"skel bzJumpi8" 0.6118721461187215
-"skel bzFixedLen32_2" 0.5373309817754262
-"skel bzFixedLen64_2" 0.5381903642773208
-"skel bzFixedLen128_2" 0.539906103286385
-"skel bzFixedLen256_2" 0.5420560747663552
-"skel bzFixedLen256_4" 0.5093457943925234
-"skel bzFixedLen64_8" 0.4582843713278496
-"skel bzFixedLen256_8" 0.47663551401869164
-"skel bzFixedLen1024_8" 0.4444444444444444
+"raw bzJumpi2" 0.6796875
+"raw bzJumpi4" 0.390625
+"raw bzJumpi8" 0.21354166666666663
+"raw bzFixedLen32_2" 0.36787148594377506
+"raw bzFixedLen64_2" 0.3691813804173355
+"raw bzFixedLen128_2" 0.3685897435897436
+"raw bzFixedLen256_2" 0.3717948717948718
+"raw bzFixedLen256_4" 0.32692307692307687
+"raw bzFixedLen64_8" 0.2712680577849117
+"raw bzFixedLen256_8" 0.2628205128205128
+"raw bzFixedLen1024_8" 0.28205128205128205
+"skel bzJumpi2" 0.6796657381615598
+"skel bzJumpi4" 0.45961002785515326
+"skel bzJumpi8" 0.2896935933147632
+"skel bzFixedLen32_2" 0.367363344051447
+"skel bzFixedLen64_2" 0.36816720257234725
+"skel bzFixedLen128_2" 0.3697749196141479
+"skel bzFixedLen256_2" 0.3717948717948718
+"skel bzFixedLen256_4" 0.32692307692307687
+"skel bzFixedLen64_8" 0.2588424437299035
+"skel bzFixedLen256_8" 0.28205128205128205
+"skel bzFixedLen1024_8" 0.23076923076923073
 ]
 edge [
 "isInner" False
@@ -2384,28 +2384,28 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.863031914893617
-"raw bzJumpi4" 0.8577127659574468
-"raw bzJumpi8" 0.8098404255319149
-"raw bzFixedLen32_2" 0.8004629629629629
-"raw bzFixedLen64_2" 0.7927844588344126
-"raw bzFixedLen128_2" 0.8022181146025877
-"raw bzFixedLen256_2" 0.7970479704797048
-"raw bzFixedLen256_4" 0.7121771217712177
-"raw bzFixedLen64_8" 0.6429232192414431
-"raw bzFixedLen256_8" 0.6420664206642066
-"raw bzFixedLen1024_8" 0.6617647058823529
-"skel bzJumpi2" 0.8686131386861313
-"skel bzJumpi4" 0.8277372262773722
-"skel bzJumpi8" 0.7328467153284672
-"skel bzFixedLen32_2" 0.8048215113583681
-"skel bzFixedLen64_2" 0.7970342910101946
-"skel bzFixedLen128_2" 0.7796296296296297
-"skel bzFixedLen256_2" 0.8081180811808117
-"skel bzFixedLen256_4" 0.7416974169741697
-"skel bzFixedLen64_8" 0.659870250231696
-"skel bzFixedLen256_8" 0.6568265682656826
-"skel bzFixedLen1024_8" 0.7352941176470589
+"raw bzJumpi2" 0.7317708333333333
+"raw bzJumpi4" 0.7213541666666667
+"raw bzJumpi8" 0.6276041666666667
+"raw bzFixedLen32_2" 0.6538152610441768
+"raw bzFixedLen64_2" 0.6404494382022472
+"raw bzFixedLen128_2" 0.657051282051282
+"raw bzFixedLen256_2" 0.6474358974358974
+"raw bzFixedLen256_4" 0.5
+"raw bzFixedLen64_8" 0.3804173354735152
+"raw bzFixedLen256_8" 0.3782051282051282
+"raw bzFixedLen1024_8" 0.41025641025641024
+"skel bzJumpi2" 0.7493036211699164
+"skel bzJumpi4" 0.6713091922005572
+"skel bzJumpi8" 0.4902506963788301
+"skel bzFixedLen32_2" 0.6615755627009646
+"skel bzFixedLen64_2" 0.6479099678456592
+"skel bzFixedLen128_2" 0.617363344051447
+"skel bzFixedLen256_2" 0.6666666666666667
+"skel bzFixedLen256_4" 0.5512820512820513
+"skel bzFixedLen64_8" 0.409967845659164
+"skel bzFixedLen256_8" 0.40384615384615385
+"skel bzFixedLen1024_8" 0.5384615384615384
 ]
 edge [
 "isInner" True
@@ -2413,28 +2413,28 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.9098250336473755
-"raw bzJumpi4" 0.9057873485868102
-"raw bzJumpi8" 0.8344549125168237
-"raw bzFixedLen32_2" 0.7108190091001011
-"raw bzFixedLen64_2" 0.7151515151515151
-"raw bzFixedLen128_2" 0.7237903225806452
-"raw bzFixedLen256_2" 0.7379032258064516
-"raw bzFixedLen256_4" 0.6532258064516129
-"raw bzFixedLen64_8" 0.5848484848484848
-"raw bzFixedLen256_8" 0.6008064516129032
-"raw bzFixedLen1024_8" 0.5483870967741935
-"skel bzJumpi2" 0.9275568181818181
-"skel bzJumpi4" 0.8735795454545454
-"skel bzJumpi8" 0.7926136363636364
-"skel bzFixedLen32_2" 0.7174683544303797
-"skel bzFixedLen64_2" 0.7125506072874495
-"skel bzFixedLen128_2" 0.7186234817813766
-"skel bzFixedLen256_2" 0.7137096774193548
-"skel bzFixedLen256_4" 0.657258064516129
-"skel bzFixedLen64_8" 0.5688259109311741
-"skel bzFixedLen256_8" 0.5846774193548387
-"skel bzFixedLen1024_8" 0.564516129032258
+"raw bzJumpi2" 0.8255208333333334
+"raw bzJumpi4" 0.8177083333333334
+"raw bzJumpi8" 0.6796875
+"raw bzFixedLen32_2" 0.5405622489959839
+"raw bzFixedLen64_2" 0.5473515248796148
+"raw bzFixedLen128_2" 0.5608974358974359
+"raw bzFixedLen256_2" 0.5833333333333333
+"raw bzFixedLen256_4" 0.4487179487179487
+"raw bzFixedLen64_8" 0.3402889245585875
+"raw bzFixedLen256_8" 0.3653846153846154
+"raw bzFixedLen1024_8" 0.28205128205128205
+"skel bzJumpi2" 0.8579387186629527
+"skel bzJumpi4" 0.7520891364902507
+"skel bzJumpi8" 0.5933147632311977
+"skel bzFixedLen32_2" 0.5514469453376205
+"skel bzFixedLen64_2" 0.5434083601286174
+"skel bzFixedLen128_2" 0.5530546623794212
+"skel bzFixedLen256_2" 0.5448717948717949
+"skel bzFixedLen256_4" 0.4551282051282052
+"skel bzFixedLen64_8" 0.315112540192926
+"skel bzFixedLen256_8" 0.33974358974358976
+"skel bzFixedLen1024_8" 0.3076923076923077
 ]
 edge [
 "isInner" False
@@ -2442,28 +2442,28 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o0 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "Synthetix"
-"raw bzJumpi2" 0.8380102040816326
-"raw bzJumpi4" 0.8303571428571428
-"raw bzJumpi8" 0.6862244897959184
-"raw bzFixedLen32_2" 0.8010110294117647
-"raw bzFixedLen64_2" 0.7897153351698807
-"raw bzFixedLen128_2" 0.7926605504587156
-"raw bzFixedLen256_2" 0.8131868131868132
-"raw bzFixedLen256_4" 0.717948717948718
-"raw bzFixedLen64_8" 0.6409550045913682
-"raw bzFixedLen256_8" 0.6263736263736264
-"raw bzFixedLen1024_8" 0.6811594202898551
-"skel bzJumpi2" 0.8365243004418262
-"skel bzJumpi4" 0.6863033873343152
-"skel bzJumpi8" 0.6008836524300442
-"skel bzFixedLen32_2" 0.8045078196872125
-"skel bzFixedLen64_2" 0.8003679852805887
-"skel bzFixedLen128_2" 0.7922794117647058
-"skel bzFixedLen256_2" 0.8351648351648352
-"skel bzFixedLen256_4" 0.7326007326007327
-"skel bzFixedLen64_8" 0.6531738730450782
-"skel bzFixedLen256_8" 0.6227106227106227
-"skel bzFixedLen1024_8" 0.6956521739130435
+"raw bzJumpi2" 0.6825
+"raw bzJumpi4" 0.6675
+"raw bzJumpi8" 0.385
+"raw bzFixedLen32_2" 0.6522088353413655
+"raw bzFixedLen64_2" 0.6324237560192616
+"raw bzFixedLen128_2" 0.6378205128205128
+"raw bzFixedLen256_2" 0.6730769230769231
+"raw bzFixedLen256_4" 0.5064102564102564
+"raw bzFixedLen64_8" 0.3723916532905297
+"raw bzFixedLen256_8" 0.34615384615384615
+"raw bzFixedLen1024_8" 0.4358974358974359
+"skel bzJumpi2" 0.6908077994428969
+"skel bzJumpi4" 0.4066852367688022
+"skel bzJumpi8" 0.245125348189415
+"skel bzFixedLen32_2" 0.6583601286173634
+"skel bzFixedLen64_2" 0.6511254019292605
+"skel bzFixedLen128_2" 0.6366559485530547
+"skel bzFixedLen256_2" 0.7115384615384616
+"skel bzFixedLen256_4" 0.532051282051282
+"skel bzFixedLen64_8" 0.3938906752411575
+"skel bzFixedLen256_8" 0.33974358974358976
+"skel bzFixedLen1024_8" 0.46153846153846156
 ]
 edge [
 "isInner" False
@@ -2471,28 +2471,28 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "DSToken"
-"raw bzJumpi2" 0.3728813559322034
-"raw bzJumpi4" 0.30932203389830504
-"raw bzJumpi8" 0.2923728813559322
-"raw bzFixedLen32_2" 0.16507000736919675
-"raw bzFixedLen64_2" 0.1649484536082474
-"raw bzFixedLen128_2" 0.16470588235294115
-"raw bzFixedLen256_2" 0.16470588235294115
-"raw bzFixedLen256_4" 0.16470588235294115
-"raw bzFixedLen64_8" 0.16347569955817376
-"raw bzFixedLen256_8" 0.1588235294117647
-"raw bzFixedLen1024_8" 0.18604651162790697
-"skel bzJumpi2" 0.3901345291479821
-"skel bzJumpi4" 0.38565022421524664
-"skel bzJumpi8" 0.34977578475336324
-"skel bzFixedLen32_2" 0.16248153618906946
-"skel bzFixedLen64_2" 0.16248153618906946
-"skel bzFixedLen128_2" 0.16519174041297935
-"skel bzFixedLen256_2" 0.16470588235294115
-"skel bzFixedLen256_4" 0.16470588235294115
-"skel bzFixedLen64_8" 0.16248153618906946
-"skel bzFixedLen256_8" 0.16470588235294115
-"skel bzFixedLen1024_8" 0.18604651162790697
+"raw bzJumpi2" 0.22916666666666663
+"raw bzJumpi4" 0.15104166666666663
+"raw bzJumpi8" 0.13020833333333337
+"raw bzFixedLen32_2" 0.08995983935742968
+"raw bzFixedLen64_2" 0.0898876404494382
+"raw bzFixedLen128_2" 0.08974358974358976
+"raw bzFixedLen256_2" 0.08974358974358976
+"raw bzFixedLen256_4" 0.08974358974358976
+"raw bzFixedLen64_8" 0.0882825040128411
+"raw bzFixedLen256_8" 0.08333333333333337
+"raw bzFixedLen1024_8" 0.10256410256410253
+"skel bzJumpi2" 0.24233983286908078
+"skel bzJumpi4" 0.23676880222841223
+"skel bzJumpi8" 0.19220055710306405
+"skel bzFixedLen32_2" 0.08842443729903537
+"skel bzFixedLen64_2" 0.08842443729903537
+"skel bzFixedLen128_2" 0.090032154340836
+"skel bzFixedLen256_2" 0.08974358974358976
+"skel bzFixedLen256_4" 0.08974358974358976
+"skel bzFixedLen64_8" 0.08842443729903537
+"skel bzFixedLen256_8" 0.08974358974358976
+"skel bzFixedLen1024_8" 0.10256410256410253
 ]
 edge [
 "isInner" False
@@ -2500,28 +2500,28 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "AddressResolver"
-"raw bzJumpi2" 0.2425629290617849
-"raw bzJumpi4" 0.2036613272311213
-"raw bzJumpi8" 0.18993135011441653
-"raw bzFixedLen32_2" 0.12075471698113205
-"raw bzFixedLen64_2" 0.1206636500754148
-"raw bzFixedLen128_2" 0.12048192771084343
-"raw bzFixedLen256_2" 0.12048192771084343
-"raw bzFixedLen256_4" 0.12048192771084343
-"raw bzFixedLen64_8" 0.1206636500754148
-"raw bzFixedLen256_8" 0.12048192771084343
-"raw bzFixedLen1024_8" 0.1428571428571429
-"skel bzJumpi2" 0.24878048780487805
-"skel bzJumpi4" 0.24878048780487805
-"skel bzJumpi8" 0.23170731707317072
-"skel bzFixedLen32_2" 0.11800302571860821
-"skel bzFixedLen64_2" 0.11800302571860821
-"skel bzFixedLen128_2" 0.12084592145015105
-"skel bzFixedLen256_2" 0.12048192771084343
-"skel bzFixedLen256_4" 0.12048192771084343
-"skel bzFixedLen64_8" 0.11800302571860821
-"skel bzFixedLen256_8" 0.12048192771084343
-"skel bzFixedLen1024_8" 0.1428571428571429
+"raw bzJumpi2" 0.13802083333333337
+"raw bzJumpi4" 0.09375
+"raw bzJumpi8" 0.078125
+"raw bzFixedLen32_2" 0.06425702811244982
+"raw bzFixedLen64_2" 0.0642054574638844
+"raw bzFixedLen128_2" 0.0641025641025641
+"raw bzFixedLen256_2" 0.0641025641025641
+"raw bzFixedLen256_4" 0.0641025641025641
+"raw bzFixedLen64_8" 0.0642054574638844
+"raw bzFixedLen256_8" 0.0641025641025641
+"raw bzFixedLen1024_8" 0.07692307692307687
+"skel bzJumpi2" 0.14206128133704732
+"skel bzJumpi4" 0.14206128133704732
+"skel bzJumpi8" 0.12256267409470756
+"skel bzFixedLen32_2" 0.06270096463022512
+"skel bzFixedLen64_2" 0.06270096463022512
+"skel bzFixedLen128_2" 0.06430868167202575
+"skel bzFixedLen256_2" 0.0641025641025641
+"skel bzFixedLen256_4" 0.0641025641025641
+"skel bzFixedLen64_8" 0.06270096463022512
+"skel bzFixedLen256_8" 0.0641025641025641
+"skel bzFixedLen1024_8" 0.07692307692307687
 ]
 edge [
 "isInner" False
@@ -2529,28 +2529,28 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.7357259380097879
-"raw bzJumpi4" 0.6247960848287113
-"raw bzJumpi8" 0.5122349102773247
-"raw bzFixedLen32_2" 0.6978193146417446
-"raw bzFixedLen64_2" 0.696058091286307
-"raw bzFixedLen128_2" 0.6956521739130435
-"raw bzFixedLen256_2" 0.7024793388429752
-"raw bzFixedLen256_4" 0.6446280991735538
-"raw bzFixedLen64_8" 0.5860995850622407
-"raw bzFixedLen256_8" 0.578512396694215
-"raw bzFixedLen1024_8" 0.5901639344262295
-"skel bzJumpi2" 0.7512864493996569
-"skel bzJumpi4" 0.6843910806174958
-"skel bzJumpi8" 0.6020583190394511
-"skel bzFixedLen32_2" 0.7053014553014554
-"skel bzFixedLen64_2" 0.7027027027027026
-"skel bzFixedLen128_2" 0.7068607068607069
-"skel bzFixedLen256_2" 0.7053941908713692
-"skel bzFixedLen256_4" 0.6846473029045643
-"skel bzFixedLen64_8" 0.5987525987525988
-"skel bzFixedLen256_8" 0.6182572614107884
-"skel bzFixedLen1024_8" 0.639344262295082
+"raw bzJumpi2" 0.578125
+"raw bzJumpi4" 0.40104166666666663
+"raw bzJumpi8" 0.22135416666666663
+"raw bzFixedLen32_2" 0.5325301204819277
+"raw bzFixedLen64_2" 0.5296950240770466
+"raw bzFixedLen128_2" 0.5288461538461539
+"raw bzFixedLen256_2" 0.5384615384615384
+"raw bzFixedLen256_4" 0.4487179487179487
+"raw bzFixedLen64_8" 0.3595505617977528
+"raw bzFixedLen256_8" 0.34615384615384615
+"raw bzFixedLen1024_8" 0.3589743589743589
+"skel bzJumpi2" 0.596100278551532
+"skel bzJumpi4" 0.4874651810584958
+"skel bzJumpi8" 0.35376044568245124
+"skel bzFixedLen32_2" 0.5442122186495177
+"skel bzFixedLen64_2" 0.540192926045016
+"skel bzFixedLen128_2" 0.5466237942122186
+"skel bzFixedLen256_2" 0.5448717948717949
+"skel bzFixedLen256_4" 0.5128205128205128
+"skel bzFixedLen64_8" 0.37942122186495175
+"skel bzFixedLen256_8" 0.41025641025641024
+"skel bzFixedLen1024_8" 0.4358974358974359
 ]
 edge [
 "isInner" False
@@ -2558,28 +2558,28 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o0 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "AddressResolver"
-"raw bzJumpi2" 0.27802690582959644
-"raw bzJumpi4" 0.22869955156950672
-"raw bzJumpi8" 0.21973094170403584
-"raw bzFixedLen32_2" 0.2226980728051392
-"raw bzFixedLen64_2" 0.22253922967189732
-"raw bzFixedLen128_2" 0.2222222222222222
-"raw bzFixedLen256_2" 0.2272727272727273
-"raw bzFixedLen256_4" 0.2272727272727273
-"raw bzFixedLen64_8" 0.21968616262482166
-"raw bzFixedLen256_8" 0.2272727272727273
-"raw bzFixedLen1024_8" 0.20454545454545459
-"skel bzJumpi2" 0.29047619047619044
-"skel bzJumpi4" 0.2833333333333333
-"skel bzJumpi8" 0.26428571428571423
-"skel bzFixedLen32_2" 0.2203147353361946
-"skel bzFixedLen64_2" 0.2203147353361946
-"skel bzFixedLen128_2" 0.22285714285714286
-"skel bzFixedLen256_2" 0.2272727272727273
-"skel bzFixedLen256_4" 0.2272727272727273
-"skel bzFixedLen64_8" 0.2188841201716738
-"skel bzFixedLen256_8" 0.22159090909090906
-"skel bzFixedLen1024_8" 0.20454545454545459
+"raw bzJumpi2" 0.16145833333333337
+"raw bzJumpi4" 0.10416666666666663
+"raw bzJumpi8" 0.09375
+"raw bzFixedLen32_2" 0.1253012048192771
+"raw bzFixedLen64_2" 0.1252006420545746
+"raw bzFixedLen128_2" 0.125
+"raw bzFixedLen256_2" 0.1282051282051282
+"raw bzFixedLen256_4" 0.1282051282051282
+"raw bzFixedLen64_8" 0.1219903691813804
+"raw bzFixedLen256_8" 0.1282051282051282
+"raw bzFixedLen1024_8" 0.10256410256410253
+"skel bzJumpi2" 0.16991643454038996
+"skel bzJumpi4" 0.1615598885793872
+"skel bzJumpi8" 0.1392757660167131
+"skel bzFixedLen32_2" 0.1237942122186495
+"skel bzFixedLen64_2" 0.1237942122186495
+"skel bzFixedLen128_2" 0.12540192926045013
+"skel bzFixedLen256_2" 0.1282051282051282
+"skel bzFixedLen256_4" 0.1282051282051282
+"skel bzFixedLen64_8" 0.12218649517684887
+"skel bzFixedLen256_8" 0.1217948717948718
+"skel bzFixedLen1024_8" 0.10256410256410253
 ]
 edge [
 "isInner" False
@@ -2587,28 +2587,28 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "Synthetix"
-"raw bzJumpi2" 0.7614678899082569
-"raw bzJumpi4" 0.5932721712538227
-"raw bzJumpi8" 0.5321100917431192
-"raw bzFixedLen32_2" 0.5726544622425629
-"raw bzFixedLen64_2" 0.5760000000000001
-"raw bzFixedLen128_2" 0.5753424657534247
-"raw bzFixedLen256_2" 0.5753424657534247
-"raw bzFixedLen256_4" 0.5342465753424658
-"raw bzFixedLen64_8" 0.48457142857142854
-"raw bzFixedLen256_8" 0.4931506849315068
-"raw bzFixedLen1024_8" 0.4727272727272728
-"skel bzJumpi2" 0.7580645161290323
-"skel bzJumpi4" 0.635483870967742
-"skel bzJumpi8" 0.5435483870967741
-"skel bzFixedLen32_2" 0.5750286368843069
-"skel bzFixedLen64_2" 0.5715922107674685
-"skel bzFixedLen128_2" 0.5743707093821511
-"skel bzFixedLen256_2" 0.5753424657534247
-"skel bzFixedLen256_4" 0.5342465753424658
-"skel bzFixedLen64_8" 0.47079037800687284
-"skel bzFixedLen256_8" 0.4885844748858448
-"skel bzFixedLen1024_8" 0.4363636363636364
+"raw bzJumpi2" 0.59375
+"raw bzJumpi4" 0.30729166666666663
+"raw bzJumpi8" 0.203125
+"raw bzFixedLen32_2" 0.4
+"raw bzFixedLen64_2" 0.4044943820224719
+"raw bzFixedLen128_2" 0.40384615384615385
+"raw bzFixedLen256_2" 0.40384615384615385
+"raw bzFixedLen256_4" 0.34615384615384615
+"raw bzFixedLen64_8" 0.276083467094703
+"raw bzFixedLen256_8" 0.28846153846153844
+"raw bzFixedLen1024_8" 0.2564102564102564
+"skel bzJumpi2" 0.5821727019498607
+"skel bzJumpi4" 0.3704735376044568
+"skel bzJumpi8" 0.21169916434540392
+"skel bzFixedLen32_2" 0.4035369774919614
+"skel bzFixedLen64_2" 0.3987138263665595
+"skel bzFixedLen128_2" 0.40192926045016075
+"skel bzFixedLen256_2" 0.40384615384615385
+"skel bzFixedLen256_4" 0.34615384615384615
+"skel bzFixedLen64_8" 0.2572347266881029
+"skel bzFixedLen256_8" 0.28205128205128205
+"skel bzFixedLen1024_8" 0.20512820512820518
 ]
 edge [
 "isInner" False
@@ -2616,28 +2616,28 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.702020202020202
-"raw bzJumpi4" 0.563973063973064
-"raw bzJumpi8" 0.48484848484848486
-"raw bzFixedLen32_2" 0.4714548802946593
-"raw bzFixedLen64_2" 0.4711656441717792
-"raw bzFixedLen128_2" 0.47058823529411764
-"raw bzFixedLen256_2" 0.47058823529411764
-"raw bzFixedLen256_4" 0.4558823529411765
-"raw bzFixedLen64_8" 0.41840490797546015
-"raw bzFixedLen256_8" 0.4117647058823529
-"raw bzFixedLen1024_8" 0.4117647058823529
-"skel bzJumpi2" 0.7127659574468085
-"skel bzJumpi4" 0.625886524822695
-"skel bzJumpi8" 0.5443262411347518
-"skel bzFixedLen32_2" 0.46986469864698643
-"skel bzFixedLen64_2" 0.46986469864698643
-"skel bzFixedLen128_2" 0.47174447174447176
-"skel bzFixedLen256_2" 0.47058823529411764
-"skel bzFixedLen256_4" 0.4411764705882353
-"skel bzFixedLen64_8" 0.4182041820418204
-"skel bzFixedLen256_8" 0.4117647058823529
-"skel bzFixedLen1024_8" 0.3529411764705882
+"raw bzJumpi2" 0.5390625
+"raw bzJumpi4" 0.32552083333333337
+"raw bzJumpi8" 0.203125
+"raw bzFixedLen32_2" 0.308433734939759
+"raw bzFixedLen64_2" 0.3081861958266453
+"raw bzFixedLen128_2" 0.3076923076923077
+"raw bzFixedLen256_2" 0.3076923076923077
+"raw bzFixedLen256_4" 0.28846153846153844
+"raw bzFixedLen64_8" 0.2391653290529695
+"raw bzFixedLen256_8" 0.23076923076923073
+"raw bzFixedLen1024_8" 0.23076923076923073
+"skel bzJumpi2" 0.5487465181058495
+"skel bzJumpi4" 0.41225626740947074
+"skel bzJumpi8" 0.28412256267409475
+"skel bzFixedLen32_2" 0.30707395498392287
+"skel bzFixedLen64_2" 0.30707395498392287
+"skel bzFixedLen128_2" 0.3086816720257235
+"skel bzFixedLen256_2" 0.3076923076923077
+"skel bzFixedLen256_4" 0.2692307692307693
+"skel bzFixedLen64_8" 0.23954983922829587
+"skel bzFixedLen256_8" 0.23076923076923073
+"skel bzFixedLen1024_8" 0.15384615384615385
 ]
 edge [
 "isInner" False
@@ -2645,1478 +2645,1478 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o0 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "DSToken"
-"raw bzJumpi2" 0.389937106918239
-"raw bzJumpi4" 0.3165618448637316
-"raw bzJumpi8" 0.30188679245283023
-"raw bzFixedLen32_2" 0.3072739632902787
-"raw bzFixedLen64_2" 0.3070652173913043
-"raw bzFixedLen128_2" 0.3089430894308943
-"raw bzFixedLen256_2" 0.31351351351351353
-"raw bzFixedLen256_4" 0.31351351351351353
-"raw bzFixedLen64_8" 0.29891304347826086
-"raw bzFixedLen256_8" 0.29729729729729726
-"raw bzFixedLen1024_8" 0.3191489361702128
-"skel bzJumpi2" 0.4079822616407982
-"skel bzJumpi4" 0.4057649667405765
-"skel bzJumpi8" 0.36141906873614194
-"skel bzFixedLen32_2" 0.3051771117166212
-"skel bzFixedLen64_2" 0.3051771117166212
-"skel bzFixedLen128_2" 0.3051771117166212
-"skel bzFixedLen256_2" 0.30434782608695654
-"skel bzFixedLen256_4" 0.2934782608695652
-"skel bzFixedLen64_8" 0.2956403269754768
-"skel bzFixedLen256_8" 0.28260869565217395
+"raw bzJumpi2" 0.2421875
+"raw bzJumpi4" 0.15104166666666663
+"raw bzJumpi8" 0.1328125
+"raw bzFixedLen32_2" 0.1815261044176707
+"raw bzFixedLen64_2" 0.1813804173354735
+"raw bzFixedLen128_2" 0.1826923076923077
+"raw bzFixedLen256_2" 0.1858974358974359
+"raw bzFixedLen256_4" 0.1858974358974359
+"raw bzFixedLen64_8" 0.1717495987158909
+"raw bzFixedLen256_8" 0.16666666666666663
+"raw bzFixedLen1024_8" 0.17948717948717952
+"skel bzJumpi2" 0.2562674094707521
+"skel bzJumpi4" 0.2534818941504178
+"skel bzJumpi8" 0.1977715877437326
+"skel bzFixedLen32_2" 0.180064308681672
+"skel bzFixedLen64_2" 0.180064308681672
+"skel bzFixedLen128_2" 0.180064308681672
+"skel bzFixedLen256_2" 0.17948717948717952
+"skel bzFixedLen256_4" 0.16666666666666663
+"skel bzFixedLen64_8" 0.1688102893890675
+"skel bzFixedLen256_8" 0.15384615384615385
+"skel bzFixedLen1024_8" 0.1282051282051282
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
+"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"group1" "AggregationRouterV3"
+"group2" "CollateralManager"
+"raw bzJumpi2" 0.5324675324675325
+"raw bzJumpi4" 0.4058441558441559
+"raw bzJumpi8" 0.3344155844155844
+"raw bzFixedLen32_2" 0.6515151515151515
+"raw bzFixedLen64_2" 0.6477272727272727
+"raw bzFixedLen128_2" 0.696969696969697
+"raw bzFixedLen256_2" 0.5909090909090908
+"raw bzFixedLen256_4" 0.43939393939393945
+"raw bzFixedLen64_8" 0.3295454545454546
+"raw bzFixedLen256_8" 0.3484848484848485
+"raw bzFixedLen1024_8" 0.23529411764705888
+"skel bzJumpi2" 0.5335570469798658
+"skel bzJumpi4" 0.40268456375838924
+"skel bzJumpi8" 0.28859060402684567
+"skel bzFixedLen32_2" 0.6539923954372624
+"skel bzFixedLen64_2" 0.6159695817490494
+"skel bzFixedLen128_2" 0.6363636363636364
+"skel bzFixedLen256_2" 0.6818181818181819
+"skel bzFixedLen256_4" 0.4545454545454546
+"skel bzFixedLen64_8" 0.30038022813688214
+"skel bzFixedLen256_8" 0.31818181818181823
+"skel bzFixedLen1024_8" 0.23529411764705888
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
+"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"group1" "AggregationRouterV3"
+"group2" "UniswapV2Router02"
+"raw bzJumpi2" 0.4592391304347826
+"raw bzJumpi4" 0.3940217391304348
+"raw bzJumpi8" 0.1875
+"raw bzFixedLen32_2" 0.5617486338797815
+"raw bzFixedLen64_2" 0.5502183406113537
+"raw bzFixedLen128_2" 0.5589519650655022
+"raw bzFixedLen256_2" 0.5565217391304348
+"raw bzFixedLen256_4" 0.4521739130434783
+"raw bzFixedLen64_8" 0.3558951965065502
+"raw bzFixedLen256_8" 0.32173913043478264
+"raw bzFixedLen1024_8" 0.31034482758620685
+"skel bzJumpi2" 0.49693251533742333
+"skel bzJumpi4" 0.45398773006134974
+"skel bzJumpi8" 0.37730061349693256
+"skel bzFixedLen32_2" 0.5629791894852136
+"skel bzFixedLen64_2" 0.562363238512035
+"skel bzFixedLen128_2" 0.5502183406113537
+"skel bzFixedLen256_2" 0.5652173913043479
+"skel bzFixedLen256_4" 0.4782608695652174
+"skel bzFixedLen64_8" 0.34135667396061264
+"skel bzFixedLen256_8" 0.3652173913043478
+"skel bzFixedLen1024_8" 0.3793103448275862
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"group1" "AggregationRouterV3"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.46796657381615603
+"raw bzJumpi4" 0.41504178272980496
+"raw bzJumpi8" 0.32033426183844016
+"raw bzFixedLen32_2" 0.654843110504775
+"raw bzFixedLen64_2" 0.6539509536784741
+"raw bzFixedLen128_2" 0.6467391304347826
+"raw bzFixedLen256_2" 0.6195652173913043
+"raw bzFixedLen256_4" 0.48913043478260865
+"raw bzFixedLen64_8" 0.36512261580381467
+"raw bzFixedLen256_8" 0.32608695652173914
+"raw bzFixedLen1024_8" 0.21739130434782605
+"skel bzJumpi2" 0.47246376811594204
+"skel bzJumpi4" 0.43768115942028984
+"skel bzJumpi8" 0.34782608695652173
+"skel bzFixedLen32_2" 0.6265389876880985
+"skel bzFixedLen64_2" 0.592896174863388
+"skel bzFixedLen128_2" 0.6010928961748634
+"skel bzFixedLen256_2" 0.6304347826086957
+"skel bzFixedLen256_4" 0.4782608695652174
+"skel bzFixedLen64_8" 0.31693989071038253
+"skel bzFixedLen256_8" 0.32608695652173914
 "skel bzFixedLen1024_8" 0.26086956521739135
 ]
 edge [
 "isInner" False
 "source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"target" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "CollateralManager"
-"raw bzJumpi2" 0.6981132075471699
-"raw bzJumpi4" 0.6163522012578616
-"raw bzJumpi8" 0.570230607966457
-"raw bzFixedLen32_2" 0.8135764944275583
-"raw bzFixedLen64_2" 0.811740890688259
-"raw bzFixedLen128_2" 0.8380566801619433
-"raw bzFixedLen256_2" 0.782258064516129
-"raw bzFixedLen256_4" 0.7016129032258065
-"raw bzFixedLen64_8" 0.6417004048582996
-"raw bzFixedLen256_8" 0.6532258064516129
-"raw bzFixedLen1024_8" 0.59375
-"skel bzJumpi2" 0.6997840172786177
-"skel bzJumpi4" 0.6155507559395248
-"skel bzJumpi8" 0.5421166306695464
-"skel bzFixedLen32_2" 0.814852492370295
-"skel bzFixedLen64_2" 0.7947154471544715
-"skel bzFixedLen128_2" 0.8056680161943319
-"skel bzFixedLen256_2" 0.8306451612903226
-"skel bzFixedLen256_4" 0.7096774193548387
-"skel bzFixedLen64_8" 0.6260162601626016
-"skel bzFixedLen256_8" 0.6370967741935484
-"skel bzFixedLen1024_8" 0.59375
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"group1" "AggregationRouterV3"
-"group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.6294227188081937
-"raw bzJumpi4" 0.584729981378026
-"raw bzJumpi8" 0.44320297951582865
-"raw bzFixedLen32_2" 0.7221067221067221
-"raw bzFixedLen64_2" 0.7146814404432134
-"raw bzFixedLen128_2" 0.7202216066481995
-"raw bzFixedLen256_2" 0.718232044198895
-"raw bzFixedLen256_4" 0.6519337016574586
-"raw bzFixedLen64_8" 0.5914127423822715
-"raw bzFixedLen256_8" 0.569060773480663
-"raw bzFixedLen1024_8" 0.5652173913043479
-"skel bzJumpi2" 0.6659877800407332
-"skel bzJumpi4" 0.6374745417515275
-"skel bzJumpi8" 0.5865580448065173
-"skel bzFixedLen32_2" 0.7227241139680334
-"skel bzFixedLen64_2" 0.7222222222222222
-"skel bzFixedLen128_2" 0.7146814404432134
-"skel bzFixedLen256_2" 0.7237569060773481
-"skel bzFixedLen256_4" 0.6685082872928176
-"skel bzFixedLen64_8" 0.5819444444444444
-"skel bzFixedLen256_8" 0.5966850828729282
-"skel bzFixedLen1024_8" 0.6086956521739131
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.6382575757575757
-"raw bzJumpi4" 0.6022727272727273
-"raw bzJumpi8" 0.5378787878787878
-"raw bzFixedLen32_2" 0.7993655828707376
-"raw bzFixedLen64_2" 0.7987321711568938
-"raw bzFixedLen128_2" 0.7943037974683544
-"raw bzFixedLen256_2" 0.7784810126582279
-"raw bzFixedLen256_4" 0.7025316455696202
-"raw bzFixedLen64_8" 0.6307448494453249
-"raw bzFixedLen256_8" 0.6075949367088608
-"raw bzFixedLen1024_8" 0.55
-"skel bzJumpi2" 0.6431372549019607
-"skel bzJumpi4" 0.6196078431372549
-"skel bzJumpi8" 0.5588235294117647
-"skel bzFixedLen32_2" 0.7828162291169452
-"skel bzFixedLen64_2" 0.7631160572337043
-"skel bzFixedLen128_2" 0.7682539682539682
-"skel bzFixedLen256_2" 0.7848101265822784
-"skel bzFixedLen256_4" 0.6962025316455696
-"skel bzFixedLen64_8" 0.6025437201907791
-"skel bzFixedLen256_8" 0.6075949367088608
-"skel bzFixedLen1024_8" 0.575
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
 "target" "Synthetix - v0.8.4 abi2 o0 runs200"
 "group1" "AggregationRouterV3"
 "group2" "Synthetix"
-"raw bzJumpi2" 0.59402460456942
-"raw bzJumpi4" 0.5588752196836555
-"raw bzJumpi8" 0.47627416520210897
-"raw bzFixedLen32_2" 0.7107607950651131
-"raw bzFixedLen64_2" 0.7027397260273973
-"raw bzFixedLen128_2" 0.7095890410958905
-"raw bzFixedLen256_2" 0.6830601092896175
-"raw bzFixedLen256_4" 0.6229508196721312
-"raw bzFixedLen64_8" 0.5753424657534247
-"raw bzFixedLen256_8" 0.5683060109289617
-"raw bzFixedLen1024_8" 0.574468085106383
-"skel bzJumpi2" 0.6536082474226804
-"skel bzJumpi4" 0.5319587628865979
-"skel bzJumpi8" 0.465979381443299
-"skel bzFixedLen32_2" 0.7115384615384616
-"skel bzFixedLen64_2" 0.7087912087912087
-"skel bzFixedLen128_2" 0.7013698630136986
-"skel bzFixedLen256_2" 0.6721311475409837
-"skel bzFixedLen256_4" 0.6338797814207651
-"skel bzFixedLen64_8" 0.5851648351648351
-"skel bzFixedLen256_8" 0.53551912568306
-"skel bzFixedLen1024_8" 0.574468085106383
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"target" "DSToken - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "DSToken"
-"raw bzJumpi2" 0.6692607003891051
-"raw bzJumpi4" 0.5758754863813229
-"raw bzJumpi8" 0.5330739299610895
-"raw bzFixedLen32_2" 0.35
-"raw bzFixedLen64_2" 0.35
-"raw bzFixedLen128_2" 0.35
-"raw bzFixedLen256_2" 0.35
-"raw bzFixedLen256_4" 0.32499999999999996
-"raw bzFixedLen64_8" 0.3125
-"raw bzFixedLen256_8" 0.30000000000000004
-"raw bzFixedLen1024_8" 0.38095238095238093
-"skel bzJumpi2" 0.6666666666666667
-"skel bzJumpi4" 0.5873015873015873
-"skel bzJumpi8" 0.5317460317460317
-"skel bzFixedLen32_2" 0.3459119496855346
-"skel bzFixedLen64_2" 0.3459119496855346
-"skel bzFixedLen128_2" 0.35
-"skel bzFixedLen256_2" 0.35
-"skel bzFixedLen256_4" 0.32499999999999996
-"skel bzFixedLen64_8" 0.3113207547169812
-"skel bzFixedLen256_8" 0.3125
-"skel bzFixedLen1024_8" 0.2857142857142857
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.4774774774774775
-"raw bzJumpi4" 0.4144144144144144
-"raw bzJumpi8" 0.36936936936936937
-"raw bzFixedLen32_2" 0.26315789473684215
-"raw bzFixedLen64_2" 0.26315789473684215
-"raw bzFixedLen128_2" 0.26315789473684215
-"raw bzFixedLen256_2" 0.26315789473684215
-"raw bzFixedLen256_4" 0.26315789473684215
-"raw bzFixedLen64_8" 0.2467105263157895
-"raw bzFixedLen256_8" 0.25
-"raw bzFixedLen1024_8" 0.30000000000000004
-"skel bzJumpi2" 0.4722222222222222
-"skel bzJumpi4" 0.41666666666666663
-"skel bzJumpi8" 0.3657407407407407
-"skel bzFixedLen32_2" 0.2582781456953642
-"skel bzFixedLen64_2" 0.2582781456953642
-"skel bzFixedLen128_2" 0.26315789473684215
-"skel bzFixedLen256_2" 0.26315789473684215
-"skel bzFixedLen256_4" 0.23684210526315785
-"skel bzFixedLen64_8" 0.2516556291390728
-"skel bzFixedLen256_8" 0.23684210526315785
-"skel bzFixedLen1024_8" 0.25
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
-"group1" "AggregationRouterV3"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.7889447236180904
-"raw bzJumpi4" 0.7562814070351759
-"raw bzJumpi8" 0.6633165829145728
-"raw bzFixedLen32_2" 0.8138957816377171
-"raw bzFixedLen64_2" 0.7950413223140496
-"raw bzFixedLen128_2" 0.801980198019802
-"raw bzFixedLen256_2" 0.8223684210526316
-"raw bzFixedLen256_4" 0.7302631578947368
-"raw bzFixedLen64_8" 0.6330578512396694
-"raw bzFixedLen256_8" 0.6578947368421053
-"raw bzFixedLen1024_8" 0.641025641025641
-"skel bzJumpi2" 0.7917737789203085
-"skel bzJumpi4" 0.7223650385604112
-"skel bzJumpi8" 0.6246786632390746
-"skel bzFixedLen32_2" 0.8200663349917081
-"skel bzFixedLen64_2" 0.8208955223880597
-"skel bzFixedLen128_2" 0.8079470198675497
-"skel bzFixedLen256_2" 0.8079470198675497
-"skel bzFixedLen256_4" 0.7880794701986755
-"skel bzFixedLen64_8" 0.6633499170812603
-"skel bzFixedLen256_8" 0.6887417218543046
-"skel bzFixedLen1024_8" 0.6666666666666667
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
-"group1" "AggregationRouterV3"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.5367965367965368
-"raw bzJumpi4" 0.4675324675324676
-"raw bzJumpi8" 0.4372294372294372
-"raw bzFixedLen32_2" 0.45614035087719296
-"raw bzFixedLen64_2" 0.45614035087719296
-"raw bzFixedLen128_2" 0.45614035087719296
-"raw bzFixedLen256_2" 0.4651162790697675
-"raw bzFixedLen256_4" 0.4534883720930233
-"raw bzFixedLen64_8" 0.41520467836257313
-"raw bzFixedLen256_8" 0.40697674418604646
-"raw bzFixedLen1024_8" 0.40909090909090906
-"skel bzJumpi2" 0.5398230088495575
-"skel bzJumpi4" 0.4734513274336283
-"skel bzJumpi8" 0.3893805309734514
-"skel bzFixedLen32_2" 0.4529411764705882
-"skel bzFixedLen64_2" 0.4529411764705882
-"skel bzFixedLen128_2" 0.45614035087719296
-"skel bzFixedLen256_2" 0.4651162790697675
-"skel bzFixedLen256_4" 0.4534883720930233
-"skel bzFixedLen64_8" 0.41764705882352937
-"skel bzFixedLen256_8" 0.4418604651162791
-"skel bzFixedLen1024_8" 0.4545454545454546
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"target" "Synthetix - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.7061503416856492
-"raw bzJumpi4" 0.5671981776765376
-"raw bzJumpi8" 0.5034168564920274
-"raw bzFixedLen32_2" 0.8331716779825412
-"raw bzFixedLen64_2" 0.8372093023255813
-"raw bzFixedLen128_2" 0.810077519379845
-"raw bzFixedLen256_2" 0.8062015503875969
-"raw bzFixedLen256_4" 0.689922480620155
-"raw bzFixedLen64_8" 0.6511627906976745
-"raw bzFixedLen256_8" 0.6356589147286822
-"raw bzFixedLen1024_8" 0.6363636363636364
-"skel bzJumpi2" 0.7112676056338028
-"skel bzJumpi4" 0.551643192488263
-"skel bzJumpi8" 0.48122065727699526
-"skel bzFixedLen32_2" 0.8054474708171206
-"skel bzFixedLen64_2" 0.7879377431906615
-"skel bzFixedLen128_2" 0.7790697674418605
-"skel bzFixedLen256_2" 0.7829457364341086
-"skel bzFixedLen256_4" 0.7054263565891472
-"skel bzFixedLen64_8" 0.6128404669260701
-"skel bzFixedLen256_8" 0.6356589147286822
-"skel bzFixedLen1024_8" 0.5757575757575757
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
-"group1" "AggregationRouterV3"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.8153034300791557
-"raw bzJumpi4" 0.712401055408971
-"raw bzJumpi8" 0.6517150395778364
-"raw bzFixedLen32_2" 0.7510964912280702
-"raw bzFixedLen64_2" 0.7872807017543859
-"raw bzFixedLen128_2" 0.793859649122807
-"raw bzFixedLen256_2" 0.7631578947368421
-"raw bzFixedLen256_4" 0.6842105263157895
-"raw bzFixedLen64_8" 0.6162280701754386
-"raw bzFixedLen256_8" 0.6052631578947368
-"raw bzFixedLen1024_8" 0.5862068965517242
-"skel bzJumpi2" 0.8189189189189189
-"skel bzJumpi4" 0.6918918918918919
-"skel bzJumpi8" 0.6081081081081081
-"skel bzFixedLen32_2" 0.775330396475771
-"skel bzFixedLen64_2" 0.7422907488986784
-"skel bzFixedLen128_2" 0.7587719298245614
-"skel bzFixedLen256_2" 0.736842105263158
-"skel bzFixedLen256_4" 0.6666666666666667
-"skel bzFixedLen64_8" 0.6013215859030837
-"skel bzFixedLen256_8" 0.5877192982456141
-"skel bzFixedLen1024_8" 0.5172413793103448
-]
-edge [
-"isInner" False
-"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
-"target" "DSToken - v0.8.4 abi2 o0 runs200"
-"group1" "AggregationRouterV3"
-"group2" "DSToken"
-"raw bzJumpi2" 0.6908396946564885
-"raw bzJumpi4" 0.5877862595419847
-"raw bzJumpi8" 0.5534351145038168
-"raw bzFixedLen32_2" 0.5915119363395225
-"raw bzFixedLen64_2" 0.5915119363395225
-"raw bzFixedLen128_2" 0.5978835978835979
-"raw bzFixedLen256_2" 0.6105263157894737
-"raw bzFixedLen256_4" 0.5894736842105264
-"raw bzFixedLen64_8" 0.48806366047745353
-"raw bzFixedLen256_8" 0.5263157894736843
-"raw bzFixedLen1024_8" 0.48
-"skel bzJumpi2" 0.6964980544747081
-"skel bzJumpi4" 0.6031128404669261
-"skel bzJumpi8" 0.5330739299610895
-"skel bzFixedLen32_2" 0.5933333333333333
-"skel bzFixedLen64_2" 0.5866666666666667
-"skel bzFixedLen128_2" 0.5797872340425532
-"skel bzFixedLen256_2" 0.5851063829787234
-"skel bzFixedLen256_4" 0.5212765957446808
-"skel bzFixedLen64_8" 0.4853333333333333
-"skel bzFixedLen256_8" 0.4893617021276596
-"skel bzFixedLen1024_8" 0.41666666666666663
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "UniswapV2Router02"
-"raw bzJumpi2" 0.8106508875739645
-"raw bzJumpi4" 0.6701183431952662
-"raw bzJumpi8" 0.5488165680473374
-"raw bzFixedLen32_2" 0.6659388646288209
-"raw bzFixedLen64_2" 0.6642441860465116
-"raw bzFixedLen128_2" 0.6686046511627908
-"raw bzFixedLen256_2" 0.6705202312138728
-"raw bzFixedLen256_4" 0.630057803468208
-"raw bzFixedLen64_8" 0.559593023255814
-"raw bzFixedLen256_8" 0.5606936416184971
-"raw bzFixedLen1024_8" 0.5681818181818181
-"skel bzJumpi2" 0.8365384615384616
-"skel bzJumpi4" 0.6955128205128205
-"skel bzJumpi8" 0.6217948717948718
-"skel bzFixedLen32_2" 0.6635036496350365
-"skel bzFixedLen64_2" 0.6647230320699709
-"skel bzFixedLen128_2" 0.6656976744186047
-"skel bzFixedLen256_2" 0.6705202312138728
-"skel bzFixedLen256_4" 0.6127167630057804
-"skel bzFixedLen64_8" 0.5247813411078717
-"skel bzFixedLen256_8" 0.5664739884393064
-"skel bzFixedLen1024_8" 0.5454545454545454
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.8515742128935533
-"raw bzJumpi4" 0.686656671664168
-"raw bzJumpi8" 0.6056971514242879
-"raw bzFixedLen32_2" 0.7449664429530201
-"raw bzFixedLen64_2" 0.7336683417085428
-"raw bzFixedLen128_2" 0.7391304347826086
-"raw bzFixedLen256_2" 0.7466666666666666
-"raw bzFixedLen256_4" 0.6866666666666666
-"raw bzFixedLen64_8" 0.6164154103852597
-"raw bzFixedLen256_8" 0.6066666666666667
-"raw bzFixedLen1024_8" 0.631578947368421
-"skel bzJumpi2" 0.8522550544323484
-"skel bzJumpi4" 0.7356143079315708
-"skel bzJumpi8" 0.6376360808709176
-"skel bzFixedLen32_2" 0.7483164983164983
-"skel bzFixedLen64_2" 0.7478991596638656
-"skel bzFixedLen128_2" 0.761744966442953
-"skel bzFixedLen256_2" 0.7533333333333333
-"skel bzFixedLen256_4" 0.7066666666666667
-"skel bzFixedLen64_8" 0.6453781512605041
-"skel bzFixedLen256_8" 0.62
-"skel bzFixedLen1024_8" 0.6052631578947368
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"target" "Synthetix - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.8389830508474576
-"raw bzJumpi4" 0.6807909604519774
-"raw bzJumpi8" 0.594632768361582
-"raw bzFixedLen32_2" 0.6438848920863309
-"raw bzFixedLen64_2" 0.6522988505747127
-"raw bzFixedLen128_2" 0.6522988505747127
-"raw bzFixedLen256_2" 0.6457142857142857
-"raw bzFixedLen256_4" 0.5942857142857143
-"raw bzFixedLen64_8" 0.5330459770114943
-"raw bzFixedLen256_8" 0.5371428571428571
-"raw bzFixedLen1024_8" 0.6
-"skel bzJumpi2" 0.8705501618122977
-"skel bzJumpi4" 0.7831715210355987
-"skel bzJumpi8" 0.7508090614886731
-"skel bzFixedLen32_2" 0.6503244412400866
-"skel bzFixedLen64_2" 0.6570605187319885
-"skel bzFixedLen128_2" 0.6580459770114943
-"skel bzFixedLen256_2" 0.6342857142857143
-"skel bzFixedLen256_4" 0.6
-"skel bzFixedLen64_8" 0.5331412103746398
-"skel bzFixedLen256_8" 0.5028571428571429
-"skel bzFixedLen1024_8" 0.5555555555555556
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"target" "DSToken - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "DSToken"
-"raw bzJumpi2" 0.4444444444444444
-"raw bzJumpi4" 0.4444444444444444
-"raw bzJumpi8" 0.4191919191919192
-"raw bzFixedLen32_2" 0.3922942206654991
-"raw bzFixedLen64_2" 0.39160839160839156
-"raw bzFixedLen128_2" 0.39160839160839156
-"raw bzFixedLen256_2" 0.38888888888888884
-"raw bzFixedLen256_4" 0.375
-"raw bzFixedLen64_8" 0.3531468531468531
-"raw bzFixedLen256_8" 0.36111111111111116
-"raw bzFixedLen1024_8" 0.42105263157894735
-"skel bzJumpi2" 0.451948051948052
-"skel bzJumpi4" 0.451948051948052
-"skel bzJumpi8" 0.4337662337662338
-"skel bzFixedLen32_2" 0.3880070546737213
-"skel bzFixedLen64_2" 0.38732394366197187
-"skel bzFixedLen128_2" 0.39160839160839156
-"skel bzFixedLen256_2" 0.38888888888888884
-"skel bzFixedLen256_4" 0.375
-"skel bzFixedLen64_8" 0.37323943661971826
-"skel bzFixedLen256_8" 0.36111111111111116
-"skel bzFixedLen1024_8" 0.3157894736842105
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.2936288088642659
-"raw bzJumpi4" 0.2936288088642659
-"raw bzJumpi8" 0.28531855955678675
-"raw bzFixedLen32_2" 0.2968460111317254
-"raw bzFixedLen64_2" 0.2962962962962963
-"raw bzFixedLen128_2" 0.2962962962962963
-"raw bzFixedLen256_2" 0.2941176470588235
-"raw bzFixedLen256_4" 0.2941176470588235
-"raw bzFixedLen64_8" 0.2851851851851852
-"raw bzFixedLen256_8" 0.2647058823529411
+"raw bzJumpi2" 0.4225
+"raw bzJumpi4" 0.37250000000000005
+"raw bzJumpi8" 0.255
+"raw bzFixedLen32_2" 0.5467239527389903
+"raw bzFixedLen64_2" 0.5343347639484979
+"raw bzFixedLen128_2" 0.5450643776824035
+"raw bzFixedLen256_2" 0.5042735042735043
+"raw bzFixedLen256_4" 0.41025641025641024
+"raw bzFixedLen64_8" 0.33476394849785407
+"raw bzFixedLen256_8" 0.32478632478632474
 "raw bzFixedLen1024_8" 0.33333333333333337
-"skel bzJumpi2" 0.2922636103151862
-"skel bzJumpi4" 0.2922636103151862
-"skel bzJumpi8" 0.28653295128939826
-"skel bzFixedLen32_2" 0.291588785046729
-"skel bzFixedLen64_2" 0.29104477611940294
-"skel bzFixedLen128_2" 0.2962962962962963
-"skel bzFixedLen256_2" 0.2941176470588235
-"skel bzFixedLen256_4" 0.2941176470588235
-"skel bzFixedLen64_8" 0.2873134328358209
-"skel bzFixedLen256_8" 0.27941176470588236
-"skel bzFixedLen1024_8" 0.2777777777777778
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.8324022346368716
-"raw bzJumpi4" 0.7486033519553073
-"raw bzJumpi8" 0.6927374301675977
-"raw bzFixedLen32_2" 0.7491228070175439
-"raw bzFixedLen64_2" 0.7373029772329247
-"raw bzFixedLen128_2" 0.7307692307692308
-"raw bzFixedLen256_2" 0.7430555555555556
-"raw bzFixedLen256_4" 0.6666666666666667
-"raw bzFixedLen64_8" 0.6094570928196147
-"raw bzFixedLen256_8" 0.6041666666666667
-"raw bzFixedLen1024_8" 0.5945945945945945
-"skel bzJumpi2" 0.8295019157088123
-"skel bzJumpi4" 0.7528735632183908
-"skel bzJumpi8" 0.7145593869731801
-"skel bzFixedLen32_2" 0.7590149516270888
-"skel bzFixedLen64_2" 0.7469244288224957
-"skel bzFixedLen128_2" 0.7578947368421053
-"skel bzFixedLen256_2" 0.7552447552447552
-"skel bzFixedLen256_4" 0.6993006993006994
-"skel bzFixedLen64_8" 0.5957820738137083
-"skel bzFixedLen256_8" 0.6153846153846154
-"skel bzFixedLen1024_8" 0.5945945945945945
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.33513513513513515
-"raw bzJumpi4" 0.33513513513513515
-"raw bzJumpi8" 0.327027027027027
-"raw bzFixedLen32_2" 0.5073170731707317
-"raw bzFixedLen64_2" 0.5064935064935066
-"raw bzFixedLen128_2" 0.5064935064935066
-"raw bzFixedLen256_2" 0.5128205128205128
-"raw bzFixedLen256_4" 0.4871794871794872
-"raw bzFixedLen64_8" 0.44805194805194803
-"raw bzFixedLen256_8" 0.47435897435897434
-"raw bzFixedLen1024_8" 0.4
-"skel bzJumpi2" 0.3398328690807799
-"skel bzJumpi4" 0.3398328690807799
-"skel bzJumpi8" 0.3119777158774373
-"skel bzFixedLen32_2" 0.5040916530278232
-"skel bzFixedLen64_2" 0.5032679738562091
-"skel bzFixedLen128_2" 0.5064935064935066
-"skel bzFixedLen256_2" 0.5128205128205128
-"skel bzFixedLen256_4" 0.4871794871794872
-"skel bzFixedLen64_8" 0.4183006535947712
-"skel bzFixedLen256_8" 0.46153846153846156
-"skel bzFixedLen1024_8" 0.4
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"target" "Synthetix - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.8737024221453287
-"raw bzJumpi4" 0.7820069204152249
-"raw bzJumpi8" 0.6626297577854672
-"raw bzFixedLen32_2" 0.8482328482328483
-"raw bzFixedLen64_2" 0.8506224066390041
-"raw bzFixedLen128_2" 0.8506224066390041
-"raw bzFixedLen256_2" 0.859504132231405
-"raw bzFixedLen256_4" 0.7355371900826446
-"raw bzFixedLen64_8" 0.6721991701244814
-"raw bzFixedLen256_8" 0.6776859504132231
-"raw bzFixedLen1024_8" 0.6451612903225806
-"skel bzJumpi2" 0.8711985688729875
-"skel bzJumpi4" 0.7835420393559929
-"skel bzJumpi8" 0.7388193202146691
-"skel bzFixedLen32_2" 0.8508863399374348
-"skel bzFixedLen64_2" 0.85625
-"skel bzFixedLen128_2" 0.8547717842323651
-"skel bzFixedLen256_2" 0.8512396694214877
-"skel bzFixedLen256_4" 0.7851239669421488
-"skel bzFixedLen64_8" 0.7083333333333333
-"skel bzFixedLen256_8" 0.7024793388429752
-"skel bzFixedLen1024_8" 0.6774193548387097
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
-"group1" "CollateralManager"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.803088803088803
-"raw bzJumpi4" 0.747104247104247
-"raw bzJumpi8" 0.6911196911196911
-"raw bzFixedLen32_2" 0.8351126927639383
-"raw bzFixedLen64_2" 0.8388625592417062
-"raw bzFixedLen128_2" 0.8578199052132701
-"raw bzFixedLen256_2" 0.839622641509434
-"raw bzFixedLen256_4" 0.7452830188679245
-"raw bzFixedLen64_8" 0.6540284360189573
-"raw bzFixedLen256_8" 0.6886792452830188
-"raw bzFixedLen1024_8" 0.5555555555555556
-"skel bzJumpi2" 0.805168986083499
-"skel bzJumpi4" 0.7594433399602386
-"skel bzJumpi8" 0.7256461232604374
-"skel bzFixedLen32_2" 0.833134684147795
-"skel bzFixedLen64_2" 0.8309523809523809
-"skel bzFixedLen128_2" 0.8341232227488151
-"skel bzFixedLen256_2" 0.839622641509434
-"skel bzFixedLen256_4" 0.7452830188679245
-"skel bzFixedLen64_8" 0.680952380952381
-"skel bzFixedLen256_8" 0.6509433962264151
-"skel bzFixedLen1024_8" 0.6296296296296297
-]
-edge [
-"isInner" False
-"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
-"target" "DSToken - v0.8.4 abi2 o0 runs200"
-"group1" "CollateralManager"
-"group2" "DSToken"
-"raw bzJumpi2" 0.46384039900249374
-"raw bzJumpi4" 0.46384039900249374
-"raw bzJumpi8" 0.4314214463840399
-"raw bzFixedLen32_2" 0.654014598540146
-"raw bzFixedLen64_2" 0.6472303206997084
-"raw bzFixedLen128_2" 0.6453488372093024
-"raw bzFixedLen256_2" 0.6436781609195402
-"raw bzFixedLen256_4" 0.6206896551724138
-"raw bzFixedLen64_8" 0.5247813411078717
-"raw bzFixedLen256_8" 0.5862068965517242
-"raw bzFixedLen1024_8" 0.5652173913043479
-"skel bzJumpi2" 0.4717948717948718
-"skel bzJumpi4" 0.4717948717948718
-"skel bzJumpi8" 0.441025641025641
-"skel bzFixedLen32_2" 0.6490455212922173
-"skel bzFixedLen64_2" 0.6422287390029325
-"skel bzFixedLen128_2" 0.6491228070175439
-"skel bzFixedLen256_2" 0.6395348837209303
-"skel bzFixedLen256_4" 0.5465116279069768
-"skel bzFixedLen64_8" 0.5249266862170088
-"skel bzFixedLen256_8" 0.4883720930232558
-"skel bzFixedLen1024_8" 0.5
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"group1" "UniswapV2Router02"
-"group2" "NonfungiblePositionManager"
-"raw bzJumpi2" 0.8720770288858322
-"raw bzJumpi4" 0.8665749656121046
-"raw bzJumpi8" 0.7537826685006878
-"raw bzFixedLen32_2" 0.8149271844660194
-"raw bzFixedLen64_2" 0.8206060606060606
-"raw bzFixedLen128_2" 0.8280871670702179
-"raw bzFixedLen256_2" 0.8357487922705313
-"raw bzFixedLen256_4" 0.748792270531401
-"raw bzFixedLen64_8" 0.6436363636363636
-"raw bzFixedLen256_8" 0.642512077294686
-"raw bzFixedLen1024_8" 0.6153846153846154
-"skel bzJumpi2" 0.8628912071535022
-"skel bzJumpi4" 0.7883755588673622
-"skel bzJumpi8" 0.7168405365126677
-"skel bzFixedLen32_2" 0.8199513381995134
-"skel bzFixedLen64_2" 0.7812879708383961
-"skel bzFixedLen128_2" 0.7985436893203883
-"skel bzFixedLen256_2" 0.8115942028985508
-"skel bzFixedLen256_4" 0.7391304347826086
-"skel bzFixedLen64_8" 0.6099635479951397
-"skel bzFixedLen256_8" 0.6183574879227054
-"skel bzFixedLen1024_8" 0.6538461538461539
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"target" "Synthetix - v0.8.4 abi2 o0 runs200"
-"group1" "UniswapV2Router02"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.8255208333333334
-"raw bzJumpi4" 0.8216145833333334
-"raw bzJumpi8" 0.6393229166666667
-"raw bzFixedLen32_2" 0.8548212351029252
-"raw bzFixedLen64_2" 0.8354978354978355
-"raw bzFixedLen128_2" 0.841991341991342
-"raw bzFixedLen256_2" 0.8362068965517242
-"raw bzFixedLen256_4" 0.7456896551724138
-"raw bzFixedLen64_8" 0.6623376623376623
-"raw bzFixedLen256_8" 0.6724137931034483
-"raw bzFixedLen1024_8" 0.6610169491525424
-"skel bzJumpi2" 0.8250773993808049
-"skel bzJumpi4" 0.6687306501547987
-"skel bzJumpi8" 0.5913312693498451
-"skel bzFixedLen32_2" 0.8562126966901791
-"skel bzFixedLen64_2" 0.8535791757049891
-"skel bzFixedLen128_2" 0.8658008658008658
-"skel bzFixedLen256_2" 0.853448275862069
-"skel bzFixedLen256_4" 0.7672413793103449
-"skel bzFixedLen64_8" 0.6767895878524945
-"skel bzFixedLen256_8" 0.6939655172413793
-"skel bzFixedLen1024_8" 0.6440677966101696
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"target" "DSToken - v0.8.4 abi2 o1 runs200"
-"group1" "UniswapV2Router02"
-"group2" "DSToken"
-"raw bzJumpi2" 0.38596491228070173
-"raw bzJumpi4" 0.3026315789473685
-"raw bzJumpi8" 0.2521929824561403
-"raw bzFixedLen32_2" 0.2181110029211295
-"raw bzFixedLen64_2" 0.2178988326848249
-"raw bzFixedLen128_2" 0.2178988326848249
-"raw bzFixedLen256_2" 0.21705426356589153
-"raw bzFixedLen256_4" 0.21705426356589153
-"raw bzFixedLen64_8" 0.21206225680933855
-"raw bzFixedLen256_8" 0.21705426356589153
-"raw bzFixedLen1024_8" 0.21212121212121215
-"skel bzJumpi2" 0.4213075060532687
-"skel bzJumpi4" 0.3922518159806295
-"skel bzJumpi8" 0.38014527845036317
-"skel bzFixedLen32_2" 0.21505376344086025
-"skel bzFixedLen64_2" 0.21484375
-"skel bzFixedLen128_2" 0.2178988326848249
-"skel bzFixedLen256_2" 0.21705426356589153
-"skel bzFixedLen256_4" 0.21705426356589153
-"skel bzFixedLen64_8" 0.2109375
-"skel bzFixedLen256_8" 0.21705426356589153
-"skel bzFixedLen1024_8" 0.21212121212121215
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"group1" "UniswapV2Router02"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.25178147268408546
-"raw bzJumpi4" 0.20902612826603328
-"raw bzJumpi8" 0.17102137767220904
-"raw bzFixedLen32_2" 0.16080402010050254
-"raw bzFixedLen64_2" 0.1606425702811245
-"raw bzFixedLen128_2" 0.1606425702811245
-"raw bzFixedLen256_2" 0.16000000000000003
-"raw bzFixedLen256_4" 0.16000000000000003
-"raw bzFixedLen64_8" 0.1606425702811245
-"raw bzFixedLen256_8" 0.16000000000000003
-"raw bzFixedLen1024_8" 0.15625
-"skel bzJumpi2" 0.27055702917771884
-"skel bzJumpi4" 0.2519893899204244
-"skel bzJumpi8" 0.23872679045092837
-"skel bzFixedLen32_2" 0.15741675075681127
-"skel bzFixedLen64_2" 0.157258064516129
-"skel bzFixedLen128_2" 0.1606425702811245
-"skel bzFixedLen256_2" 0.16000000000000003
-"skel bzFixedLen256_4" 0.16000000000000003
-"skel bzFixedLen64_8" 0.155241935483871
-"skel bzFixedLen256_8" 0.16000000000000003
-"skel bzFixedLen1024_8" 0.15625
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
-"group1" "UniswapV2Router02"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.7252931323283083
-"raw bzJumpi4" 0.6365159128978224
-"raw bzJumpi8" 0.47068676716917923
-"raw bzFixedLen32_2" 0.818295739348371
-"raw bzFixedLen64_2" 0.799749687108886
-"raw bzFixedLen128_2" 0.81
-"raw bzFixedLen256_2" 0.8109452736318408
-"raw bzFixedLen256_4" 0.7213930348258706
-"raw bzFixedLen64_8" 0.6408010012515645
-"raw bzFixedLen256_8" 0.6517412935323383
-"raw bzFixedLen1024_8" 0.607843137254902
-"skel bzJumpi2" 0.7727272727272727
-"skel bzJumpi4" 0.6672727272727272
-"skel bzJumpi8" 0.5854545454545454
-"skel bzFixedLen32_2" 0.8261142498430634
-"skel bzFixedLen64_2" 0.8005018820577164
-"skel bzFixedLen128_2" 0.8145363408521303
-"skel bzFixedLen256_2" 0.84
-"skel bzFixedLen256_4" 0.75
-"skel bzFixedLen64_8" 0.6562107904642409
-"skel bzFixedLen256_8" 0.665
-"skel bzFixedLen1024_8" 0.6274509803921569
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
-"group1" "UniswapV2Router02"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.28837209302325584
-"raw bzJumpi4" 0.23953488372093024
-"raw bzJumpi8" 0.21395348837209305
-"raw bzFixedLen32_2" 0.2913165266106442
-"raw bzFixedLen64_2" 0.29104477611940294
-"raw bzFixedLen128_2" 0.29104477611940294
-"raw bzFixedLen256_2" 0.2962962962962963
-"raw bzFixedLen256_4" 0.2962962962962963
-"raw bzFixedLen64_8" 0.2854477611940298
-"raw bzFixedLen256_8" 0.28888888888888886
-"raw bzFixedLen1024_8" 0.2941176470588235
-"skel bzJumpi2" 0.31524547803617575
-"skel bzJumpi4" 0.28165374677002586
-"skel bzJumpi8" 0.26356589147286824
-"skel bzFixedLen32_2" 0.28865979381443296
-"skel bzFixedLen64_2" 0.28838951310861427
-"skel bzFixedLen128_2" 0.29104477611940294
-"skel bzFixedLen256_2" 0.2962962962962963
-"skel bzFixedLen256_4" 0.2962962962962963
-"skel bzFixedLen64_8" 0.2808988764044944
-"skel bzFixedLen256_8" 0.28148148148148144
-"skel bzFixedLen1024_8" 0.2647058823529411
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"target" "Synthetix - v0.8.4 abi2 o1 runs200"
-"group1" "UniswapV2Router02"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.7366771159874608
-"raw bzJumpi4" 0.5971786833855799
-"raw bzJumpi8" 0.5313479623824451
-"raw bzFixedLen32_2" 0.6981664315937941
-"raw bzFixedLen64_2" 0.7
-"raw bzFixedLen128_2" 0.6985915492957746
-"raw bzFixedLen256_2" 0.7078651685393258
-"raw bzFixedLen256_4" 0.6348314606741573
-"raw bzFixedLen64_8" 0.5647887323943662
-"raw bzFixedLen256_8" 0.5674157303370786
-"raw bzFixedLen1024_8" 0.5333333333333333
-"skel bzJumpi2" 0.7751277683134583
-"skel bzJumpi4" 0.6115843270868824
-"skel bzJumpi8" 0.5587734241908007
-"skel bzFixedLen32_2" 0.6961130742049471
-"skel bzFixedLen64_2" 0.6864406779661016
-"skel bzFixedLen128_2" 0.704225352112676
-"skel bzFixedLen256_2" 0.7078651685393258
-"skel bzFixedLen256_4" 0.6235955056179776
-"skel bzFixedLen64_8" 0.536723163841808
-"skel bzFixedLen256_8" 0.5561797752808989
-"skel bzFixedLen1024_8" 0.6
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
-"group1" "UniswapV2Router02"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.698961937716263
-"raw bzJumpi4" 0.5813148788927336
-"raw bzJumpi8" 0.4446366782006921
-"raw bzFixedLen32_2" 0.5904541955350269
-"raw bzFixedLen64_2" 0.5907692307692307
-"raw bzFixedLen128_2" 0.5907692307692307
-"raw bzFixedLen256_2" 0.5889570552147239
-"raw bzFixedLen256_4" 0.5705521472392638
-"raw bzFixedLen64_8" 0.5030769230769231
-"raw bzFixedLen256_8" 0.5030674846625767
-"raw bzFixedLen1024_8" 0.46341463414634143
-"skel bzJumpi2" 0.736346516007533
-"skel bzJumpi4" 0.6120527306967984
-"skel bzJumpi8" 0.536723163841808
-"skel bzFixedLen32_2" 0.58996138996139
-"skel bzFixedLen64_2" 0.5895061728395061
-"skel bzFixedLen128_2" 0.5907692307692307
-"skel bzFixedLen256_2" 0.5889570552147239
-"skel bzFixedLen256_4" 0.5460122699386503
-"skel bzFixedLen64_8" 0.48456790123456794
-"skel bzFixedLen256_8" 0.5030674846625767
-"skel bzFixedLen1024_8" 0.4878048780487805
-]
-edge [
-"isInner" False
-"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
-"target" "DSToken - v0.8.4 abi2 o0 runs200"
-"group1" "UniswapV2Router02"
-"group2" "DSToken"
-"raw bzJumpi2" 0.40347071583514105
-"raw bzJumpi4" 0.3101952277657267
-"raw bzJumpi8" 0.2776572668112798
-"raw bzFixedLen32_2" 0.39614373356704646
-"raw bzFixedLen64_2" 0.39579684763572676
-"raw bzFixedLen128_2" 0.39860139860139865
-"raw bzFixedLen256_2" 0.4027777777777778
-"raw bzFixedLen256_4" 0.4027777777777778
-"raw bzFixedLen64_8" 0.36077057793345013
-"raw bzFixedLen256_8" 0.3819444444444444
-"raw bzFixedLen1024_8" 0.3783783783783784
-"skel bzJumpi2" 0.4401913875598086
-"skel bzJumpi4" 0.4019138755980861
-"skel bzJumpi8" 0.38038277511961727
-"skel bzFixedLen32_2" 0.3940193491644679
-"skel bzFixedLen64_2" 0.39367311072056244
-"skel bzFixedLen128_2" 0.3929824561403509
-"skel bzFixedLen256_2" 0.39160839160839156
-"skel bzFixedLen256_4" 0.36363636363636365
-"skel bzFixedLen64_8" 0.3760984182776801
-"skel bzFixedLen256_8" 0.35664335664335667
+"skel bzJumpi2" 0.475
+"skel bzJumpi4" 0.290625
+"skel bzJumpi8" 0.19062500000000004
+"skel bzFixedLen32_2" 0.5483870967741935
+"skel bzFixedLen64_2" 0.5440860215053763
+"skel bzFixedLen128_2" 0.5321888412017167
+"skel bzFixedLen256_2" 0.4871794871794872
+"skel bzFixedLen256_4" 0.4273504273504274
+"skel bzFixedLen64_8" 0.3505376344086022
+"skel bzFixedLen256_8" 0.27350427350427353
 "skel bzFixedLen1024_8" 0.33333333333333337
 ]
 edge [
 "isInner" False
-"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"target" "Synthetix - v0.8.4 abi2 o0 runs200"
-"group1" "NonfungiblePositionManager"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.8432147562582345
-"raw bzJumpi4" 0.8300395256916996
-"raw bzJumpi8" 0.7312252964426877
-"raw bzFixedLen32_2" 0.7956730769230769
-"raw bzFixedLen64_2" 0.8067226890756303
-"raw bzFixedLen128_2" 0.815347721822542
-"raw bzFixedLen256_2" 0.799043062200957
-"raw bzFixedLen256_4" 0.7272727272727273
-"raw bzFixedLen64_8" 0.6386554621848739
-"raw bzFixedLen256_8" 0.631578947368421
-"raw bzFixedLen1024_8" 0.6415094339622642
-"skel bzJumpi2" 0.8300751879699249
-"skel bzJumpi4" 0.6962406015037594
-"skel bzJumpi8" 0.6150375939849624
-"skel bzFixedLen32_2" 0.8139674894641782
-"skel bzFixedLen64_2" 0.8098676293622142
-"skel bzFixedLen128_2" 0.7956730769230769
-"skel bzFixedLen256_2" 0.7799043062200957
-"skel bzFixedLen256_4" 0.7177033492822966
-"skel bzFixedLen64_8" 0.6173285198555957
-"skel bzFixedLen256_8" 0.6076555023923444
-"skel bzFixedLen1024_8" 0.6415094339622642
-]
-edge [
-"isInner" False
-"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
-"group1" "NonfungiblePositionManager"
+"group1" "AggregationRouterV3"
 "group2" "DSToken"
-"raw bzJumpi2" 0.3937360178970917
-"raw bzJumpi4" 0.3243847874720358
-"raw bzJumpi8" 0.3131991051454138
-"raw bzFixedLen32_2" 0.26508875739644966
-"raw bzFixedLen64_2" 0.264775413711584
-"raw bzFixedLen128_2" 0.26415094339622647
-"raw bzFixedLen256_2" 0.26415094339622647
-"raw bzFixedLen256_4" 0.26415094339622647
-"raw bzFixedLen64_8" 0.2600472813238771
-"raw bzFixedLen256_8" 0.24528301886792447
-"raw bzFixedLen1024_8" 0.2962962962962963
-"skel bzJumpi2" 0.4027777777777778
-"skel bzJumpi4" 0.3935185185185185
-"skel bzJumpi8" 0.37037037037037035
-"skel bzFixedLen32_2" 0.26159334126040423
-"skel bzFixedLen64_2" 0.26128266033254155
-"skel bzFixedLen128_2" 0.2654028436018957
-"skel bzFixedLen256_2" 0.26415094339622647
-"skel bzFixedLen256_4" 0.26415094339622647
-"skel bzFixedLen64_8" 0.26128266033254155
-"skel bzFixedLen256_8" 0.2547169811320755
-"skel bzFixedLen1024_8" 0.2592592592592593
-]
-edge [
-"isInner" False
-"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"group1" "NonfungiblePositionManager"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.25728155339805825
-"raw bzJumpi4" 0.21359223300970875
-"raw bzJumpi8" 0.2063106796116505
-"raw bzFixedLen32_2" 0.1968019680196802
-"raw bzFixedLen64_2" 0.19656019656019652
-"raw bzFixedLen128_2" 0.196078431372549
-"raw bzFixedLen256_2" 0.196078431372549
-"raw bzFixedLen256_4" 0.196078431372549
-"raw bzFixedLen64_8" 0.19164619164619168
-"raw bzFixedLen256_8" 0.196078431372549
-"raw bzFixedLen1024_8" 0.23076923076923073
-"skel bzJumpi2" 0.25757575757575757
-"skel bzJumpi4" 0.25757575757575757
-"skel bzJumpi8" 0.24242424242424243
-"skel bzFixedLen32_2" 0.19283065512978992
-"skel bzFixedLen64_2" 0.19259259259259254
-"skel bzFixedLen128_2" 0.19704433497536944
-"skel bzFixedLen256_2" 0.196078431372549
-"skel bzFixedLen256_4" 0.196078431372549
-"skel bzFixedLen64_8" 0.19259259259259254
-"skel bzFixedLen256_8" 0.196078431372549
-"skel bzFixedLen1024_8" 0.1923076923076923
-]
-edge [
-"isInner" False
-"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
-"group1" "NonfungiblePositionManager"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.7636054421768708
-"raw bzJumpi4" 0.6513605442176871
-"raw bzJumpi8" 0.5833333333333333
-"raw bzFixedLen32_2" 0.8366336633663366
-"raw bzFixedLen64_2" 0.8488700564971752
-"raw bzFixedLen128_2" 0.8422535211267606
-"raw bzFixedLen256_2" 0.8258426966292135
-"raw bzFixedLen256_4" 0.7415730337078652
-"raw bzFixedLen64_8" 0.6567796610169492
-"raw bzFixedLen256_8" 0.6404494382022472
-"raw bzFixedLen1024_8" 0.6
-"skel bzJumpi2" 0.7697715289982425
-"skel bzJumpi4" 0.6977152899824253
-"skel bzJumpi8" 0.6063268892794376
-"skel bzFixedLen32_2" 0.8348688873139617
-"skel bzFixedLen64_2" 0.7946175637393768
-"skel bzFixedLen128_2" 0.8045325779036827
-"skel bzFixedLen256_2" 0.8192090395480226
-"skel bzFixedLen256_4" 0.7231638418079096
-"skel bzFixedLen64_8" 0.6274787535410764
-"skel bzFixedLen256_8" 0.6327683615819208
-"skel bzFixedLen1024_8" 0.6444444444444444
-]
-edge [
-"isInner" False
-"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
-"group1" "NonfungiblePositionManager"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.29453681710213775
-"raw bzJumpi4" 0.24228028503562948
-"raw bzJumpi8" 0.23040380047505937
-"raw bzFixedLen32_2" 0.35095613048368957
-"raw bzFixedLen64_2" 0.35056179775280893
-"raw bzFixedLen128_2" 0.34977578475336324
-"raw bzFixedLen256_2" 0.3571428571428571
-"raw bzFixedLen256_4" 0.3571428571428571
-"raw bzFixedLen64_8" 0.33483146067415726
-"raw bzFixedLen256_8" 0.3303571428571429
-"raw bzFixedLen1024_8" 0.2857142857142857
-"skel bzJumpi2" 0.3004926108374384
-"skel bzJumpi4" 0.29556650246305416
-"skel bzJumpi8" 0.270935960591133
-"skel bzFixedLen32_2" 0.3480225988700565
-"skel bzFixedLen64_2" 0.34762979683972917
-"skel bzFixedLen128_2" 0.3513513513513513
-"skel bzFixedLen256_2" 0.3571428571428571
-"skel bzFixedLen256_4" 0.3571428571428571
-"skel bzFixedLen64_8" 0.31602708803611734
-"skel bzFixedLen256_8" 0.3392857142857143
-"skel bzFixedLen1024_8" 0.2857142857142857
-]
-edge [
-"isInner" False
-"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"target" "Synthetix - v0.8.4 abi2 o1 runs200"
-"group1" "NonfungiblePositionManager"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.78060413354531
-"raw bzJumpi4" 0.6089030206677266
-"raw bzJumpi8" 0.5707472178060413
-"raw bzFixedLen32_2" 0.7766990291262136
-"raw bzFixedLen64_2" 0.7738287560581583
-"raw bzFixedLen128_2" 0.7709677419354839
-"raw bzFixedLen256_2" 0.7806451612903226
-"raw bzFixedLen256_4" 0.7032258064516129
-"raw bzFixedLen64_8" 0.6235864297253635
-"raw bzFixedLen256_8" 0.6322580645161291
-"raw bzFixedLen1024_8" 0.641025641025641
-"skel bzJumpi2" 0.7788778877887789
-"skel bzJumpi4" 0.6666666666666667
-"skel bzJumpi8" 0.5792079207920793
-"skel bzFixedLen32_2" 0.7761557177615572
-"skel bzFixedLen64_2" 0.773095623987034
-"skel bzFixedLen128_2" 0.7799352750809061
-"skel bzFixedLen256_2" 0.7870967741935484
-"skel bzFixedLen256_4" 0.7225806451612904
-"skel bzFixedLen64_8" 0.6499189627228525
-"skel bzFixedLen256_8" 0.6451612903225806
-"skel bzFixedLen1024_8" 0.717948717948718
-]
-edge [
-"isInner" False
-"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
-"group1" "NonfungiblePositionManager"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.7328646748681897
-"raw bzJumpi4" 0.5905096660808435
-"raw bzJumpi8" 0.5360281195079086
-"raw bzFixedLen32_2" 0.6812891674127126
-"raw bzFixedLen64_2" 0.6833631484794276
-"raw bzFixedLen128_2" 0.6785714285714286
-"raw bzFixedLen256_2" 0.6857142857142857
-"raw bzFixedLen256_4" 0.6357142857142857
-"raw bzFixedLen64_8" 0.5670840787119857
-"raw bzFixedLen256_8" 0.5714285714285714
-"raw bzFixedLen1024_8" 0.48571428571428577
-"skel bzJumpi2" 0.7381818181818182
-"skel bzJumpi4" 0.6563636363636364
-"skel bzJumpi8" 0.5672727272727273
-"skel bzFixedLen32_2" 0.6828391734052112
-"skel bzFixedLen64_2" 0.6750448833034111
-"skel bzFixedLen128_2" 0.6702508960573477
-"skel bzFixedLen256_2" 0.6714285714285715
-"skel bzFixedLen256_4" 0.6357142857142857
-"skel bzFixedLen64_8" 0.578096947935368
-"skel bzFixedLen256_8" 0.5714285714285714
-"skel bzFixedLen1024_8" 0.6
-]
-edge [
-"isInner" False
-"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
-"target" "DSToken - v0.8.4 abi2 o0 runs200"
-"group1" "NonfungiblePositionManager"
-"group2" "DSToken"
-"raw bzJumpi2" 0.41150442477876104
-"raw bzJumpi4" 0.331858407079646
-"raw bzJumpi8" 0.32300884955752207
-"raw bzFixedLen32_2" 0.47132429614181437
-"raw bzFixedLen64_2" 0.4708333333333333
-"raw bzFixedLen128_2" 0.4730290456431535
-"raw bzFixedLen256_2" 0.47933884297520657
-"raw bzFixedLen256_4" 0.4628099173553719
-"raw bzFixedLen64_8" 0.40625
-"raw bzFixedLen256_8" 0.4049586776859504
-"raw bzFixedLen1024_8" 0.4516129032258065
-"skel bzJumpi2" 0.42105263157894735
-"skel bzJumpi4" 0.41189931350114417
-"skel bzJumpi8" 0.37757437070938216
-"skel bzFixedLen32_2" 0.46910994764397906
-"skel bzFixedLen64_2" 0.4686192468619247
-"skel bzFixedLen128_2" 0.4686192468619247
-"skel bzFixedLen256_2" 0.4666666666666667
-"skel bzFixedLen256_4" 0.44166666666666665
-"skel bzFixedLen64_8" 0.4246861924686193
-"skel bzFixedLen256_8" 0.42500000000000004
-"skel bzFixedLen1024_8" 0.4
-]
-edge [
-"isInner" False
-"source" "Synthetix - v0.8.4 abi2 o0 runs200"
-"target" "DSToken - v0.8.4 abi2 o1 runs200"
-"group1" "Synthetix"
-"group2" "DSToken"
-"raw bzJumpi2" 0.360655737704918
-"raw bzJumpi4" 0.2930327868852459
-"raw bzJumpi8" 0.27459016393442626
-"raw bzFixedLen32_2" 0.21476510067114096
-"raw bzFixedLen64_2" 0.2145593869731801
-"raw bzFixedLen128_2" 0.2145593869731801
-"raw bzFixedLen256_2" 0.2137404580152672
-"raw bzFixedLen256_4" 0.20610687022900764
-"raw bzFixedLen64_8" 0.21264367816091956
-"raw bzFixedLen256_8" 0.1984732824427481
+"raw bzJumpi2" 0.4970414201183432
+"raw bzJumpi4" 0.3550295857988166
+"raw bzJumpi8" 0.2899408284023669
+"raw bzFixedLen32_2" 0.21212121212121215
+"raw bzFixedLen64_2" 0.21212121212121215
+"raw bzFixedLen128_2" 0.21212121212121215
+"raw bzFixedLen256_2" 0.21212121212121215
+"raw bzFixedLen256_4" 0.18181818181818177
+"raw bzFixedLen64_8" 0.16666666666666663
+"raw bzFixedLen256_8" 0.1515151515151515
 "raw bzFixedLen1024_8" 0.23529411764705888
-"skel bzJumpi2" 0.4275184275184275
-"skel bzJumpi4" 0.4201474201474201
-"skel bzJumpi8" 0.3783783783783784
-"skel bzFixedLen32_2" 0.21153846153846156
-"skel bzFixedLen64_2" 0.21153846153846156
-"skel bzFixedLen128_2" 0.2145593869731801
-"skel bzFixedLen256_2" 0.2137404580152672
-"skel bzFixedLen256_4" 0.20610687022900764
-"skel bzFixedLen64_8" 0.20961538461538465
-"skel bzFixedLen256_8" 0.19083969465648853
-"skel bzFixedLen1024_8" 0.20588235294117652
+"skel bzJumpi2" 0.49090909090909096
+"skel bzJumpi4" 0.36969696969696975
+"skel bzJumpi8" 0.2848484848484848
+"skel bzFixedLen32_2" 0.20912547528517111
+"skel bzFixedLen64_2" 0.20912547528517111
+"skel bzFixedLen128_2" 0.21212121212121215
+"skel bzFixedLen256_2" 0.21212121212121215
+"skel bzFixedLen256_4" 0.18181818181818177
+"skel bzFixedLen64_8" 0.16730038022813687
+"skel bzFixedLen256_8" 0.16666666666666663
+"skel bzFixedLen1024_8" 0.11764705882352944
 ]
 edge [
 "isInner" False
-"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"group1" "Synthetix"
+"group1" "AggregationRouterV3"
 "group2" "AddressResolver"
-"raw bzJumpi2" 0.23399558498896245
-"raw bzJumpi4" 0.19426048565121412
-"raw bzJumpi8" 0.18101545253863138
-"raw bzFixedLen32_2" 0.1582591493570722
-"raw bzFixedLen64_2" 0.15810276679841895
-"raw bzFixedLen128_2" 0.15810276679841895
-"raw bzFixedLen256_2" 0.15748031496062997
-"raw bzFixedLen256_4" 0.15748031496062997
-"raw bzFixedLen64_8" 0.15612648221343872
-"raw bzFixedLen256_8" 0.15748031496062997
-"raw bzFixedLen1024_8" 0.18181818181818177
-"skel bzJumpi2" 0.2749326145552561
-"skel bzJumpi4" 0.2749326145552561
-"skel bzJumpi8" 0.2560646900269542
-"skel bzFixedLen32_2" 0.15476190476190477
-"skel bzFixedLen64_2" 0.15476190476190477
-"skel bzFixedLen128_2" 0.15810276679841895
-"skel bzFixedLen256_2" 0.15748031496062997
-"skel bzFixedLen256_4" 0.15748031496062997
-"skel bzFixedLen64_8" 0.1507936507936508
-"skel bzFixedLen256_8" 0.14960629921259838
-"skel bzFixedLen1024_8" 0.18181818181818177
+"raw bzJumpi2" 0.31360946745562135
+"raw bzJumpi4" 0.23076923076923073
+"raw bzJumpi8" 0.17159763313609466
+"raw bzFixedLen32_2" 0.1515151515151515
+"raw bzFixedLen64_2" 0.1515151515151515
+"raw bzFixedLen128_2" 0.1515151515151515
+"raw bzFixedLen256_2" 0.1515151515151515
+"raw bzFixedLen256_4" 0.1515151515151515
+"raw bzFixedLen64_8" 0.13257575757575757
+"raw bzFixedLen256_8" 0.13636363636363635
+"raw bzFixedLen1024_8" 0.17647058823529416
+"skel bzJumpi2" 0.3090909090909091
+"skel bzJumpi4" 0.23636363636363633
+"skel bzJumpi8" 0.16969696969696968
+"skel bzFixedLen32_2" 0.14828897338403046
+"skel bzFixedLen64_2" 0.14828897338403046
+"skel bzFixedLen128_2" 0.1515151515151515
+"skel bzFixedLen256_2" 0.1515151515151515
+"skel bzFixedLen256_4" 0.12121212121212122
+"skel bzFixedLen64_8" 0.14068441064638781
+"skel bzFixedLen256_8" 0.12121212121212122
+"skel bzFixedLen1024_8" 0.11764705882352944
 ]
 edge [
 "isInner" False
-"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
-"group1" "Synthetix"
+"group1" "AggregationRouterV3"
 "group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.7281399046104928
-"raw bzJumpi4" 0.6168521462639109
-"raw bzJumpi8" 0.562798092209857
-"raw bzFixedLen32_2" 0.8033498759305211
-"raw bzFixedLen64_2" 0.8017348203221809
-"raw bzFixedLen128_2" 0.806930693069307
-"raw bzFixedLen256_2" 0.7881773399014779
-"raw bzFixedLen256_4" 0.7241379310344828
-"raw bzFixedLen64_8" 0.644361833952912
-"raw bzFixedLen256_8" 0.645320197044335
-"raw bzFixedLen1024_8" 0.6730769230769231
-"skel bzJumpi2" 0.8088235294117647
-"skel bzJumpi4" 0.7279411764705883
-"skel bzJumpi8" 0.6856617647058824
-"skel bzFixedLen32_2" 0.801863354037267
-"skel bzFixedLen64_2" 0.808695652173913
-"skel bzFixedLen128_2" 0.8287841191066998
-"skel bzFixedLen256_2" 0.8118811881188119
-"skel bzFixedLen256_4" 0.7326732673267327
-"skel bzFixedLen64_8" 0.662111801242236
-"skel bzFixedLen256_8" 0.6633663366336633
-"skel bzFixedLen1024_8" 0.7115384615384616
+"raw bzJumpi2" 0.6331877729257642
+"raw bzJumpi4" 0.5764192139737991
+"raw bzJumpi8" 0.41484716157205237
+"raw bzFixedLen32_2" 0.6696035242290749
+"raw bzFixedLen64_2" 0.6363636363636364
+"raw bzFixedLen128_2" 0.6491228070175439
+"raw bzFixedLen256_2" 0.686046511627907
+"raw bzFixedLen256_4" 0.5232558139534884
+"raw bzFixedLen64_8" 0.3489736070381232
+"raw bzFixedLen256_8" 0.39534883720930236
+"raw bzFixedLen1024_8" 0.36363636363636365
+"skel bzJumpi2" 0.6383928571428572
+"skel bzJumpi4" 0.5178571428571428
+"skel bzJumpi8" 0.3482142857142857
+"skel bzFixedLen32_2" 0.6808823529411765
+"skel bzFixedLen64_2" 0.6823529411764706
+"skel bzFixedLen128_2" 0.6588235294117647
+"skel bzFixedLen256_2" 0.6588235294117647
+"skel bzFixedLen256_4" 0.6235294117647059
+"skel bzFixedLen64_8" 0.40294117647058825
+"skel bzFixedLen256_8" 0.44705882352941173
+"skel bzFixedLen1024_8" 0.40909090909090906
 ]
 edge [
 "isInner" False
-"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
 "target" "AddressResolver - v0.8.4 abi2 o0 runs200"
-"group1" "Synthetix"
+"group1" "AggregationRouterV3"
 "group2" "AddressResolver"
-"raw bzJumpi2" 0.2683982683982684
-"raw bzJumpi4" 0.22077922077922074
-"raw bzJumpi8" 0.21212121212121215
-"raw bzFixedLen32_2" 0.28702851885924563
-"raw bzFixedLen64_2" 0.2867647058823529
-"raw bzFixedLen128_2" 0.2867647058823529
-"raw bzFixedLen256_2" 0.291970802919708
-"raw bzFixedLen256_4" 0.291970802919708
-"raw bzFixedLen64_8" 0.28125
-"raw bzFixedLen256_8" 0.27007299270072993
-"raw bzFixedLen1024_8" 0.2857142857142857
-"skel bzJumpi2" 0.32020997375328086
-"skel bzJumpi4" 0.32020997375328086
-"skel bzJumpi8" 0.28083989501312334
-"skel bzFixedLen32_2" 0.2841328413284133
-"skel bzFixedLen64_2" 0.2841328413284133
-"skel bzFixedLen128_2" 0.2867647058823529
-"skel bzFixedLen256_2" 0.291970802919708
-"skel bzFixedLen256_4" 0.2846715328467153
-"skel bzFixedLen64_8" 0.2785977859778598
-"skel bzFixedLen256_8" 0.2773722627737226
-"skel bzFixedLen1024_8" 0.2571428571428571
-]
-edge [
-"isInner" True
-"source" "Synthetix - v0.8.4 abi2 o0 runs200"
-"target" "Synthetix - v0.8.4 abi2 o1 runs200"
-"group1" "Synthetix"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.8059701492537313
-"raw bzJumpi4" 0.6119402985074627
-"raw bzJumpi8" 0.582089552238806
-"raw bzFixedLen32_2" 0.6792189679218967
-"raw bzFixedLen64_2" 0.6866295264623956
-"raw bzFixedLen128_2" 0.6852367688022284
-"raw bzFixedLen256_2" 0.6888888888888889
-"raw bzFixedLen256_4" 0.6166666666666667
-"raw bzFixedLen64_8" 0.5543175487465182
-"raw bzFixedLen256_8" 0.5611111111111111
-"raw bzFixedLen1024_8" 0.5434782608695652
-"skel bzJumpi2" 0.891566265060241
-"skel bzJumpi4" 0.8623063683304647
-"skel bzJumpi8" 0.8433734939759037
-"skel bzFixedLen32_2" 0.6871508379888268
-"skel bzFixedLen64_2" 0.6941340782122905
-"skel bzFixedLen128_2" 0.6935933147632312
-"skel bzFixedLen256_2" 0.6833333333333333
-"skel bzFixedLen256_4" 0.65
-"skel bzFixedLen64_8" 0.5488826815642458
-"skel bzFixedLen256_8" 0.55
-"skel bzFixedLen1024_8" 0.5652173913043479
+"raw bzJumpi2" 0.3668639053254438
+"raw bzJumpi4" 0.272189349112426
+"raw bzJumpi8" 0.23076923076923073
+"raw bzFixedLen32_2" 0.2954545454545454
+"raw bzFixedLen64_2" 0.2954545454545454
+"raw bzFixedLen128_2" 0.2954545454545454
+"raw bzFixedLen256_2" 0.303030303030303
+"raw bzFixedLen256_4" 0.28787878787878785
+"raw bzFixedLen64_8" 0.24242424242424243
+"raw bzFixedLen256_8" 0.2272727272727273
+"raw bzFixedLen1024_8" 0.23529411764705888
+"skel bzJumpi2" 0.36969696969696975
+"skel bzJumpi4" 0.2787878787878788
+"skel bzJumpi8" 0.1636363636363637
+"skel bzFixedLen32_2" 0.2927756653992395
+"skel bzFixedLen64_2" 0.2927756653992395
+"skel bzFixedLen128_2" 0.2954545454545454
+"skel bzFixedLen256_2" 0.303030303030303
+"skel bzFixedLen256_4" 0.28787878787878785
+"skel bzFixedLen64_8" 0.24714828897338403
+"skel bzFixedLen256_8" 0.2727272727272727
+"skel bzFixedLen1024_8" 0.2941176470588235
 ]
 edge [
 "isInner" False
-"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
+"target" "Synthetix - v0.8.4 abi2 o1 runs200"
+"group1" "AggregationRouterV3"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.5222222222222221
+"raw bzJumpi4" 0.2962962962962963
+"raw bzJumpi8" 0.19259259259259254
+"raw bzFixedLen32_2" 0.6742424242424243
+"raw bzFixedLen64_2" 0.6818181818181819
+"raw bzFixedLen128_2" 0.6287878787878788
+"raw bzFixedLen256_2" 0.6212121212121212
+"raw bzFixedLen256_4" 0.3939393939393939
+"raw bzFixedLen64_8" 0.31818181818181823
+"raw bzFixedLen256_8" 0.28787878787878785
+"raw bzFixedLen1024_8" 0.2941176470588235
+"skel bzJumpi2" 0.5287356321839081
+"skel bzJumpi4" 0.26819923371647514
+"skel bzJumpi8" 0.15325670498084287
+"skel bzFixedLen32_2" 0.6197718631178708
+"skel bzFixedLen64_2" 0.5855513307984791
+"skel bzFixedLen128_2" 0.5681818181818181
+"skel bzFixedLen256_2" 0.5757575757575757
+"skel bzFixedLen256_4" 0.4242424242424242
+"skel bzFixedLen64_8" 0.2433460076045627
+"skel bzFixedLen256_8" 0.28787878787878785
+"skel bzFixedLen1024_8" 0.17647058823529416
+]
+edge [
+"isInner" False
+"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
-"group1" "Synthetix"
+"group1" "AggregationRouterV3"
 "group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.6885245901639344
-"raw bzJumpi4" 0.5590163934426229
-"raw bzJumpi8" 0.5
-"raw bzFixedLen32_2" 0.5771863117870722
-"raw bzFixedLen64_2" 0.5835866261398177
-"raw bzFixedLen128_2" 0.5835866261398177
-"raw bzFixedLen256_2" 0.5757575757575757
-"raw bzFixedLen256_4" 0.5272727272727273
-"raw bzFixedLen64_8" 0.4848024316109423
-"raw bzFixedLen256_8" 0.48484848484848486
-"raw bzFixedLen1024_8" 0.5
-"skel bzJumpi2" 0.7619047619047619
-"skel bzJumpi4" 0.7142857142857143
-"skel bzJumpi8" 0.6819047619047619
-"skel bzFixedLen32_2" 0.5815548780487805
-"skel bzFixedLen64_2" 0.5823170731707317
-"skel bzFixedLen128_2" 0.5775075987841946
-"skel bzFixedLen256_2" 0.5515151515151515
-"skel bzFixedLen256_4" 0.5333333333333333
-"skel bzFixedLen64_8" 0.489329268292683
-"skel bzFixedLen256_8" 0.4727272727272728
-"skel bzFixedLen1024_8" 0.4285714285714286
+"raw bzJumpi2" 0.6666666666666667
+"raw bzJumpi4" 0.4809523809523809
+"raw bzJumpi8" 0.37142857142857144
+"raw bzFixedLen32_2" 0.5700757575757576
+"raw bzFixedLen64_2" 0.6325757575757576
+"raw bzFixedLen128_2" 0.6439393939393939
+"raw bzFixedLen256_2" 0.5909090909090908
+"raw bzFixedLen256_4" 0.4545454545454546
+"raw bzFixedLen64_8" 0.33712121212121215
+"raw bzFixedLen256_8" 0.31818181818181823
+"raw bzFixedLen1024_8" 0.2941176470588235
+"skel bzJumpi2" 0.673170731707317
+"skel bzJumpi4" 0.4439024390243902
+"skel bzJumpi8" 0.29268292682926833
+"skel bzFixedLen32_2" 0.6121673003802282
+"skel bzFixedLen64_2" 0.5551330798479088
+"skel bzFixedLen128_2" 0.5833333333333333
+"skel bzFixedLen256_2" 0.5454545454545454
+"skel bzFixedLen256_4" 0.4242424242424242
+"skel bzFixedLen64_8" 0.311787072243346
+"skel bzFixedLen256_8" 0.28787878787878785
+"skel bzFixedLen1024_8" 0.17647058823529416
 ]
 edge [
 "isInner" False
-"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"source" "AggregationRouterV3 - v0.8.4 abi2 o0 runs200"
 "target" "DSToken - v0.8.4 abi2 o0 runs200"
-"group1" "Synthetix"
+"group1" "AggregationRouterV3"
 "group2" "DSToken"
-"raw bzJumpi2" 0.3772819472616633
-"raw bzJumpi4" 0.29817444219066935
-"raw bzJumpi8" 0.27383367139959436
-"raw bzFixedLen32_2" 0.3906655142610199
-"raw bzFixedLen64_2" 0.3903281519861831
-"raw bzFixedLen128_2" 0.3931034482758621
-"raw bzFixedLen256_2" 0.3972602739726028
-"raw bzFixedLen256_4" 0.37671232876712324
-"raw bzFixedLen64_8" 0.3575129533678757
-"raw bzFixedLen256_8" 0.34931506849315064
-"raw bzFixedLen1024_8" 0.39473684210526316
-"skel bzJumpi2" 0.44660194174757284
-"skel bzJumpi4" 0.441747572815534
-"skel bzJumpi8" 0.3956310679611651
-"skel bzFixedLen32_2" 0.38821490467937614
-"skel bzFixedLen64_2" 0.38821490467937614
-"skel bzFixedLen128_2" 0.38754325259515576
-"skel bzFixedLen256_2" 0.3793103448275862
-"skel bzFixedLen256_4" 0.35862068965517246
-"skel bzFixedLen64_8" 0.35701906412478335
-"skel bzFixedLen256_8" 0.32413793103448274
-"skel bzFixedLen1024_8" 0.32432432432432434
+"raw bzJumpi2" 0.5207100591715976
+"raw bzJumpi4" 0.36094674556213013
+"raw bzJumpi8" 0.3076923076923077
+"raw bzFixedLen32_2" 0.41666666666666663
+"raw bzFixedLen64_2" 0.41666666666666663
+"raw bzFixedLen128_2" 0.4242424242424242
+"raw bzFixedLen256_2" 0.43939393939393945
+"raw bzFixedLen256_4" 0.40909090909090906
+"raw bzFixedLen64_8" 0.2689393939393939
+"raw bzFixedLen256_8" 0.31818181818181823
+"raw bzFixedLen1024_8" 0.23529411764705888
+"skel bzJumpi2" 0.5272727272727273
+"skel bzJumpi4" 0.38181818181818183
+"skel bzJumpi8" 0.2727272727272727
+"skel bzFixedLen32_2" 0.42015209125475284
+"skel bzFixedLen64_2" 0.4106463878326996
+"skel bzFixedLen128_2" 0.4015151515151515
+"skel bzFixedLen256_2" 0.40909090909090906
+"skel bzFixedLen256_4" 0.31818181818181823
+"skel bzFixedLen64_8" 0.26615969581749055
+"skel bzFixedLen256_8" 0.2727272727272727
+"skel bzFixedLen1024_8" 0.17647058823529416
 ]
 edge [
 "isInner" False
-"source" "DSToken - v0.8.4 abi2 o1 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"group1" "DSToken"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.7092198581560284
-"raw bzJumpi4" 0.6595744680851063
-"raw bzJumpi8" 0.6170212765957447
-"raw bzFixedLen32_2" 0.8072916666666666
-"raw bzFixedLen64_2" 0.7708333333333334
-"raw bzFixedLen128_2" 0.7916666666666666
-"raw bzFixedLen256_2" 0.7916666666666666
-"raw bzFixedLen256_4" 0.6666666666666667
-"raw bzFixedLen64_8" 0.59375
-"raw bzFixedLen256_8" 0.5416666666666667
-"raw bzFixedLen1024_8" 0.7142857142857143
+"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"target" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
+"group2" "UniswapV2Router02"
+"raw bzJumpi2" 0.6521739130434783
+"raw bzJumpi4" 0.3940217391304348
+"raw bzJumpi8" 0.17119565217391308
+"raw bzFixedLen32_2" 0.49836065573770494
+"raw bzFixedLen64_2" 0.49563318777292575
+"raw bzFixedLen128_2" 0.5021834061135371
+"raw bzFixedLen256_2" 0.5043478260869565
+"raw bzFixedLen256_4" 0.4434782608695652
+"raw bzFixedLen64_8" 0.33842794759825323
+"raw bzFixedLen256_8" 0.33913043478260874
+"raw bzFixedLen1024_8" 0.3448275862068966
+"skel bzJumpi2" 0.6871165644171779
+"skel bzJumpi4" 0.4171779141104295
+"skel bzJumpi8" 0.2760736196319018
+"skel bzFixedLen32_2" 0.49507119386637455
+"skel bzFixedLen64_2" 0.4967177242888403
+"skel bzFixedLen128_2" 0.49781659388646293
+"skel bzFixedLen256_2" 0.5043478260869565
+"skel bzFixedLen256_4" 0.4173913043478261
+"skel bzFixedLen64_8" 0.28665207877461707
+"skel bzFixedLen256_8" 0.34782608695652173
+"skel bzFixedLen1024_8" 0.31034482758620685
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.724233983286908
+"raw bzJumpi4" 0.4178272980501393
+"raw bzJumpi8" 0.2674094707520891
+"raw bzFixedLen32_2" 0.5852660300136425
+"raw bzFixedLen64_2" 0.5667574931880108
+"raw bzFixedLen128_2" 0.5760869565217391
+"raw bzFixedLen256_2" 0.5869565217391304
+"raw bzFixedLen256_4" 0.48913043478260865
+"raw bzFixedLen64_8" 0.3760217983651226
+"raw bzFixedLen256_8" 0.3586956521739131
+"raw bzFixedLen1024_8" 0.3913043478260869
 "skel bzJumpi2" 0.7246376811594203
-"skel bzJumpi4" 0.6666666666666667
-"skel bzJumpi8" 0.6304347826086957
-"skel bzFixedLen32_2" 0.7872340425531915
-"skel bzFixedLen64_2" 0.8297872340425532
-"skel bzFixedLen128_2" 0.8333333333333334
-"skel bzFixedLen256_2" 0.8333333333333334
-"skel bzFixedLen256_4" 0.75
-"skel bzFixedLen64_8" 0.648936170212766
-"skel bzFixedLen256_8" 0.6666666666666667
-"skel bzFixedLen1024_8" 0.5714285714285714
+"skel bzJumpi4" 0.5072463768115942
+"skel bzJumpi8" 0.32463768115942027
+"skel bzFixedLen32_2" 0.5909712722298222
+"skel bzFixedLen64_2" 0.5901639344262295
+"skel bzFixedLen128_2" 0.6120218579234973
+"skel bzFixedLen256_2" 0.5978260869565217
+"skel bzFixedLen256_4" 0.5217391304347826
+"skel bzFixedLen64_8" 0.42349726775956287
+"skel bzFixedLen256_8" 0.3804347826086957
+"skel bzFixedLen1024_8" 0.34782608695652173
 ]
 edge [
 "isInner" False
-"source" "DSToken - v0.8.4 abi2 o1 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
-"group1" "DSToken"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.555205047318612
-"raw bzJumpi4" 0.5488958990536277
-"raw bzJumpi8" 0.473186119873817
-"raw bzFixedLen32_2" 0.2824716267339218
-"raw bzFixedLen64_2" 0.2821158690176322
-"raw bzFixedLen128_2" 0.2814070351758794
-"raw bzFixedLen256_2" 0.28
-"raw bzFixedLen256_4" 0.26
-"raw bzFixedLen64_8" 0.2670025188916877
-"raw bzFixedLen256_8" 0.24
-"raw bzFixedLen1024_8" 0.2692307692307693
-"skel bzJumpi2" 0.5594855305466238
-"skel bzJumpi4" 0.5562700964630225
-"skel bzJumpi8" 0.5209003215434084
-"skel bzFixedLen32_2" 0.2784810126582279
-"skel bzFixedLen64_2" 0.2784810126582279
-"skel bzFixedLen128_2" 0.2828282828282829
-"skel bzFixedLen256_2" 0.2828282828282829
-"skel bzFixedLen256_4" 0.2828282828282829
-"skel bzFixedLen64_8" 0.2556962025316456
-"skel bzFixedLen256_8" 0.26262626262626265
-"skel bzFixedLen1024_8" 0.3076923076923077
-]
-edge [
-"isInner" False
-"source" "DSToken - v0.8.4 abi2 o1 runs200"
-"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
-"group1" "DSToken"
-"group2" "AddressResolver"
-"raw bzJumpi2" 0.7666666666666666
-"raw bzJumpi4" 0.7133333333333334
-"raw bzJumpi8" 0.5733333333333333
-"raw bzFixedLen32_2" 0.7611940298507462
-"raw bzFixedLen64_2" 0.7686567164179104
-"raw bzFixedLen128_2" 0.7761194029850746
-"raw bzFixedLen256_2" 0.7647058823529411
-"raw bzFixedLen256_4" 0.6470588235294117
-"raw bzFixedLen64_8" 0.6194029850746269
-"raw bzFixedLen256_8" 0.5588235294117647
-"raw bzFixedLen1024_8" 0.4444444444444444
-"skel bzJumpi2" 0.7297297297297297
-"skel bzJumpi4" 0.6621621621621622
-"skel bzJumpi8" 0.6148648648648649
-"skel bzFixedLen32_2" 0.7575757575757576
-"skel bzFixedLen64_2" 0.7348484848484849
-"skel bzFixedLen128_2" 0.7462686567164178
-"skel bzFixedLen256_2" 0.7647058823529411
-"skel bzFixedLen256_4" 0.6470588235294117
-"skel bzFixedLen64_8" 0.5681818181818181
-"skel bzFixedLen256_8" 0.5588235294117647
-"skel bzFixedLen1024_8" 0.6666666666666667
-]
-edge [
-"isInner" False
-"source" "DSToken - v0.8.4 abi2 o1 runs200"
-"target" "Synthetix - v0.8.4 abi2 o1 runs200"
-"group1" "DSToken"
+"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"target" "Synthetix - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
 "group2" "Synthetix"
-"raw bzJumpi2" 0.4916201117318436
-"raw bzJumpi4" 0.4692737430167597
-"raw bzJumpi8" 0.44134078212290506
-"raw bzFixedLen32_2" 0.3642276422764228
-"raw bzFixedLen64_2" 0.36363636363636365
-"raw bzFixedLen128_2" 0.36363636363636365
-"raw bzFixedLen256_2" 0.36363636363636365
-"raw bzFixedLen256_4" 0.35064935064935066
-"raw bzFixedLen64_8" 0.3441558441558441
-"raw bzFixedLen256_8" 0.3246753246753247
-"raw bzFixedLen1024_8" 0.35
-"skel bzJumpi2" 0.5
-"skel bzJumpi4" 0.4683908045977011
-"skel bzJumpi8" 0.4339080459770115
-"skel bzFixedLen32_2" 0.3594771241830066
-"skel bzFixedLen64_2" 0.3594771241830066
-"skel bzFixedLen128_2" 0.36363636363636365
-"skel bzFixedLen256_2" 0.36363636363636365
-"skel bzFixedLen256_4" 0.33766233766233766
-"skel bzFixedLen64_8" 0.33986928104575165
-"skel bzFixedLen256_8" 0.33766233766233766
+"raw bzJumpi2" 0.7150000000000001
+"raw bzJumpi4" 0.43500000000000005
+"raw bzJumpi8" 0.2825
+"raw bzFixedLen32_2" 0.4683136412459721
+"raw bzFixedLen64_2" 0.48068669527897
+"raw bzFixedLen128_2" 0.48068669527897
+"raw bzFixedLen256_2" 0.4700854700854701
+"raw bzFixedLen256_4" 0.3931623931623932
+"raw bzFixedLen64_8" 0.30257510729613735
+"raw bzFixedLen256_8" 0.3076923076923077
+"raw bzFixedLen1024_8" 0.4
+"skel bzJumpi2" 0.75
+"skel bzJumpi4" 0.58125
+"skel bzJumpi8" 0.51875
+"skel bzFixedLen32_2" 0.478494623655914
+"skel bzFixedLen64_2" 0.4881720430107527
+"skel bzFixedLen128_2" 0.4892703862660944
+"skel bzFixedLen256_2" 0.45299145299145294
+"skel bzFixedLen256_4" 0.4017094017094017
+"skel bzFixedLen64_8" 0.3032258064516129
+"skel bzFixedLen256_8" 0.2564102564102564
+"skel bzFixedLen1024_8" 0.33333333333333337
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"target" "DSToken - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "DSToken"
+"raw bzJumpi2" 0.2857142857142857
+"raw bzJumpi4" 0.2857142857142857
+"raw bzJumpi8" 0.2532467532467533
+"raw bzFixedLen32_2" 0.24400871459694984
+"raw bzFixedLen64_2" 0.24347826086956526
+"raw bzFixedLen128_2" 0.24347826086956526
+"raw bzFixedLen256_2" 0.24137931034482762
+"raw bzFixedLen256_4" 0.22413793103448276
+"raw bzFixedLen64_8" 0.19565217391304346
+"raw bzFixedLen256_8" 0.2068965517241379
+"raw bzFixedLen1024_8" 0.2666666666666667
+"skel bzJumpi2" 0.2919463087248322
+"skel bzJumpi4" 0.2919463087248322
+"skel bzJumpi8" 0.2684563758389261
+"skel bzFixedLen32_2" 0.24070021881838077
+"skel bzFixedLen64_2" 0.24017467248908297
+"skel bzFixedLen128_2" 0.24347826086956526
+"skel bzFixedLen256_2" 0.24137931034482762
+"skel bzFixedLen256_4" 0.22413793103448276
+"skel bzFixedLen64_8" 0.222707423580786
+"skel bzFixedLen256_8" 0.2068965517241379
+"skel bzFixedLen1024_8" 0.1333333333333333
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.17207792207792205
+"raw bzJumpi4" 0.17207792207792205
+"raw bzJumpi8" 0.16233766233766234
+"raw bzFixedLen32_2" 0.17429193899782136
+"raw bzFixedLen64_2" 0.17391304347826086
+"raw bzFixedLen128_2" 0.17391304347826086
+"raw bzFixedLen256_2" 0.1724137931034483
+"raw bzFixedLen256_4" 0.1724137931034483
+"raw bzFixedLen64_8" 0.16086956521739126
+"raw bzFixedLen256_8" 0.13793103448275867
+"raw bzFixedLen1024_8" 0.19999999999999996
+"skel bzJumpi2" 0.17114093959731547
+"skel bzJumpi4" 0.17114093959731547
+"skel bzJumpi8" 0.16442953020134232
+"skel bzFixedLen32_2" 0.17067833698030632
+"skel bzFixedLen64_2" 0.17030567685589515
+"skel bzFixedLen128_2" 0.17391304347826086
+"skel bzFixedLen256_2" 0.1724137931034483
+"skel bzFixedLen256_4" 0.1724137931034483
+"skel bzFixedLen64_8" 0.16593886462882101
+"skel bzFixedLen256_8" 0.15517241379310343
+"skel bzFixedLen1024_8" 0.1333333333333333
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.7077922077922079
+"raw bzJumpi4" 0.5616883116883117
+"raw bzJumpi8" 0.4642857142857143
+"raw bzFixedLen32_2" 0.5800293685756241
+"raw bzFixedLen64_2" 0.5601173020527859
+"raw bzFixedLen128_2" 0.5497076023391814
+"raw bzFixedLen256_2" 0.5697674418604651
+"raw bzFixedLen256_4" 0.4418604651162791
+"raw bzFixedLen64_8" 0.3460410557184751
+"raw bzFixedLen256_8" 0.33720930232558144
+"raw bzFixedLen1024_8" 0.31818181818181823
+"skel bzJumpi2" 0.7013422818791946
+"skel bzJumpi4" 0.5671140939597316
+"skel bzJumpi8" 0.5
+"skel bzFixedLen32_2" 0.5970588235294118
+"skel bzFixedLen64_2" 0.5764705882352941
+"skel bzFixedLen128_2" 0.5941176470588235
+"skel bzFixedLen256_2" 0.5882352941176471
+"skel bzFixedLen256_4" 0.49411764705882355
+"skel bzFixedLen64_8" 0.32352941176470584
+"skel bzFixedLen256_8" 0.3529411764705882
+"skel bzFixedLen1024_8" 0.31818181818181823
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.2012987012987013
+"raw bzJumpi4" 0.2012987012987013
+"raw bzJumpi8" 0.1915584415584416
+"raw bzFixedLen32_2" 0.33986928104575165
+"raw bzFixedLen64_2" 0.33913043478260874
+"raw bzFixedLen128_2" 0.33913043478260874
+"raw bzFixedLen256_2" 0.3448275862068966
+"raw bzFixedLen256_4" 0.31034482758620685
+"raw bzFixedLen64_8" 0.26086956521739135
+"raw bzFixedLen256_8" 0.2931034482758621
+"raw bzFixedLen1024_8" 0.19999999999999996
+"skel bzJumpi2" 0.2046979865771812
+"skel bzJumpi4" 0.2046979865771812
+"skel bzJumpi8" 0.17114093959731547
+"skel bzFixedLen32_2" 0.33698030634573306
+"skel bzFixedLen64_2" 0.33624454148471616
+"skel bzFixedLen128_2" 0.33913043478260874
+"skel bzFixedLen256_2" 0.3448275862068966
+"skel bzFixedLen256_4" 0.31034482758620685
+"skel bzFixedLen64_8" 0.222707423580786
+"skel bzFixedLen256_8" 0.27586206896551724
+"skel bzFixedLen1024_8" 0.19999999999999996
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"target" "Synthetix - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.762987012987013
+"raw bzJumpi4" 0.5909090909090908
+"raw bzJumpi8" 0.3668831168831169
+"raw bzFixedLen32_2" 0.7097415506958251
+"raw bzFixedLen64_2" 0.7142857142857143
+"raw bzFixedLen128_2" 0.7142857142857143
+"raw bzFixedLen256_2" 0.7301587301587302
+"raw bzFixedLen256_4" 0.4920634920634921
+"raw bzFixedLen64_8" 0.373015873015873
+"raw bzFixedLen256_8" 0.38095238095238093
+"raw bzFixedLen1024_8" 0.3125
+"skel bzJumpi2" 0.7583892617449665
+"skel bzJumpi4" 0.5939597315436241
+"skel bzJumpi8" 0.5100671140939597
+"skel bzFixedLen32_2" 0.7151394422310757
+"skel bzFixedLen64_2" 0.7250996015936255
+"skel bzFixedLen128_2" 0.7222222222222222
+"skel bzFixedLen256_2" 0.7142857142857143
+"skel bzFixedLen256_4" 0.5873015873015873
+"skel bzFixedLen64_8" 0.4422310756972112
+"skel bzFixedLen256_8" 0.4285714285714286
+"skel bzFixedLen1024_8" 0.375
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
+"group1" "CollateralManager"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.6688311688311688
+"raw bzJumpi4" 0.5746753246753247
+"raw bzJumpi8" 0.48051948051948057
+"raw bzFixedLen32_2" 0.6971677559912854
+"raw bzFixedLen64_2" 0.7043478260869565
+"raw bzFixedLen128_2" 0.7391304347826086
+"raw bzFixedLen256_2" 0.7068965517241379
+"raw bzFixedLen256_4" 0.5344827586206897
+"raw bzFixedLen64_8" 0.3652173913043478
+"raw bzFixedLen256_8" 0.43103448275862066
+"raw bzFixedLen1024_8" 0.19999999999999996
+"skel bzJumpi2" 0.6711409395973154
+"skel bzJumpi4" 0.5939597315436241
+"skel bzJumpi8" 0.5369127516778524
+"skel bzFixedLen32_2" 0.6936542669584245
+"skel bzFixedLen64_2" 0.6899563318777293
+"skel bzFixedLen128_2" 0.6956521739130435
+"skel bzFixedLen256_2" 0.7068965517241379
+"skel bzFixedLen256_4" 0.5344827586206897
+"skel bzFixedLen64_8" 0.41484716157205237
+"skel bzFixedLen256_8" 0.3620689655172413
+"skel bzFixedLen1024_8" 0.33333333333333337
+]
+edge [
+"isInner" False
+"source" "CollateralManager - v0.8.4 abi2 o1 runs200"
+"target" "DSToken - v0.8.4 abi2 o0 runs200"
+"group1" "CollateralManager"
+"group2" "DSToken"
+"raw bzJumpi2" 0.30194805194805197
+"raw bzJumpi4" 0.30194805194805197
+"raw bzJumpi8" 0.2597402597402597
+"raw bzFixedLen32_2" 0.4836601307189542
+"raw bzFixedLen64_2" 0.4739130434782609
+"raw bzFixedLen128_2" 0.4695652173913043
+"raw bzFixedLen256_2" 0.4655172413793104
+"raw bzFixedLen256_4" 0.43103448275862066
+"raw bzFixedLen64_8" 0.29130434782608694
+"raw bzFixedLen256_8" 0.3793103448275862
+"raw bzFixedLen1024_8" 0.33333333333333337
+"skel bzJumpi2" 0.3087248322147651
+"skel bzJumpi4" 0.3087248322147651
+"skel bzJumpi8" 0.2684563758389261
+"skel bzFixedLen32_2" 0.47702407002188185
+"skel bzFixedLen64_2" 0.4672489082969432
+"skel bzFixedLen128_2" 0.4782608695652174
+"skel bzFixedLen256_2" 0.4655172413793104
+"skel bzFixedLen256_4" 0.3275862068965517
+"skel bzFixedLen64_8" 0.2925764192139738
+"skel bzFixedLen256_8" 0.24137931034482762
+"skel bzFixedLen1024_8" 0.2666666666666667
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"group1" "UniswapV2Router02"
+"group2" "NonfungiblePositionManager"
+"raw bzJumpi2" 0.7472826086956521
+"raw bzJumpi4" 0.7364130434782609
+"raw bzJumpi8" 0.5135869565217391
+"raw bzFixedLen32_2" 0.6666666666666667
+"raw bzFixedLen64_2" 0.6768558951965066
+"raw bzFixedLen128_2" 0.6899563318777293
+"raw bzFixedLen256_2" 0.7043478260869565
+"raw bzFixedLen256_4" 0.5478260869565217
+"raw bzFixedLen64_8" 0.3580786026200873
+"raw bzFixedLen256_8" 0.35652173913043483
+"raw bzFixedLen1024_8" 0.31034482758620685
+"skel bzJumpi2" 0.7333333333333334
+"skel bzJumpi4" 0.5884057971014494
+"skel bzJumpi8" 0.4492753623188406
+"skel bzFixedLen32_2" 0.6757940854326396
+"skel bzFixedLen64_2" 0.6061269146608315
+"skel bzFixedLen128_2" 0.6375545851528384
+"skel bzFixedLen256_2" 0.6608695652173913
+"skel bzFixedLen256_4" 0.5304347826086957
+"skel bzFixedLen64_8" 0.29759299781181614
+"skel bzFixedLen256_8" 0.31304347826086953
+"skel bzFixedLen1024_8" 0.3793103448275862
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"target" "Synthetix - v0.8.4 abi2 o0 runs200"
+"group1" "UniswapV2Router02"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.665
+"raw bzJumpi4" 0.6575
+"raw bzJumpi8" 0.3075
+"raw bzFixedLen32_2" 0.7121374865735768
+"raw bzFixedLen64_2" 0.6738197424892705
+"raw bzFixedLen128_2" 0.6866952789699571
+"raw bzFixedLen256_2" 0.6752136752136753
+"raw bzFixedLen256_4" 0.49572649572649574
+"raw bzFixedLen64_8" 0.33047210300429186
+"raw bzFixedLen256_8" 0.3504273504273504
+"raw bzFixedLen1024_8" 0.33333333333333337
+"skel bzJumpi2" 0.6533742331288344
+"skel bzJumpi4" 0.34355828220858897
+"skel bzJumpi8" 0.1901840490797546
+"skel bzFixedLen32_2" 0.7150537634408602
+"skel bzFixedLen64_2" 0.7096774193548387
+"skel bzFixedLen128_2" 0.7339055793991416
+"skel bzFixedLen256_2" 0.7094017094017093
+"skel bzFixedLen256_4" 0.5384615384615384
+"skel bzFixedLen64_8" 0.35913978494623655
+"skel bzFixedLen256_8" 0.3931623931623932
 "skel bzFixedLen1024_8" 0.30000000000000004
 ]
 edge [
 "isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"target" "DSToken - v0.8.4 abi2 o1 runs200"
+"group1" "UniswapV2Router02"
+"group2" "DSToken"
+"raw bzJumpi2" 0.23913043478260865
+"raw bzJumpi4" 0.13586956521739135
+"raw bzJumpi8" 0.07336956521739135
+"raw bzFixedLen32_2" 0.12240437158469941
+"raw bzFixedLen64_2" 0.12227074235807855
+"raw bzFixedLen128_2" 0.12227074235807855
+"raw bzFixedLen256_2" 0.12173913043478257
+"raw bzFixedLen256_4" 0.12173913043478257
+"raw bzFixedLen64_8" 0.11572052401746724
+"raw bzFixedLen256_8" 0.12173913043478257
+"raw bzFixedLen1024_8" 0.10344827586206895
+"skel bzJumpi2" 0.2668711656441718
+"skel bzJumpi4" 0.23006134969325154
+"skel bzJumpi8" 0.21472392638036808
+"skel bzFixedLen32_2" 0.12048192771084343
+"skel bzFixedLen64_2" 0.12035010940919033
+"skel bzFixedLen128_2" 0.12227074235807855
+"skel bzFixedLen256_2" 0.12173913043478257
+"skel bzFixedLen256_4" 0.12173913043478257
+"skel bzFixedLen64_8" 0.11597374179431075
+"skel bzFixedLen256_8" 0.12173913043478257
+"skel bzFixedLen1024_8" 0.10344827586206895
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"group1" "UniswapV2Router02"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.1440217391304348
+"raw bzJumpi4" 0.09510869565217395
+"raw bzJumpi8" 0.05163043478260865
+"raw bzFixedLen32_2" 0.08743169398907102
+"raw bzFixedLen64_2" 0.0873362445414847
+"raw bzFixedLen128_2" 0.0873362445414847
+"raw bzFixedLen256_2" 0.08695652173913049
+"raw bzFixedLen256_4" 0.08695652173913049
+"raw bzFixedLen64_8" 0.0873362445414847
+"raw bzFixedLen256_8" 0.08695652173913049
+"raw bzFixedLen1024_8" 0.06896551724137934
+"skel bzJumpi2" 0.15644171779141103
+"skel bzJumpi4" 0.13496932515337423
+"skel bzJumpi8" 0.11963190184049077
+"skel bzFixedLen32_2" 0.08543263964950709
+"skel bzFixedLen64_2" 0.08533916849015322
+"skel bzFixedLen128_2" 0.0873362445414847
+"skel bzFixedLen256_2" 0.08695652173913049
+"skel bzFixedLen256_4" 0.08695652173913049
+"skel bzFixedLen64_8" 0.08315098468271331
+"skel bzFixedLen256_8" 0.08695652173913049
+"skel bzFixedLen1024_8" 0.06896551724137934
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
+"group1" "UniswapV2Router02"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.5543478260869565
+"raw bzJumpi4" 0.41032608695652173
+"raw bzJumpi8" 0.14130434782608692
+"raw bzFixedLen32_2" 0.6830601092896175
+"raw bzFixedLen64_2" 0.6506550218340612
+"raw bzFixedLen128_2" 0.6681222707423581
+"raw bzFixedLen256_2" 0.6695652173913044
+"raw bzFixedLen256_4" 0.5130434782608695
+"raw bzFixedLen64_8" 0.3733624454148472
+"raw bzFixedLen256_8" 0.3913043478260869
+"raw bzFixedLen1024_8" 0.31034482758620685
+"skel bzJumpi2" 0.6165644171779141
+"skel bzJumpi4" 0.4386503067484663
+"skel bzJumpi8" 0.3006134969325154
+"skel bzFixedLen32_2" 0.696604600219058
+"skel bzFixedLen64_2" 0.6520787746170678
+"skel bzFixedLen128_2" 0.6768558951965066
+"skel bzFixedLen256_2" 0.7217391304347827
+"skel bzFixedLen256_4" 0.5652173913043479
+"skel bzFixedLen64_8" 0.4004376367614879
+"skel bzFixedLen256_8" 0.4173913043478261
+"skel bzFixedLen1024_8" 0.3448275862068966
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
+"group1" "UniswapV2Router02"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.1684782608695652
+"raw bzJumpi4" 0.11141304347826086
+"raw bzJumpi8" 0.08152173913043481
+"raw bzFixedLen32_2" 0.17049180327868851
+"raw bzFixedLen64_2" 0.17030567685589515
+"raw bzFixedLen128_2" 0.17030567685589515
+"raw bzFixedLen256_2" 0.17391304347826086
+"raw bzFixedLen256_4" 0.17391304347826086
+"raw bzFixedLen64_8" 0.16375545851528384
+"raw bzFixedLen256_8" 0.16521739130434787
+"raw bzFixedLen1024_8" 0.1724137931034483
+"skel bzJumpi2" 0.18711656441717794
+"skel bzJumpi4" 0.14723926380368102
+"skel bzJumpi8" 0.12576687116564422
+"skel bzFixedLen32_2" 0.1686746987951807
+"skel bzFixedLen64_2" 0.16849015317286653
+"skel bzFixedLen128_2" 0.17030567685589515
+"skel bzFixedLen256_2" 0.17391304347826086
+"skel bzFixedLen256_4" 0.17391304347826086
+"skel bzFixedLen64_8" 0.15973741794310725
+"skel bzFixedLen256_8" 0.15652173913043477
+"skel bzFixedLen1024_8" 0.13793103448275867
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"target" "Synthetix - v0.8.4 abi2 o1 runs200"
+"group1" "UniswapV2Router02"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.5434782608695652
+"raw bzJumpi4" 0.30163043478260865
+"raw bzJumpi8" 0.1875
+"raw bzFixedLen32_2" 0.5322404371584699
+"raw bzFixedLen64_2" 0.534934497816594
+"raw bzFixedLen128_2" 0.5327510917030568
+"raw bzFixedLen256_2" 0.5478260869565217
+"raw bzFixedLen256_4" 0.4347826086956522
+"raw bzFixedLen64_8" 0.3253275109170306
+"raw bzFixedLen256_8" 0.33043478260869563
+"raw bzFixedLen1024_8" 0.27586206896551724
+"skel bzJumpi2" 0.5950920245398773
+"skel bzJumpi4" 0.3006134969325154
+"skel bzJumpi8" 0.20552147239263807
+"skel bzFixedLen32_2" 0.5290251916757941
+"skel bzFixedLen64_2" 0.5142231947483589
+"skel bzFixedLen128_2" 0.5414847161572052
+"skel bzFixedLen256_2" 0.5478260869565217
+"skel bzFixedLen256_4" 0.4173913043478261
+"skel bzFixedLen64_8" 0.2822757111597374
+"skel bzFixedLen256_8" 0.31304347826086953
+"skel bzFixedLen1024_8" 0.3793103448275862
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
+"group1" "UniswapV2Router02"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.5271739130434783
+"raw bzJumpi4" 0.34239130434782605
+"raw bzJumpi8" 0.12771739130434778
+"raw bzFixedLen32_2" 0.41857923497267757
+"raw bzFixedLen64_2" 0.4192139737991266
+"raw bzFixedLen128_2" 0.4192139737991266
+"raw bzFixedLen256_2" 0.4173913043478261
+"raw bzFixedLen256_4" 0.3913043478260869
+"raw bzFixedLen64_8" 0.2947598253275109
+"raw bzFixedLen256_8" 0.29565217391304344
+"raw bzFixedLen1024_8" 0.24137931034482762
+"skel bzJumpi2" 0.5705521472392638
+"skel bzJumpi4" 0.36809815950920244
+"skel bzJumpi8" 0.245398773006135
+"skel bzFixedLen32_2" 0.41840087623220157
+"skel bzFixedLen64_2" 0.4179431072210066
+"skel bzFixedLen128_2" 0.4192139737991266
+"skel bzFixedLen256_2" 0.4173913043478261
+"skel bzFixedLen256_4" 0.35652173913043483
+"skel bzFixedLen64_8" 0.2691466083150985
+"skel bzFixedLen256_8" 0.29565217391304344
+"skel bzFixedLen1024_8" 0.27586206896551724
+]
+edge [
+"isInner" False
+"source" "UniswapV2Router02 - v0.8.4 abi2 o0 runs200"
+"target" "DSToken - v0.8.4 abi2 o0 runs200"
+"group1" "UniswapV2Router02"
+"group2" "DSToken"
+"raw bzJumpi2" 0.2527173913043478
+"raw bzJumpi4" 0.13586956521739135
+"raw bzJumpi8" 0.09510869565217395
+"raw bzFixedLen32_2" 0.24699453551912565
+"raw bzFixedLen64_2" 0.2467248908296943
+"raw bzFixedLen128_2" 0.24890829694323147
+"raw bzFixedLen256_2" 0.25217391304347825
+"raw bzFixedLen256_4" 0.25217391304347825
+"raw bzFixedLen64_8" 0.20305676855895194
+"raw bzFixedLen256_8" 0.22608695652173916
+"raw bzFixedLen1024_8" 0.2068965517241379
+"skel bzJumpi2" 0.28220858895705525
+"skel bzJumpi4" 0.2331288343558282
+"skel bzJumpi8" 0.20552147239263807
+"skel bzFixedLen32_2" 0.2453450164293538
+"skel bzFixedLen64_2" 0.24507658643326036
+"skel bzFixedLen128_2" 0.24454148471615722
+"skel bzFixedLen256_2" 0.24347826086956526
+"skel bzFixedLen256_4" 0.20869565217391306
+"skel bzFixedLen64_8" 0.2231947483588621
+"skel bzFixedLen256_8" 0.19999999999999996
+"skel bzFixedLen1024_8" 0.1724137931034483
+]
+edge [
+"isInner" False
+"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"target" "Synthetix - v0.8.4 abi2 o0 runs200"
+"group1" "NonfungiblePositionManager"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.7025
+"raw bzJumpi4" 0.6775
+"raw bzJumpi8" 0.49
+"raw bzFixedLen32_2" 0.6348012889366272
+"raw bzFixedLen64_2" 0.6545064377682404
+"raw bzFixedLen128_2" 0.6695278969957081
+"raw bzFixedLen256_2" 0.641025641025641
+"raw bzFixedLen256_4" 0.5128205128205128
+"raw bzFixedLen64_8" 0.35407725321888417
+"raw bzFixedLen256_8" 0.3418803418803419
+"raw bzFixedLen1024_8" 0.3666666666666667
+"skel bzJumpi2" 0.672463768115942
+"skel bzJumpi4" 0.4144927536231884
+"skel bzJumpi8" 0.2579710144927536
+"skel bzFixedLen32_2" 0.667741935483871
+"skel bzFixedLen64_2" 0.6602150537634408
+"skel bzFixedLen128_2" 0.6351931330472103
+"skel bzFixedLen256_2" 0.6068376068376069
+"skel bzFixedLen256_4" 0.49572649572649574
+"skel bzFixedLen64_8" 0.31612903225806455
+"skel bzFixedLen256_8" 0.2991452991452992
+"skel bzFixedLen1024_8" 0.3666666666666667
+]
+edge [
+"isInner" False
+"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"target" "DSToken - v0.8.4 abi2 o1 runs200"
+"group1" "NonfungiblePositionManager"
+"group2" "DSToken"
+"raw bzJumpi2" 0.245125348189415
+"raw bzJumpi4" 0.15877437325905297
+"raw bzJumpi8" 0.14484679665738165
+"raw bzFixedLen32_2" 0.15279672578444747
+"raw bzFixedLen64_2" 0.15258855585831066
+"raw bzFixedLen128_2" 0.15217391304347827
+"raw bzFixedLen256_2" 0.15217391304347827
+"raw bzFixedLen256_4" 0.15217391304347827
+"raw bzFixedLen64_8" 0.14713896457765663
+"raw bzFixedLen256_8" 0.13043478260869568
+"raw bzFixedLen1024_8" 0.17391304347826086
+"skel bzJumpi2" 0.25217391304347825
+"skel bzJumpi4" 0.24057971014492752
+"skel bzJumpi8" 0.2115942028985507
+"skel bzFixedLen32_2" 0.15047879616963067
+"skel bzFixedLen64_2" 0.1502732240437158
+"skel bzFixedLen128_2" 0.15300546448087426
+"skel bzFixedLen256_2" 0.15217391304347827
+"skel bzFixedLen256_4" 0.15217391304347827
+"skel bzFixedLen64_8" 0.1502732240437158
+"skel bzFixedLen256_8" 0.14130434782608692
+"skel bzFixedLen1024_8" 0.13043478260869568
+]
+edge [
+"isInner" False
+"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"group1" "NonfungiblePositionManager"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.14763231197771587
+"raw bzJumpi4" 0.09749303621169914
+"raw bzJumpi8" 0.08913649025069637
+"raw bzFixedLen32_2" 0.10914051841746253
+"raw bzFixedLen64_2" 0.10899182561307907
+"raw bzFixedLen128_2" 0.10869565217391308
+"raw bzFixedLen256_2" 0.10869565217391308
+"raw bzFixedLen256_4" 0.10869565217391308
+"raw bzFixedLen64_8" 0.10354223433242504
+"raw bzFixedLen256_8" 0.10869565217391308
+"raw bzFixedLen1024_8" 0.13043478260869568
+"skel bzJumpi2" 0.14782608695652177
+"skel bzJumpi4" 0.14782608695652177
+"skel bzJumpi8" 0.13043478260869568
+"skel bzFixedLen32_2" 0.10670314637482903
+"skel bzFixedLen64_2" 0.10655737704918034
+"skel bzFixedLen128_2" 0.10928961748633881
+"skel bzFixedLen256_2" 0.10869565217391308
+"skel bzFixedLen256_4" 0.10869565217391308
+"skel bzFixedLen64_8" 0.10655737704918034
+"skel bzFixedLen256_8" 0.10869565217391308
+"skel bzFixedLen1024_8" 0.08695652173913049
+]
+edge [
+"isInner" False
+"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
+"group1" "NonfungiblePositionManager"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.6128133704735377
+"raw bzJumpi4" 0.4289693593314763
+"raw bzJumpi8" 0.31754874651810583
+"raw bzFixedLen32_2" 0.684856753069577
+"raw bzFixedLen64_2" 0.7084468664850136
+"raw bzFixedLen128_2" 0.6956521739130435
+"raw bzFixedLen256_2" 0.6630434782608696
+"raw bzFixedLen256_4" 0.5
+"raw bzFixedLen64_8" 0.33787465940054495
+"raw bzFixedLen256_8" 0.30434782608695654
+"raw bzFixedLen1024_8" 0.21739130434782605
+"skel bzJumpi2" 0.6202898550724638
+"skel bzJumpi4" 0.5014492753623188
+"skel bzJumpi8" 0.35072463768115947
+"skel bzFixedLen32_2" 0.6812585499316006
+"skel bzFixedLen64_2" 0.6038251366120219
+"skel bzFixedLen128_2" 0.6229508196721312
+"skel bzFixedLen256_2" 0.6521739130434783
+"skel bzFixedLen256_4" 0.46739130434782605
+"skel bzFixedLen64_8" 0.2814207650273224
+"skel bzFixedLen256_8" 0.2934782608695652
+"skel bzFixedLen1024_8" 0.30434782608695654
+]
+edge [
+"isInner" False
+"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
+"group1" "NonfungiblePositionManager"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.17270194986072418
+"raw bzJumpi4" 0.11142061281337046
+"raw bzJumpi8" 0.09749303621169914
+"raw bzFixedLen32_2" 0.2128240109140518
+"raw bzFixedLen64_2" 0.21253405994550412
+"raw bzFixedLen128_2" 0.2119565217391305
+"raw bzFixedLen256_2" 0.21739130434782605
+"raw bzFixedLen256_4" 0.21739130434782605
+"raw bzFixedLen64_8" 0.19346049046321523
+"raw bzFixedLen256_8" 0.18478260869565222
+"raw bzFixedLen1024_8" 0.13043478260869568
+"skel bzJumpi2" 0.1768115942028986
+"skel bzJumpi4" 0.17101449275362324
+"skel bzJumpi8" 0.1420289855072464
+"skel bzFixedLen32_2" 0.21067031463748287
+"skel bzFixedLen64_2" 0.2103825136612022
+"skel bzFixedLen128_2" 0.21311475409836067
+"skel bzFixedLen256_2" 0.21739130434782605
+"skel bzFixedLen256_4" 0.21739130434782605
+"skel bzFixedLen64_8" 0.17213114754098358
+"skel bzFixedLen256_8" 0.19565217391304346
+"skel bzFixedLen1024_8" 0.13043478260869568
+]
+edge [
+"isInner" False
+"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"target" "Synthetix - v0.8.4 abi2 o1 runs200"
+"group1" "NonfungiblePositionManager"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.6155988857938719
+"raw bzJumpi4" 0.3147632311977716
+"raw bzJumpi8" 0.24791086350974934
+"raw bzFixedLen32_2" 0.6234652114597544
+"raw bzFixedLen64_2" 0.6185286103542234
+"raw bzFixedLen128_2" 0.6141304347826086
+"raw bzFixedLen256_2" 0.6304347826086957
+"raw bzFixedLen256_4" 0.5
+"raw bzFixedLen64_8" 0.36512261580381467
+"raw bzFixedLen256_8" 0.3804347826086957
+"raw bzFixedLen1024_8" 0.3913043478260869
+"skel bzJumpi2" 0.6115942028985507
+"skel bzJumpi4" 0.4144927536231884
+"skel bzJumpi8" 0.26086956521739135
+"skel bzFixedLen32_2" 0.6224350205198359
+"skel bzFixedLen64_2" 0.6174863387978142
+"skel bzFixedLen128_2" 0.6284153005464481
+"skel bzFixedLen256_2" 0.6413043478260869
+"skel bzFixedLen256_4" 0.5326086956521738
+"skel bzFixedLen64_8" 0.4098360655737705
+"skel bzFixedLen256_8" 0.40217391304347827
+"skel bzFixedLen1024_8" 0.5217391304347826
+]
+edge [
+"isInner" False
+"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
+"group1" "NonfungiblePositionManager"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.5766016713091922
+"raw bzJumpi4" 0.350974930362117
+"raw bzJumpi8" 0.2646239554317549
+"raw bzFixedLen32_2" 0.514324693042292
+"raw bzFixedLen64_2" 0.5177111716621253
+"raw bzFixedLen128_2" 0.5108695652173914
+"raw bzFixedLen256_2" 0.5217391304347826
+"raw bzFixedLen256_4" 0.44565217391304346
+"raw bzFixedLen64_8" 0.34059945504087197
+"raw bzFixedLen256_8" 0.34782608695652173
+"raw bzFixedLen1024_8" 0.21739130434782605
+"skel bzJumpi2" 0.5826086956521739
+"skel bzJumpi4" 0.4521739130434783
+"skel bzJumpi8" 0.3101449275362319
+"skel bzFixedLen32_2" 0.5170998632010944
+"skel bzFixedLen64_2" 0.505464480874317
+"skel bzFixedLen128_2" 0.4972677595628415
+"skel bzFixedLen256_2" 0.5
+"skel bzFixedLen256_4" 0.44565217391304346
+"skel bzFixedLen64_8" 0.3579234972677595
+"skel bzFixedLen256_8" 0.34782608695652173
+"skel bzFixedLen1024_8" 0.3913043478260869
+]
+edge [
+"isInner" False
+"source" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
+"target" "DSToken - v0.8.4 abi2 o0 runs200"
+"group1" "NonfungiblePositionManager"
+"group2" "DSToken"
+"raw bzJumpi2" 0.2590529247910863
+"raw bzJumpi4" 0.15877437325905297
+"raw bzJumpi8" 0.14763231197771587
+"raw bzFixedLen32_2" 0.30832196452933147
+"raw bzFixedLen64_2" 0.3079019073569482
+"raw bzFixedLen128_2" 0.3097826086956522
+"raw bzFixedLen256_2" 0.3152173913043478
+"raw bzFixedLen256_4" 0.2934782608695652
+"raw bzFixedLen64_8" 0.22343324250681196
+"raw bzFixedLen256_8" 0.21739130434782605
+"raw bzFixedLen1024_8" 0.26086956521739135
+"skel bzJumpi2" 0.2666666666666667
+"skel bzJumpi4" 0.255072463768116
+"skel bzJumpi8" 0.2115942028985507
+"skel bzFixedLen32_2" 0.3064295485636115
+"skel bzFixedLen64_2" 0.30601092896174864
+"skel bzFixedLen128_2" 0.30601092896174864
+"skel bzFixedLen256_2" 0.30434782608695654
+"skel bzFixedLen256_4" 0.2717391304347826
+"skel bzFixedLen64_8" 0.24863387978142082
+"skel bzFixedLen256_8" 0.25
+"skel bzFixedLen1024_8" 0.21739130434782605
+]
+edge [
+"isInner" False
+"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"target" "DSToken - v0.8.4 abi2 o1 runs200"
+"group1" "Synthetix"
+"group2" "DSToken"
+"raw bzJumpi2" 0.21999999999999997
+"raw bzJumpi4" 0.13749999999999996
+"raw bzJumpi8" 0.11499999999999999
+"raw bzFixedLen32_2" 0.12030075187969924
+"raw bzFixedLen64_2" 0.12017167381974247
+"raw bzFixedLen128_2" 0.12017167381974247
+"raw bzFixedLen256_2" 0.11965811965811968
+"raw bzFixedLen256_4" 0.11111111111111116
+"raw bzFixedLen64_8" 0.11802575107296143
+"raw bzFixedLen256_8" 0.10256410256410253
+"raw bzFixedLen1024_8" 0.1333333333333333
+"skel bzJumpi2" 0.271875
+"skel bzJumpi4" 0.26249999999999996
+"skel bzJumpi8" 0.20937499999999998
+"skel bzFixedLen32_2" 0.11827956989247312
+"skel bzFixedLen64_2" 0.11827956989247312
+"skel bzFixedLen128_2" 0.12017167381974247
+"skel bzFixedLen256_2" 0.11965811965811968
+"skel bzFixedLen256_4" 0.11111111111111116
+"skel bzFixedLen64_8" 0.11612903225806448
+"skel bzFixedLen256_8" 0.09401709401709402
+"skel bzFixedLen1024_8" 0.09999999999999998
+]
+edge [
+"isInner" False
+"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"group1" "Synthetix"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.13249999999999995
+"raw bzJumpi4" 0.08750000000000002
+"raw bzJumpi8" 0.07250000000000001
+"raw bzFixedLen32_2" 0.0859291084854995
+"raw bzFixedLen64_2" 0.0858369098712446
+"raw bzFixedLen128_2" 0.0858369098712446
+"raw bzFixedLen256_2" 0.0854700854700855
+"raw bzFixedLen256_4" 0.0854700854700855
+"raw bzFixedLen64_8" 0.08369098712446355
+"raw bzFixedLen256_8" 0.0854700854700855
+"raw bzFixedLen1024_8" 0.09999999999999998
+"skel bzJumpi2" 0.15937500000000004
+"skel bzJumpi4" 0.15937500000000004
+"skel bzJumpi8" 0.13749999999999996
+"skel bzFixedLen32_2" 0.08387096774193548
+"skel bzFixedLen64_2" 0.08387096774193548
+"skel bzFixedLen128_2" 0.0858369098712446
+"skel bzFixedLen256_2" 0.0854700854700855
+"skel bzFixedLen256_4" 0.0854700854700855
+"skel bzFixedLen64_8" 0.0795698924731183
+"skel bzFixedLen256_8" 0.07692307692307687
+"skel bzFixedLen1024_8" 0.09999999999999998
+]
+edge [
+"isInner" False
+"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
+"group1" "Synthetix"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.5725
+"raw bzJumpi4" 0.39749999999999996
+"raw bzJumpi8" 0.3125
+"raw bzFixedLen32_2" 0.6595059076262084
+"raw bzFixedLen64_2" 0.6566523605150214
+"raw bzFixedLen128_2" 0.6652360515021459
+"raw bzFixedLen256_2" 0.6324786324786325
+"raw bzFixedLen256_4" 0.5213675213675213
+"raw bzFixedLen64_8" 0.38412017167381973
+"raw bzFixedLen256_8" 0.3846153846153846
+"raw bzFixedLen1024_8" 0.43333333333333335
+"skel bzJumpi2" 0.675
+"skel bzJumpi4" 0.5375
+"skel bzJumpi8" 0.46562499999999996
+"skel bzFixedLen32_2" 0.656989247311828
+"skel bzFixedLen64_2" 0.6688172043010753
+"skel bzFixedLen128_2" 0.703862660944206
+"skel bzFixedLen256_2" 0.6752136752136753
+"skel bzFixedLen256_4" 0.5384615384615384
+"skel bzFixedLen64_8" 0.4150537634408602
+"skel bzFixedLen256_8" 0.41880341880341876
+"skel bzFixedLen1024_8" 0.5
+]
+edge [
+"isInner" False
+"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
+"group1" "Synthetix"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.15500000000000003
+"raw bzJumpi4" 0.09999999999999998
+"raw bzJumpi8" 0.08999999999999997
+"raw bzFixedLen32_2" 0.16756176154672398
+"raw bzFixedLen64_2" 0.1673819742489271
+"raw bzFixedLen128_2" 0.1673819742489271
+"raw bzFixedLen256_2" 0.1709401709401709
+"raw bzFixedLen256_4" 0.1709401709401709
+"raw bzFixedLen64_8" 0.16094420600858372
+"raw bzFixedLen256_8" 0.14529914529914534
+"raw bzFixedLen1024_8" 0.16666666666666663
+"skel bzJumpi2" 0.19062500000000004
+"skel bzJumpi4" 0.19062500000000004
+"skel bzJumpi8" 0.14375000000000004
+"skel bzFixedLen32_2" 0.16559139784946242
+"skel bzFixedLen64_2" 0.16559139784946242
+"skel bzFixedLen128_2" 0.1673819742489271
+"skel bzFixedLen256_2" 0.1709401709401709
+"skel bzFixedLen256_4" 0.16239316239316237
+"skel bzFixedLen64_8" 0.1591397849462366
+"skel bzFixedLen256_8" 0.15384615384615385
+"skel bzFixedLen1024_8" 0.1333333333333333
+]
+edge [
+"isInner" True
+"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"target" "Synthetix - v0.8.4 abi2 o1 runs200"
+"group1" "Synthetix"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.675
+"raw bzJumpi4" 0.35
+"raw bzJumpi8" 0.30000000000000004
+"raw bzFixedLen32_2" 0.5059076262083781
+"raw bzFixedLen64_2" 0.5171673819742489
+"raw bzFixedLen128_2" 0.5150214592274678
+"raw bzFixedLen256_2" 0.5213675213675213
+"raw bzFixedLen256_4" 0.41025641025641024
+"raw bzFixedLen64_8" 0.3133047210300429
+"raw bzFixedLen256_8" 0.32478632478632474
+"raw bzFixedLen1024_8" 0.30000000000000004
+"skel bzJumpi2" 0.803125
+"skel bzJumpi4" 0.75
+"skel bzJumpi8" 0.715625
+"skel bzFixedLen32_2" 0.5182795698924731
+"skel bzFixedLen64_2" 0.5290322580645161
+"skel bzFixedLen128_2" 0.5278969957081545
+"skel bzFixedLen256_2" 0.5128205128205128
+"skel bzFixedLen256_4" 0.46153846153846156
+"skel bzFixedLen64_8" 0.30537634408602155
+"skel bzFixedLen256_8" 0.3076923076923077
+"skel bzFixedLen1024_8" 0.33333333333333337
+]
+edge [
+"isInner" False
+"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
+"group1" "Synthetix"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.525
+"raw bzJumpi4" 0.3275
+"raw bzJumpi8" 0.23750000000000004
+"raw bzFixedLen32_2" 0.4027926960257787
+"raw bzFixedLen64_2" 0.41201716738197425
+"raw bzFixedLen128_2" 0.41201716738197425
+"raw bzFixedLen256_2" 0.4017094017094017
+"raw bzFixedLen256_4" 0.33333333333333337
+"raw bzFixedLen64_8" 0.2725321888412017
+"raw bzFixedLen256_8" 0.27350427350427353
+"raw bzFixedLen1024_8" 0.30000000000000004
+"skel bzJumpi2" 0.609375
+"skel bzJumpi4" 0.53125
+"skel bzJumpi8" 0.478125
+"skel bzFixedLen32_2" 0.4096774193548387
+"skel bzFixedLen64_2" 0.410752688172043
+"skel bzFixedLen128_2" 0.40343347639484983
+"skel bzFixedLen256_2" 0.36752136752136755
+"skel bzFixedLen256_4" 0.3418803418803419
+"skel bzFixedLen64_8" 0.27956989247311825
+"skel bzFixedLen256_8" 0.2564102564102564
+"skel bzFixedLen1024_8" 0.19999999999999996
+]
+edge [
+"isInner" False
+"source" "Synthetix - v0.8.4 abi2 o0 runs200"
+"target" "DSToken - v0.8.4 abi2 o0 runs200"
+"group1" "Synthetix"
+"group2" "DSToken"
+"raw bzJumpi2" 0.23250000000000004
+"raw bzJumpi4" 0.135
+"raw bzJumpi8" 0.10499999999999998
+"raw bzFixedLen32_2" 0.242749731471536
+"raw bzFixedLen64_2" 0.2424892703862661
+"raw bzFixedLen128_2" 0.24463519313304716
+"raw bzFixedLen256_2" 0.24786324786324787
+"raw bzFixedLen256_4" 0.2222222222222222
+"raw bzFixedLen64_8" 0.20171673819742486
+"raw bzFixedLen256_8" 0.18803418803418803
+"raw bzFixedLen1024_8" 0.23333333333333328
+"skel bzJumpi2" 0.2875
+"skel bzJumpi4" 0.28125
+"skel bzJumpi8" 0.22187500000000004
+"skel bzFixedLen32_2" 0.24086021505376343
+"skel bzFixedLen64_2" 0.24086021505376343
+"skel bzFixedLen128_2" 0.24034334763948495
+"skel bzFixedLen256_2" 0.23076923076923073
+"skel bzFixedLen256_4" 0.20512820512820518
+"skel bzFixedLen64_8" 0.2021505376344086
+"skel bzFixedLen256_8" 0.16239316239316237
+"skel bzFixedLen1024_8" 0.16666666666666663
+]
+edge [
+"isInner" False
+"source" "DSToken - v0.8.4 abi2 o1 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"group1" "DSToken"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.5340909090909092
+"raw bzJumpi4" 0.4545454545454546
+"raw bzJumpi8" 0.38636363636363635
+"raw bzFixedLen32_2" 0.6696428571428572
+"raw bzFixedLen64_2" 0.6071428571428572
+"raw bzFixedLen128_2" 0.6428571428571428
+"raw bzFixedLen256_2" 0.6428571428571428
+"raw bzFixedLen256_4" 0.4285714285714286
+"raw bzFixedLen64_8" 0.3035714285714286
+"raw bzFixedLen256_8" 0.2142857142857143
+"raw bzFixedLen1024_8" 0.5
+"skel bzJumpi2" 0.5632183908045977
+"skel bzJumpi4" 0.47126436781609193
+"skel bzJumpi8" 0.4137931034482759
+"skel bzFixedLen32_2" 0.6363636363636364
+"skel bzFixedLen64_2" 0.7090909090909091
+"skel bzFixedLen128_2" 0.7142857142857143
+"skel bzFixedLen256_2" 0.7142857142857143
+"skel bzFixedLen256_4" 0.5714285714285714
+"skel bzFixedLen64_8" 0.4
+"skel bzFixedLen256_8" 0.4285714285714286
+"skel bzFixedLen1024_8" 0.25
+]
+edge [
+"isInner" False
+"source" "DSToken - v0.8.4 abi2 o1 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
+"group1" "DSToken"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.38427947598253276
+"raw bzJumpi4" 0.37554585152838427
+"raw bzJumpi8" 0.2707423580786026
+"raw bzFixedLen32_2" 0.16446402349486045
+"raw bzFixedLen64_2" 0.16422287390029322
+"raw bzFixedLen128_2" 0.16374269005847952
+"raw bzFixedLen256_2" 0.16279069767441856
+"raw bzFixedLen256_4" 0.13953488372093026
+"raw bzFixedLen64_8" 0.14662756598240467
+"raw bzFixedLen256_8" 0.11627906976744184
+"raw bzFixedLen1024_8" 0.13636363636363635
+"skel bzJumpi2" 0.3883928571428571
+"skel bzJumpi4" 0.3839285714285714
+"skel bzJumpi8" 0.3348214285714286
+"skel bzFixedLen32_2" 0.16176470588235292
+"skel bzFixedLen64_2" 0.16176470588235292
+"skel bzFixedLen128_2" 0.16470588235294115
+"skel bzFixedLen256_2" 0.16470588235294115
+"skel bzFixedLen256_4" 0.16470588235294115
+"skel bzFixedLen64_8" 0.1352941176470588
+"skel bzFixedLen256_8" 0.14117647058823535
+"skel bzFixedLen1024_8" 0.18181818181818177
+]
+edge [
+"isInner" False
+"source" "DSToken - v0.8.4 abi2 o1 runs200"
+"target" "AddressResolver - v0.8.4 abi2 o0 runs200"
+"group1" "DSToken"
+"group2" "AddressResolver"
+"raw bzJumpi2" 0.6022727272727273
+"raw bzJumpi4" 0.5113636363636364
+"raw bzJumpi8" 0.2727272727272727
+"raw bzFixedLen32_2" 0.5897435897435898
+"raw bzFixedLen64_2" 0.6025641025641026
+"raw bzFixedLen128_2" 0.6153846153846154
+"raw bzFixedLen256_2" 0.6
+"raw bzFixedLen256_4" 0.4
+"raw bzFixedLen64_8" 0.34615384615384615
+"raw bzFixedLen256_8" 0.25
+"raw bzFixedLen1024_8" 0.0
+"skel bzJumpi2" 0.5402298850574713
+"skel bzJumpi4" 0.4252873563218391
+"skel bzJumpi8" 0.3448275862068966
+"skel bzFixedLen32_2" 0.5844155844155844
+"skel bzFixedLen64_2" 0.5454545454545454
+"skel bzFixedLen128_2" 0.5641025641025641
+"skel bzFixedLen256_2" 0.6
+"skel bzFixedLen256_4" 0.4
+"skel bzFixedLen64_8" 0.2597402597402597
+"skel bzFixedLen256_8" 0.25
+"skel bzFixedLen1024_8" 0.4
+]
+edge [
+"isInner" False
+"source" "DSToken - v0.8.4 abi2 o1 runs200"
+"target" "Synthetix - v0.8.4 abi2 o1 runs200"
+"group1" "DSToken"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.32592592592592595
+"raw bzJumpi4" 0.2962962962962963
+"raw bzJumpi8" 0.2592592592592593
+"raw bzFixedLen32_2" 0.22266401590457252
+"raw bzFixedLen64_2" 0.2222222222222222
+"raw bzFixedLen128_2" 0.2222222222222222
+"raw bzFixedLen256_2" 0.2222222222222222
+"raw bzFixedLen256_4" 0.2063492063492064
+"raw bzFixedLen64_8" 0.19841269841269837
+"raw bzFixedLen256_8" 0.17460317460317465
+"raw bzFixedLen1024_8" 0.1875
+"skel bzJumpi2" 0.33333333333333337
+"skel bzJumpi4" 0.29118773946360155
+"skel bzJumpi8" 0.24521072796934862
+"skel bzFixedLen32_2" 0.21912350597609564
+"skel bzFixedLen64_2" 0.21912350597609564
+"skel bzFixedLen128_2" 0.2222222222222222
+"skel bzFixedLen256_2" 0.2222222222222222
+"skel bzFixedLen256_4" 0.19047619047619047
+"skel bzFixedLen64_8" 0.19521912350597614
+"skel bzFixedLen256_8" 0.19047619047619047
+"skel bzFixedLen1024_8" 0.125
+]
+edge [
+"isInner" False
 "source" "DSToken - v0.8.4 abi2 o1 runs200"
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "DSToken"
 "group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.5906040268456376
-"raw bzJumpi4" 0.587248322147651
-"raw bzJumpi8" 0.5436241610738255
-"raw bzFixedLen32_2" 0.4516129032258065
-"raw bzFixedLen64_2" 0.44758064516129037
-"raw bzFixedLen128_2" 0.4516129032258065
-"raw bzFixedLen256_2" 0.4516129032258065
-"raw bzFixedLen256_4" 0.4032258064516129
-"raw bzFixedLen64_8" 0.3870967741935484
-"raw bzFixedLen256_8" 0.3870967741935484
-"raw bzFixedLen1024_8" 0.375
-"skel bzJumpi2" 0.595890410958904
-"skel bzJumpi4" 0.5924657534246576
-"skel bzJumpi8" 0.5513698630136986
-"skel bzFixedLen32_2" 0.44715447154471544
-"skel bzFixedLen64_2" 0.44715447154471544
-"skel bzFixedLen128_2" 0.4516129032258065
-"skel bzFixedLen256_2" 0.4516129032258065
-"skel bzFixedLen256_4" 0.4516129032258065
-"skel bzFixedLen64_8" 0.4186991869918699
-"skel bzFixedLen256_8" 0.4193548387096774
-"skel bzFixedLen1024_8" 0.3125
+"raw bzJumpi2" 0.419047619047619
+"raw bzJumpi4" 0.41428571428571426
+"raw bzJumpi8" 0.35238095238095235
+"raw bzFixedLen32_2" 0.29166666666666663
+"raw bzFixedLen64_2" 0.28645833333333337
+"raw bzFixedLen128_2" 0.29166666666666663
+"raw bzFixedLen256_2" 0.29166666666666663
+"raw bzFixedLen256_4" 0.22916666666666663
+"raw bzFixedLen64_8" 0.20833333333333337
+"raw bzFixedLen256_8" 0.20833333333333337
+"raw bzFixedLen1024_8" 0.16666666666666663
+"skel bzJumpi2" 0.42439024390243907
+"skel bzJumpi4" 0.41951219512195126
+"skel bzJumpi8" 0.36097560975609755
+"skel bzFixedLen32_2" 0.2879581151832461
+"skel bzFixedLen64_2" 0.2879581151832461
+"skel bzFixedLen128_2" 0.29166666666666663
+"skel bzFixedLen256_2" 0.29166666666666663
+"skel bzFixedLen256_4" 0.29166666666666663
+"skel bzFixedLen64_8" 0.25130890052356025
+"skel bzFixedLen256_8" 0.25
+"skel bzFixedLen1024_8" 0.08333333333333337
 ]
 edge [
 "isInner" True
@@ -4124,28 +4124,28 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o0 runs200"
 "group1" "DSToken"
 "group2" "DSToken"
-"raw bzJumpi2" 0.9558011049723757
-"raw bzJumpi4" 0.8950276243093923
-"raw bzJumpi8" 0.7679558011049724
-"raw bzFixedLen32_2" 0.6301775147928994
-"raw bzFixedLen64_2" 0.6568047337278107
-"raw bzFixedLen128_2" 0.6470588235294117
-"raw bzFixedLen256_2" 0.627906976744186
-"raw bzFixedLen256_4" 0.5348837209302326
-"raw bzFixedLen64_8" 0.5325443786982249
-"raw bzFixedLen256_8" 0.4883720930232558
-"raw bzFixedLen1024_8" 0.6666666666666667
-"skel bzJumpi2" 0.9273743016759777
-"skel bzJumpi4" 0.8715083798882681
-"skel bzJumpi8" 0.7932960893854748
-"skel bzFixedLen32_2" 0.6467065868263473
-"skel bzFixedLen64_2" 0.652694610778443
-"skel bzFixedLen128_2" 0.6428571428571428
-"skel bzFixedLen256_2" 0.6666666666666667
-"skel bzFixedLen256_4" 0.5952380952380952
-"skel bzFixedLen64_8" 0.5209580838323353
-"skel bzFixedLen256_8" 0.5714285714285714
-"skel bzFixedLen1024_8" 0.5454545454545454
+"raw bzJumpi2" 0.9139784946236559
+"raw bzJumpi4" 0.7956989247311828
+"raw bzJumpi8" 0.5483870967741935
+"raw bzFixedLen32_2" 0.44690265486725667
+"raw bzFixedLen64_2" 0.48672566371681414
+"raw bzFixedLen128_2" 0.4736842105263158
+"raw bzFixedLen256_2" 0.4482758620689655
+"raw bzFixedLen256_4" 0.31034482758620685
+"raw bzFixedLen64_8" 0.3008849557522124
+"raw bzFixedLen256_8" 0.24137931034482762
+"raw bzFixedLen1024_8" 0.5
+"skel bzJumpi2" 0.8586956521739131
+"skel bzJumpi4" 0.75
+"skel bzJumpi8" 0.5978260869565217
+"skel bzFixedLen32_2" 0.4732142857142857
+"skel bzFixedLen64_2" 0.4821428571428571
+"skel bzFixedLen128_2" 0.4642857142857143
+"skel bzFixedLen256_2" 0.5
+"skel bzFixedLen256_4" 0.3928571428571429
+"skel bzFixedLen64_8" 0.2857142857142857
+"skel bzFixedLen256_8" 0.3571428571428571
+"skel bzFixedLen1024_8" 0.2857142857142857
 ]
 edge [
 "isInner" False
@@ -4153,28 +4153,28 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
 "group1" "AddressResolver"
 "group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.375886524822695
-"raw bzJumpi4" 0.36879432624113473
-"raw bzJumpi8" 0.33687943262411346
-"raw bzFixedLen32_2" 0.21024967148488827
-"raw bzFixedLen64_2" 0.2099737532808399
-"raw bzFixedLen128_2" 0.2094240837696335
-"raw bzFixedLen256_2" 0.20833333333333337
-"raw bzFixedLen256_4" 0.20833333333333337
-"raw bzFixedLen64_8" 0.2020997375328084
-"raw bzFixedLen256_8" 0.17708333333333337
-"raw bzFixedLen1024_8" 0.19999999999999996
-"skel bzJumpi2" 0.37090909090909085
-"skel bzJumpi4" 0.37090909090909085
-"skel bzJumpi8" 0.3563636363636363
-"skel bzFixedLen32_2" 0.2058047493403694
-"skel bzFixedLen64_2" 0.2058047493403694
-"skel bzFixedLen128_2" 0.21052631578947367
-"skel bzFixedLen256_2" 0.21052631578947367
-"skel bzFixedLen256_4" 0.21052631578947367
-"skel bzFixedLen64_8" 0.19525065963060684
-"skel bzFixedLen256_8" 0.21052631578947367
-"skel bzFixedLen1024_8" 0.24
+"raw bzJumpi2" 0.23144104803493448
+"raw bzJumpi4" 0.222707423580786
+"raw bzJumpi8" 0.1834061135371179
+"raw bzFixedLen32_2" 0.11747430249632895
+"raw bzFixedLen64_2" 0.11730205278592376
+"raw bzFixedLen128_2" 0.11695906432748537
+"raw bzFixedLen256_2" 0.11627906976744184
+"raw bzFixedLen256_4" 0.11627906976744184
+"raw bzFixedLen64_8" 0.10850439882697949
+"raw bzFixedLen256_8" 0.08139534883720934
+"raw bzFixedLen1024_8" 0.09090909090909094
+"skel bzJumpi2" 0.2276785714285714
+"skel bzJumpi4" 0.2276785714285714
+"skel bzJumpi8" 0.2098214285714286
+"skel bzFixedLen32_2" 0.11470588235294121
+"skel bzFixedLen64_2" 0.11470588235294121
+"skel bzFixedLen128_2" 0.11764705882352944
+"skel bzFixedLen256_2" 0.11764705882352944
+"skel bzFixedLen256_4" 0.11764705882352944
+"skel bzFixedLen64_8" 0.1029411764705882
+"skel bzFixedLen256_8" 0.11764705882352944
+"skel bzFixedLen1024_8" 0.13636363636363635
 ]
 edge [
 "isInner" True
@@ -4182,144 +4182,144 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o0 runs200"
 "group1" "AddressResolver"
 "group2" "AddressResolver"
-"raw bzJumpi2" 0.8956521739130435
-"raw bzJumpi4" 0.8521739130434782
-"raw bzJumpi8" 0.6782608695652175
-"raw bzFixedLen32_2" 0.6567796610169492
-"raw bzFixedLen64_2" 0.6355932203389831
-"raw bzFixedLen128_2" 0.6779661016949152
-"raw bzFixedLen256_2" 0.6666666666666667
-"raw bzFixedLen256_4" 0.6
-"raw bzFixedLen64_8" 0.5254237288135593
-"raw bzFixedLen256_8" 0.4666666666666667
-"raw bzFixedLen1024_8" 0.375
-"skel bzJumpi2" 0.8571428571428572
-"skel bzJumpi4" 0.7946428571428572
-"skel bzJumpi8" 0.7142857142857143
-"skel bzFixedLen32_2" 0.6594827586206897
-"skel bzFixedLen64_2" 0.6551724137931034
-"skel bzFixedLen128_2" 0.6610169491525424
-"skel bzFixedLen256_2" 0.6666666666666667
-"skel bzFixedLen256_4" 0.6333333333333333
-"skel bzFixedLen64_8" 0.5172413793103448
-"skel bzFixedLen256_8" 0.5666666666666667
-"skel bzFixedLen1024_8" 0.625
-]
-edge [
-"isInner" False
-"source" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"target" "Synthetix - v0.8.4 abi2 o1 runs200"
-"group1" "AddressResolver"
-"group2" "Synthetix"
-"raw bzJumpi2" 0.3281733746130031
-"raw bzJumpi4" 0.32507739938080493
-"raw bzJumpi8" 0.3157894736842105
-"raw bzFixedLen32_2" 0.274442538593482
-"raw bzFixedLen64_2" 0.273972602739726
-"raw bzFixedLen128_2" 0.273972602739726
-"raw bzFixedLen256_2" 0.273972602739726
-"raw bzFixedLen256_4" 0.273972602739726
-"raw bzFixedLen64_8" 0.26712328767123283
-"raw bzFixedLen256_8" 0.26027397260273977
-"raw bzFixedLen1024_8" 0.21052631578947367
-"skel bzJumpi2" 0.32692307692307687
-"skel bzJumpi4" 0.32692307692307687
-"skel bzJumpi8" 0.3141025641025641
-"skel bzFixedLen32_2" 0.2689655172413793
-"skel bzFixedLen64_2" 0.2689655172413793
-"skel bzFixedLen128_2" 0.273972602739726
-"skel bzFixedLen256_2" 0.273972602739726
-"skel bzFixedLen256_4" 0.273972602739726
-"skel bzFixedLen64_8" 0.26206896551724135
-"skel bzFixedLen256_8" 0.26027397260273977
-"skel bzFixedLen1024_8" 0.26315789473684215
-]
-edge [
-"isInner" False
-"source" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
-"group1" "AddressResolver"
-"group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.40304182509505704
-"raw bzJumpi4" 0.3992395437262357
-"raw bzJumpi8" 0.376425855513308
-"raw bzFixedLen32_2" 0.3448275862068966
-"raw bzFixedLen64_2" 0.3448275862068966
-"raw bzFixedLen128_2" 0.3448275862068966
-"raw bzFixedLen256_2" 0.3448275862068966
-"raw bzFixedLen256_4" 0.3275862068965517
-"raw bzFixedLen64_8" 0.3275862068965517
-"raw bzFixedLen256_8" 0.31034482758620685
-"raw bzFixedLen1024_8" 0.33333333333333337
-"skel bzJumpi2" 0.3984375
-"skel bzJumpi4" 0.3984375
-"skel bzJumpi8" 0.3828125
-"skel bzFixedLen32_2" 0.33913043478260874
-"skel bzFixedLen64_2" 0.33913043478260874
-"skel bzFixedLen128_2" 0.3448275862068966
-"skel bzFixedLen256_2" 0.3448275862068966
-"skel bzFixedLen256_4" 0.3448275862068966
-"skel bzFixedLen64_8" 0.33043478260869563
-"skel bzFixedLen256_8" 0.3448275862068966
-"skel bzFixedLen1024_8" 0.33333333333333337
-]
-edge [
-"isInner" False
-"source" "AddressResolver - v0.8.4 abi2 o1 runs200"
-"target" "DSToken - v0.8.4 abi2 o0 runs200"
-"group1" "AddressResolver"
-"group2" "DSToken"
-"raw bzJumpi2" 0.6712328767123288
-"raw bzJumpi4" 0.6164383561643836
-"raw bzJumpi8" 0.5684931506849316
-"raw bzFixedLen32_2" 0.5130718954248366
-"raw bzFixedLen64_2" 0.5098039215686274
-"raw bzFixedLen128_2" 0.5194805194805194
-"raw bzFixedLen256_2" 0.5128205128205128
-"raw bzFixedLen256_4" 0.46153846153846156
-"raw bzFixedLen64_8" 0.4248366013071896
-"raw bzFixedLen256_8" 0.46153846153846156
-"raw bzFixedLen1024_8" 0.4545454545454546
-"skel bzJumpi2" 0.6713286713286714
-"skel bzJumpi4" 0.6223776223776224
-"skel bzJumpi8" 0.5874125874125874
-"skel bzFixedLen32_2" 0.5165562913907285
-"skel bzFixedLen64_2" 0.5165562913907285
-"skel bzFixedLen128_2" 0.5263157894736843
-"skel bzFixedLen256_2" 0.5263157894736843
-"skel bzFixedLen256_4" 0.5
-"skel bzFixedLen64_8" 0.4105960264900662
-"skel bzFixedLen256_8" 0.4736842105263158
+"raw bzJumpi2" 0.8064516129032258
+"raw bzJumpi4" 0.7258064516129032
+"raw bzJumpi8" 0.4032258064516129
+"raw bzFixedLen32_2" 0.4807692307692307
+"raw bzFixedLen64_2" 0.4487179487179487
+"raw bzFixedLen128_2" 0.5128205128205128
+"raw bzFixedLen256_2" 0.5
+"raw bzFixedLen256_4" 0.4
+"raw bzFixedLen64_8" 0.28205128205128205
+"raw bzFixedLen256_8" 0.19999999999999996
+"raw bzFixedLen1024_8" 0.0
+"skel bzJumpi2" 0.7377049180327868
+"skel bzJumpi4" 0.6229508196721312
+"skel bzJumpi8" 0.47540983606557374
+"skel bzFixedLen32_2" 0.487012987012987
+"skel bzFixedLen64_2" 0.48051948051948057
+"skel bzFixedLen128_2" 0.4871794871794872
+"skel bzFixedLen256_2" 0.5
+"skel bzFixedLen256_4" 0.44999999999999996
+"skel bzFixedLen64_8" 0.2727272727272727
+"skel bzFixedLen256_8" 0.35
 "skel bzFixedLen1024_8" 0.4
 ]
 edge [
 "isInner" False
+"source" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"target" "Synthetix - v0.8.4 abi2 o1 runs200"
+"group1" "AddressResolver"
+"group2" "Synthetix"
+"raw bzJumpi2" 0.1962962962962963
+"raw bzJumpi4" 0.19259259259259254
+"raw bzJumpi8" 0.18148148148148147
+"raw bzFixedLen32_2" 0.1590457256461233
+"raw bzFixedLen64_2" 0.15873015873015872
+"raw bzFixedLen128_2" 0.15873015873015872
+"raw bzFixedLen256_2" 0.15873015873015872
+"raw bzFixedLen256_4" 0.15873015873015872
+"raw bzFixedLen64_8" 0.1507936507936508
+"raw bzFixedLen256_8" 0.1428571428571429
+"raw bzFixedLen1024_8" 0.0625
+"skel bzJumpi2" 0.1954022988505747
+"skel bzJumpi4" 0.1954022988505747
+"skel bzJumpi8" 0.1800766283524904
+"skel bzFixedLen32_2" 0.15537848605577687
+"skel bzFixedLen64_2" 0.15537848605577687
+"skel bzFixedLen128_2" 0.15873015873015872
+"skel bzFixedLen256_2" 0.15873015873015872
+"skel bzFixedLen256_4" 0.15873015873015872
+"skel bzFixedLen64_8" 0.14741035856573703
+"skel bzFixedLen256_8" 0.1428571428571429
+"skel bzFixedLen1024_8" 0.125
+]
+edge [
+"isInner" False
+"source" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
+"group1" "AddressResolver"
+"group2" "BinaryOptionMarketManager"
+"raw bzJumpi2" 0.2523809523809524
+"raw bzJumpi4" 0.24761904761904763
+"raw bzJumpi8" 0.21904761904761905
+"raw bzFixedLen32_2" 0.20833333333333337
+"raw bzFixedLen64_2" 0.20833333333333337
+"raw bzFixedLen128_2" 0.20833333333333337
+"raw bzFixedLen256_2" 0.20833333333333337
+"raw bzFixedLen256_4" 0.1875
+"raw bzFixedLen64_8" 0.1875
+"raw bzFixedLen256_8" 0.16666666666666663
+"raw bzFixedLen1024_8" 0.16666666666666663
+"skel bzJumpi2" 0.24878048780487805
+"skel bzJumpi4" 0.24878048780487805
+"skel bzJumpi8" 0.2292682926829268
+"skel bzFixedLen32_2" 0.20418848167539272
+"skel bzFixedLen64_2" 0.20418848167539272
+"skel bzFixedLen128_2" 0.20833333333333337
+"skel bzFixedLen256_2" 0.20833333333333337
+"skel bzFixedLen256_4" 0.20833333333333337
+"skel bzFixedLen64_8" 0.19371727748691103
+"skel bzFixedLen256_8" 0.20833333333333337
+"skel bzFixedLen1024_8" 0.16666666666666663
+]
+edge [
+"isInner" False
+"source" "AddressResolver - v0.8.4 abi2 o1 runs200"
+"target" "DSToken - v0.8.4 abi2 o0 runs200"
+"group1" "AddressResolver"
+"group2" "DSToken"
+"raw bzJumpi2" 0.4838709677419355
+"raw bzJumpi4" 0.3978494623655914
+"raw bzJumpi8" 0.32258064516129037
+"raw bzFixedLen32_2" 0.3407079646017699
+"raw bzFixedLen64_2" 0.33628318584070793
+"raw bzFixedLen128_2" 0.3508771929824561
+"raw bzFixedLen256_2" 0.3448275862068966
+"raw bzFixedLen256_4" 0.27586206896551724
+"raw bzFixedLen64_8" 0.22123893805309736
+"raw bzFixedLen256_8" 0.27586206896551724
+"raw bzFixedLen1024_8" 0.25
+"skel bzJumpi2" 0.48913043478260865
+"skel bzJumpi4" 0.4130434782608695
+"skel bzJumpi8" 0.3586956521739131
+"skel bzFixedLen32_2" 0.3482142857142857
+"skel bzFixedLen64_2" 0.3482142857142857
+"skel bzFixedLen128_2" 0.3571428571428571
+"skel bzFixedLen256_2" 0.3571428571428571
+"skel bzFixedLen256_4" 0.3214285714285714
+"skel bzFixedLen64_8" 0.2053571428571429
+"skel bzFixedLen256_8" 0.2857142857142857
+"skel bzFixedLen1024_8" 0.1428571428571429
+]
+edge [
+"isInner" False
 "source" "BinaryOptionMarketManager - v0.8.4 abi2 o0 runs200"
 "target" "AddressResolver - v0.8.4 abi2 o0 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "AddressResolver"
-"raw bzJumpi2" 0.42611683848797255
-"raw bzJumpi4" 0.4192439862542955
-"raw bzJumpi8" 0.3917525773195877
-"raw bzFixedLen32_2" 0.37275985663082434
-"raw bzFixedLen64_2" 0.37231503579952263
-"raw bzFixedLen128_2" 0.37142857142857144
-"raw bzFixedLen256_2" 0.37735849056603776
-"raw bzFixedLen256_4" 0.3679245283018868
-"raw bzFixedLen64_8" 0.34844868735083534
-"raw bzFixedLen256_8" 0.34905660377358494
-"raw bzFixedLen1024_8" 0.33333333333333337
-"skel bzJumpi2" 0.4280701754385965
-"skel bzJumpi4" 0.4280701754385965
-"skel bzJumpi8" 0.39649122807017545
-"skel bzFixedLen32_2" 0.3693045563549161
-"skel bzFixedLen64_2" 0.3693045563549161
-"skel bzFixedLen128_2" 0.3732057416267942
-"skel bzFixedLen256_2" 0.38095238095238093
-"skel bzFixedLen256_4" 0.38095238095238093
-"skel bzFixedLen64_8" 0.35011990407673865
-"skel bzFixedLen256_8" 0.38095238095238093
-"skel bzFixedLen1024_8" 0.33333333333333337
+"raw bzJumpi2" 0.2707423580786026
+"raw bzJumpi4" 0.2620087336244541
+"raw bzJumpi8" 0.22707423580786024
+"raw bzFixedLen32_2" 0.2290748898678414
+"raw bzFixedLen64_2" 0.22873900293255134
+"raw bzFixedLen128_2" 0.22807017543859653
+"raw bzFixedLen256_2" 0.2325581395348837
+"raw bzFixedLen256_4" 0.22093023255813948
+"raw bzFixedLen64_8" 0.19941348973607043
+"raw bzFixedLen256_8" 0.19767441860465118
+"raw bzFixedLen1024_8" 0.18181818181818177
+"skel bzJumpi2" 0.2723214285714286
+"skel bzJumpi4" 0.2723214285714286
+"skel bzJumpi8" 0.2321428571428571
+"skel bzFixedLen32_2" 0.2264705882352941
+"skel bzFixedLen64_2" 0.2264705882352941
+"skel bzFixedLen128_2" 0.22941176470588232
+"skel bzFixedLen256_2" 0.23529411764705888
+"skel bzFixedLen256_4" 0.23529411764705888
+"skel bzFixedLen64_8" 0.20294117647058818
+"skel bzFixedLen256_8" 0.23529411764705888
+"skel bzFixedLen1024_8" 0.18181818181818177
 ]
 edge [
 "isInner" False
@@ -4327,28 +4327,28 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "Synthetix"
-"raw bzJumpi2" 0.845691382765531
-"raw bzJumpi4" 0.7394789579158316
-"raw bzJumpi8" 0.6092184368737474
-"raw bzFixedLen32_2" 0.7804054054054054
-"raw bzFixedLen64_2" 0.7655986509274874
-"raw bzFixedLen128_2" 0.7407407407407407
-"raw bzFixedLen256_2" 0.7516778523489933
-"raw bzFixedLen256_4" 0.6845637583892618
-"raw bzFixedLen64_8" 0.6188870151770658
-"raw bzFixedLen256_8" 0.6040268456375839
-"raw bzFixedLen1024_8" 0.631578947368421
-"skel bzJumpi2" 0.845360824742268
-"skel bzJumpi4" 0.7463917525773196
-"skel bzJumpi8" 0.6969072164948453
-"skel bzFixedLen32_2" 0.7808798646362098
-"skel bzFixedLen64_2" 0.7580372250423012
-"skel bzFixedLen128_2" 0.7601351351351351
-"skel bzFixedLen256_2" 0.7635135135135135
-"skel bzFixedLen256_4" 0.6959459459459459
-"skel bzFixedLen64_8" 0.5989847715736041
-"skel bzFixedLen256_8" 0.6351351351351351
-"skel bzFixedLen1024_8" 0.5263157894736843
+"raw bzJumpi2" 0.7148148148148148
+"raw bzJumpi4" 0.5185185185185186
+"raw bzJumpi8" 0.2777777777777778
+"raw bzFixedLen32_2" 0.6182085168869309
+"raw bzFixedLen64_2" 0.5923753665689149
+"raw bzFixedLen128_2" 0.5497076023391814
+"raw bzFixedLen256_2" 0.5697674418604651
+"raw bzFixedLen256_4" 0.4534883720930233
+"raw bzFixedLen64_8" 0.3372434017595308
+"raw bzFixedLen256_8" 0.313953488372093
+"raw bzFixedLen1024_8" 0.36363636363636365
+"skel bzJumpi2" 0.7126436781609196
+"skel bzJumpi4" 0.5287356321839081
+"skel bzJumpi8" 0.4367816091954023
+"skel bzFixedLen32_2" 0.6191176470588236
+"skel bzFixedLen64_2" 0.5794117647058823
+"skel bzFixedLen128_2" 0.5823529411764705
+"skel bzFixedLen256_2" 0.5882352941176471
+"skel bzFixedLen256_4" 0.47058823529411764
+"skel bzFixedLen64_8" 0.30294117647058827
+"skel bzFixedLen256_8" 0.3647058823529412
+"skel bzFixedLen1024_8" 0.18181818181818177
 ]
 edge [
 "isInner" True
@@ -4356,28 +4356,28 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.9316628701594533
-"raw bzJumpi4" 0.856492027334852
-"raw bzJumpi8" 0.7972665148063781
-"raw bzFixedLen32_2" 0.6807511737089202
-"raw bzFixedLen64_2" 0.6941838649155723
-"raw bzFixedLen128_2" 0.6704119850187267
-"raw bzFixedLen256_2" 0.7014925373134329
-"raw bzFixedLen256_4" 0.6492537313432836
-"raw bzFixedLen64_8" 0.5666041275797373
-"raw bzFixedLen256_8" 0.5746268656716418
-"raw bzFixedLen1024_8" 0.5294117647058824
-"skel bzJumpi2" 0.9417249417249417
-"skel bzJumpi4" 0.8764568764568764
-"skel bzJumpi8" 0.8391608391608392
-"skel bzFixedLen32_2" 0.7033898305084746
-"skel bzFixedLen64_2" 0.6986817325800376
-"skel bzFixedLen128_2" 0.6804511278195489
-"skel bzFixedLen256_2" 0.6691729323308271
-"skel bzFixedLen256_4" 0.6165413533834587
-"skel bzFixedLen64_8" 0.5499058380414312
-"skel bzFixedLen256_8" 0.5563909774436091
-"skel bzFixedLen1024_8" 0.47058823529411764
+"raw bzJumpi2" 0.868995633187773
+"raw bzJumpi4" 0.7248908296943232
+"raw bzJumpi8" 0.611353711790393
+"raw bzFixedLen32_2" 0.5007342143906021
+"raw bzFixedLen64_2" 0.5219941348973607
+"raw bzFixedLen128_2" 0.48538011695906436
+"raw bzFixedLen256_2" 0.5348837209302326
+"raw bzFixedLen256_4" 0.4534883720930233
+"raw bzFixedLen64_8" 0.32258064516129037
+"raw bzFixedLen256_8" 0.33720930232558144
+"raw bzFixedLen1024_8" 0.2727272727272727
+"skel bzJumpi2" 0.8883928571428571
+"skel bzJumpi4" 0.7633928571428572
+"skel bzJumpi8" 0.6919642857142857
+"skel bzFixedLen32_2" 0.5367647058823529
+"skel bzFixedLen64_2" 0.5294117647058824
+"skel bzFixedLen128_2" 0.5
+"skel bzFixedLen256_2" 0.48235294117647054
+"skel bzFixedLen256_4" 0.4
+"skel bzFixedLen64_8" 0.2970588235294118
+"skel bzFixedLen256_8" 0.3058823529411765
+"skel bzFixedLen1024_8" 0.18181818181818177
 ]
 edge [
 "isInner" False
@@ -4385,28 +4385,28 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o0 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "DSToken"
-"raw bzJumpi2" 0.577639751552795
-"raw bzJumpi4" 0.5714285714285714
-"raw bzJumpi8" 0.5031055900621118
-"raw bzFixedLen32_2" 0.4983461962513782
-"raw bzFixedLen64_2" 0.4977973568281938
-"raw bzFixedLen128_2" 0.5
-"raw bzFixedLen256_2" 0.5043478260869565
-"raw bzFixedLen256_4" 0.4695652173913043
-"raw bzFixedLen64_8" 0.43171806167400884
-"raw bzFixedLen256_8" 0.4260869565217391
-"raw bzFixedLen1024_8" 0.4666666666666667
-"skel bzJumpi2" 0.5822784810126582
-"skel bzJumpi4" 0.5822784810126582
-"skel bzJumpi8" 0.5474683544303798
-"skel bzFixedLen32_2" 0.49557522123893805
-"skel bzFixedLen64_2" 0.49557522123893805
-"skel bzFixedLen128_2" 0.49557522123893805
-"skel bzFixedLen256_2" 0.47787610619469023
-"skel bzFixedLen256_4" 0.4424778761061947
-"skel bzFixedLen64_8" 0.4336283185840708
-"skel bzFixedLen256_8" 0.415929203539823
-"skel bzFixedLen1024_8" 0.3448275862068966
+"raw bzJumpi2" 0.4061135371179039
+"raw bzJumpi4" 0.3973799126637555
+"raw bzJumpi8" 0.3013100436681223
+"raw bzFixedLen32_2" 0.33186490455212925
+"raw bzFixedLen64_2" 0.33137829912023464
+"raw bzFixedLen128_2" 0.33333333333333337
+"raw bzFixedLen256_2" 0.33720930232558144
+"raw bzFixedLen256_4" 0.2906976744186046
+"raw bzFixedLen64_8" 0.2434017595307918
+"raw bzFixedLen256_8" 0.2325581395348837
+"raw bzFixedLen1024_8" 0.2727272727272727
+"skel bzJumpi2" 0.4107142857142857
+"skel bzJumpi4" 0.4107142857142857
+"skel bzJumpi8" 0.3616071428571429
+"skel bzFixedLen32_2" 0.3294117647058824
+"skel bzFixedLen64_2" 0.3294117647058824
+"skel bzFixedLen128_2" 0.3294117647058824
+"skel bzFixedLen256_2" 0.3058823529411765
+"skel bzFixedLen256_4" 0.2588235294117647
+"skel bzFixedLen64_8" 0.24705882352941178
+"skel bzFixedLen256_8" 0.22352941176470587
+"skel bzFixedLen1024_8" 0.13636363636363635
 ]
 edge [
 "isInner" False
@@ -4414,28 +4414,28 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "AddressResolver"
 "group2" "Synthetix"
-"raw bzJumpi2" 0.37349397590361444
-"raw bzJumpi4" 0.37048192771084343
-"raw bzJumpi8" 0.32831325301204817
-"raw bzFixedLen32_2" 0.4734446130500759
-"raw bzFixedLen64_2" 0.4727272727272728
-"raw bzFixedLen128_2" 0.4727272727272728
-"raw bzFixedLen256_2" 0.4819277108433735
-"raw bzFixedLen256_4" 0.4337349397590361
-"raw bzFixedLen64_8" 0.4242424242424242
-"raw bzFixedLen256_8" 0.3975903614457831
-"raw bzFixedLen1024_8" 0.38095238095238093
-"skel bzJumpi2" 0.3788819875776398
-"skel bzJumpi4" 0.3726708074534162
-"skel bzJumpi8" 0.3354037267080745
-"skel bzFixedLen32_2" 0.4695121951219512
-"skel bzFixedLen64_2" 0.4695121951219512
-"skel bzFixedLen128_2" 0.4727272727272728
-"skel bzFixedLen256_2" 0.4819277108433735
-"skel bzFixedLen256_4" 0.45783132530120485
-"skel bzFixedLen64_8" 0.4054878048780488
-"skel bzFixedLen256_8" 0.40963855421686746
-"skel bzFixedLen1024_8" 0.33333333333333337
+"raw bzJumpi2" 0.22962962962962963
+"raw bzJumpi4" 0.22592592592592597
+"raw bzJumpi8" 0.17407407407407405
+"raw bzFixedLen32_2" 0.3101391650099403
+"raw bzFixedLen64_2" 0.30952380952380953
+"raw bzFixedLen128_2" 0.30952380952380953
+"raw bzFixedLen256_2" 0.31746031746031744
+"raw bzFixedLen256_4" 0.25396825396825395
+"raw bzFixedLen64_8" 0.24603174603174605
+"raw bzFixedLen256_8" 0.2063492063492064
+"raw bzFixedLen1024_8" 0.1875
+"skel bzJumpi2" 0.23371647509578541
+"skel bzJumpi4" 0.22605363984674332
+"skel bzJumpi8" 0.1800766283524904
+"skel bzFixedLen32_2" 0.3067729083665338
+"skel bzFixedLen64_2" 0.3067729083665338
+"skel bzFixedLen128_2" 0.30952380952380953
+"skel bzFixedLen256_2" 0.31746031746031744
+"skel bzFixedLen256_4" 0.2857142857142857
+"skel bzFixedLen64_8" 0.22310756972111556
+"skel bzFixedLen256_8" 0.2222222222222222
+"skel bzFixedLen1024_8" 0.125
 ]
 edge [
 "isInner" False
@@ -4443,28 +4443,28 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "AddressResolver"
 "group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.4558823529411765
-"raw bzJumpi4" 0.4522058823529411
-"raw bzJumpi8" 0.4338235294117647
-"raw bzFixedLen32_2" 0.5777777777777777
-"raw bzFixedLen64_2" 0.5703703703703704
-"raw bzFixedLen128_2" 0.5481481481481482
-"raw bzFixedLen256_2" 0.5588235294117647
-"raw bzFixedLen256_4" 0.5147058823529411
-"raw bzFixedLen64_8" 0.4814814814814815
-"raw bzFixedLen256_8" 0.4852941176470589
-"raw bzFixedLen1024_8" 0.4117647058823529
-"skel bzJumpi2" 0.4586466165413534
-"skel bzJumpi4" 0.4586466165413534
-"skel bzJumpi8" 0.4135338345864662
-"skel bzFixedLen32_2" 0.5746268656716418
-"skel bzFixedLen64_2" 0.5708955223880596
-"skel bzFixedLen128_2" 0.5777777777777777
-"skel bzFixedLen256_2" 0.5882352941176471
-"skel bzFixedLen256_4" 0.5588235294117647
-"skel bzFixedLen64_8" 0.47388059701492535
-"skel bzFixedLen256_8" 0.47058823529411764
-"skel bzFixedLen1024_8" 0.4117647058823529
+"raw bzJumpi2" 0.2952380952380952
+"raw bzJumpi4" 0.29047619047619044
+"raw bzJumpi8" 0.2666666666666667
+"raw bzFixedLen32_2" 0.40625
+"raw bzFixedLen64_2" 0.39583333333333337
+"raw bzFixedLen128_2" 0.36458333333333337
+"raw bzFixedLen256_2" 0.375
+"raw bzFixedLen256_4" 0.3125
+"raw bzFixedLen64_8" 0.27083333333333337
+"raw bzFixedLen256_8" 0.27083333333333337
+"raw bzFixedLen1024_8" 0.16666666666666663
+"skel bzJumpi2" 0.29756097560975614
+"skel bzJumpi4" 0.29756097560975614
+"skel bzJumpi8" 0.23902439024390243
+"skel bzFixedLen32_2" 0.40314136125654454
+"skel bzFixedLen64_2" 0.39790575916230364
+"skel bzFixedLen128_2" 0.40625
+"skel bzFixedLen256_2" 0.41666666666666663
+"skel bzFixedLen256_4" 0.375
+"skel bzFixedLen64_8" 0.26178010471204194
+"skel bzFixedLen256_8" 0.25
+"skel bzFixedLen1024_8" 0.16666666666666663
 ]
 edge [
 "isInner" False
@@ -4472,28 +4472,28 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o0 runs200"
 "group1" "AddressResolver"
 "group2" "DSToken"
-"raw bzJumpi2" 0.7419354838709677
-"raw bzJumpi4" 0.6709677419354838
-"raw bzJumpi8" 0.6193548387096774
-"raw bzFixedLen32_2" 0.756544502617801
-"raw bzFixedLen64_2" 0.743455497382199
-"raw bzFixedLen128_2" 0.75
-"raw bzFixedLen256_2" 0.7551020408163265
-"raw bzFixedLen256_4" 0.6326530612244898
-"raw bzFixedLen64_8" 0.6335078534031413
-"raw bzFixedLen256_8" 0.5918367346938775
-"raw bzFixedLen1024_8" 0.5384615384615384
-"skel bzJumpi2" 0.7124183006535948
-"skel bzJumpi4" 0.6601307189542484
-"skel bzJumpi8" 0.6143790849673203
-"skel bzFixedLen32_2" 0.7619047619047619
-"skel bzFixedLen64_2" 0.7407407407407407
-"skel bzFixedLen128_2" 0.7263157894736842
-"skel bzFixedLen256_2" 0.75
-"skel bzFixedLen256_4" 0.6666666666666667
-"skel bzFixedLen64_8" 0.6084656084656085
-"skel bzFixedLen256_8" 0.5833333333333333
-"skel bzFixedLen1024_8" 0.5
+"raw bzJumpi2" 0.5698924731182795
+"raw bzJumpi4" 0.4516129032258065
+"raw bzJumpi8" 0.3655913978494624
+"raw bzFixedLen32_2" 0.588495575221239
+"raw bzFixedLen64_2" 0.5663716814159292
+"raw bzFixedLen128_2" 0.5789473684210527
+"raw bzFixedLen256_2" 0.5862068965517242
+"raw bzFixedLen256_4" 0.3793103448275862
+"raw bzFixedLen64_8" 0.38053097345132747
+"raw bzFixedLen256_8" 0.31034482758620685
+"raw bzFixedLen1024_8" 0.25
+"skel bzJumpi2" 0.5217391304347826
+"skel bzJumpi4" 0.4347826086956522
+"skel bzJumpi8" 0.3586956521739131
+"skel bzFixedLen32_2" 0.5982142857142857
+"skel bzFixedLen64_2" 0.5625
+"skel bzFixedLen128_2" 0.5357142857142857
+"skel bzFixedLen256_2" 0.5714285714285714
+"skel bzFixedLen256_4" 0.4285714285714286
+"skel bzFixedLen64_8" 0.3392857142857143
+"skel bzFixedLen256_8" 0.2857142857142857
+"skel bzFixedLen1024_8" 0.1428571428571429
 ]
 edge [
 "isInner" False
@@ -4501,28 +4501,28 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "BinaryOptionMarketManager"
-"raw bzJumpi2" 0.8395833333333333
-"raw bzJumpi4" 0.75625
-"raw bzJumpi8" 0.6354166666666667
-"raw bzFixedLen32_2" 0.8117249154453213
-"raw bzFixedLen64_2" 0.8243243243243243
-"raw bzFixedLen128_2" 0.8288288288288288
-"raw bzFixedLen256_2" 0.8288288288288288
-"raw bzFixedLen256_4" 0.7387387387387387
-"raw bzFixedLen64_8" 0.6441441441441442
-"raw bzFixedLen256_8" 0.6396396396396397
-"raw bzFixedLen1024_8" 0.5714285714285714
-"skel bzJumpi2" 0.8283261802575107
-"skel bzJumpi4" 0.7618025751072961
-"skel bzJumpi8" 0.7167381974248928
-"skel bzFixedLen32_2" 0.7997737556561086
-"skel bzFixedLen64_2" 0.8076923076923077
-"skel bzFixedLen128_2" 0.8018018018018018
-"skel bzFixedLen256_2" 0.8018018018018018
-"skel bzFixedLen256_4" 0.7117117117117118
-"skel bzFixedLen64_8" 0.6561085972850679
-"skel bzFixedLen256_8" 0.6576576576576576
-"skel bzFixedLen1024_8" 0.6785714285714286
+"raw bzJumpi2" 0.7148148148148148
+"raw bzJumpi4" 0.5666666666666667
+"raw bzJumpi8" 0.35185185185185186
+"raw bzFixedLen32_2" 0.6679920477137177
+"raw bzFixedLen64_2" 0.6904761904761905
+"raw bzFixedLen128_2" 0.6984126984126984
+"raw bzFixedLen256_2" 0.6984126984126984
+"raw bzFixedLen256_4" 0.5396825396825398
+"raw bzFixedLen64_8" 0.373015873015873
+"raw bzFixedLen256_8" 0.3650793650793651
+"raw bzFixedLen1024_8" 0.25
+"skel bzJumpi2" 0.6934865900383143
+"skel bzJumpi4" 0.5747126436781609
+"skel bzJumpi8" 0.49425287356321834
+"skel bzFixedLen32_2" 0.647410358565737
+"skel bzFixedLen64_2" 0.6613545816733069
+"skel bzFixedLen128_2" 0.6507936507936508
+"skel bzFixedLen256_2" 0.6507936507936508
+"skel bzFixedLen256_4" 0.4920634920634921
+"skel bzFixedLen64_8" 0.3944223107569721
+"skel bzFixedLen256_8" 0.39682539682539686
+"skel bzFixedLen1024_8" 0.4375
 ]
 edge [
 "isInner" False
@@ -4530,28 +4530,28 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o0 runs200"
 "group1" "Synthetix"
 "group2" "DSToken"
-"raw bzJumpi2" 0.5123966942148761
-"raw bzJumpi4" 0.47933884297520657
-"raw bzJumpi8" 0.43250688705234164
-"raw bzFixedLen32_2" 0.6200274348422496
-"raw bzFixedLen64_2" 0.6082191780821917
-"raw bzFixedLen128_2" 0.6120218579234973
-"raw bzFixedLen256_2" 0.6086956521739131
-"raw bzFixedLen256_4" 0.5326086956521738
-"raw bzFixedLen64_8" 0.4904109589041096
-"raw bzFixedLen256_8" 0.4782608695652174
-"raw bzFixedLen1024_8" 0.5833333333333333
-"skel bzJumpi2" 0.5212464589235127
-"skel bzJumpi4" 0.4730878186968839
-"skel bzJumpi8" 0.4419263456090652
-"skel bzFixedLen32_2" 0.6060606060606061
-"skel bzFixedLen64_2" 0.6033057851239669
-"skel bzFixedLen128_2" 0.6098901098901099
-"skel bzFixedLen256_2" 0.5934065934065934
-"skel bzFixedLen256_4" 0.5054945054945055
-"skel bzFixedLen64_8" 0.5068870523415978
-"skel bzFixedLen256_8" 0.4945054945054945
-"skel bzFixedLen1024_8" 0.5217391304347826
+"raw bzJumpi2" 0.34444444444444444
+"raw bzJumpi4" 0.30000000000000004
+"raw bzJumpi8" 0.23703703703703705
+"raw bzFixedLen32_2" 0.4493041749502982
+"raw bzFixedLen64_2" 0.43253968253968256
+"raw bzFixedLen128_2" 0.4365079365079365
+"raw bzFixedLen256_2" 0.4285714285714286
+"raw bzFixedLen256_4" 0.31746031746031744
+"raw bzFixedLen64_8" 0.26190476190476186
+"raw bzFixedLen256_8" 0.23809523809523814
+"raw bzFixedLen1024_8" 0.375
+"skel bzJumpi2" 0.3524904214559387
+"skel bzJumpi4" 0.28735632183908044
+"skel bzJumpi8" 0.24521072796934862
+"skel bzFixedLen32_2" 0.43027888446215135
+"skel bzFixedLen64_2" 0.42629482071713143
+"skel bzFixedLen128_2" 0.4365079365079365
+"skel bzFixedLen256_2" 0.4126984126984127
+"skel bzFixedLen256_4" 0.2857142857142857
+"skel bzFixedLen64_8" 0.28685258964143423
+"skel bzFixedLen256_8" 0.2698412698412699
+"skel bzFixedLen1024_8" 0.3125
 ]
 edge [
 "isInner" False
@@ -4559,27 +4559,27 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o0 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "DSToken"
-"raw bzJumpi2" 0.6138613861386139
-"raw bzJumpi4" 0.6072607260726073
-"raw bzJumpi8" 0.5478547854785478
-"raw bzFixedLen32_2" 0.7049180327868853
-"raw bzFixedLen64_2" 0.6491803278688524
-"raw bzFixedLen128_2" 0.6601307189542484
-"raw bzFixedLen256_2" 0.7012987012987013
-"raw bzFixedLen256_4" 0.6363636363636364
-"raw bzFixedLen64_8" 0.5180327868852459
-"raw bzFixedLen256_8" 0.5584415584415585
-"raw bzFixedLen1024_8" 0.5
-"skel bzJumpi2" 0.6195286195286196
-"skel bzJumpi4" 0.6127946127946128
-"skel bzJumpi8" 0.5757575757575757
-"skel bzFixedLen32_2" 0.7260726072607261
-"skel bzFixedLen64_2" 0.7095709570957096
-"skel bzFixedLen128_2" 0.7171052631578947
-"skel bzFixedLen256_2" 0.7105263157894737
-"skel bzFixedLen256_4" 0.618421052631579
-"skel bzFixedLen64_8" 0.5775577557755776
-"skel bzFixedLen256_8" 0.5657894736842105
-"skel bzFixedLen1024_8" 0.5789473684210527
+"raw bzJumpi2" 0.44285714285714284
+"raw bzJumpi4" 0.43333333333333335
+"raw bzJumpi8" 0.3476190476190476
+"raw bzFixedLen32_2" 0.53125
+"raw bzFixedLen64_2" 0.44270833333333337
+"raw bzFixedLen128_2" 0.45833333333333337
+"raw bzFixedLen256_2" 0.5208333333333333
+"raw bzFixedLen256_4" 0.41666666666666663
+"raw bzFixedLen64_8" 0.234375
+"raw bzFixedLen256_8" 0.29166666666666663
+"raw bzFixedLen1024_8" 0.16666666666666663
+"skel bzJumpi2" 0.448780487804878
+"skel bzJumpi4" 0.4390243902439024
+"skel bzJumpi8" 0.3853658536585366
+"skel bzFixedLen32_2" 0.5654450261780104
+"skel bzFixedLen64_2" 0.5392670157068062
+"skel bzFixedLen128_2" 0.5520833333333333
+"skel bzFixedLen256_2" 0.5416666666666667
+"skel bzFixedLen256_4" 0.39583333333333337
+"skel bzFixedLen64_8" 0.32984293193717273
+"skel bzFixedLen256_8" 0.3125
+"skel bzFixedLen1024_8" 0.33333333333333337
 ]
 ]
