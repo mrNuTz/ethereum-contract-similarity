@@ -46,15 +46,14 @@ DONE:
   bz use native Levenshtein
   windows setup
   windows concurrent requires if __name__ == '__main__' check
+  sync repos
 FIRST:
   Cython language level
   numpy deprecated
   windows new lines
-  sync repos
   readme
 TODO:
-  run force atlas and clustering () in python
-  upload to gitLab
+LATER:
   go threw the runs one by one
     figure out what you want to figure out
     write what that is
@@ -63,19 +62,14 @@ TODO:
     write whether you figured it out
     write what you figured out instead
   document none-obvious functions
-
-  write readme
-
   check robustness against version, abi encoding and optimization changes separately
     clustering should show all that in one picture
-LATER:
-  skeletize rstrip trailing zeros?
-  are internal functions ordered? how stable is the ordering?
+  are internal functions ordered? how stable is the ordering? -> I think so.
 QUESTIONS:
-  what are data sections?
+  skeletize rstrip trailing zeros?
   why are there multiple meta sections?
-  how will this be used?
 MAYBE:
+  run force atlas and clustering () in python
   write a hello world smart contract and compile it
   byteBags tuples instead of dicts
   ppdeep with custom chunk trigger

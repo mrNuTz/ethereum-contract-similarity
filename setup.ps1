@@ -1,5 +1,5 @@
 python -m venv venv
-venv\Scripts\activate.bat
+venv\Scripts\Activate.ps1
 pip install psycopg2-binary
 pip install cbor2
 pip install scipy
