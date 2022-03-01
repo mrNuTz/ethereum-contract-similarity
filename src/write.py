@@ -13,7 +13,8 @@ def setDir(d: str):
   Path(_dir).mkdir(parents=True, exist_ok=True)
 
 def openFile(filename='out'):
-  return open(f'{_dir}/' + filename, 'w', buffering=1024*1024)
+  # newlinen='' is needed to avoide `\r\r\n` on windows
+  return open(f'{_dir}/' + filename, 'w', buffering=1024*1024, newline='')
 
 def saveStr(text, filename='out'):
   file = openFile(filename)
