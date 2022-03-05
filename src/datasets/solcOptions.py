@@ -1,5 +1,5 @@
 import os, re
-from typing import Dict, NamedTuple
+from typing import Dict, List, NamedTuple
 from common import IdCodeT
 
 class Meta(NamedTuple):
@@ -13,6 +13,7 @@ class Meta(NamedTuple):
 class Dataset(NamedTuple):
   idToCode: Dict[int, IdCodeT]
   idToMeta:  Dict[int, Meta]
+  groupToIds: Dict[str, List[int]]
 
 def load():
   def parseMeta(id):
@@ -29,5 +30,11 @@ def load():
   idToMeta = {
     id: parseMeta(id) for (id, code) in idToCode.values()
   }
+  groupToIds = {}
+  for id, group, *_ in idToMeta.values():
+    if group in groupToIds:
+      groupToIds[group].append(id)
+    else:
+      groupToIds[group] = [id]
 
-  return Dataset(idToCode, idToMeta)
+  return Dataset(idToCode, idToMeta, groupToIds)

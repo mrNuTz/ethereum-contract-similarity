@@ -10,7 +10,7 @@ import pre, hash, similarity, util, vis, test, opfilter
 import datasets.solcOptions as solcOptions
 
 def main():
-  idToCode,_ = solcOptions.load()
+  idToCode, *_ = solcOptions.load()
 
   codes = itertools.islice(idToCode.values(), 2)
   codes = [ (id, skel) for id, skel in pre.firstSectionSkeleton(codes) ]

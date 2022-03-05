@@ -2,7 +2,7 @@
 # compiled from the same source forming the groups.
 import functools
 import math
-import sys, os, re
+import sys, os
 sys.path.insert(1, 'src')
 import write, plot
 _runDir = os.path.dirname(os.path.abspath(__file__))
@@ -10,49 +10,36 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, similarity, util, vis, test
+import pre, hash, util
 import contract.opcodes as opcodes
-import pandas as pd
-from common import IdCodeT, IdCountsT
 from scipy import stats
 import numpy as np
+import datasets.solcOptions as solcOptions
 
 def main():
-  codeDir = 'data/many-solc-versions'
-  codesList = [
-    IdCodeT(filename, bytes.fromhex(open(f'{codeDir}/{filename}', mode='r').read()))
-    for filename in os.listdir(codeDir)
-  ]
-  groupToCodes = {}
-  for t in codesList:
-    group = re.search('(\w+) - ', t.id).group(1)
-    if group in groupToCodes:
-      groupToCodes[group].append(t)
-    else:
-      groupToCodes[group] = [t]
-
-  groupSizes = util.mapDict(groupToCodes, lambda codes: len(codes))
-  print('selected ' + str(groupSizes))
+  idToCode, _, groupToIds = solcOptions.load()
+  codes = list(idToCode.values())
 
   print('skeletize')
-  groupToSkeletons = util.mapDict(groupToCodes, util.concurrent(pre.firstSectionSkeleton))
+  skeletons = util.concurrent(pre.skeleton)(codes)
 
   print('byteBags')
-  groupToByteBags = util.mapDict(groupToSkeletons, hash.byteBag)
+  byteBags = util.concurrent(hash.byteBag)(skeletons)
 
-  byteBags = [t.counts for byteBags in groupToByteBags.values() for t in byteBags]
+  idToCounts = { id: counts for id, counts in byteBags }
 
   byteBagTotal = functools.reduce(
-    lambda a, b: { i: a.get(i,0) + b.get(i,0) for i in range(1,256) },
-    byteBags, {})
+    lambda total, bag: { i: total.get(i,0) + bag.get(i,0) for i in range(1,256) },
+    map(util.snd, byteBags),
+    {})
   byteBagTotal = dict(sorted(byteBagTotal.items(), key=lambda item: -item[1]))
   totalByteCount = sum(byteBagTotal[i] for i in range(1,256))
 
   byteToGroupToCounts = {
     i: {
       group: [
-        counts.get(i, 0) for (id, counts) in ts
-      ] for (group, ts) in groupToByteBags.items()
+        idToCounts[id].get(i, 0) for id in ids
+      ] for (group, ids) in groupToIds.items()
     } for i in range(1, 256)
   }
 

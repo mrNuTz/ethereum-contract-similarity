@@ -11,7 +11,7 @@ import pre, hash, similarity, util, test
 import datasets.solcOptions as solcOptions
 import pandas as pd
 
-(idToCode, idToMeta) = solcOptions.load()
+idToCode, idToMeta, *_ = solcOptions.load()
 
 def lzjd32(codes):
   return hash.lzjd1(codes, hash_size=32, mode=None, false_seen_prob=0)

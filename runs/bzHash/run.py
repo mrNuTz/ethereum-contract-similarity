@@ -11,7 +11,7 @@ import pre, hash, similarity, util, test
 import pandas as pd
 import datasets.solcOptions as solcOptions
 
-(idToCode, idToMeta) = solcOptions.load()
+idToCode, idToMeta, *_ = solcOptions.load()
 
 def bzJumpi2(codes):
   return hash.bzJumpi(codes, chunkRes=2)

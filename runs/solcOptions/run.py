@@ -11,7 +11,7 @@ import pre, hash, similarity, util, test, opfilter
 import pandas as pd
 import datasets.solcOptions as solcOptions
 
-(idToCode, idToMeta) = solcOptions.load()
+idToCode, idToMeta, *_ = solcOptions.load()
 
 def byteBagJaccard(pairs):
   return similarity.byteBagJaccard(pairs, excludeZeros=True)
