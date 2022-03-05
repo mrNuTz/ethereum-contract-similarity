@@ -1,28 +1,90 @@
-# Ethereum Smart Contract Similarity Hashing Toolkit
-
+# Ethereum contract similarity measure evaluation framework
 ## Summary
-- Toolkit for Ethereum Smart Contract similarity-measure evaluation and testing.
-- Includes test-data and various similarity-measures.
+- Ethereum-Contract similarity-measure evaluation framework.
+- Includes test-data and similarity-measures.
 
-## Setup
-- This tool uses python [venv](https://docs.python.org/3/library/venv.html), get familiar with it
-  at a basic level.
-- Run the commands in `./setup.bat` from windows cmd, `./setup.ps1` from powershell or `setup.sh`
+## Elevator Pitch
+For usage see `./runs/solcOptions/` and `./runs/wallets/`, they contain sample test runs.
+
+`hash.ncd` and `hash.jumpHash` pre-filtered with `opfilter.highFStatPred` appear to perform the best.
+
+`ncd` is Normalized Compression Distance, it works best on unfiltered Codes.
+
+`opfilter.highFStatPred` is based on the [solc-version-testset](https://github.com/mrNuTz/solc-version-testset)
+- OP-Codes with high f-statistic are selected.
+- Same contracts compiled with different solc options and versions form the groups.
+
+`jumpHash` is a chunk hash:
+1. Split by `JUMPI` into chunks.
+1. Hash each chunk with `sha1`.
+1. Map the first byte to a unicode character.
+1. Concatenate the unicode characters to a hash-string.
+1. Compare the hash-strings via levenshtein.
+
+## Requirements
+- install python3 with pip
+- This tool uses python [venv](https://docs.python.org/3/library/venv.html).
+  - Basically the venv needs to be active before running code and not active when working with other
+  python code.
+- Install the modules listed in `requirements.txt` into the `venv`.
+  - Alternatively run the commands in `./setup.bat` from windows cmd, `./setup.ps1` from powershell or `setup.sh`
   from bash to initialize the venv and install the required python modules.
 
-## Desc
-For usage see runs/solcOptions and runs/wallets, they contain sample test runs.
+## Running Test-Runs
+- The runs are at `./runs/*/run.py`
+- Simply run python3 with active `venv` like `$ python3 runs/solcOptions/run.py`
+- The results are stored at `./runs/*/out/*`
 
-hash.ncd and hash.jumpHash pre-filtered with opfilter.highFStatPred appear to perform the best.
+## File tree
+- `./data` Test data.
+- `./runs` Individual test runs.
+- `./src` The evaluation framework code.
 
-ncd is Normalized Compression Distance, it works best on unfiltered Codes.
+## Evaluation framework `./src`
+- `./src/contract/` : EVM-Code definitions and decomposition.
+  - `./src/contract/fourbytes.py` : Extract fourbyte signature.
+  - `./src/contract/fourbytes_tbl.py` : Function Jump-table.
+  - `./src/contract/opcodes.py` : EVM-OP-Codes definitions.
+  - `./src/contract/structure.py` : Code decomposition and skeletonization.
+- `./src/datasets/` : Import datasets.
+  - `./src/datasets/proxies.py` : Import proxies dataset from `./data/proxies/`.
+  - `./src/datasets/solcOptions.py` : Import solcOptions dataset from `./data/many-solc-versions/`.
+  - `./src/datasets/wallets.py` : Import wallets dataset from `./data/wallets/`.
+- `./src/hashes/` : Hash implementations.
+  - `./src/hashes/bz.py` : BZ-Hash
+  - `./src/hashes/jump.py` : JUMP-Hash
+  - `./src/hashes/ncd.py` : Normalized Compression Distance
+  - `./src/hashes/ppdeep.py` : ssdeep in pure python.
+  - `./src/hashes/ppdeep_mod.py` : Modified ssdeep.
+- `./src/common.py` : Type definitions.
+- `./src/db.py` : Read codes from DB as types defined in `common.py`.
+- `./src/hash.py` : Exports all hashes implemented in `hashes/`.
+- `./src/opfilter.py` : OP-Code filter predicates.
+- `./src/plot.py` : Plot functions (`scatter`).
+- `./src/pre.py` : Code pre-processing (`skeleton`, `firstSection`)
+- `./src/similarity.py` : Exports all similarity-measures.
+- `./src/test.py` : Common test-run code (`separation` statistic).
+- `./src/util.py` : Common static functions (`concurrent` list-precessing, `allPairs`).
+- `./src/vis.py` : Code visualization (`hex`).
+- `./src/write.py` : Save text files (`saveCsv`, `saveGml`).
 
-opfilter.highFStatPred is based on the data-set https://github.com/mrNuTz/solc-options-data-base
-- opcodes with high f-statistic are selected
-- same contracts compiled with different solc options and versions form the groups
+## Data-sets `./data`
+- `./data/wallets/` : Categorized wallet contracts.
+- `./data/proxies/` : Categorized proxy contracts.
+- `./data/many-solc-versions/` :
+  [solc versions test-set](https://github.com/mrNuTz/solc-version-testset) -
+  Ethereum contracts compiled with different solc versions and options
 
-jumpHash is a chunk hash
-- split by JUMPI
-- hash with sha1 and take the first byte
-- map to a unicode character and concatenate
-- compare via levenshtein
+## Test-runs `./runs`
+- `./runs/AdminUpgradeabilityProxy/` : foo.
+- `./runs/byteDistribution/` : foo.
+- `./runs/byteFiltersOnSolcVersions/` : foo.
+- `./runs/bzHash/` : foo.
+- `./runs/fStatFilter/` : foo.
+- `./runs/lzjdParams/` : foo.
+- `./runs/many-solc-versions/` : foo.
+- `./runs/proxies/` : foo.
+- `./runs/solcOptions/` : foo.
+- `./runs/unique_sigs_len20/` : foo.
+- `./runs/verifiedSameSignaturesDistinctSkeleton/` : foo.
+- `./runs/wallets/` : foo.
