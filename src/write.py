@@ -14,7 +14,7 @@ def setDir(d: str):
 
 def openFile(filename='out'):
   # newlinen='' is needed to avoide `\r\r\n` on windows
-  return open(f'{_dir}/' + filename, 'w', buffering=1024*1024, newline='')
+  return open(f'{_dir}/' + filename, 'w', buffering=1024*1024, newline='', encoding="utf-8")
 
 def saveStr(text, filename='out'):
   file = openFile(filename)
