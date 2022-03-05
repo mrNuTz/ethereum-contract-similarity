@@ -41,7 +41,7 @@ For usage see `./runs/solcOptions/` and `./runs/wallets/`, they contain sample t
 - `./src/` The evaluation framework code.
 
 ## Evaluation framework `./src`
-- `./src/contract/` : EVM-Code definitions and decomposition.
+- `./src/contract/` : [gsalzer/ethutils](https://github.com/gsalzer/ethutils) - EVM-Code definitions and decomposition.
   - `./src/contract/fourbytes.py` : Extract fourbyte signature.
   - `./src/contract/fourbytes_tbl.py` : Function Jump-table.
   - `./src/contract/opcodes.py` : EVM-OP-Codes definitions.
