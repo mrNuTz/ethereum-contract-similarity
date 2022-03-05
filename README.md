@@ -33,12 +33,12 @@ For usage see `./runs/solcOptions/` and `./runs/wallets/`, they contain sample t
 ## Running Test-Runs
 - The runs are at `./runs/*/run.py`
 - Simply run python3 with active `venv` like `$ python3 runs/solcOptions/run.py`
-- The results are stored at `./runs/*/out/*`
+- The results are stored at `./runs/*/out/*`.
 
 ## File tree
-- `./data` Test data.
-- `./runs` Individual test runs.
-- `./src` The evaluation framework code.
+- `./data/` Test data.
+- `./runs/` Individual test runs.
+- `./src/` The evaluation framework code.
 
 ## Evaluation framework `./src`
 - `./src/contract/` : EVM-Code definitions and decomposition.
@@ -72,19 +72,16 @@ For usage see `./runs/solcOptions/` and `./runs/wallets/`, they contain sample t
 - `./data/wallets/` : Categorized wallet contracts.
 - `./data/proxies/` : Categorized proxy contracts.
 - `./data/many-solc-versions/` :
-  [solc versions test-set](https://github.com/mrNuTz/solc-version-testset) -
+  [solc-versions-testset](https://github.com/mrNuTz/solc-version-testset) -
   Ethereum contracts compiled with different solc versions and options
 
 ## Test-runs `./runs`
-- `./runs/AdminUpgradeabilityProxy/` : foo.
-- `./runs/byteDistribution/` : foo.
-- `./runs/byteFiltersOnSolcVersions/` : foo.
-- `./runs/bzHash/` : foo.
-- `./runs/fStatFilter/` : foo.
-- `./runs/lzjdParams/` : foo.
-- `./runs/many-solc-versions/` : foo.
-- `./runs/proxies/` : foo.
-- `./runs/solcOptions/` : foo.
-- `./runs/unique_sigs_len20/` : foo.
-- `./runs/verifiedSameSignaturesDistinctSkeleton/` : foo.
-- `./runs/wallets/` : foo.
+- `./runs/byteDistribution/` : Calculates f-stat value for every OP-Code.
+- `./runs/byteFiltersOnSolcVersions/` : Evaluate OP-Codes filters.
+- `./runs/bzHash/` : Evaluate bzHash options.
+- `./runs/fStatFilter/` : `opfilter.highFStatPred` on two contracts.
+- `./runs/lzjdParams/` : Evaluate `lzjd` options.
+- `./runs/many-solc-versions/` : Compare many similarity measures using [solc-versions-testset](https://github.com/mrNuTz/solc-version-testset).
+- `./runs/proxies/` : Compare many similarity measures using `./data/proxies/`.
+- `./runs/solcOptions/` : Compare many similarity measures using [solc-versions-testset](https://github.com/mrNuTz/solc-version-testset).
+- `./runs/wallets/` : Compare many similarity measures using `./data/wallets/`.
