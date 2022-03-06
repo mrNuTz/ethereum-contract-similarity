@@ -100,7 +100,7 @@ def run(metaPredicate: Callable[[proxies.Meta], bool], name: str):
   separations = test.separation(df)
 
   write.saveCsv(separations.items(), filename=name + ' separations.csv')
-  write.saveGml2((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
+  write.saveGml((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
   plot.saveScatter(df, 'raw ncd', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')

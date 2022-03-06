@@ -1,4 +1,4 @@
-import sys, os, re
+import sys, os
 sys.path.insert(1, 'src')
 import write, plot
 _runDir = os.path.dirname(os.path.abspath(__file__))
@@ -6,108 +6,102 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, similarity, util, vis, test
+import pre, hash, similarity, util
 import contract.opcodes as opcodes
 import pandas as pd
-from common import IdCodeT
+import datasets.solcOptions as solcOptions
+
+def isSignificant(op: int):
+  OP = opcodes.opcode_by_value_or_missing(op)
+  return (
+    OP.is_log() or OP.is_storage() or OP.is_sys_op() or OP.is_env_info() or OP.is_block_info()
+    or OP == opcodes.SHA3 or OP == opcodes.GAS)
+def significantOnly(codes):
+  return pre.filterBytes(codes, isSignificant)
+def significantAndZero(codes):
+  return pre.setBytesZero(codes, isSignificant)
+def byteBagJaccard(pairs):
+  return similarity.byteBagJaccard(pairs, excludeZeros=True)
 
 def main():
-  codeDir = 'data/many-solc-versions'
-  codesList = [
-    IdCodeT(filename, bytes.fromhex(open(f'{codeDir}/{filename}', mode='r').read()))
-    for filename in os.listdir(codeDir)
-  ]
-  groupToCodes = {}
-  for t in codesList:
-    group = re.search('(\w+) - ', t.id).group(1)
-    if group in groupToCodes:
-      groupToCodes[group].append(t)
-    else:
-      groupToCodes[group] = [t]
+  idToCodes, idToMeta, groupToIds, *_ = solcOptions.load()
+  codes = list(idToCodes.values())
 
-  groupSizes = util.mapDict(groupToCodes, lambda codes: len(codes))
+  groupSizes = util.mapDict(groupToIds, lambda ids: len(ids))
   print('selected ' + str(groupSizes))
 
-  print('skeletize')
-  groupToSkeletons = util.mapDict(groupToCodes, util.concurrent(pre.firstSectionSkeleton))
-
-
-  def significant(op: int):
-    OP = opcodes.opcode_by_value_or_missing(op)
-    return (
-      OP.is_log() or OP.is_storage() or OP.is_sys_op() or OP.is_env_info() or OP.is_block_info()
-      or OP == opcodes.SHA3 or OP == opcodes.GAS)
-
-  groupToSignificantAndZero = util.mapDict(groupToSkeletons, lambda skel: pre.setBytesZero(skel, significant))
-  groupToSignificantOnly = util.mapDict(groupToSkeletons, lambda skel: pre.filterBytes(skel, significant))
-
+  print('pre')
+  preToCodes = {
+    'skeleton': util.concurrent(pre.firstSectionSkeleton)(codes),
+  }
+  preToCodes.update({
+    'significantAndZero': util.concurrent(significantAndZero)(preToCodes['skeleton']),
+    'significantOnly': util.concurrent(significantOnly)(preToCodes['skeleton']),
+  })
 
   print('hash')
-  methodToGroupToHashes = {
-    'ppdeep-significantAndZero': util.mapDict(groupToSignificantAndZero, util.concurrent(hash.ppdeep_mod)),
-    'ppdeep-significantOnly': util.mapDict(groupToSignificantOnly, util.concurrent(hash.ppdeep_mod)),
-    'ppdeep-skeleton': util.mapDict(groupToSkeletons, util.concurrent(hash.ppdeep_mod)),
-    'byteBag-significantOnly': util.mapDict(groupToSignificantOnly, util.concurrent(hash.byteBag)),
-    'byteBag-skeleton': util.mapDict(groupToSkeletons, util.concurrent(hash.byteBag)),
-    'lzjd1-significantAndZero': util.mapDict(groupToSignificantAndZero, util.concurrent(hash.lzjd1)),
-    'lzjd1-significantOnly': util.mapDict(groupToSignificantOnly, util.concurrent(hash.lzjd1)),
-    'lzjd1-skeleton': util.mapDict(groupToSkeletons, util.concurrent(hash.lzjd1)),
+  hashToFunction = {
+    'ppdeep': hash.ppdeep_mod,
+    'byteBag': hash.byteBag,
+    'lzjd1': hash.lzjd1,
+  }
+  hashToPres = {
+    'ppdeep': ('significantAndZero', 'significantOnly', 'skeleton'),
+    'byteBag': ('significantOnly', 'skeleton'),
+    'lzjd1': ('significantAndZero', 'significantOnly', 'skeleton'),
+  }
+  methodToHashes = {
+    (pre, hash): util.concurrent(hashToFunction[hash])(preToCodes[pre])
+    for hash, pres in hashToPres.items() for pre in pres
   }
 
   print('pairs')
-  methodToGroupToInnerPairs = util.mapDict(
-    methodToGroupToHashes,
-    lambda groupToHashes: util.mapDict(groupToHashes, util.allToAllPairs))
-
-  methodToGroupToCrossPairs = util.mapDict(
-    methodToGroupToHashes,
-    lambda groupToHashes: util.allCrossGroupPairs(groupToHashes))
-
-  def comp(method: str):
-    def go(pairs):
-      if method.startswith('byteBag'):
-        return util.concurrent(similarity.byteBagJaccard)(pairs, excludeZeros=True)
-      elif method.startswith('ppdeep'):
-        return util.concurrent(similarity.ppdeep_mod)(pairs)
-      elif method.startswith('lzjd1'):
-        return util.concurrent(similarity.lzjd)(pairs)
-    return go
-
-  print('similarity')
-  methodToGroupToInnerComps = {
-    method: util.mapDict(groupToPairs, comp(method)) for method, groupToPairs
-      in methodToGroupToInnerPairs.items()
-  }
-  methodToGroupToCrossComps = {
-    method: util.mapDict(groupToPairs, comp(method)) for method, groupToPairs
-      in methodToGroupToCrossPairs.items()
+  methodToPairs = {
+    method: util.allToAllPairs(hashes) for method, hashes in methodToHashes.items()
   }
 
-  print('build data frames')
-  df_inner = pd.DataFrame(test.buildComparisonColumns(methodToGroupToInnerComps))
-  df_cross = pd.DataFrame(test.buildComparisonColumns(methodToGroupToCrossComps))
-  df_all = pd.concat([df_inner, df_cross])
+  print('compare')
+  hashToCompareFunction = {
+    'ppdeep': similarity.ppdeep_mod,
+    'byteBag': byteBagJaccard,
+    'lzjd1': similarity.lzjd,
+  }
+  methodToComps = {
+    method: util.concurrent(hashToCompareFunction[method[1]])(pairs)
+    for (method, pairs) in methodToPairs.items()
+  }
+
+  print('build dataframe')
+  comps1 = tuple(util.fst(methodToComps.values()))
+  columns = {
+    'isInner': (idToMeta[id1].group == idToMeta[id2].group for id1, id2, val in comps1),
+    'id1': (id1 for id1, id2, val in comps1),
+    'id2': (id2 for id1, id2, val in comps1),
+    'group1': (idToMeta[id1].group for id1, id2, val in comps1),
+    'group2': (idToMeta[id2].group for id1, id2, val in comps1),
+  }
+  columns.update({
+    f'{method[1]}-{method[0]}': (val for id1, id2, val in comps)
+    for method, comps in methodToComps.items()
+  })
+  df = pd.DataFrame(columns)
 
   print('correlate')
-  corr_inner = df_inner.corr(method='kendall')
-  corr_cross = df_cross.corr(method='kendall')
-  corr_all = df_all.corr(method='kendall')
+  corr_inner = df[df['isInner']].corr(method='kendall')
+  corr_cross = df[df['isInner'] == False].corr(method='kendall')
+  corr_all = df.corr(method='kendall')
 
   print('write')
-  write.saveStr(df_inner.to_csv(), 'comparisons_inner.csv')
   write.saveStr(corr_inner.to_string(), 'correlations_inner.txt')
-  write.saveStr(df_cross.to_csv(), 'comparisons_cross.csv')
   write.saveStr(corr_cross.to_string(), 'correlations_cross.txt')
-  write.saveStr(df_all.to_csv(), 'comparisons_all.csv')
+  write.saveStr(df.to_csv(), 'comparisons_all.csv')
   write.saveStr(corr_all.to_string(), 'correlations_all.txt')
-  write.saveCsv([[name, id] for name, ts in groupToCodes.items() for id, code in ts], filename='ids.csv')
-  write.saveGml(groupToCodes, df_all)
+  write.saveCsv(sorted(idToMeta.values()), filename='meta.csv')
+  write.saveGml((idToMeta[id] for id, code in codes), df)
 
   print('plot')
-  scatterPairs = util.allToAllPairs(list(methodToGroupToHashes.keys()))
-
-  for a,b in scatterPairs:
-    plot.saveScatter(df_all, a, b, colorBy='isInner')
+  for a,b in util.allToAllPairs(list(methodToHashes.keys())):
+    plot.saveScatter(df, f'{a[1]}-{a[0]}', f'{b[1]}-{b[0]}', colorBy='isInner')
 
 if __name__ == '__main__':
   main()

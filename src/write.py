@@ -32,38 +32,6 @@ def saveCsv(rows, filename='out.csv', sep=','):
   file.close()
 
 def saveGml(
-  groupToCodes: Dict[str, List[IdCodeT]],
-  df: DataFrame,
-  filename='similarityGraph.gml'
-):
-  file = openFile(filename=filename)
-  file.write(
-    f"""graph [
-      directed 0
-      label '{filename}'
-    """)
-  for (group, codes) in groupToCodes.items():
-    for (id, code) in codes:
-      file.write(
-        f"""node [
-          id "{id}"
-          label "{id}"
-          group "{group}"
-        ]
-        """)
-
-  cols = tuple(df.columns)
-  for index, row in df.iterrows():
-    file.write('edge [\n')
-    for col in cols:
-      attr = 'source' if col == 'id1' else 'target' if col == 'id2' else col
-      val = row[col]
-      val = f'"{val}"' if isinstance(val, str) else val
-      file.write(f'{attr} {val}\n')
-    file.write(']\n')
-  file.write(']\n')
-
-def saveGml2(
   nodes: Iterable[NamedTuple],
   edges: DataFrame,
   filename='similarityGraph.gml'

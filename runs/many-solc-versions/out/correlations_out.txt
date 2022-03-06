@@ -1,7 +1,7 @@
-                isInner  fourbytes    ppdeep  byteBagJaccard     lzjd1      size
-isInner             1.0        NaN       NaN             NaN       NaN       NaN
-fourbytes           NaN   1.000000  0.016455        0.031795  0.072830  0.025536
-ppdeep              NaN   0.016455  1.000000        0.578543  0.374024  0.614345
-byteBagJaccard      NaN   0.031795  0.578543        1.000000  0.458279  0.792165
-lzjd1               NaN   0.072830  0.374024        0.458279  1.000000  0.421071
-size                NaN   0.025536  0.614345        0.792165  0.421071  1.000000
+           isInner  fourbytes    ppdeep   byteBag     lzjd1      size
+isInner        1.0        NaN       NaN       NaN       NaN       NaN
+fourbytes      NaN   1.000000  0.016455  0.031795  0.072830  0.025536
+ppdeep         NaN   0.016455  1.000000  0.578543  0.374024  0.614345
+byteBag        NaN   0.031795  0.578543  1.000000  0.458279  0.792165
+lzjd1          NaN   0.072830  0.374024  0.458279  1.000000  0.421071
+size           NaN   0.025536  0.614345  0.792165  0.421071  1.000000

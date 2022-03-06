@@ -95,7 +95,7 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
   separations = test.separation(df)
 
   write.saveCsv(separations.items(), filename=name + ' separations.csv')
-  write.saveGml2((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
+  write.saveGml((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
   plot.saveScatter(df, 'raw ncd', 'raw lzjd32', title=name + ' scatter', colorBy='isInner')
   plot.saveScatter(df, 'raw ncd', 'raw lzjd64', title=name + ' scatter', colorBy='isInner')
   plot.saveScatter(df, 'raw ncd', 'raw lzjd128', title=name + ' scatter', colorBy='isInner')

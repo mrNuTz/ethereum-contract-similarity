@@ -53,8 +53,8 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
   }
 
   methodToHashes = {
-    (p, h): util.concurrent(hashToFunction[h])(preToCodes[p])
-    for p in preToCodes.keys() for h in hashToFunction.keys()
+    (pre, hash): util.concurrent(hashToFunction[hash])(preToCodes[pre])
+    for pre in preToCodes.keys() for hash in hashToFunction.keys()
   }
 
   methodToPairs = {
@@ -95,16 +95,22 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
   separations = test.separation(df)
 
   write.saveCsv(separations.items(), filename=name + ' separations.csv')
-  write.saveGml2((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
-  plot.saveScatter(df, 'raw lzjd', 'skeletons ppdeep_mod', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'skeletons ppdeep_mod', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'fStat0 ppdeep_mod', 'fStat ppdeep', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'fstSecSkel jump', 'fStat ppdeep', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'fStat0 ppdeep_mod', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'raw lzjd', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'raw ncd', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
+  write.saveGml((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
+
+  scatterPairs = {
+    ('raw lzjd', 'skeletons ppdeep_mod'),
+    ('skeletons ppdeep_mod', 'fstSecSkel jump'),
+    ('fStat0 ppdeep_mod', 'fStat ppdeep'),
+    ('fstSecSkel jump', 'fStat ppdeep'),
+    ('fStat0 ppdeep_mod', 'fstSecSkel jump'),
+    ('raw lzjd', 'fstSecSkel jump'),
+    ('raw ncd', 'fstSecSkel jump'),
+  }
+  for a, b in scatterPairs:
+    plot.saveScatter(df, a, b, title=name + ' scatter', colorBy='isInner')
+
 
 if __name__ == '__main__':
   run(lambda m: m.o and m.runs == 200 and m.abi == 2, 'versions at o1 runs200 abi2')
