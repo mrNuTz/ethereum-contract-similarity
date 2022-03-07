@@ -47,43 +47,51 @@ DONE:
   windows setup
   windows concurrent requires if __name__ == '__main__' check
   sync repos
+  windows new lines
+  are internal functions ordered? how stable is the ordering? -> I think so.
 FIRST:
+TODO:
+  update ethutils
+  describe runs
+    figure out if useful
+    delete or change
+    describe what it does or was supposed to show
+  document none-obvious functions
+LATER:
   Cython language level
   numpy deprecated
-  windows new lines
-  readme
-TODO:
-LATER:
-  go threw the runs one by one
-    figure out what you want to figure out
-    write what that is
-    optional: redesign accordingly
-    figure stuff out
-    write whether you figured it out
-    write what you figured out instead
-  document none-obvious functions
-  check robustness against version, abi encoding and optimization changes separately
-    clustering should show all that in one picture
-  are internal functions ordered? how stable is the ordering? -> I think so.
-QUESTIONS:
-  skeletize rstrip trailing zeros?
-  why are there multiple meta sections?
+  datasets
+    evaluate with a subset of candidates
+      see if ppdeep is better than fourbyte
+      see if jumpHash is better than ppdeep
+      see if there are subgroups within the groups
+    wallets are different
+      wallet with same typ are similar
+      pick types with many skeletons
+        check outliers
+    cluster contracts with the same signature
+      check outliers
+    generate filter with wallets and check on solc-versions-testset
+    compare same algo with different datasets
+      are the results different?
+      -> is the test set big enough
+  run idea
+    pick a few codes with very close source code
+    general distribution of similarity scores to evaluate individually matched cases
+    these should be similar -> is the score unlikely high?
 MAYBE:
-  run force atlas and clustering () in python
-  write a hello world smart contract and compile it
   byteBags tuples instead of dicts
+  write a hello world smart contract and compile it
+  Q: how often is the constructor argument detection correct?
+  Q: constructor arguments are a data-section?
+  Q: why are there multiple meta sections?
+  run force atlas and clustering () in python
   ppdeep with custom chunk trigger
     def hashChunk(chunk) -> hash
     def digest(hash) -> digest
     def nextChunk(code, pos) -> pos
       min max chunk length
-      ops
-        JUMP
-        JUMPI
-        STOP = 0x00 # doesn't work with skeletons
-        RETURN
-        SELFDESTRUCT
-        REVERT
-        INVALID
+      ops: JUMP JUMPI RETURN SELFDESTRUCT REVERT INVALID
+      STOP = 0x00 # doesn't work with skeletons
     def hash(code) -> List[digest]
     def similarity(a: List[digest], b: List[digest]) -> float
