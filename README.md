@@ -1,7 +1,7 @@
 # Ethereum contract similarity measure evaluation framework
 ## Summary
 - Ethereum-Contract similarity-measure evaluation framework.
-- Includes test-data and similarity-measures.
+- Includes test-data, similarity-measures and tools for exploration and evaluation.
 
 ## Elevator Pitch
 For usage see `./runs/solcOptions/` and `./runs/wallets/`, they contain sample test runs.
