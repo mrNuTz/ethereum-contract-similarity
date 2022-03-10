@@ -96,14 +96,20 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
 
   write.saveCsv(separations.items(), filename=name + ' separations.csv')
   write.saveGml((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
-  plot.saveScatter(df, 'raw ncd', 'raw lzjd32', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'raw ncd', 'raw lzjd64', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'raw ncd', 'raw lzjd128', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'raw ncd', 'raw lzjd256', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'raw ncd', 'raw lzjd512', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'raw ncd', 'raw lzjd1K', title=name + ' scatter', colorBy='isInner')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
+
+  scatterPairs = (
+    ('raw ncd', 'raw lzjd32'),
+    ('raw ncd', 'raw lzjd64'),
+    ('raw ncd', 'skel lzjd64'),
+    ('raw ncd', 'raw lzjd128'),
+    ('raw ncd', 'raw lzjd256'),
+    ('raw ncd', 'raw lzjd512'),
+    ('raw ncd', 'raw lzjd1K'),
+  )
+  for a, b in scatterPairs:
+    plot.saveScatter(df, a, b, title=name + ' scatter', colorBy='isInner')
 
 if __name__ == '__main__':
   run(lambda m: m.o and m.runs == 200 and m.abi == 2, 'versions at o1 runs200 abi2')
