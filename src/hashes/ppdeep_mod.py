@@ -5,8 +5,11 @@
 based on ppdeep
 
 should behave identical to ssdeep except:
-- no int rounding in score calculation
-- no sequence stripping
+- no int rounding in score calculation : differentiate between exact match and close match
+- no sequence stripping : hash with long strips of 'K' chunk-hashes become incomparable
+- no common substring detection : makes many hashes incomparable
+- option to use jaccard-index for scoring
+- handle first chunk never triggered
 '''
 
 __title__ = 'ppdeep_mod'
