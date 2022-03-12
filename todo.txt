@@ -49,6 +49,7 @@ DONE:
   sync repos
   windows new lines
   are internal functions ordered? how stable is the ordering? -> I think so.
+  test f-stat ncd
 FIRST:
 TODO:
   update ethutils
@@ -57,9 +58,12 @@ TODO:
     delete or change
     describe what it does or was supposed to show
   document none-obvious functions
+  Levenshtein on whole code
 LATER:
   Cython language level
   numpy deprecated
+  test og ssdeep
+  ppdeep scoring is different than ssdeep
   datasets
     evaluate with a subset of candidates
       see if ppdeep is better than fourbyte
@@ -79,6 +83,7 @@ LATER:
     pick a few codes with very close source code
     general distribution of similarity scores to evaluate individually matched cases
     these should be similar -> is the score unlikely high?
+    generate p values, aggregate p values of multiple comparisons
 MAYBE:
   byteBags tuples instead of dicts
   write a hello world smart contract and compile it
