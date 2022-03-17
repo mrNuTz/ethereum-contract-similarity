@@ -44,6 +44,7 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
   })
 
   hashToFunction = {
+    'ssdeep': hash.ssdeep,
     'ppdeep': hash.ppdeep,
     'ppdeep_mod': hash.ppdeep_mod,
     'byteBag': hash.byteBag,
@@ -64,6 +65,7 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
   }
 
   hashToCompareFunction = {
+    'ssdeep': similarity.ssdeep,
     'ppdeep': similarity.ppdeep,
     'ppdeep_mod': similarity.ppdeep_mod,
     'byteBag': byteBagJaccard,
@@ -104,9 +106,16 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
 
   write.saveCsv(separations.items(), filename=name + ' separations.csv')
   write.saveGml((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
-  plot.saveScatter(df, 'raw ncd', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
+
+  scatterPairs = {
+    ('raw ncd', 'fstSecSkel jump'),
+    ('skeletons ssdeep', 'skeletons ppdeep_mod'),
+    ('skeletons ssdeep', 'skeletons ppdeep'),
+  }
+  for a, b in scatterPairs:
+    plot.saveScatter(df, a, b, title=name + ' scatter', colorBy='isInner')
 
 if __name__ == '__main__':
   run(lambda m: m.id in fstIdPerSkel, 'all')

@@ -223,6 +223,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.28602129530135784
@@ -230,6 +231,7 @@ edge [
 "raw bz" 0.21818181818181814
 "raw jump" 0.042424242424242475
 "raw ncd" 0.0596906718221363
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.3205058717253839
@@ -237,6 +239,7 @@ edge [
 "skeletons bz" 0.18012422360248448
 "skeletons jump" 0.06211180124223603
 "skeletons ncd" 0.08654708520179372
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.3205058717253839
@@ -244,6 +247,7 @@ edge [
 "fstSecSkel bz" 0.16149068322981364
 "fstSecSkel jump" 0.06211180124223603
 "fstSecSkel ncd" 0.0853548966756514
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.18762088974854932
@@ -251,6 +255,7 @@ edge [
 "fStat bz" 0.19875776397515532
 "fStat jump" 0.11180124223602483
 "fStat ncd" 0.060810810810810814
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.18762088974854932
@@ -265,6 +270,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 34.54545454545455
 "raw byteBag" 0.29594528578407425
@@ -272,6 +278,7 @@ edge [
 "raw bz" 0.20606060606060606
 "raw jump" 0.048484848484848464
 "raw ncd" 0.05679072015466409
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.33014440433212994
@@ -279,6 +286,7 @@ edge [
 "skeletons bz" 0.16770186335403725
 "skeletons jump" 0.07453416149068326
 "skeletons ncd" 0.08609865470852018
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.33014440433212994
@@ -286,6 +294,7 @@ edge [
 "fstSecSkel bz" 0.16149068322981364
 "fstSecSkel jump" 0.07453416149068326
 "fstSecSkel ncd" 0.0853548966756514
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.19500480307396734
@@ -293,6 +302,7 @@ edge [
 "fStat bz" 0.19875776397515532
 "fStat jump" 0.11180124223602483
 "fStat ncd" 0.06981981981981981
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.19500480307396734
@@ -307,6 +317,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 38.0
 "raw byteBag" 0.38725393116013784
@@ -314,6 +325,7 @@ edge [
 "raw bz" 0.33692722371967654
 "raw jump" 0.04312668463611857
 "raw ncd" 0.08124076809453472
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 44.76190476190476
 "skeletons byteBag" 0.3782269503546099
@@ -321,6 +333,7 @@ edge [
 "skeletons bz" 0.40740740740740744
 "skeletons jump" 0.10256410256410253
 "skeletons ncd" 0.13517755542475965
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 45.283018867924525
 "fstSecSkel byteBag" 0.3782269503546099
@@ -328,6 +341,7 @@ edge [
 "fstSecSkel bz" 0.41025641025641024
 "fstSecSkel jump" 0.10541310541310545
 "fstSecSkel ncd" 0.13483807654563298
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.387390959555908
@@ -335,6 +349,7 @@ edge [
 "fStat bz" 0.4301994301994302
 "fStat jump" 0.14245014245014243
 "fStat ncd" 0.12213740458015267
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.387390959555908
@@ -349,6 +364,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 38.18181818181818
 "raw byteBag" 0.5267259963517771
@@ -356,6 +372,7 @@ edge [
 "raw bz" 0.377643504531722
 "raw jump" 0.06042296072507558
 "raw ncd" 0.12737233418117785
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 44.76190476190476
 "skeletons byteBag" 0.5027503793626708
@@ -363,6 +380,7 @@ edge [
 "skeletons bz" 0.47811447811447816
 "skeletons jump" 0.10437710437710435
 "skeletons ncd" 0.22870124952669443
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 45.794392523364486
 "fstSecSkel byteBag" 0.5027503793626708
@@ -370,6 +388,7 @@ edge [
 "fstSecSkel bz" 0.4814814814814815
 "fstSecSkel jump" 0.10437710437710435
 "fstSecSkel ncd" 0.22896133434420016
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.48390342052313884
@@ -377,6 +396,7 @@ edge [
 "fStat bz" 0.45791245791245794
 "fStat jump" 0.14141414141414144
 "fStat ncd" 0.16898954703832753
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.48390342052313884
@@ -391,6 +411,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 35.18518518518519
 "raw byteBag" 0.4503489303283377
@@ -398,6 +419,7 @@ edge [
 "raw bz" 0.35573122529644263
 "raw jump" 0.04743083003952564
 "raw ncd" 0.07215464089318446
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 60.0
 "skeletons byteBag" 0.4861777692455366
@@ -405,6 +427,7 @@ edge [
 "skeletons bz" 0.30487804878048785
 "skeletons jump" 0.07723577235772361
 "skeletons ncd" 0.15208333333333332
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.142857142857146
 "fstSecSkel byteBag" 0.4861777692455366
@@ -412,6 +435,7 @@ edge [
 "fstSecSkel bz" 0.30487804878048785
 "fstSecSkel jump" 0.07723577235772361
 "fstSecSkel ncd" 0.1506677796327212
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 36.170212765957444
 "fStat byteBag" 0.5161290322580645
@@ -419,6 +443,7 @@ edge [
 "fStat bz" 0.5121951219512195
 "fStat jump" 0.11382113821138207
 "fStat ncd" 0.15203426124197003
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5161290322580645
@@ -433,6 +458,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.617283950617285
 "raw byteBag" 0.6699946987100195
@@ -440,6 +466,7 @@ edge [
 "raw bz" 0.8303030303030303
 "raw jump" 0.012121212121212088
 "raw ncd" 0.50071907957814
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 38.983050847457626
 "skeletons byteBag" 0.8548654931916306
@@ -447,6 +474,7 @@ edge [
 "skeletons bz" 0.9006211180124224
 "skeletons jump" 0.5465838509316769
 "skeletons ncd" 0.7035874439461883
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 39.34426229508197
 "fstSecSkel byteBag" 0.8548654931916306
@@ -454,6 +482,7 @@ edge [
 "fstSecSkel bz" 0.8819875776397516
 "fstSecSkel jump" 0.5465838509316769
 "fstSecSkel ncd" 0.7030548068283917
+"fStat ssdeep" 61
 "fStat ppdeep" 75
 "fStat ppdeep_mod" 74.59016393442623
 "fStat byteBag" 0.9567354965585054
@@ -461,6 +490,7 @@ edge [
 "fStat bz" 0.9565217391304348
 "fStat jump" 0.7639751552795031
 "fStat ncd" 0.7727272727272727
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 65.33333333333334
 "fStat0 byteBag" 0.9567354965585054
@@ -475,6 +505,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 33.33333333333333
 "raw byteBag" 0.4392857142857143
@@ -482,6 +513,7 @@ edge [
 "raw bz" 0.4897959183673469
 "raw jump" 0.05782312925170063
 "raw ncd" 0.10564627188668109
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 45.714285714285715
 "skeletons byteBag" 0.4773124712379199
@@ -489,6 +521,7 @@ edge [
 "skeletons bz" 0.4675767918088737
 "skeletons jump" 0.10238907849829348
 "skeletons ncd" 0.19382762514113663
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.728971962616825
 "fstSecSkel byteBag" 0.4773124712379199
@@ -496,6 +529,7 @@ edge [
 "fstSecSkel bz" 0.4675767918088737
 "fstSecSkel jump" 0.10238907849829348
 "fstSecSkel ncd" 0.193293142426526
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.491317671092952
@@ -503,6 +537,7 @@ edge [
 "fStat bz" 0.4675767918088737
 "fStat jump" 0.13651877133105805
 "fStat ncd" 0.16610169491525423
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.491317671092952
@@ -517,6 +552,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 38.888888888888886
 "raw byteBag" 0.7016045929633447
@@ -524,6 +560,7 @@ edge [
 "raw bz" 0.4372093023255814
 "raw jump" 0.06046511627906981
 "raw ncd" 0.12166448964359022
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 45.714285714285715
 "skeletons byteBag" 0.7119647528569462
@@ -531,6 +568,7 @@ edge [
 "skeletons bz" 0.4292452830188679
 "skeletons jump" 0.10849056603773588
 "skeletons ncd" 0.2531700918233494
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 45.794392523364486
 "fstSecSkel byteBag" 0.7119647528569462
@@ -538,6 +576,7 @@ edge [
 "fstSecSkel bz" 0.4339622641509434
 "fstSecSkel jump" 0.10849056603773588
 "fstSecSkel ncd" 0.25317564607971965
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 41.46341463414634
 "fStat byteBag" 0.6876899696048632
@@ -545,6 +584,7 @@ edge [
 "fStat bz" 0.5566037735849056
 "fStat jump" 0.15094339622641506
 "fStat ncd" 0.19369369369369369
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 49.42528735632184
 "fStat0 byteBag" 0.6876899696048632
@@ -559,6 +599,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 39.21568627450981
 "raw byteBag" 0.6106376161486703
@@ -566,6 +607,7 @@ edge [
 "raw bz" 0.4183006535947712
 "raw jump" 0.0490196078431373
 "raw ncd" 0.09635599159074983
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 45.714285714285715
 "skeletons byteBag" 0.564514378730331
@@ -573,6 +615,7 @@ edge [
 "skeletons bz" 0.4013157894736842
 "skeletons jump" 0.08223684210526316
 "skeletons ncd" 0.18800461361014995
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 45.794392523364486
 "fstSecSkel byteBag" 0.564514378730331
@@ -580,6 +623,7 @@ edge [
 "fstSecSkel bz" 0.4046052631578947
 "fstSecSkel jump" 0.08552631578947367
 "fstSecSkel ncd" 0.1878367975365666
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5499081445192896
@@ -587,6 +631,7 @@ edge [
 "fStat bz" 0.45723684210526316
 "fStat jump" 0.14144736842105265
 "fStat ncd" 0.16260162601626016
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 33.33333333333333
 "fStat0 byteBag" 0.5499081445192896
@@ -601,6 +646,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 34.48275862068965
 "raw byteBag" 0.4775012260912212
@@ -608,6 +654,7 @@ edge [
 "raw bz" 0.4155844155844156
 "raw jump" 0.051948051948051965
 "raw ncd" 0.08031133911197594
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 46.666666666666664
 "skeletons byteBag" 0.5168274163759491
@@ -615,6 +662,7 @@ edge [
 "skeletons bz" 0.4093959731543624
 "skeletons jump" 0.08053691275167785
 "skeletons ncd" 0.16127790608160122
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.728971962616825
 "fstSecSkel byteBag" 0.5168274163759491
@@ -622,6 +670,7 @@ edge [
 "fstSecSkel bz" 0.4161073825503355
 "fstSecSkel jump" 0.08389261744966447
 "fstSecSkel ncd" 0.16107899807321774
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5348421679571174
@@ -629,6 +678,7 @@ edge [
 "fStat bz" 0.4664429530201343
 "fStat jump" 0.13758389261744963
 "fStat ncd" 0.15810276679841898
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 39.21568627450981
 "fStat0 byteBag" 0.5348421679571174
@@ -643,6 +693,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.6396185522323363
@@ -650,6 +701,7 @@ edge [
 "raw bz" 0.6666666666666667
 "raw jump" 0.012121212121212088
 "raw ncd" 0.4280391243595715
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 37.28813559322034
 "skeletons byteBag" 0.8229217110573043
@@ -657,6 +709,7 @@ edge [
 "skeletons bz" 0.8695652173913043
 "skeletons jump" 0.4782608695652174
 "skeletons ncd" 0.6280381944444444
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 36.666666666666664
 "fstSecSkel byteBag" 0.8229217110573043
@@ -664,6 +717,7 @@ edge [
 "fstSecSkel bz" 0.8695652173913043
 "fstSecSkel jump" 0.4782608695652174
 "fstSecSkel ncd" 0.6285838401390096
+"fStat ssdeep" 50
 "fStat ppdeep" 71
 "fStat ppdeep_mod" 69.10569105691057
 "fStat byteBag" 0.9421000981354269
@@ -671,6 +725,7 @@ edge [
 "fStat bz" 0.9316770186335404
 "fStat jump" 0.7080745341614907
 "fStat ncd" 0.7021739130434783
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 64.0
 "fStat0 byteBag" 0.9421000981354269
@@ -685,6 +740,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 29.230769230769226
 "raw byteBag" 0.34325
@@ -692,6 +748,7 @@ edge [
 "raw bz" 0.3593314763231198
 "raw jump" 0.05292479108635095
 "raw ncd" 0.06909667194928684
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 45.714285714285715
 "skeletons byteBag" 0.33916906192840346
@@ -699,6 +756,7 @@ edge [
 "skeletons bz" 0.42028985507246375
 "skeletons jump" 0.10144927536231885
 "skeletons ncd" 0.11512825691779438
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.22641509433962
 "fstSecSkel byteBag" 0.33916906192840346
@@ -706,6 +764,7 @@ edge [
 "fstSecSkel bz" 0.4231884057971015
 "fstSecSkel jump" 0.10144927536231885
 "fstSecSkel ncd" 0.11497272176197211
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.388160508541915
@@ -713,6 +772,7 @@ edge [
 "fStat bz" 0.4405797101449276
 "fStat jump" 0.14782608695652177
 "fStat ncd" 0.12150537634408602
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.388160508541915
@@ -727,6 +787,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.98360655737705
 "raw byteBag" 0.31305885820968854
@@ -734,6 +795,7 @@ edge [
 "raw bz" 0.406060606060606
 "raw jump" 0.054545454545454564
 "raw ncd" 0.05679072015466409
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.38686923494302766
@@ -741,6 +803,7 @@ edge [
 "skeletons bz" 0.3788819875776398
 "skeletons jump" 0.08695652173913049
 "skeletons ncd" 0.11300448430493273
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.38686923494302766
@@ -748,6 +811,7 @@ edge [
 "fstSecSkel bz" 0.40372670807453415
 "fstSecSkel jump" 0.08695652173913049
 "fstSecSkel ncd" 0.11275831087151841
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 25.0
 "fStat byteBag" 0.25738798856053385
@@ -755,6 +819,7 @@ edge [
 "fStat bz" 0.3850931677018633
 "fStat jump" 0.1428571428571429
 "fStat ncd" 0.1036036036036036
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.25738798856053385
@@ -769,6 +834,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.23550579768092764
@@ -776,6 +842,7 @@ edge [
 "raw bz" 0.2848484848484848
 "raw jump" 0.048484848484848464
 "raw ncd" 0.08023199613339778
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2738688827331487
@@ -783,6 +850,7 @@ edge [
 "skeletons bz" 0.27329192546583847
 "skeletons jump" 0.08074534161490687
 "skeletons ncd" 0.13946188340807175
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2738688827331487
@@ -790,6 +858,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.08074534161490687
 "fstSecSkel ncd" 0.13791554357592092
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 28.57142857142857
 "fStat byteBag" 0.2330978809283552
@@ -797,6 +866,7 @@ edge [
 "fStat bz" 0.2981366459627329
 "fStat jump" 0.16149068322981364
 "fStat ncd" 0.1373873873873874
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2330978809283552
@@ -811,6 +881,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.875
 "raw byteBag" 0.5597615285160178
@@ -818,6 +889,7 @@ edge [
 "raw bz" 0.5270935960591133
 "raw jump" 0.03448275862068961
 "raw ncd" 0.09897360703812316
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 46.57534246575342
 "skeletons byteBag" 0.6490066225165563
@@ -825,6 +897,7 @@ edge [
 "skeletons bz" 0.4696969696969697
 "skeletons jump" 0.07070707070707072
 "skeletons ncd" 0.2058444348947142
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.666666666666664
 "fstSecSkel byteBag" 0.6490066225165563
@@ -832,6 +905,7 @@ edge [
 "fstSecSkel bz" 0.48484848484848486
 "fstSecSkel jump" 0.07070707070707072
 "fstSecSkel ncd" 0.2049074472664658
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 42.68292682926829
 "fStat byteBag" 0.6924265842349304
@@ -839,6 +913,7 @@ edge [
 "fStat bz" 0.5909090909090908
 "fStat jump" 0.16161616161616166
 "fStat ncd" 0.19144144144144143
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.6924265842349304
@@ -853,6 +928,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 39.34426229508197
 "raw byteBag" 0.37861672611969877
@@ -860,6 +936,7 @@ edge [
 "raw bz" 0.38787878787878793
 "raw jump" 0.042424242424242475
 "raw ncd" 0.06790720154664089
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.36848839334673733
@@ -867,6 +944,7 @@ edge [
 "skeletons bz" 0.36645962732919257
 "skeletons jump" 0.0993788819875776
 "skeletons ncd" 0.12286995515695068
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.36848839334673733
@@ -874,6 +952,7 @@ edge [
 "fstSecSkel bz" 0.3788819875776398
 "fstSecSkel jump" 0.0993788819875776
 "fstSecSkel ncd" 0.12309074573225516
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 25.974025974025977
 "fStat byteBag" 0.26
@@ -881,6 +960,7 @@ edge [
 "fStat bz" 0.3788819875776398
 "fStat jump" 0.1428571428571429
 "fStat ncd" 0.10810810810810811
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.26
@@ -895,6 +975,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.89795918367347
 "raw byteBag" 0.5503942406582105
@@ -902,6 +983,7 @@ edge [
 "raw bz" 0.2867647058823529
 "raw jump" 0.047794117647058876
 "raw ncd" 0.08852785145888595
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 44.76190476190476
 "skeletons byteBag" 0.5312405063291139
@@ -909,6 +991,7 @@ edge [
 "skeletons bz" 0.2754716981132076
 "skeletons jump" 0.08301886792452828
 "skeletons ncd" 0.18872549019607843
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 44.85981308411215
 "fstSecSkel byteBag" 0.5312405063291139
@@ -916,6 +999,7 @@ edge [
 "fstSecSkel bz" 0.2754716981132076
 "fstSecSkel jump" 0.08301886792452828
 "fstSecSkel ncd" 0.18821603927986907
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.505188421627526
@@ -923,6 +1007,7 @@ edge [
 "fStat bz" 0.4528301886792453
 "fStat jump" 0.1132075471698113
 "fStat ncd" 0.16299559471365638
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.505188421627526
@@ -937,6 +1022,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 32.786885245901644
 "raw byteBag" 0.4371879255560599
@@ -944,6 +1030,7 @@ edge [
 "raw bz" 0.4882154882154882
 "raw jump" 0.0572390572390572
 "raw ncd" 0.09998008364867557
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 45.714285714285715
 "skeletons byteBag" 0.47763534077284886
@@ -951,6 +1038,7 @@ edge [
 "skeletons bz" 0.4758620689655172
 "skeletons jump" 0.08965517241379306
 "skeletons ncd" 0.18735453840186192
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 45.794392523364486
 "fstSecSkel byteBag" 0.47763534077284886
@@ -958,6 +1046,7 @@ edge [
 "fstSecSkel bz" 0.4724137931034482
 "fstSecSkel jump" 0.08965517241379306
 "fstSecSkel ncd" 0.18757281553398059
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5018257694314032
@@ -965,6 +1054,7 @@ edge [
 "fStat bz" 0.4724137931034482
 "fStat jump" 0.13793103448275867
 "fStat ncd" 0.16928446771378708
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5018257694314032
@@ -979,6 +1069,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.3932694189004109
@@ -986,6 +1077,7 @@ edge [
 "raw bz" 0.19393939393939397
 "raw jump" 0.048484848484848464
 "raw ncd" 0.07177380376993717
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.34938879766465974
@@ -993,6 +1085,7 @@ edge [
 "skeletons bz" 0.17391304347826086
 "skeletons jump" 0.06832298136645965
 "skeletons ncd" 0.09865470852017937
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.34938879766465974
@@ -1000,6 +1093,7 @@ edge [
 "fstSecSkel bz" 0.16770186335403725
 "fstSecSkel jump" 0.07453416149068326
 "fstSecSkel ncd" 0.09793351302785265
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 34.14634146341463
 "fStat byteBag" 0.23410404624277456
@@ -1007,6 +1101,7 @@ edge [
 "fStat bz" 0.18012422360248448
 "fStat jump" 0.11801242236024845
 "fStat ncd" 0.060810810810810814
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.23410404624277456
@@ -1021,6 +1116,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 38.888888888888886
 "raw byteBag" 0.4496572043741855
@@ -1028,6 +1124,7 @@ edge [
 "raw bz" 0.31481481481481477
 "raw jump" 0.06666666666666665
 "raw ncd" 0.07177974434611603
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 43.80952380952381
 "skeletons byteBag" 0.47820355898691275
@@ -1035,6 +1132,7 @@ edge [
 "skeletons bz" 0.27969348659003834
 "skeletons jump" 0.08045977011494254
 "skeletons ncd" 0.1559074299634592
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 44.85981308411215
 "fstSecSkel byteBag" 0.47820355898691275
@@ -1042,6 +1140,7 @@ edge [
 "fstSecSkel bz" 0.28352490421455934
 "fstSecSkel jump" 0.08045977011494254
 "fstSecSkel ncd" 0.1549410329402196
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 36.170212765957444
 "fStat byteBag" 0.4989247311827957
@@ -1049,6 +1148,7 @@ edge [
 "fStat bz" 0.47509578544061304
 "fStat jump" 0.11111111111111116
 "fStat ncd" 0.14791666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.4989247311827957
@@ -1063,6 +1163,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 36.36363636363637
 "raw byteBag" 0.4710779477059694
@@ -1070,6 +1171,7 @@ edge [
 "raw bz" 0.44557823129251706
 "raw jump" 0.05782312925170063
 "raw ncd" 0.07982969664715274
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 46.666666666666664
 "skeletons byteBag" 0.5198634388578522
@@ -1077,6 +1179,7 @@ edge [
 "skeletons bz" 0.4221453287197232
 "skeletons jump" 0.07612456747404839
 "skeletons ncd" 0.15669081204727411
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.728971962616825
 "fstSecSkel byteBag" 0.5198634388578522
@@ -1084,6 +1187,7 @@ edge [
 "fstSecSkel bz" 0.4256055363321799
 "fstSecSkel jump" 0.07958477508650519
 "fstSecSkel ncd" 0.1561664757541046
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5465611685940353
@@ -1091,6 +1195,7 @@ edge [
 "fStat bz" 0.47750865051903113
 "fStat jump" 0.1384083044982699
 "fStat ncd" 0.15737051792828685
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 37.254901960784316
 "fStat0 byteBag" 0.5465611685940353
@@ -1105,6 +1210,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.71844660194175
 "raw byteBag" 0.5688343382141832
@@ -1112,6 +1218,7 @@ edge [
 "raw bz" 0.4809523809523809
 "raw jump" 0.02857142857142858
 "raw ncd" 0.10075939988886831
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 47.945205479452056
 "skeletons byteBag" 0.6515033696215656
@@ -1119,6 +1226,7 @@ edge [
 "skeletons bz" 0.4585365853658536
 "skeletons jump" 0.09268292682926826
 "skeletons ncd" 0.21002592912705273
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.0
 "fstSecSkel byteBag" 0.6515033696215656
@@ -1126,6 +1234,7 @@ edge [
 "fstSecSkel bz" 0.47804878048780486
 "fstSecSkel jump" 0.09268292682926826
 "fstSecSkel ncd" 0.2094331458243185
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 43.20987654320987
 "fStat byteBag" 0.6903127383676583
@@ -1133,6 +1242,7 @@ edge [
 "fStat bz" 0.5658536585365854
 "fStat jump" 0.15121951219512197
 "fStat ncd" 0.19369369369369369
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.6903127383676583
@@ -1147,6 +1257,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 27.397260273972606
 "raw byteBag" 0.33556963080256685
@@ -1154,6 +1265,7 @@ edge [
 "raw bz" 0.2660550458715596
 "raw jump" 0.05733944954128445
 "raw ncd" 0.06663845991114872
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 44.76190476190476
 "skeletons byteBag" 0.33636540835553247
@@ -1161,6 +1273,7 @@ edge [
 "skeletons bz" 0.4319526627218935
 "skeletons jump" 0.09171597633136097
 "skeletons ncd" 0.11068625477963373
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 44.85981308411215
 "fstSecSkel byteBag" 0.33636540835553247
@@ -1168,6 +1281,7 @@ edge [
 "fstSecSkel bz" 0.4349112426035503
 "fstSecSkel jump" 0.09171597633136097
 "fstSecSkel ncd" 0.11017119838872105
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.39554655870445343
@@ -1175,6 +1289,7 @@ edge [
 "fStat bz" 0.4497041420118343
 "fStat jump" 0.15384615384615385
 "fStat ncd" 0.1206896551724138
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.39554655870445343
@@ -1189,6 +1304,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.23491207034372502
@@ -1196,6 +1312,7 @@ edge [
 "raw bz" 0.2909090909090909
 "raw jump" 0.048484848484848464
 "raw ncd" 0.0763653939101015
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.27596384430916804
@@ -1203,6 +1320,7 @@ edge [
 "skeletons bz" 0.26708074534161486
 "skeletons jump" 0.08695652173913049
 "skeletons ncd" 0.13542600896860987
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.27596384430916804
@@ -1210,6 +1328,7 @@ edge [
 "fstSecSkel bz" 0.2795031055900621
 "fstSecSkel jump" 0.08695652173913049
 "fstSecSkel ncd" 0.13387241689128482
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 26.315789473684205
 "fStat byteBag" 0.2313131313131313
@@ -1217,6 +1336,7 @@ edge [
 "fStat bz" 0.2981366459627329
 "fStat jump" 0.15527950310559002
 "fStat ncd" 0.13288288288288289
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2313131313131313
@@ -1231,6 +1351,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 33.92857142857143
 "raw byteBag" 0.3077754841246437
@@ -1238,6 +1359,7 @@ edge [
 "raw bz" 0.4121212121212121
 "raw jump" 0.042424242424242475
 "raw ncd" 0.05872402126631223
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.3813574660633484
@@ -1245,6 +1367,7 @@ edge [
 "skeletons bz" 0.39751552795031053
 "skeletons jump" 0.08695652173913049
 "skeletons ncd" 0.11121076233183856
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.3813574660633484
@@ -1252,6 +1375,7 @@ edge [
 "fstSecSkel bz" 0.40993788819875776
 "fstSecSkel jump" 0.08695652173913049
 "fstSecSkel ncd" 0.11096136567834682
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 25.0
 "fStat byteBag" 0.2545454545454545
@@ -1259,6 +1383,7 @@ edge [
 "fStat bz" 0.3850931677018633
 "fStat jump" 0.1428571428571429
 "fStat ncd" 0.1036036036036036
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2545454545454545
@@ -1273,6 +1398,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.27102991367195345
@@ -1280,6 +1406,7 @@ edge [
 "raw bz" 0.2727272727272727
 "raw jump" 0.048484848484848464
 "raw ncd" 0.09569840502658289
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2645581395348837
@@ -1287,6 +1414,7 @@ edge [
 "skeletons bz" 0.25465838509316774
 "skeletons jump" 0.08695652173913049
 "skeletons ncd" 0.1618834080717489
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2645581395348837
@@ -1294,6 +1422,7 @@ edge [
 "fstSecSkel bz" 0.26708074534161486
 "fstSecSkel jump" 0.08695652173913049
 "fstSecSkel ncd" 0.16037735849056603
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.2313131313131313
@@ -1301,6 +1430,7 @@ edge [
 "fStat bz" 0.30434782608695654
 "fStat jump" 0.17391304347826086
 "fStat ncd" 0.13513513513513514
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2313131313131313
@@ -1315,6 +1445,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.77777777777778
 "raw byteBag" 0.8522567984300533
@@ -1322,6 +1453,7 @@ edge [
 "raw bz" 0.8028169014084507
 "raw jump" 0.05633802816901412
 "raw ncd" 0.6682692307692307
+"skeletons ssdeep" 71
 "skeletons ppdeep" 74
 "skeletons ppdeep_mod" 92.85714285714286
 "skeletons byteBag" 0.9622828784119106
@@ -1329,6 +1461,7 @@ edge [
 "skeletons bz" 0.8484848484848485
 "skeletons jump" 0.7727272727272727
 "skeletons ncd" 0.9016393442622951
+"fstSecSkel ssdeep" 71
 "fstSecSkel ppdeep" 74
 "fstSecSkel ppdeep_mod" 92.1875
 "fstSecSkel byteBag" 0.9622828784119106
@@ -1336,6 +1469,7 @@ edge [
 "fstSecSkel bz" 0.8939393939393939
 "fstSecSkel jump" 0.7727272727272727
 "fstSecSkel ncd" 0.9010989010989011
+"fStat ssdeep" 60
 "fStat ppdeep" 60
 "fStat ppdeep_mod" 60.0
 "fStat byteBag" 0.9382239382239382
@@ -1343,6 +1477,7 @@ edge [
 "fStat bz" 0.8787878787878788
 "fStat jump" 0.8484848484848485
 "fStat ncd" 0.8288288288288288
+"fStat0 ssdeep" 88
 "fStat0 ppdeep" 93
 "fStat0 ppdeep_mod" 91.2280701754386
 "fStat0 byteBag" 0.9382239382239382
@@ -1357,6 +1492,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.12710584869675778
@@ -1364,6 +1500,7 @@ edge [
 "raw bz" 0.12398921832884102
 "raw jump" 0.02695417789757415
 "raw ncd" 0.028381515087571217
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1357061826432218
@@ -1371,6 +1508,7 @@ edge [
 "skeletons bz" 0.1282051282051282
 "skeletons jump" 0.09686609686609682
 "skeletons ncd" 0.04277025701392976
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1357061826432218
@@ -1378,6 +1516,7 @@ edge [
 "fstSecSkel bz" 0.11965811965811968
 "fstSecSkel jump" 0.09686609686609682
 "fstSecSkel ncd" 0.04396467124631992
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.09665871121718377
@@ -1385,6 +1524,7 @@ edge [
 "fStat bz" 0.13960113960113962
 "fStat jump" 0.11396011396011396
 "fStat ncd" 0.04034896401308615
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.09665871121718377
@@ -1399,6 +1539,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.17242729306487695
@@ -1406,6 +1547,7 @@ edge [
 "raw bz" 0.13595166163141992
 "raw jump" 0.0392749244712991
 "raw ncd" 0.039913911171982
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.16900216307721244
@@ -1413,6 +1555,7 @@ edge [
 "skeletons bz" 0.13131313131313127
 "skeletons jump" 0.09090909090909094
 "skeletons ncd" 0.0692919348731541
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.16900216307721244
@@ -1420,6 +1563,7 @@ edge [
 "fstSecSkel bz" 0.12121212121212122
 "fstSecSkel jump" 0.08754208754208759
 "fstSecSkel ncd" 0.06899166034874905
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.10843373493975904
@@ -1427,6 +1571,7 @@ edge [
 "fStat bz" 0.13468013468013473
 "fStat jump" 0.12794612794612792
 "fStat ncd" 0.050522648083623695
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.10843373493975904
@@ -1441,6 +1586,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.20764709681586255
@@ -1448,6 +1594,7 @@ edge [
 "raw bz" 0.24110671936758898
 "raw jump" 0.0513833992094862
 "raw ncd" 0.08898516913847693
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.18838010832102411
@@ -1455,6 +1602,7 @@ edge [
 "skeletons bz" 0.23983739837398377
 "skeletons jump" 0.1422764227642277
 "skeletons ncd" 0.12458333333333334
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.18838010832102411
@@ -1462,6 +1610,7 @@ edge [
 "fstSecSkel bz" 0.23983739837398377
 "fstSecSkel jump" 0.1422764227642277
 "fstSecSkel ncd" 0.12353923205342238
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.12280701754385964
@@ -1469,6 +1618,7 @@ edge [
 "fStat bz" 0.1097560975609756
 "fStat jump" 0.16260162601626016
 "fStat ncd" 0.06852248394004283
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.12280701754385964
@@ -1483,6 +1633,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.3315932572050027
@@ -1490,6 +1641,7 @@ edge [
 "raw bz" 0.21818181818181814
 "raw jump" 0.042424242424242475
 "raw ncd" 0.07238734419942473
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 51.31578947368421
 "skeletons byteBag" 0.3112952316537031
@@ -1497,6 +1649,7 @@ edge [
 "skeletons bz" 0.19374999999999998
 "skeletons jump" 0.06874999999999998
 "skeletons ncd" 0.10063176895306859
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.56410256410256
 "fstSecSkel byteBag" 0.3112952316537031
@@ -1504,6 +1657,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.06874999999999998
 "fstSecSkel ncd" 0.09990958408679927
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1965484180249281
@@ -1511,6 +1665,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.10624999999999996
 "fStat ncd" 0.07792207792207792
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1965484180249281
@@ -1525,6 +1680,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.19961575408261287
@@ -1532,6 +1688,7 @@ edge [
 "raw bz" 0.15306122448979587
 "raw jump" 0.04421768707482998
 "raw ncd" 0.04721621089907535
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.17086730911786507
@@ -1539,6 +1696,7 @@ edge [
 "skeletons bz" 0.0989761092150171
 "skeletons jump" 0.09556313993174059
 "skeletons ncd" 0.07978923598042906
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.17086730911786507
@@ -1546,6 +1704,7 @@ edge [
 "fstSecSkel bz" 0.07508532423208192
 "fstSecSkel jump" 0.09556313993174059
 "fstSecSkel ncd" 0.07912584777694047
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.11009174311926606
@@ -1553,6 +1712,7 @@ edge [
 "fStat bz" 0.12627986348122866
 "fStat jump" 0.12627986348122866
 "fStat ncd" 0.04745762711864407
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.11009174311926606
@@ -1567,6 +1727,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.23340326689644839
@@ -1574,6 +1735,7 @@ edge [
 "raw bz" 0.28837209302325584
 "raw jump" 0.041860465116279055
 "raw ncd" 0.0821048703116253
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2638733183856502
@@ -1581,6 +1743,7 @@ edge [
 "skeletons bz" 0.2783018867924528
 "skeletons jump" 0.16981132075471694
 "skeletons ncd" 0.11937035417577613
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2638733183856502
@@ -1588,6 +1751,7 @@ edge [
 "fstSecSkel bz" 0.2783018867924528
 "fstSecSkel jump" 0.16981132075471694
 "fstSecSkel ncd" 0.11914148050810337
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.18225419664268586
@@ -1595,6 +1759,7 @@ edge [
 "fStat bz" 0.11792452830188682
 "fStat jump" 0.18867924528301883
 "fStat ncd" 0.07711442786069651
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.18225419664268586
@@ -1609,6 +1774,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2044980443285528
@@ -1616,6 +1782,7 @@ edge [
 "raw bz" 0.20588235294117652
 "raw jump" 0.0490196078431373
 "raw ncd" 0.08181499649614576
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20781644527390494
@@ -1623,6 +1790,7 @@ edge [
 "skeletons bz" 0.19407894736842102
 "skeletons jump" 0.125
 "skeletons ncd" 0.1057285659361784
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20781644527390494
@@ -1630,6 +1798,7 @@ edge [
 "fstSecSkel bz" 0.19407894736842102
 "fstSecSkel jump" 0.125
 "fstSecSkel ncd" 0.10508083140877598
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15270618556701032
@@ -1637,6 +1806,7 @@ edge [
 "fStat bz" 0.11513157894736847
 "fStat jump" 0.13486842105263153
 "fStat ncd" 0.07520325203252033
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15270618556701032
@@ -1651,6 +1821,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2255163692567093
@@ -1658,6 +1829,7 @@ edge [
 "raw bz" 0.20454545454545459
 "raw jump" 0.045454545454545414
 "raw ncd" 0.10702281974173006
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2056421677802524
@@ -1665,6 +1837,7 @@ edge [
 "skeletons bz" 0.19798657718120805
 "skeletons jump" 0.11409395973154357
 "skeletons ncd" 0.13779830638953042
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2056421677802524
@@ -1672,6 +1845,7 @@ edge [
 "fstSecSkel bz" 0.19798657718120805
 "fstSecSkel jump" 0.11409395973154357
 "fstSecSkel ncd" 0.1371868978805395
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14831038798498122
@@ -1679,6 +1853,7 @@ edge [
 "fStat bz" 0.11073825503355705
 "fStat jump" 0.13758389261744963
 "fStat ncd" 0.07114624505928854
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14831038798498122
@@ -1693,6 +1868,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.33434948285247684
@@ -1700,6 +1876,7 @@ edge [
 "raw bz" 0.27439024390243905
 "raw jump" 0.03658536585365857
 "raw ncd" 0.07405682347461574
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 51.282051282051285
 "skeletons byteBag" 0.3045206159960258
@@ -1707,6 +1884,7 @@ edge [
 "skeletons bz" 0.22012578616352196
 "skeletons jump" 0.0691823899371069
 "skeletons ncd" 0.10286458333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 51.89873417721519
 "fstSecSkel byteBag" 0.3045206159960258
@@ -1714,6 +1892,7 @@ edge [
 "fstSecSkel bz" 0.2075471698113207
 "fstSecSkel jump" 0.0691823899371069
 "fstSecSkel ncd" 0.10382276281494353
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.19864341085271317
@@ -1721,6 +1900,7 @@ edge [
 "fStat bz" 0.2075471698113207
 "fStat jump" 0.10062893081761004
 "fStat ncd" 0.07608695652173914
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.19864341085271317
@@ -1735,6 +1915,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14497359233730195
@@ -1742,6 +1923,7 @@ edge [
 "raw bz" 0.13091922005571033
 "raw jump" 0.03342618384401119
 "raw ncd" 0.033386159535129425
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.12839310481474142
@@ -1749,6 +1931,7 @@ edge [
 "skeletons bz" 0.12753623188405794
 "skeletons jump" 0.10724637681159421
 "skeletons ncd" 0.05069682892344981
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.12839310481474142
@@ -1756,6 +1939,7 @@ edge [
 "fstSecSkel bz" 0.11884057971014494
 "fstSecSkel jump" 0.10434782608695647
 "fstSecSkel ncd" 0.05192968276419479
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.0968513351933041
@@ -1763,6 +1947,7 @@ edge [
 "fStat bz" 0.14492753623188404
 "fStat jump" 0.11304347826086958
 "fStat ncd" 0.04086021505376344
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.0968513351933041
@@ -1777,6 +1962,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.57142857142857
 "raw byteBag" 0.6727363432277376
@@ -1784,6 +1970,7 @@ edge [
 "raw bz" 0.375
 "raw jump" 0.03409090909090906
 "raw ncd" 0.12778782399035563
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 82.25806451612902
 "skeletons byteBag" 0.7135374697824335
@@ -1791,6 +1978,7 @@ edge [
 "skeletons bz" 0.3448275862068966
 "skeletons jump" 0.28735632183908044
 "skeletons ncd" 0.24408468244084683
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 81.25
 "fstSecSkel byteBag" 0.7135374697824335
@@ -1798,6 +1986,7 @@ edge [
 "fstSecSkel bz" 0.31034482758620685
 "fstSecSkel jump" 0.28735632183908044
 "fstSecSkel ncd" 0.245
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 30.0
 "fStat byteBag" 0.5305039787798409
@@ -1805,6 +1994,7 @@ edge [
 "fStat bz" 0.26436781609195403
 "fStat jump" 0.4022988505747126
 "fStat ncd" 0.16981132075471697
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.450450450450454
 "fStat0 byteBag" 0.5305039787798409
@@ -1819,6 +2009,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.34375
 "raw byteBag" 0.6060264714165023
@@ -1826,6 +2017,7 @@ edge [
 "raw bz" 0.3492063492063492
 "raw jump" 0.031746031746031744
 "raw ncd" 0.283363802559415
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.38297872340426
 "skeletons byteBag" 0.6390588235294118
@@ -1833,6 +2025,7 @@ edge [
 "skeletons bz" 0.30508474576271183
 "skeletons jump" 0.22033898305084743
 "skeletons ncd" 0.33852140077821014
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 56.25
 "fstSecSkel byteBag" 0.6390588235294118
@@ -1840,6 +2033,7 @@ edge [
 "fstSecSkel bz" 0.27118644067796616
 "fstSecSkel jump" 0.22033898305084743
 "fstSecSkel ncd" 0.3363754889178618
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 30.0
 "fStat byteBag" 0.5789473684210527
@@ -1847,6 +2041,7 @@ edge [
 "fStat bz" 0.23728813559322037
 "fStat jump" 0.2542372881355932
 "fStat ncd" 0.2602739726027397
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 58.8235294117647
 "fStat0 byteBag" 0.5789473684210527
@@ -1861,6 +2056,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.26986001011975036
@@ -1868,6 +2064,7 @@ edge [
 "raw bz" 0.24630541871921185
 "raw jump" 0.049261083743842415
 "raw ncd" 0.10997067448680352
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 63.829787234042556
 "skeletons byteBag" 0.26278563656147985
@@ -1875,6 +2072,7 @@ edge [
 "skeletons bz" 0.2272727272727273
 "skeletons jump" 0.18181818181818177
 "skeletons ncd" 0.15685431886549206
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 64.58333333333334
 "fstSecSkel byteBag" 0.26278563656147985
@@ -1882,6 +2080,7 @@ edge [
 "fstSecSkel bz" 0.23232323232323238
 "fstSecSkel jump" 0.18181818181818177
 "fstSecSkel ncd" 0.15669393026259149
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.18688524590163935
@@ -1889,6 +2088,7 @@ edge [
 "fStat bz" 0.11111111111111116
 "fStat jump" 0.19696969696969702
 "fStat ncd" 0.0821256038647343
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.18688524590163935
@@ -1903,6 +2103,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.142857142857146
 "raw byteBag" 0.47991025902508666
@@ -1910,6 +2111,7 @@ edge [
 "raw bz" 0.4505494505494505
 "raw jump" 0.04395604395604391
 "raw ncd" 0.10629693818601964
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 77.41935483870968
 "skeletons byteBag" 0.6346848655158571
@@ -1917,6 +2119,7 @@ edge [
 "skeletons bz" 0.4
 "skeletons jump" 0.25555555555555554
 "skeletons ncd" 0.21628189550425272
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 76.5625
 "fstSecSkel byteBag" 0.6346848655158571
@@ -1924,6 +2127,7 @@ edge [
 "fstSecSkel bz" 0.37777777777777777
 "fstSecSkel jump" 0.25555555555555554
 "fstSecSkel ncd" 0.21829268292682927
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 30.0
 "fStat byteBag" 0.5249343832020997
@@ -1931,6 +2135,7 @@ edge [
 "fStat bz" 0.25555555555555554
 "fStat jump" 0.38888888888888884
 "fStat ncd" 0.15822784810126583
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.5249343832020997
@@ -1945,6 +2150,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.18185490852426847
@@ -1952,6 +2158,7 @@ edge [
 "raw bz" 0.2279411764705882
 "raw jump" 0.044117647058823484
 "raw ncd" 0.0653183023872679
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.19048103325536458
@@ -1959,6 +2166,7 @@ edge [
 "skeletons bz" 0.22264150943396221
 "skeletons jump" 0.13584905660377355
 "skeletons ncd" 0.09640522875816994
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.19048103325536458
@@ -1966,6 +2174,7 @@ edge [
 "fstSecSkel bz" 0.22264150943396221
 "fstSecSkel jump" 0.13584905660377355
 "fstSecSkel ncd" 0.0953355155482815
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.12075681691708402
@@ -1973,6 +2182,7 @@ edge [
 "fStat bz" 0.10943396226415092
 "fStat jump" 0.15094339622641506
 "fStat ncd" 0.06387665198237885
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.12075681691708402
@@ -1987,6 +2197,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.19845956354300384
@@ -1994,6 +2205,7 @@ edge [
 "raw bz" 0.14141414141414144
 "raw jump" 0.03703703703703709
 "raw ncd" 0.051384186417048394
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.17132769673882747
@@ -2001,6 +2213,7 @@ edge [
 "skeletons bz" 0.09999999999999998
 "skeletons jump" 0.09999999999999998
 "skeletons ncd" 0.08223429014740109
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.17132769673882747
@@ -2008,6 +2221,7 @@ edge [
 "fstSecSkel bz" 0.07586206896551728
 "fstSecSkel jump" 0.096551724137931
 "fstSecSkel ncd" 0.08233009708737864
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.11244143675169183
@@ -2015,6 +2229,7 @@ edge [
 "fStat bz" 0.1344827586206897
 "fStat jump" 0.11379310344827587
 "fStat ncd" 0.04886561954624782
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.11244143675169183
@@ -2029,6 +2244,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.34375
 "raw byteBag" 0.5684449958643507
@@ -2036,6 +2252,7 @@ edge [
 "raw bz" 0.7391304347826086
 "raw jump" 0.02898550724637683
 "raw ncd" 0.5397111913357401
+"skeletons ssdeep" 68
 "skeletons ppdeep" 72
 "skeletons ppdeep_mod" 91.26984126984127
 "skeletons byteBag" 0.8228021978021978
@@ -2043,6 +2260,7 @@ edge [
 "skeletons bz" 0.8333333333333334
 "skeletons jump" 0.48484848484848486
 "skeletons ncd" 0.7172131147540983
+"fstSecSkel ssdeep" 68
 "fstSecSkel ppdeep" 72
 "fstSecSkel ppdeep_mod" 90.625
 "fstSecSkel byteBag" 0.8228021978021978
@@ -2050,6 +2268,7 @@ edge [
 "fstSecSkel bz" 0.8484848484848485
 "fstSecSkel jump" 0.48484848484848486
 "fstSecSkel ncd" 0.7184065934065934
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 30.0
 "fStat byteBag" 0.8209459459459459
@@ -2057,6 +2276,7 @@ edge [
 "fStat bz" 0.7878787878787878
 "fStat jump" 0.6515151515151515
 "fStat ncd" 0.5523809523809524
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 60.50420168067227
 "fStat0 byteBag" 0.8209459459459459
@@ -2071,6 +2291,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.20468431771894094
@@ -2078,6 +2299,7 @@ edge [
 "raw bz" 0.22962962962962963
 "raw jump" 0.051851851851851816
 "raw ncd" 0.08718452966240577
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.18432468909669333
@@ -2085,6 +2307,7 @@ edge [
 "skeletons bz" 0.22605363984674332
 "skeletons jump" 0.13026819923371646
 "skeletons ncd" 0.1218026796589525
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.18432468909669333
@@ -2092,6 +2315,7 @@ edge [
 "fstSecSkel bz" 0.22605363984674332
 "fstSecSkel jump" 0.13026819923371646
 "fstSecSkel ncd" 0.12078080520536803
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.11864406779661017
@@ -2099,6 +2323,7 @@ edge [
 "fStat bz" 0.11111111111111116
 "fStat jump" 0.15325670498084287
 "fStat ncd" 0.06041666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.11864406779661017
@@ -2113,6 +2338,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.23009799012946142
@@ -2120,6 +2346,7 @@ edge [
 "raw bz" 0.20748299319727892
 "raw jump" 0.04761904761904767
 "raw ncd" 0.11211637395777896
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20779777206512426
@@ -2127,6 +2354,7 @@ edge [
 "skeletons bz" 0.20415224913494812
 "skeletons jump" 0.12110726643598613
 "skeletons ncd" 0.14601601219977126
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20779777206512426
@@ -2134,6 +2362,7 @@ edge [
 "fstSecSkel bz" 0.20415224913494812
 "fstSecSkel jump" 0.12110726643598613
 "fstSecSkel ncd" 0.14585719740358916
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15172855313700384
@@ -2141,6 +2370,7 @@ edge [
 "fStat bz" 0.12110726643598613
 "fStat jump" 0.1384083044982699
 "fStat ncd" 0.07569721115537849
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15172855313700384
@@ -2155,6 +2385,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2656119900083264
@@ -2162,6 +2393,7 @@ edge [
 "raw bz" 0.2761904761904762
 "raw jump" 0.04761904761904767
 "raw ncd" 0.10390813113539545
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 62.765957446808514
 "skeletons byteBag" 0.2610517777477356
@@ -2169,6 +2401,7 @@ edge [
 "skeletons bz" 0.2682926829268293
 "skeletons jump" 0.1707317073170732
 "skeletons ncd" 0.14347450302506481
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 63.541666666666664
 "fstSecSkel byteBag" 0.2610517777477356
@@ -2176,6 +2409,7 @@ edge [
 "fstSecSkel bz" 0.2634146341463415
 "fstSecSkel jump" 0.1707317073170732
 "fstSecSkel ncd" 0.14279532669839895
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.18298555377207062
@@ -2183,6 +2417,7 @@ edge [
 "fStat bz" 0.11707317073170731
 "fStat jump" 0.19024390243902434
 "fStat ncd" 0.07951807228915662
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.18298555377207062
@@ -2197,6 +2432,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14588691846035828
@@ -2204,6 +2440,7 @@ edge [
 "raw bz" 0.10321100917431192
 "raw jump" 0.032110091743119296
 "raw ncd" 0.032896128622805165
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1278190545071997
@@ -2211,6 +2448,7 @@ edge [
 "skeletons bz" 0.1301775147928994
 "skeletons jump" 0.10059171597633132
 "skeletons ncd" 0.05353189776615013
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1278190545071997
@@ -2218,6 +2456,7 @@ edge [
 "fstSecSkel bz" 0.12130177514792895
 "fstSecSkel jump" 0.10059171597633132
 "fstSecSkel ncd" 0.05417925478348439
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.09870024370430544
@@ -2225,6 +2464,7 @@ edge [
 "fStat bz" 0.14792899408284022
 "fStat jump" 0.11538461538461542
 "fStat ncd" 0.03771551724137931
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.09870024370430544
@@ -2239,6 +2479,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.40650406504065
 "raw byteBag" 0.6221906116642959
@@ -2246,6 +2487,7 @@ edge [
 "raw bz" 0.31746031746031744
 "raw jump" 0.04761904761904767
 "raw ncd" 0.29859841560024375
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 58.51063829787234
 "skeletons byteBag" 0.6495525200188412
@@ -2253,6 +2495,7 @@ edge [
 "skeletons bz" 0.288135593220339
 "skeletons jump" 0.22033898305084743
 "skeletons ncd" 0.358974358974359
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 58.333333333333336
 "fstSecSkel byteBag" 0.6495525200188412
@@ -2260,6 +2503,7 @@ edge [
 "fstSecSkel bz" 0.2542372881355932
 "fstSecSkel jump" 0.22033898305084743
 "fstSecSkel ncd" 0.35695876288659795
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 30.0
 "fStat byteBag" 0.5742574257425742
@@ -2267,6 +2511,7 @@ edge [
 "fStat bz" 0.23728813559322037
 "fStat jump" 0.23728813559322037
 "fStat ncd" 0.24113475177304963
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 58.8235294117647
 "fStat0 byteBag" 0.5742574257425742
@@ -2281,6 +2526,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.23076923076923
 "raw byteBag" 0.6785353535353535
@@ -2288,6 +2534,7 @@ edge [
 "raw bz" 0.5444444444444445
 "raw jump" 0.022222222222222254
 "raw ncd" 0.13711151736745886
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 88.70967741935483
 "skeletons byteBag" 0.7205222358221134
@@ -2295,6 +2542,7 @@ edge [
 "skeletons bz" 0.28915662650602414
 "skeletons jump" 0.32530120481927716
 "skeletons ncd" 0.2534854245880862
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 87.5
 "fstSecSkel byteBag" 0.7205222358221134
@@ -2302,6 +2550,7 @@ edge [
 "fstSecSkel bz" 0.2650602409638554
 "fstSecSkel jump" 0.32530120481927716
 "fstSecSkel ncd" 0.25318066157760816
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 30.0
 "fStat byteBag" 0.5254691689008043
@@ -2309,6 +2558,7 @@ edge [
 "fStat bz" 0.2650602409638554
 "fStat jump" 0.37349397590361444
 "fStat ncd" 0.16981132075471697
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.450450450450454
 "fStat0 byteBag" 0.5254691689008043
@@ -2323,6 +2573,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.648648648648646
 "raw byteBag" 0.47579257802899977
@@ -2330,6 +2581,7 @@ edge [
 "raw bz" 0.3650793650793651
 "raw jump" 0.04761904761904767
 "raw ncd" 0.22730042656916513
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 60.0
 "skeletons byteBag" 0.5642923219241444
@@ -2337,6 +2589,7 @@ edge [
 "skeletons bz" 0.35593220338983056
 "skeletons jump" 0.18644067796610164
 "skeletons ncd" 0.26309067688378035
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 59.67741935483871
 "fstSecSkel byteBag" 0.5642923219241444
@@ -2344,6 +2597,7 @@ edge [
 "fstSecSkel bz" 0.3220338983050848
 "fstSecSkel jump" 0.18644067796610164
 "fstSecSkel ncd" 0.2631578947368421
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 55.645161290322584
 "fStat byteBag" 0.569078947368421
@@ -2351,6 +2605,7 @@ edge [
 "fStat bz" 0.22033898305084743
 "fStat jump" 0.288135593220339
 "fStat ncd" 0.2676056338028169
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 55.46218487394958
 "fStat0 byteBag" 0.569078947368421
@@ -2365,6 +2620,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.13072492552135054
@@ -2372,6 +2628,7 @@ edge [
 "raw bz" 0.12938005390835583
 "raw jump" 0.037735849056603765
 "raw ncd" 0.029014560033762397
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14012196851510425
@@ -2379,6 +2636,7 @@ edge [
 "skeletons bz" 0.1339031339031339
 "skeletons jump" 0.11396011396011396
 "skeletons ncd" 0.0439474200510104
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14012196851510425
@@ -2386,6 +2644,7 @@ edge [
 "fstSecSkel bz" 0.1339031339031339
 "fstSecSkel jump" 0.11396011396011396
 "fstSecSkel ncd" 0.04416094210009813
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1030230708035004
@@ -2393,6 +2652,7 @@ edge [
 "fStat bz" 0.15384615384615385
 "fStat jump" 0.1339031339031339
 "fStat ncd" 0.04580152671755725
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1030230708035004
@@ -2407,6 +2667,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.17928331466965286
@@ -2414,6 +2675,7 @@ edge [
 "raw bz" 0.14501510574018128
 "raw jump" 0.048338368580060465
 "raw ncd" 0.04128350616317746
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.17486595804722038
@@ -2421,6 +2683,7 @@ edge [
 "skeletons bz" 0.12457912457912457
 "skeletons jump" 0.10437710437710435
 "skeletons ncd" 0.0715638015903067
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.17486595804722038
@@ -2428,6 +2691,7 @@ edge [
 "fstSecSkel bz" 0.12121212121212122
 "fstSecSkel jump" 0.10437710437710435
 "fstSecSkel ncd" 0.0712661106899166
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.11646586345381527
@@ -2435,6 +2699,7 @@ edge [
 "fStat bz" 0.13468013468013473
 "fStat jump" 0.13468013468013473
 "fStat ncd" 0.05574912891986063
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.11646586345381527
@@ -2449,6 +2714,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21286617628081042
@@ -2456,6 +2722,7 @@ edge [
 "raw bz" 0.26877470355731226
 "raw jump" 0.04743083003952564
 "raw ncd" 0.08481919680053325
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.19428852781880848
@@ -2463,6 +2730,7 @@ edge [
 "skeletons bz" 0.2642276422764228
 "skeletons jump" 0.12195121951219512
 "skeletons ncd" 0.11041666666666666
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.19428852781880848
@@ -2470,6 +2738,7 @@ edge [
 "fstSecSkel bz" 0.2642276422764228
 "fstSecSkel jump" 0.12195121951219512
 "fstSecSkel ncd" 0.11060100166944908
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1318619128466327
@@ -2477,6 +2746,7 @@ edge [
 "fStat bz" 0.1097560975609756
 "fStat jump" 0.19105691056910568
 "fStat ncd" 0.07066381156316917
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1318619128466327
@@ -2491,6 +2761,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 34.48275862068965
 "raw byteBag" 0.33857499186639195
@@ -2498,6 +2769,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.042424242424242475
 "raw ncd" 0.07670182166826463
+"skeletons ssdeep" 30
 "skeletons ppdeep" 55
 "skeletons ppdeep_mod" 52.63157894736842
 "skeletons byteBag" 0.32166412988330795
@@ -2505,6 +2777,7 @@ edge [
 "skeletons bz" 0.17500000000000004
 "skeletons jump" 0.08750000000000002
 "skeletons ncd" 0.10514440433212996
+"fstSecSkel ssdeep" 27
 "fstSecSkel ppdeep" 55
 "fstSecSkel ppdeep_mod" 52.56410256410256
 "fstSecSkel byteBag" 0.32166412988330795
@@ -2512,6 +2785,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.08750000000000002
 "fstSecSkel ncd" 0.10488245931283906
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.21188878235858102
@@ -2519,6 +2793,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.10624999999999996
 "fStat ncd" 0.08658008658008658
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.21188878235858102
@@ -2533,6 +2808,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.20641937343840092
@@ -2540,6 +2816,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0374149659863946
 "raw ncd" 0.04879008459571119
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.17653600222407562
@@ -2547,6 +2824,7 @@ edge [
 "skeletons bz" 0.0921501706484642
 "skeletons jump" 0.08532423208191131
 "skeletons ncd" 0.08167105758374106
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.17653600222407562
@@ -2554,6 +2832,7 @@ edge [
 "fstSecSkel bz" 0.07508532423208192
 "fstSecSkel jump" 0.08532423208191131
 "fstSecSkel ncd" 0.08100979653353428
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.11824668705402651
@@ -2561,6 +2840,7 @@ edge [
 "fStat bz" 0.12286689419795227
 "fStat jump" 0.12627986348122866
 "fStat ncd" 0.05423728813559322
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.11824668705402651
@@ -2575,6 +2855,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2413793103448276
@@ -2582,6 +2863,7 @@ edge [
 "raw bz" 0.3162790697674419
 "raw jump" 0.046511627906976716
 "raw ncd" 0.08509050195932077
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2726380712082983
@@ -2589,6 +2871,7 @@ edge [
 "skeletons bz" 0.2971698113207547
 "skeletons jump" 0.19339622641509435
 "skeletons ncd" 0.12243113248797552
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2726380712082983
@@ -2596,6 +2879,7 @@ edge [
 "fstSecSkel bz" 0.2971698113207547
 "fstSecSkel jump" 0.19339622641509435
 "fstSecSkel ncd" 0.12220762155059132
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1950439648281375
@@ -2603,6 +2887,7 @@ edge [
 "fStat bz" 0.1132075471698113
 "fStat jump" 0.21698113207547165
 "fStat ncd" 0.0845771144278607
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1950439648281375
@@ -2617,6 +2902,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21150459792604187
@@ -2624,6 +2910,7 @@ edge [
 "raw bz" 0.2287581699346405
 "raw jump" 0.03594771241830064
 "raw ncd" 0.08724597056762438
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21467003403974963
@@ -2631,6 +2918,7 @@ edge [
 "skeletons bz" 0.2171052631578947
 "skeletons jump" 0.14802631578947367
 "skeletons ncd" 0.11341791618608228
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21467003403974963
@@ -2638,6 +2926,7 @@ edge [
 "fstSecSkel bz" 0.2171052631578947
 "fstSecSkel jump" 0.14802631578947367
 "fstSecSkel ncd" 0.11316397228637413
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.16301546391752578
@@ -2645,6 +2934,7 @@ edge [
 "fStat bz" 0.11513157894736847
 "fStat jump" 0.1578947368421053
 "fStat ncd" 0.08130081300813008
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.16301546391752578
@@ -2659,6 +2949,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.23516158558051117
@@ -2666,6 +2957,7 @@ edge [
 "raw bz" 0.2272727272727273
 "raw jump" 0.045454545454545414
 "raw ncd" 0.11179904475499734
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21213406873143828
@@ -2673,6 +2965,7 @@ edge [
 "skeletons bz" 0.2214765100671141
 "skeletons jump" 0.14429530201342278
 "skeletons ncd" 0.147036181678214
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21213406873143828
@@ -2680,6 +2973,7 @@ edge [
 "fstSecSkel bz" 0.2214765100671141
 "fstSecSkel jump" 0.14429530201342278
 "fstSecSkel ncd" 0.14720616570327552
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1583229036295369
@@ -2687,6 +2981,7 @@ edge [
 "fStat bz" 0.11073825503355705
 "fStat jump" 0.1610738255033557
 "fStat ncd" 0.07509881422924901
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1583229036295369
@@ -2701,6 +2996,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 34.54545454545455
 "raw byteBag" 0.3371212121212121
@@ -2708,6 +3004,7 @@ edge [
 "raw bz" 0.2804878048780488
 "raw jump" 0.04268292682926833
 "raw ncd" 0.07312529110386586
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 50.0
 "skeletons byteBag" 0.3144560357675112
@@ -2715,6 +3012,7 @@ edge [
 "skeletons bz" 0.20125786163522008
 "skeletons jump" 0.05660377358490565
 "skeletons ncd" 0.09635416666666667
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 50.63291139240506
 "fstSecSkel byteBag" 0.3144560357675112
@@ -2722,6 +3020,7 @@ edge [
 "fstSecSkel bz" 0.2075471698113207
 "fstSecSkel jump" 0.05660377358490565
 "fstSecSkel ncd" 0.09730668983492616
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.21414728682170542
@@ -2729,6 +3028,7 @@ edge [
 "fStat bz" 0.2075471698113207
 "fStat jump" 0.10062893081761004
 "fStat ncd" 0.0782608695652174
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.21414728682170542
@@ -2743,6 +3043,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14919896178286943
@@ -2750,6 +3051,7 @@ edge [
 "raw bz" 0.14206128133704732
 "raw jump" 0.03621169916434541
 "raw ncd" 0.03359746434231379
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.13243064729194187
@@ -2757,6 +3059,7 @@ edge [
 "skeletons bz" 0.12753623188405794
 "skeletons jump" 0.13043478260869568
 "skeletons ncd" 0.051302767117753986
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.13243064729194187
@@ -2764,6 +3067,7 @@ edge [
 "fstSecSkel bz" 0.12463768115942031
 "fstSecSkel jump" 0.12753623188405794
 "fstSecSkel ncd" 0.05192968276419479
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1032283778397768
@@ -2771,6 +3075,7 @@ edge [
 "fStat bz" 0.1594202898550725
 "fStat jump" 0.1333333333333333
 "fStat ncd" 0.04516129032258064
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1032283778397768
@@ -2785,6 +3090,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.6790032075006168
@@ -2792,6 +3098,7 @@ edge [
 "raw bz" 0.3522727272727273
 "raw jump" 0.045454545454545414
 "raw ncd" 0.13822115384615385
+"skeletons ssdeep" 60
 "skeletons ppdeep" 74
 "skeletons ppdeep_mod" 80.64516129032258
 "skeletons byteBag" 0.7286573146292585
@@ -2799,6 +3106,7 @@ edge [
 "skeletons bz" 0.32183908045977017
 "skeletons jump" 0.28735632183908044
 "skeletons ncd" 0.26774595267745954
+"fstSecSkel ssdeep" 60
 "fstSecSkel ppdeep" 74
 "fstSecSkel ppdeep_mod" 79.6875
 "fstSecSkel byteBag" 0.7286573146292585
@@ -2806,6 +3114,7 @@ edge [
 "fstSecSkel bz" 0.31034482758620685
 "fstSecSkel jump" 0.28735632183908044
 "fstSecSkel ncd" 0.2675
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 37.704918032786885
 "fStat byteBag" 0.5362694300518135
@@ -2813,6 +3122,7 @@ edge [
 "fStat bz" 0.24137931034482762
 "fStat jump" 0.4022988505747126
 "fStat ncd" 0.1761006289308176
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.442477876106196
 "fStat0 byteBag" 0.5362694300518135
@@ -2827,6 +3137,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 41.935483870967744
 "raw byteBag" 0.5922063666300769
@@ -2834,6 +3145,7 @@ edge [
 "raw bz" 0.2816901408450704
 "raw jump" 0.04225352112676062
 "raw ncd" 0.2932692307692308
+"skeletons ssdeep" 44
 "skeletons ppdeep" 54
 "skeletons ppdeep_mod" 57.4468085106383
 "skeletons byteBag" 0.6334716459197787
@@ -2841,6 +3153,7 @@ edge [
 "skeletons bz" 0.24242424242424243
 "skeletons jump" 0.2272727272727273
 "skeletons ncd" 0.35667963683527887
+"fstSecSkel ssdeep" 46
 "fstSecSkel ppdeep" 55
 "fstSecSkel ppdeep_mod" 58.333333333333336
 "fstSecSkel byteBag" 0.6334716459197787
@@ -2848,6 +3161,7 @@ edge [
 "fstSecSkel bz" 0.24242424242424243
 "fstSecSkel jump" 0.2272727272727273
 "fstSecSkel ncd" 0.3559322033898305
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 40.0
 "fStat byteBag" 0.559748427672956
@@ -2855,6 +3169,7 @@ edge [
 "fStat bz" 0.21212121212121215
 "fStat jump" 0.2272727272727273
 "fStat ncd" 0.273972602739726
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 58.67768595041322
 "fStat0 byteBag" 0.559748427672956
@@ -2869,6 +3184,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 31.506849315068493
 "raw byteBag" 0.27627147187605255
@@ -2876,6 +3192,7 @@ edge [
 "raw bz" 0.2364532019704434
 "raw jump" 0.054187192118226646
 "raw ncd" 0.10667155425219942
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 55.319148936170215
 "skeletons byteBag" 0.27094668117519044
@@ -2883,6 +3200,7 @@ edge [
 "skeletons bz" 0.2272727272727273
 "skeletons jump" 0.16161616161616166
 "skeletons ncd" 0.14782982380747745
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.208333333333336
 "fstSecSkel byteBag" 0.27094668117519044
@@ -2890,6 +3208,7 @@ edge [
 "fstSecSkel bz" 0.23232323232323238
 "fstSecSkel jump" 0.16161616161616166
 "fstSecSkel ncd" 0.1485148514851485
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.2
@@ -2897,6 +3216,7 @@ edge [
 "fStat bz" 0.10606060606060608
 "fStat jump" 0.23232323232323238
 "fStat ncd" 0.08695652173913043
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2
@@ -2911,6 +3231,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.5
 "raw byteBag" 0.49007293354943277
@@ -2918,6 +3239,7 @@ edge [
 "raw bz" 0.46153846153846156
 "raw jump" 0.05494505494505497
 "raw ncd" 0.11611785095320624
+"skeletons ssdeep" 79
 "skeletons ppdeep" 83
 "skeletons ppdeep_mod" 82.25806451612902
 "skeletons byteBag" 0.6488427773343974
@@ -2925,6 +3247,7 @@ edge [
 "skeletons bz" 0.4
 "skeletons jump" 0.3222222222222222
 "skeletons ncd" 0.2345078979343864
+"fstSecSkel ssdeep" 75
 "fstSecSkel ppdeep" 82
 "fstSecSkel ppdeep_mod" 81.25
 "fstSecSkel byteBag" 0.6488427773343974
@@ -2932,6 +3255,7 @@ edge [
 "fstSecSkel bz" 0.37777777777777777
 "fstSecSkel jump" 0.3222222222222222
 "fstSecSkel ncd" 0.23414634146341465
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 37.096774193548384
 "fStat byteBag" 0.5347043701799485
@@ -2939,6 +3263,7 @@ edge [
 "fStat bz" 0.23333333333333328
 "fStat jump" 0.4111111111111111
 "fStat ncd" 0.17088607594936708
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.87719298245614
 "fStat0 byteBag" 0.5347043701799485
@@ -2953,6 +3278,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 26.66666666666667
 "raw byteBag" 0.18736295441431045
@@ -2960,6 +3286,7 @@ edge [
 "raw bz" 0.2536764705882353
 "raw jump" 0.047794117647058876
 "raw ncd" 0.06863395225464192
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.19682636557827282
@@ -2967,6 +3294,7 @@ edge [
 "skeletons bz" 0.24905660377358485
 "skeletons jump" 0.1622641509433962
 "skeletons ncd" 0.10294117647058823
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.19682636557827282
@@ -2974,6 +3302,7 @@ edge [
 "fstSecSkel bz" 0.24905660377358485
 "fstSecSkel jump" 0.1622641509433962
 "fstSecSkel ncd" 0.10270049099836334
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1296605453533667
@@ -2981,6 +3310,7 @@ edge [
 "fStat bz" 0.10943396226415092
 "fStat jump" 0.1773584905660377
 "fStat ncd" 0.07268722466960352
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1296605453533667
@@ -2995,6 +3325,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2062074283511117
@@ -3002,6 +3333,7 @@ edge [
 "raw bz" 0.13468013468013473
 "raw jump" 0.04040404040404044
 "raw ncd" 0.049193387771360286
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.17701170786099238
@@ -3009,6 +3341,7 @@ edge [
 "skeletons bz" 0.09310344827586203
 "skeletons jump" 0.07241379310344831
 "skeletons ncd" 0.07835531419705198
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.17701170786099238
@@ -3016,6 +3349,7 @@ edge [
 "fstSecSkel bz" 0.07586206896551728
 "fstSecSkel jump" 0.06896551724137934
 "fstSecSkel ncd" 0.07883495145631068
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.12077043206663196
@@ -3023,6 +3357,7 @@ edge [
 "fStat bz" 0.13103448275862073
 "fStat jump" 0.11379310344827587
 "fStat ncd" 0.05759162303664921
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.12077043206663196
@@ -3037,6 +3372,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.45454545454545
 "raw byteBag" 0.5941908713692946
@@ -3044,6 +3380,7 @@ edge [
 "raw bz" 0.9295774647887324
 "raw jump" 0.3098591549295775
 "raw ncd" 0.6292067307692307
+"skeletons ssdeep" 97
 "skeletons ppdeep" 100
 "skeletons ppdeep_mod" 100.0
 "skeletons byteBag" 0.843521897810219
@@ -3051,6 +3388,7 @@ edge [
 "skeletons bz" 0.9545454545454546
 "skeletons jump" 0.6515151515151515
 "skeletons ncd" 0.761969904240766
+"fstSecSkel ssdeep" 97
 "fstSecSkel ppdeep" 99
 "fstSecSkel ppdeep_mod" 98.4375
 "fstSecSkel byteBag" 0.843521897810219
@@ -3058,6 +3396,7 @@ edge [
 "fstSecSkel bz" 0.9545454545454546
 "fstSecSkel jump" 0.6515151515151515
 "fstSecSkel ncd" 0.7637362637362637
+"fStat ssdeep" 40
 "fStat ppdeep" 40
 "fStat ppdeep_mod" 40.0
 "fStat byteBag" 0.8561872909698997
@@ -3065,6 +3404,7 @@ edge [
 "fStat bz" 0.8939393939393939
 "fStat jump" 0.7727272727272727
 "fStat ncd" 0.6306306306306306
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 61.98347107438016
 "fStat0 byteBag" 0.8561872909698997
@@ -3079,6 +3419,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.20998410174880763
@@ -3086,6 +3427,7 @@ edge [
 "raw bz" 0.25555555555555554
 "raw jump" 0.051851851851851816
 "raw ncd" 0.09062602425434284
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.19022367913613575
@@ -3093,6 +3435,7 @@ edge [
 "skeletons bz" 0.25287356321839083
 "skeletons jump" 0.15708812260536398
 "skeletons ncd" 0.1307348761672757
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.19022367913613575
@@ -3100,6 +3443,7 @@ edge [
 "fstSecSkel bz" 0.25287356321839083
 "fstSecSkel jump" 0.15708812260536398
 "fstSecSkel ncd" 0.13013420089467262
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1273920174958994
@@ -3107,6 +3451,7 @@ edge [
 "fStat bz" 0.11111111111111116
 "fStat jump" 0.1800766283524904
 "fStat ncd" 0.06041666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1273920174958994
@@ -3121,6 +3466,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2381531853972799
@@ -3128,6 +3474,7 @@ edge [
 "raw bz" 0.23469387755102045
 "raw jump" 0.04081632653061229
 "raw ncd" 0.10945538406954053
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21422450728363324
@@ -3135,6 +3482,7 @@ edge [
 "skeletons bz" 0.22145328719723179
 "skeletons jump" 0.10726643598615915
 "skeletons ncd" 0.13991612657262675
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21422450728363324
@@ -3142,6 +3490,7 @@ edge [
 "fstSecSkel bz" 0.22145328719723179
 "fstSecSkel jump" 0.10726643598615915
 "fstSecSkel ncd" 0.13974799541809851
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1619718309859155
@@ -3149,6 +3498,7 @@ edge [
 "fStat bz" 0.12110726643598613
 "fStat jump" 0.16262975778546718
 "fStat ncd" 0.07569721115537849
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1619718309859155
@@ -3163,6 +3513,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.5
 "raw byteBag" 0.2743856726364015
@@ -3170,6 +3521,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.06666666666666665
 "raw ncd" 0.10890905723282089
+"skeletons ssdeep" 69
 "skeletons ppdeep" 72
 "skeletons ppdeep_mod" 63.829787234042556
 "skeletons byteBag" 0.2693347755543537
@@ -3177,6 +3529,7 @@ edge [
 "skeletons bz" 0.2634146341463415
 "skeletons jump" 0.20975609756097557
 "skeletons ncd" 0.14995678478824545
+"fstSecSkel ssdeep" 69
 "fstSecSkel ppdeep" 72
 "fstSecSkel ppdeep_mod" 63.541666666666664
 "fstSecSkel byteBag" 0.2693347755543537
@@ -3184,6 +3537,7 @@ edge [
 "fstSecSkel bz" 0.2634146341463415
 "fstSecSkel jump" 0.20975609756097557
 "fstSecSkel ncd" 0.15015144958892254
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1958266452648475
@@ -3191,6 +3545,7 @@ edge [
 "fStat bz" 0.1121951219512195
 "fStat jump" 0.224390243902439
 "fStat ncd" 0.08674698795180723
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1958266452648475
@@ -3205,6 +3560,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1498872350022553
@@ -3212,6 +3568,7 @@ edge [
 "raw bz" 0.11009174311926606
 "raw jump" 0.03669724770642202
 "raw ncd" 0.03162682462449757
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.13183850604944766
@@ -3219,6 +3576,7 @@ edge [
 "skeletons bz" 0.13609467455621305
 "skeletons jump" 0.09467455621301779
 "skeletons ncd" 0.052123163614409336
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.13183850604944766
@@ -3226,6 +3584,7 @@ edge [
 "fstSecSkel bz" 0.13313609467455623
 "fstSecSkel jump" 0.09467455621301779
 "fstSecSkel ncd" 0.05297079556898288
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.10519902518277822
@@ -3233,6 +3592,7 @@ edge [
 "fStat bz" 0.16568047337278102
 "fStat jump" 0.13609467455621305
 "fStat ncd" 0.04202586206896552
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.10519902518277822
@@ -3247,6 +3607,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 37.93103448275862
 "raw byteBag" 0.6060354374307863
@@ -3254,6 +3615,7 @@ edge [
 "raw bz" 0.23943661971830987
 "raw jump" 0.028169014084507005
 "raw ncd" 0.28064903846153844
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.4468085106383
 "skeletons byteBag" 0.6407185628742516
@@ -3261,6 +3623,7 @@ edge [
 "skeletons bz" 0.2272727272727273
 "skeletons jump" 0.18181818181818177
 "skeletons ncd" 0.3269230769230769
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.291666666666664
 "fstSecSkel byteBag" 0.6407185628742516
@@ -3268,6 +3631,7 @@ edge [
 "fstSecSkel bz" 0.2272727272727273
 "fstSecSkel jump" 0.18181818181818177
 "fstSecSkel ncd" 0.32603092783505155
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 40.0
 "fStat byteBag" 0.550314465408805
@@ -3275,6 +3639,7 @@ edge [
 "fStat bz" 0.2272727272727273
 "fStat jump" 0.2272727272727273
 "fStat ncd" 0.2553191489361702
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 59.50413223140496
 "fStat0 byteBag" 0.550314465408805
@@ -3289,6 +3654,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.484848484848484
 "raw byteBag" 0.6818748441785091
@@ -3296,6 +3662,7 @@ edge [
 "raw bz" 0.48888888888888893
 "raw jump" 0.033333333333333326
 "raw ncd" 0.14302884615384615
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 79.03225806451613
 "skeletons byteBag" 0.7336846372111877
@@ -3303,6 +3670,7 @@ edge [
 "skeletons bz" 0.2650602409638554
 "skeletons jump" 0.2168674698795181
 "skeletons ncd" 0.2585551330798479
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 78.125
 "fstSecSkel byteBag" 0.7336846372111877
@@ -3310,6 +3678,7 @@ edge [
 "fstSecSkel bz" 0.2650602409638554
 "fstSecSkel jump" 0.2168674698795181
 "fstSecSkel ncd" 0.2608142493638677
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 37.704918032786885
 "fStat byteBag" 0.5314136125654451
@@ -3317,6 +3686,7 @@ edge [
 "fStat bz" 0.2530120481927711
 "fStat jump" 0.37349397590361444
 "fStat ncd" 0.1761006289308176
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.442477876106196
 "fStat0 byteBag" 0.5314136125654451
@@ -3331,6 +3701,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 30.909090909090907
 "raw byteBag" 0.4658981748318924
@@ -3338,6 +3709,7 @@ edge [
 "raw bz" 0.323943661971831
 "raw jump" 0.028169014084507005
 "raw ncd" 0.234375
+"skeletons ssdeep" 44
 "skeletons ppdeep" 65
 "skeletons ppdeep_mod" 63.333333333333336
 "skeletons byteBag" 0.5617059891107078
@@ -3345,6 +3717,7 @@ edge [
 "skeletons bz" 0.28787878787878785
 "skeletons jump" 0.25757575757575757
 "skeletons ncd" 0.2835249042145594
+"fstSecSkel ssdeep" 43
 "fstSecSkel ppdeep" 65
 "fstSecSkel ppdeep_mod" 62.903225806451616
 "fstSecSkel byteBag" 0.5617059891107078
@@ -3352,6 +3725,7 @@ edge [
 "fstSecSkel bz" 0.28787878787878785
 "fstSecSkel jump" 0.25757575757575757
 "fstSecSkel ncd" 0.28369704749679076
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 56.69291338582677
 "fStat byteBag" 0.550314465408805
@@ -3359,6 +3733,7 @@ edge [
 "fStat bz" 0.19696969696969702
 "fStat jump" 0.25757575757575757
 "fStat ncd" 0.28169014084507044
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 55.37190082644628
 "fStat0 byteBag" 0.550314465408805
@@ -3373,6 +3748,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.70422535211268
 "raw byteBag" 0.6249383371912116
@@ -3380,6 +3756,7 @@ edge [
 "raw bz" 0.7331536388140162
 "raw jump" 0.035040431266846306
 "raw ncd" 0.08704368010128719
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.34920634920635
 "skeletons byteBag" 0.7102458730932646
@@ -3387,6 +3764,7 @@ edge [
 "skeletons bz" 0.5754985754985755
 "skeletons jump" 0.16809116809116809
 "skeletons ncd" 0.15126545026486168
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.90551181102362
 "fstSecSkel byteBag" 0.7102458730932646
@@ -3394,6 +3772,7 @@ edge [
 "fstSecSkel bz" 0.584045584045584
 "fstSecSkel jump" 0.16809116809116809
 "fstSecSkel ncd" 0.15112855740922473
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.61290322580645
 "fStat byteBag" 0.7213681783243658
@@ -3401,6 +3780,7 @@ edge [
 "fStat bz" 0.6153846153846154
 "fStat jump" 0.19658119658119655
 "fStat ncd" 0.13631406761177753
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 47.540983606557376
 "fStat0 byteBag" 0.7213681783243658
@@ -3415,6 +3795,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.57142857142857
 "raw byteBag" 0.5337518435880951
@@ -3422,6 +3803,7 @@ edge [
 "raw bz" 0.3099730458221024
 "raw jump" 0.05660377358490565
 "raw ncd" 0.06879088415277484
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 55.55555555555556
 "skeletons byteBag" 0.6473953013278856
@@ -3429,6 +3811,7 @@ edge [
 "skeletons bz" 0.45868945868945865
 "skeletons jump" 0.1737891737891738
 "skeletons ncd" 0.1134000392387679
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.118110236220474
 "fstSecSkel byteBag" 0.6473953013278856
@@ -3436,6 +3819,7 @@ edge [
 "fstSecSkel bz" 0.45868945868945865
 "fstSecSkel jump" 0.1737891737891738
 "fstSecSkel ncd" 0.11344455348380765
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 45.945945945945944
 "fStat byteBag" 0.5467102871683024
@@ -3443,6 +3827,7 @@ edge [
 "fStat bz" 0.603988603988604
 "fStat jump" 0.2564102564102564
 "fStat ncd" 0.10905125408942203
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 42.666666666666664
 "fStat0 byteBag" 0.5467102871683024
@@ -3457,6 +3842,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.42857142857143
 "raw byteBag" 0.33779224854856427
@@ -3464,6 +3850,7 @@ edge [
 "raw bz" 0.339622641509434
 "raw jump" 0.0539083557951483
 "raw ncd" 0.06826334669761554
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 25.0
 "skeletons byteBag" 0.3941370362578021
@@ -3471,6 +3858,7 @@ edge [
 "skeletons bz" 0.41025641025641024
 "skeletons jump" 0.09686609686609682
 "skeletons ncd" 0.11555817147341574
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 27.160493827160494
 "fstSecSkel byteBag" 0.3941370362578021
@@ -3478,6 +3866,7 @@ edge [
 "fstSecSkel bz" 0.4017094017094017
 "fstSecSkel jump" 0.09971509971509973
 "fstSecSkel ncd" 0.11521099116781158
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.3953211736716891
@@ -3485,6 +3874,7 @@ edge [
 "fStat bz" 0.4245014245014245
 "fStat jump" 0.1339031339031339
 "fStat ncd" 0.13522355507088332
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.3953211736716891
@@ -3499,6 +3889,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.34146341463415
 "raw byteBag" 0.5337615718873985
@@ -3506,6 +3897,7 @@ edge [
 "raw bz" 0.5067385444743935
 "raw jump" 0.04312668463611857
 "raw ncd" 0.06847436167967925
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.96825396825397
 "skeletons byteBag" 0.6912568306010929
@@ -3513,6 +3905,7 @@ edge [
 "skeletons bz" 0.5754985754985755
 "skeletons jump" 0.15384615384615385
 "skeletons ncd" 0.12399450657249363
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.54330708661417
 "fstSecSkel byteBag" 0.6912568306010929
@@ -3520,6 +3913,7 @@ edge [
 "fstSecSkel bz" 0.5783475783475783
 "fstSecSkel jump" 0.15384615384615385
 "fstSecSkel ncd" 0.1240431795878312
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.724137931034484
 "fStat byteBag" 0.6650449101796407
@@ -3527,6 +3921,7 @@ edge [
 "fStat bz" 0.6011396011396011
 "fStat jump" 0.17948717948717952
 "fStat ncd" 0.11886586695747
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.6650449101796407
@@ -3541,6 +3936,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.142857142857146
 "raw byteBag" 0.5039836728286039
@@ -3548,6 +3944,7 @@ edge [
 "raw bz" 0.3099730458221024
 "raw jump" 0.0539083557951483
 "raw ncd" 0.07828655834564253
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 55.55555555555556
 "skeletons byteBag" 0.5003548112404201
@@ -3555,6 +3952,7 @@ edge [
 "skeletons bz" 0.4415954415954416
 "skeletons jump" 0.20512820512820518
 "skeletons ncd" 0.1383166568569747
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.118110236220474
 "fstSecSkel byteBag" 0.5003548112404201
@@ -3562,6 +3960,7 @@ edge [
 "fstSecSkel bz" 0.4444444444444444
 "fstSecSkel jump" 0.20512820512820518
 "fstSecSkel ncd" 0.13856722276741903
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 41.42857142857143
 "fStat byteBag" 0.4833860759493671
@@ -3569,6 +3968,7 @@ edge [
 "fStat bz" 0.5698005698005698
 "fStat jump" 0.24501424501424507
 "fStat ncd" 0.11450381679389313
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.4833860759493671
@@ -3583,6 +3983,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.74626865671642
 "raw byteBag" 0.5671769368249281
@@ -3590,6 +3991,7 @@ edge [
 "raw bz" 0.40700808625336926
 "raw jump" 0.05121293800539084
 "raw ncd" 0.06499261447562776
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.34920634920635
 "skeletons byteBag" 0.6331920903954802
@@ -3597,6 +3999,7 @@ edge [
 "skeletons bz" 0.5042735042735043
 "skeletons jump" 0.16524216524216528
 "skeletons ncd" 0.1243868942515205
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 56.69291338582677
 "fstSecSkel byteBag" 0.6331920903954802
@@ -3604,6 +4007,7 @@ edge [
 "fstSecSkel bz" 0.5042735042735043
 "fstSecSkel jump" 0.16524216524216528
 "fstSecSkel ncd" 0.12423945044160942
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.666666666666664
 "fStat byteBag" 0.589041095890411
@@ -3611,6 +4015,7 @@ edge [
 "fStat bz" 0.6125356125356125
 "fStat jump" 0.23931623931623935
 "fStat ncd" 0.11777535441657579
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 46.03174603174603
 "fStat0 byteBag" 0.589041095890411
@@ -3625,6 +4030,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.2972972972973
 "raw byteBag" 0.5035002486515435
@@ -3632,6 +4038,7 @@ edge [
 "raw bz" 0.40700808625336926
 "raw jump" 0.04312668463611857
 "raw ncd" 0.05338679046212281
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 55.55555555555556
 "skeletons byteBag" 0.6289002912217445
@@ -3639,6 +4046,7 @@ edge [
 "skeletons bz" 0.5185185185185186
 "skeletons jump" 0.16809116809116809
 "skeletons ncd" 0.10378654110260938
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.90551181102362
 "fstSecSkel byteBag" 0.6289002912217445
@@ -3646,6 +4054,7 @@ edge [
 "fstSecSkel bz" 0.5156695156695157
 "fstSecSkel jump" 0.16809116809116809
 "fstSecSkel ncd" 0.10441609421000982
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 52.63157894736842
 "fStat byteBag" 0.5641904761904762
@@ -3653,6 +4062,7 @@ edge [
 "fStat bz" 0.6239316239316239
 "fStat jump" 0.24216524216524216
 "fStat ncd" 0.1134133042529989
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 48.4375
 "fStat0 byteBag" 0.5641904761904762
@@ -3667,6 +4077,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.09090909090909
 "raw byteBag" 0.33768576245931853
@@ -3674,6 +4085,7 @@ edge [
 "raw bz" 0.43126684636118595
 "raw jump" 0.0539083557951483
 "raw ncd" 0.06541464443975523
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 28.75
 "skeletons byteBag" 0.3989369142537418
@@ -3681,6 +4093,7 @@ edge [
 "skeletons bz" 0.3988603988603988
 "skeletons jump" 0.08262108262108259
 "skeletons ncd" 0.11045713164606631
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 28.75
 "fstSecSkel byteBag" 0.3989369142537418
@@ -3688,6 +4101,7 @@ edge [
 "fstSecSkel bz" 0.3988603988603988
 "fstSecSkel jump" 0.08262108262108259
 "fstSecSkel ncd" 0.11030421982335623
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.3909595559080095
@@ -3695,6 +4109,7 @@ edge [
 "fStat bz" 0.41595441595441596
 "fStat jump" 0.1310541310541311
 "fStat ncd" 0.13195201744820065
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.3909595559080095
@@ -3709,6 +4124,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.91358024691358
 "raw byteBag" 0.6663739506129475
@@ -3716,6 +4132,7 @@ edge [
 "raw bz" 0.8625336927223719
 "raw jump" 0.016172506738544423
 "raw ncd" 0.4874446085672083
+"skeletons ssdeep" 44
 "skeletons ppdeep" 69
 "skeletons ppdeep_mod" 68.25396825396825
 "skeletons byteBag" 0.8637697805002552
@@ -3723,6 +4140,7 @@ edge [
 "skeletons bz" 0.9031339031339032
 "skeletons jump" 0.586894586894587
 "skeletons ncd" 0.6562683931724543
+"fstSecSkel ssdeep" 44
 "fstSecSkel ppdeep" 69
 "fstSecSkel ppdeep_mod" 68.25396825396825
 "fstSecSkel byteBag" 0.8637697805002552
@@ -3730,6 +4148,7 @@ edge [
 "fstSecSkel bz" 0.9031339031339032
 "fstSecSkel jump" 0.586894586894587
 "fstSecSkel ncd" 0.6561334641805692
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 67.77777777777777
 "fStat byteBag" 0.9682601880877743
@@ -3737,6 +4156,7 @@ edge [
 "fStat bz" 0.9658119658119658
 "fStat jump" 0.8518518518518519
 "fStat ncd" 0.7967741935483871
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 53.57142857142857
 "fStat0 byteBag" 0.9682601880877743
@@ -3751,6 +4171,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.13641788669637173
@@ -3758,6 +4179,7 @@ edge [
 "raw bz" 0.16442048517520214
 "raw jump" 0.037735849056603765
 "raw ncd" 0.037244144334247734
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1604194714093389
@@ -3765,6 +4187,7 @@ edge [
 "skeletons bz" 0.23361823361823364
 "skeletons jump" 0.11965811965811968
 "skeletons ncd" 0.06278202864430057
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1604194714093389
@@ -3772,6 +4195,7 @@ edge [
 "fstSecSkel bz" 0.23361823361823364
 "fstSecSkel jump" 0.11965811965811968
 "fstSecSkel ncd" 0.06261040235525024
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.13015873015873017
@@ -3779,6 +4203,7 @@ edge [
 "fStat bz" 0.24216524216524216
 "fStat jump" 0.15669515669515666
 "fStat ncd" 0.061068702290076333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.13015873015873017
@@ -3793,6 +4218,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.09703868810698933
@@ -3800,6 +4226,7 @@ edge [
 "raw bz" 0.09973045822102422
 "raw jump" 0.029649595687331498
 "raw ncd" 0.03207427727368643
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.10727208229868748
@@ -3807,6 +4234,7 @@ edge [
 "skeletons bz" 0.14245014245014243
 "skeletons jump" 0.06552706552706555
 "skeletons ncd" 0.058661958014518345
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.10727208229868748
@@ -3814,6 +4242,7 @@ edge [
 "fstSecSkel bz" 0.14245014245014243
 "fstSecSkel jump" 0.06837606837606836
 "fstSecSkel ncd" 0.058684985279685964
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.09427207637231504
@@ -3821,6 +4250,7 @@ edge [
 "fStat bz" 0.14245014245014243
 "fStat jump" 0.07407407407407407
 "fStat ncd" 0.06761177753544166
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.09427207637231504
@@ -3835,6 +4265,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.23076923076923
 "raw byteBag" 0.4306696636180437
@@ -3842,6 +4273,7 @@ edge [
 "raw bz" 0.34231805929919135
 "raw jump" 0.06469002695417791
 "raw ncd" 0.06256594218189492
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 46.808510638297875
 "skeletons byteBag" 0.4966442953020134
@@ -3849,6 +4281,7 @@ edge [
 "skeletons bz" 0.45584045584045585
 "skeletons jump" 0.14814814814814814
 "skeletons ncd" 0.11398862075730821
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.421052631578945
 "fstSecSkel byteBag" 0.4966442953020134
@@ -3856,6 +4289,7 @@ edge [
 "fstSecSkel bz" 0.45299145299145294
 "fstSecSkel jump" 0.14814814814814814
 "fstSecSkel ncd" 0.11364082433758586
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 46.666666666666664
 "fStat byteBag" 0.46244593000393236
@@ -3863,6 +4297,7 @@ edge [
 "fStat bz" 0.5356125356125356
 "fStat jump" 0.2165242165242165
 "fStat ncd" 0.1134133042529989
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.46244593000393236
@@ -3877,6 +4312,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15806849369555706
@@ -3884,6 +4320,7 @@ edge [
 "raw bz" 0.15363881401617252
 "raw jump" 0.029649595687331498
 "raw ncd" 0.04294154884996835
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1503657930250728
@@ -3891,6 +4328,7 @@ edge [
 "skeletons bz" 0.23361823361823364
 "skeletons jump" 0.1253561253561254
 "skeletons ncd" 0.06945261918775751
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1503657930250728
@@ -3898,6 +4336,7 @@ edge [
 "fstSecSkel bz" 0.23361823361823364
 "fstSecSkel jump" 0.1253561253561254
 "fstSecSkel ncd" 0.06947988223748773
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.13174603174603175
@@ -3905,6 +4344,7 @@ edge [
 "fStat bz" 0.2507122507122507
 "fStat jump" 0.16809116809116809
 "fStat ncd" 0.06324972737186478
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.13174603174603175
@@ -3919,6 +4359,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.38095238095238
 "raw byteBag" 0.6360860996251497
@@ -3926,6 +4367,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0539083557951483
 "raw ncd" 0.0838784553703313
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 58.73015873015873
 "skeletons byteBag" 0.6678331466965286
@@ -3933,6 +4375,7 @@ edge [
 "skeletons bz" 0.41025641025641024
 "skeletons jump" 0.19088319088319083
 "skeletons ncd" 0.1408671767706494
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 59.05511811023622
 "fstSecSkel byteBag" 0.6678331466965286
@@ -3940,6 +4383,7 @@ edge [
 "fstSecSkel bz" 0.41025641025641024
 "fstSecSkel jump" 0.19088319088319083
 "fstSecSkel ncd" 0.14052993130520117
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.584689349112426
@@ -3947,6 +4391,7 @@ edge [
 "fStat bz" 0.5726495726495726
 "fStat jump" 0.2535612535612536
 "fStat ncd" 0.11232279171210469
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 44.5945945945946
 "fStat0 byteBag" 0.584689349112426
@@ -3961,6 +4406,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.35064935064935
 "raw byteBag" 0.5373615536337429
@@ -3968,6 +4414,7 @@ edge [
 "raw bz" 0.5256064690026954
 "raw jump" 0.035040431266846306
 "raw ncd" 0.05918970246887529
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.17460317460318
 "skeletons byteBag" 0.6875469123166155
@@ -3975,6 +4422,7 @@ edge [
 "skeletons bz" 0.566951566951567
 "skeletons jump" 0.13960113960113962
 "skeletons ncd" 0.11065332548557975
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.54330708661417
 "fstSecSkel byteBag" 0.6875469123166155
@@ -3982,6 +4430,7 @@ edge [
 "fstSecSkel bz" 0.5641025641025641
 "fstSecSkel jump" 0.13960113960113962
 "fstSecSkel ncd" 0.11050049067713444
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.19047619047619
 "fStat byteBag" 0.6515548894717123
@@ -3989,6 +4438,7 @@ edge [
 "fStat bz" 0.5982905982905983
 "fStat jump" 0.1766381766381766
 "fStat ncd" 0.11995637949836423
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 48.38709677419355
 "fStat0 byteBag" 0.6515548894717123
@@ -4003,6 +4453,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.17087525350936494
@@ -4010,6 +4461,7 @@ edge [
 "raw bz" 0.12398921832884102
 "raw jump" 0.037735849056603765
 "raw ncd" 0.029225575015826125
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14438996660271441
@@ -4017,6 +4469,7 @@ edge [
 "skeletons bz" 0.1339031339031339
 "skeletons jump" 0.11396011396011396
 "skeletons ncd" 0.05101039827349421
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14438996660271441
@@ -4024,6 +4477,7 @@ edge [
 "fstSecSkel bz" 0.1282051282051282
 "fstSecSkel jump" 0.11396011396011396
 "fstSecSkel ncd" 0.05103042198233562
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1177406523468576
@@ -4031,6 +4485,7 @@ edge [
 "fStat bz" 0.14529914529914534
 "fStat jump" 0.1367521367521367
 "fStat ncd" 0.03707742639040349
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1177406523468576
@@ -4045,6 +4500,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.57142857142857
 "raw byteBag" 0.54461107324093
@@ -4052,6 +4508,7 @@ edge [
 "raw bz" 0.31266846361185985
 "raw jump" 0.040431266846361225
 "raw ncd" 0.07163958641063516
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.34920634920635
 "skeletons byteBag" 0.6621722846441948
@@ -4059,6 +4516,7 @@ edge [
 "skeletons bz" 0.4273504273504274
 "skeletons jump" 0.18518518518518523
 "skeletons ncd" 0.12105159897979204
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 56.69291338582677
 "fstSecSkel byteBag" 0.6621722846441948
@@ -4066,6 +4524,7 @@ edge [
 "fstSecSkel bz" 0.4330484330484331
 "fstSecSkel jump" 0.18518518518518523
 "fstSecSkel ncd" 0.12070657507360157
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 47.36842105263158
 "fStat byteBag" 0.5613019891500904
@@ -4073,6 +4532,7 @@ edge [
 "fStat bz" 0.586894586894587
 "fStat jump" 0.2535612535612536
 "fStat ncd" 0.11123227917121047
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 41.333333333333336
 "fStat0 byteBag" 0.5613019891500904
@@ -4087,6 +4547,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.4979289713891233
@@ -4094,6 +4555,7 @@ edge [
 "raw bz" 0.398921832884097
 "raw jump" 0.037735849056603765
 "raw ncd" 0.05233171555180418
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.34920634920635
 "skeletons byteBag" 0.6213968957871396
@@ -4101,6 +4563,7 @@ edge [
 "skeletons bz" 0.5441595441595442
 "skeletons jump" 0.15099715099715094
 "skeletons ncd" 0.10319795958406906
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.90551181102362
 "fstSecSkel byteBag" 0.6213968957871396
@@ -4108,6 +4571,7 @@ edge [
 "fstSecSkel bz" 0.5441595441595442
 "fstSecSkel jump" 0.15099715099715094
 "fstSecSkel ncd" 0.10304219823356231
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.87719298245614
 "fStat byteBag" 0.5558103975535168
@@ -4115,6 +4579,7 @@ edge [
 "fStat bz" 0.6296296296296297
 "fStat jump" 0.24501424501424507
 "fStat ncd" 0.11123227917121047
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 51.5625
 "fStat0 byteBag" 0.5558103975535168
@@ -4129,6 +4594,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.76923076923077
 "raw byteBag" 0.4360613810741688
@@ -4136,6 +4602,7 @@ edge [
 "raw bz" 0.34231805929919135
 "raw jump" 0.04851752021563338
 "raw ncd" 0.06383203207427728
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 47.87234042553192
 "skeletons byteBag" 0.5010845986984815
@@ -4143,6 +4610,7 @@ edge [
 "skeletons bz" 0.45584045584045585
 "skeletons jump" 0.16809116809116809
 "skeletons ncd" 0.11516578379438885
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.421052631578945
 "fstSecSkel byteBag" 0.5010845986984815
@@ -4150,6 +4618,7 @@ edge [
 "fstSecSkel bz" 0.45584045584045585
 "fstSecSkel jump" 0.16809116809116809
 "fstSecSkel ncd" 0.1154072620215898
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 46.57534246575342
 "fStat byteBag" 0.46862745098039216
@@ -4157,6 +4626,7 @@ edge [
 "fStat bz" 0.5527065527065527
 "fStat jump" 0.23076923076923073
 "fStat ncd" 0.1134133042529989
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.46862745098039216
@@ -4171,6 +4641,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.69662921348315
 "raw byteBag" 0.6504138870455101
@@ -4178,6 +4649,7 @@ edge [
 "raw bz" 0.6880733944954128
 "raw jump" 0.04357798165137616
 "raw ncd" 0.4322641907575438
+"skeletons ssdeep" 46
 "skeletons ppdeep" 69
 "skeletons ppdeep_mod" 67.46031746031747
 "skeletons byteBag" 0.8424795468848332
@@ -4185,6 +4657,7 @@ edge [
 "skeletons bz" 0.8803418803418803
 "skeletons jump" 0.5327635327635327
 "skeletons ncd" 0.6060427702570139
+"fstSecSkel ssdeep" 46
 "fstSecSkel ppdeep" 68
 "fstSecSkel ppdeep_mod" 66.92913385826772
 "fstSecSkel byteBag" 0.8424795468848332
@@ -4192,6 +4665,7 @@ edge [
 "fstSecSkel bz" 0.8774928774928775
 "fstSecSkel jump" 0.5327635327635327
 "fstSecSkel ncd" 0.6051030421982335
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 62.637362637362635
 "fStat byteBag" 0.9506076048608388
@@ -4199,6 +4673,7 @@ edge [
 "fStat bz" 0.9287749287749287
 "fStat jump" 0.7863247863247863
 "fStat ncd" 0.7144396551724138
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.9506076048608388
@@ -4213,6 +4688,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.09678061204186399
@@ -4220,6 +4696,7 @@ edge [
 "raw bz" 0.11051212938005395
 "raw jump" 0.03234501347708896
 "raw ncd" 0.030913694872335935
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.10799120754449408
@@ -4227,6 +4704,7 @@ edge [
 "skeletons bz" 0.14245014245014243
 "skeletons jump" 0.06267806267806264
 "skeletons ncd" 0.056307631940357074
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.10799120754449408
@@ -4234,6 +4712,7 @@ edge [
 "fstSecSkel bz" 0.14245014245014243
 "fstSecSkel jump" 0.06552706552706555
 "fstSecSkel ncd" 0.056133464180569186
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.09307875894988067
@@ -4241,6 +4720,7 @@ edge [
 "fStat bz" 0.13960113960113962
 "fStat jump" 0.07122507122507127
 "fStat ncd" 0.064340239912759
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.09307875894988067
@@ -4255,6 +4735,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.13447685756357702
@@ -4262,6 +4743,7 @@ edge [
 "raw bz" 0.21024258760107817
 "raw jump" 0.04312668463611857
 "raw ncd" 0.038510234226630094
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.15786863175795365
@@ -4269,6 +4751,7 @@ edge [
 "skeletons bz" 0.23361823361823364
 "skeletons jump" 0.11111111111111116
 "skeletons ncd" 0.061408671767706494
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.15786863175795365
@@ -4276,6 +4759,7 @@ edge [
 "fstSecSkel bz" 0.23361823361823364
 "fstSecSkel jump" 0.11111111111111116
 "fstSecSkel ncd" 0.06143277723258096
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.12698412698412698
@@ -4283,6 +4767,7 @@ edge [
 "fStat bz" 0.23076923076923073
 "fStat jump" 0.14529914529914534
 "fStat ncd" 0.061068702290076333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.12698412698412698
@@ -4297,6 +4782,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.10945650009954211
@@ -4304,6 +4790,7 @@ edge [
 "raw bz" 0.09164420485175206
 "raw jump" 0.037735849056603765
 "raw ncd" 0.03924878666385313
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.10174790393633651
@@ -4311,6 +4798,7 @@ edge [
 "skeletons bz" 0.14529914529914534
 "skeletons jump" 0.06267806267806264
 "skeletons ncd" 0.06827545615067687
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.10174790393633651
@@ -4318,6 +4806,7 @@ edge [
 "fstSecSkel bz" 0.14529914529914534
 "fstSecSkel jump" 0.06552706552706555
 "fstSecSkel ncd" 0.06830225711481845
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.09307875894988067
@@ -4325,6 +4814,7 @@ edge [
 "fStat bz" 0.14814814814814814
 "fStat jump" 0.07977207977207978
 "fStat ncd" 0.0697928026172301
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.09307875894988067
@@ -4339,6 +4829,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.666666666666664
 "raw byteBag" 0.6174562131043567
@@ -4346,6 +4837,7 @@ edge [
 "raw bz" 0.32326283987915405
 "raw jump" 0.03625377643504535
 "raw ncd" 0.08948508581903016
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.38095238095238
 "skeletons byteBag" 0.729103726082578
@@ -4353,6 +4845,7 @@ edge [
 "skeletons bz" 0.3737373737373737
 "skeletons jump" 0.1447811447811448
 "skeletons ncd" 0.19424460431654678
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.34375
 "fstSecSkel byteBag" 0.729103726082578
@@ -4360,6 +4853,7 @@ edge [
 "fstSecSkel bz" 0.3602693602693603
 "fstSecSkel jump" 0.1447811447811448
 "fstSecSkel ncd" 0.1929492039423806
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 40.0
 "fStat byteBag" 0.6544642857142857
@@ -4367,6 +4861,7 @@ edge [
 "fStat bz" 0.632996632996633
 "fStat jump" 0.202020202020202
 "fStat ncd" 0.17421602787456447
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 46.25
 "fStat0 byteBag" 0.6544642857142857
@@ -4381,6 +4876,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.622950819672134
 "raw byteBag" 0.4418642328670951
@@ -4388,6 +4884,7 @@ edge [
 "raw bz" 0.3806646525679759
 "raw jump" 0.0392749244712991
 "raw ncd" 0.10858931715906868
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 26.25
 "skeletons byteBag" 0.5082862697898343
@@ -4395,6 +4892,7 @@ edge [
 "skeletons bz" 0.45791245791245794
 "skeletons jump" 0.09427609427609429
 "skeletons ncd" 0.19803104884513442
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 26.829268292682926
 "fstSecSkel byteBag" 0.5082862697898343
@@ -4402,6 +4900,7 @@ edge [
 "fstSecSkel bz" 0.4511784511784511
 "fstSecSkel jump" 0.09427609427609429
 "fstSecSkel ncd" 0.19787717968157695
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.4939637826961771
@@ -4409,6 +4908,7 @@ edge [
 "fStat bz" 0.44781144781144777
 "fStat jump" 0.12457912457912457
 "fStat ncd" 0.19686411149825783
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.4939637826961771
@@ -4423,6 +4923,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.724137931034484
 "raw byteBag" 0.7060093558834113
@@ -4430,6 +4931,7 @@ edge [
 "raw bz" 0.5861027190332326
 "raw jump" 0.04229607250755285
 "raw ncd" 0.3938563881823518
+"skeletons ssdeep" 46
 "skeletons ppdeep" 68
 "skeletons ppdeep_mod" 67.46031746031747
 "skeletons byteBag" 0.8711444984533805
@@ -4437,6 +4939,7 @@ edge [
 "skeletons bz" 0.8484848484848485
 "skeletons jump" 0.5218855218855218
 "skeletons ncd" 0.6563793752352277
+"fstSecSkel ssdeep" 46
 "fstSecSkel ppdeep" 66
 "fstSecSkel ppdeep_mod" 67.1875
 "fstSecSkel byteBag" 0.8711444984533805
@@ -4444,6 +4947,7 @@ edge [
 "fstSecSkel bz" 0.8720538720538721
 "fstSecSkel jump" 0.5218855218855218
 "fstSecSkel ncd" 0.6559909570459683
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 61.29032258064516
 "fStat byteBag" 0.9005847953216374
@@ -4451,6 +4955,7 @@ edge [
 "fStat bz" 0.8653198653198653
 "fStat jump" 0.6161616161616161
 "fStat ncd" 0.5372881355932203
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.74626865671642
 "fStat0 byteBag" 0.9005847953216374
@@ -4465,6 +4970,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.0
 "raw byteBag" 0.6423714407139821
@@ -4472,6 +4978,7 @@ edge [
 "raw bz" 0.34441087613293053
 "raw jump" 0.05740181268882172
 "raw ncd" 0.11606643030416122
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 54.76190476190476
 "skeletons byteBag" 0.6477379388023278
@@ -4479,6 +4986,7 @@ edge [
 "skeletons bz" 0.3939393939393939
 "skeletons jump" 0.17845117845117842
 "skeletons ncd" 0.23059447179098827
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 54.6875
 "fstSecSkel byteBag" 0.6477379388023278
@@ -4486,6 +4994,7 @@ edge [
 "fstSecSkel bz" 0.38383838383838387
 "fstSecSkel jump" 0.17845117845117842
 "fstSecSkel ncd" 0.2293404094010614
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 40.78947368421053
 "fStat byteBag" 0.5957128614157527
@@ -4493,6 +5002,7 @@ edge [
 "fStat bz" 0.5589225589225589
 "fStat jump" 0.22558922558922556
 "fStat ncd" 0.18641114982578397
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5957128614157527
@@ -4507,6 +5017,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.7440949052007203
@@ -4514,6 +5025,7 @@ edge [
 "raw bz" 0.4259818731117825
 "raw jump" 0.027190332326283984
 "raw ncd" 0.1051156271899089
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.38095238095238
 "skeletons byteBag" 0.7842922374429224
@@ -4521,6 +5033,7 @@ edge [
 "skeletons bz" 0.4605263157894737
 "skeletons jump" 0.11842105263157898
 "skeletons ncd" 0.2302158273381295
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.34375
 "fstSecSkel byteBag" 0.7842922374429224
@@ -4528,6 +5041,7 @@ edge [
 "fstSecSkel bz" 0.4473684210526315
 "fstSecSkel jump" 0.11842105263157898
 "fstSecSkel ncd" 0.22858225928733888
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.666666666666664
 "fStat byteBag" 0.6928640308582449
@@ -4535,6 +5049,7 @@ edge [
 "fStat bz" 0.5986842105263157
 "fStat jump" 0.1546052631578947
 "fStat ncd" 0.18118466898954705
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6928640308582449
@@ -4549,6 +5064,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.36708860759494
 "raw byteBag" 0.6309949892627058
@@ -4556,6 +5072,7 @@ edge [
 "raw bz" 0.41993957703927487
 "raw jump" 0.027190332326283984
 "raw ncd" 0.08614894746152485
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.17460317460318
 "skeletons byteBag" 0.7617277394229067
@@ -4563,6 +5080,7 @@ edge [
 "skeletons bz" 0.459731543624161
 "skeletons jump" 0.09395973154362414
 "skeletons ncd" 0.19348731541082922
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.125
 "fstSecSkel byteBag" 0.7617277394229067
@@ -4570,6 +5088,7 @@ edge [
 "fstSecSkel bz" 0.4530201342281879
 "fstSecSkel jump" 0.09395973154362414
 "fstSecSkel ncd" 0.19370735405610312
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.87719298245614
 "fStat byteBag" 0.6637043966323667
@@ -4577,6 +5096,7 @@ edge [
 "fStat bz" 0.6375838926174497
 "fStat jump" 0.1476510067114094
 "fStat ncd" 0.16898954703832753
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6637043966323667
@@ -4591,6 +5111,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.0
 "raw byteBag" 0.44165587219343694
@@ -4598,6 +5119,7 @@ edge [
 "raw bz" 0.48036253776435045
 "raw jump" 0.051359516616314216
 "raw ncd" 0.10213265505771865
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 30.0
 "skeletons byteBag" 0.5143463419134606
@@ -4605,6 +5127,7 @@ edge [
 "skeletons bz" 0.44781144781144777
 "skeletons jump" 0.09090909090909094
 "skeletons ncd" 0.19007951533510034
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 29.629629629629633
 "fstSecSkel byteBag" 0.5143463419134606
@@ -4612,6 +5135,7 @@ edge [
 "fstSecSkel bz" 0.4444444444444444
 "fstSecSkel jump" 0.09090909090909094
 "fstSecSkel ncd" 0.19067475360121305
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.48768225238813473
@@ -4619,6 +5143,7 @@ edge [
 "fStat bz" 0.43434343434343436
 "fStat jump" 0.12121212121212122
 "fStat ncd" 0.19337979094076654
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.48768225238813473
@@ -4633,6 +5158,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.674418604651166
 "raw byteBag" 0.5715799803729146
@@ -4640,6 +5166,7 @@ edge [
 "raw bz" 0.7493036211699164
 "raw jump" 0.02506963788300831
 "raw ncd" 0.07089276281035393
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 55.55555555555556
 "skeletons byteBag" 0.6377524929685502
@@ -4647,6 +5174,7 @@ edge [
 "skeletons bz" 0.6
 "skeletons jump" 0.1594202898550725
 "skeletons ncd" 0.12441930923045849
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.118110236220474
 "fstSecSkel byteBag" 0.6377524929685502
@@ -4654,6 +5182,7 @@ edge [
 "fstSecSkel bz" 0.6086956521739131
 "fstSecSkel jump" 0.1594202898550725
 "fstSecSkel ncd" 0.12446958981612447
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.041666666666664
 "fStat byteBag" 0.7260802469135802
@@ -4661,6 +5190,7 @@ edge [
 "fStat bz" 0.6144927536231883
 "fStat jump" 0.19710144927536233
 "fStat ncd" 0.13225806451612904
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 45.90163934426229
 "fStat0 byteBag" 0.7260802469135802
@@ -4675,6 +5205,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.18575591168889388
@@ -4682,6 +5213,7 @@ edge [
 "raw bz" 0.15105740181268879
 "raw jump" 0.051359516616314216
 "raw ncd" 0.04480532185482293
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20537229029217718
@@ -4689,6 +5221,7 @@ edge [
 "skeletons bz" 0.265993265993266
 "skeletons jump" 0.1447811447811448
 "skeletons ncd" 0.09352517985611511
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20537229029217718
@@ -4696,6 +5229,7 @@ edge [
 "fstSecSkel bz" 0.26262626262626265
 "fstSecSkel jump" 0.1447811447811448
 "fstSecSkel ncd" 0.09287338893100834
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.146061814556331
@@ -4703,6 +5237,7 @@ edge [
 "fStat bz" 0.26262626262626265
 "fStat jump" 0.18518518518518523
 "fStat ncd" 0.078397212543554
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.146061814556331
@@ -4717,6 +5252,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.134000900090009
@@ -4724,6 +5260,7 @@ edge [
 "raw bz" 0.08761329305135956
 "raw jump" 0.033232628398791486
 "raw ncd" 0.057522989630209354
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14053900170810402
@@ -4731,6 +5268,7 @@ edge [
 "skeletons bz" 0.164983164983165
 "skeletons jump" 0.06734006734006737
 "skeletons ncd" 0.11207875804619462
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14053900170810402
@@ -4738,6 +5276,7 @@ edge [
 "fstSecSkel bz" 0.1582491582491582
 "fstSecSkel jump" 0.07070707070707072
 "fstSecSkel ncd" 0.11144806671721001
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.11890243902439024
@@ -4745,6 +5284,7 @@ edge [
 "fStat bz" 0.16161616161616166
 "fStat jump" 0.09427609427609429
 "fStat ncd" 0.10627177700348432
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.11890243902439024
@@ -4759,6 +5299,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.545102350662269
@@ -4766,6 +5307,7 @@ edge [
 "raw bz" 0.3806646525679759
 "raw jump" 0.0453172205438066
 "raw ncd" 0.09457478005865103
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 44.680851063829785
 "skeletons byteBag" 0.6248746238716149
@@ -4773,6 +5315,7 @@ edge [
 "skeletons bz" 0.4545454545454546
 "skeletons jump" 0.14814814814814814
 "skeletons ncd" 0.1904581597879591
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 44.791666666666664
 "fstSecSkel byteBag" 0.6248746238716149
@@ -4780,6 +5323,7 @@ edge [
 "fstSecSkel bz" 0.4377104377104377
 "fstSecSkel jump" 0.14814814814814814
 "fstSecSkel ncd" 0.18953752843062927
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 43.20987654320987
 "fStat byteBag" 0.5685304304799604
@@ -4787,6 +5331,7 @@ edge [
 "fStat bz" 0.5622895622895623
 "fStat jump" 0.2087542087542088
 "fStat ncd" 0.17770034843205576
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5685304304799604
@@ -4801,6 +5346,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21999325691166555
@@ -4808,6 +5354,7 @@ edge [
 "raw bz" 0.14501510574018128
 "raw jump" 0.0392749244712991
 "raw ncd" 0.05087067110154569
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.19168241965973534
@@ -4815,6 +5362,7 @@ edge [
 "skeletons bz" 0.24915824915824913
 "skeletons jump" 0.16835016835016836
 "skeletons ncd" 0.10526315789473684
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.19168241965973534
@@ -4822,6 +5370,7 @@ edge [
 "fstSecSkel bz" 0.23905723905723908
 "fstSecSkel jump" 0.16835016835016836
 "fstSecSkel ncd" 0.1050037907505686
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14805583250249252
@@ -4829,6 +5378,7 @@ edge [
 "fStat bz" 0.26936026936026936
 "fStat jump" 0.18855218855218858
 "fStat ncd" 0.08013937282229965
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14805583250249252
@@ -4843,6 +5393,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.05882352941177
 "raw byteBag" 0.7163563111089274
@@ -4850,6 +5401,7 @@ edge [
 "raw bz" 0.3081570996978852
 "raw jump" 0.04229607250755285
 "raw ncd" 0.10626657824933687
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.25
 "skeletons byteBag" 0.7690963118335955
@@ -4857,6 +5409,7 @@ edge [
 "skeletons bz" 0.31986531986531985
 "skeletons jump" 0.14141414141414144
 "skeletons ncd" 0.24308973873532752
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.55555555555556
 "fstSecSkel byteBag" 0.7690963118335955
@@ -4864,6 +5417,7 @@ edge [
 "fstSecSkel bz" 0.3164983164983165
 "fstSecSkel jump" 0.14141414141414144
 "fstSecSkel ncd" 0.24184988627748294
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 48.275862068965516
 "fStat byteBag" 0.7036023711810305
@@ -4871,6 +5425,7 @@ edge [
 "fStat bz" 0.5387205387205387
 "fStat jump" 0.19528619528619529
 "fStat ncd" 0.18641114982578397
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 46.835443037974684
 "fStat0 byteBag" 0.7036023711810305
@@ -4885,6 +5440,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.6923116219667944
@@ -4892,6 +5448,7 @@ edge [
 "raw bz" 0.6042296072507554
 "raw jump" 0.027190332326283984
 "raw ncd" 0.3418117785169243
+"skeletons ssdeep" 46
 "skeletons ppdeep" 68
 "skeletons ppdeep_mod" 68.25396825396825
 "skeletons byteBag" 0.8523742772034344
@@ -4899,6 +5456,7 @@ edge [
 "skeletons bz" 0.8451178451178452
 "skeletons jump" 0.49831649831649827
 "skeletons ncd" 0.5937145020825445
+"fstSecSkel ssdeep" 46
 "fstSecSkel ppdeep" 68
 "fstSecSkel ppdeep_mod" 67.96875
 "fstSecSkel byteBag" 0.8523742772034344
@@ -4906,6 +5464,7 @@ edge [
 "fstSecSkel bz" 0.8619528619528619
 "fstSecSkel jump" 0.49831649831649827
 "fstSecSkel ncd" 0.5936315390447309
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 57.77777777777778
 "fStat byteBag" 0.8806042884990254
@@ -4913,6 +5472,7 @@ edge [
 "fStat bz" 0.8484848484848485
 "fStat jump" 0.595959595959596
 "fStat ncd" 0.5017421602787456
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 52.23880597014925
 "fStat0 byteBag" 0.8806042884990254
@@ -4927,6 +5487,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.23039133590130073
@@ -4934,6 +5495,7 @@ edge [
 "raw bz" 0.13897280966767367
 "raw jump" 0.033232628398791486
 "raw ncd" 0.043827039718254746
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1826341647770219
@@ -4941,6 +5503,7 @@ edge [
 "skeletons bz" 0.12794612794612792
 "skeletons jump" 0.10437710437710435
 "skeletons ncd" 0.07686482393032942
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1826341647770219
@@ -4948,6 +5511,7 @@ edge [
 "fstSecSkel bz" 0.11784511784511786
 "fstSecSkel jump" 0.10437710437710435
 "fstSecSkel ncd" 0.07657316148597422
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1350401606425703
@@ -4955,6 +5519,7 @@ edge [
 "fStat bz" 0.12121212121212122
 "fStat jump" 0.13468013468013473
 "fStat ncd" 0.04878048780487805
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1350401606425703
@@ -4969,6 +5534,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.0
 "raw byteBag" 0.6238447319778189
@@ -4976,6 +5542,7 @@ edge [
 "raw bz" 0.3383685800604229
 "raw jump" 0.0453172205438066
 "raw ncd" 0.08784005244182236
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.17460317460318
 "skeletons byteBag" 0.7411774544238167
@@ -4983,6 +5550,7 @@ edge [
 "skeletons bz" 0.3434343434343434
 "skeletons jump" 0.14814814814814814
 "skeletons ncd" 0.2037107156380159
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.125
 "fstSecSkel byteBag" 0.7411774544238167
@@ -4990,6 +5558,7 @@ edge [
 "fstSecSkel bz" 0.3400673400673401
 "fstSecSkel jump" 0.14814814814814814
 "fstSecSkel ncd" 0.20242608036391205
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 45.1219512195122
 "fStat byteBag" 0.6716947648624667
@@ -4997,6 +5566,7 @@ edge [
 "fStat bz" 0.5723905723905724
 "fStat jump" 0.19528619528619529
 "fStat ncd" 0.1794425087108014
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 47.5
 "fStat0 byteBag" 0.6716947648624667
@@ -5011,6 +5581,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.31578947368421
 "raw byteBag" 0.6205713700593897
@@ -5018,6 +5589,7 @@ edge [
 "raw bz" 0.4380664652567976
 "raw jump" 0.0392749244712991
 "raw ncd" 0.08639347170480752
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.38095238095238
 "skeletons byteBag" 0.7506406291419988
@@ -5025,6 +5597,7 @@ edge [
 "skeletons bz" 0.4949494949494949
 "skeletons jump" 0.101010101010101
 "skeletons ncd" 0.19159409314653542
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.34375
 "fstSecSkel byteBag" 0.7506406291419988
@@ -5032,6 +5605,7 @@ edge [
 "fstSecSkel bz" 0.4882154882154882
 "fstSecSkel jump" 0.101010101010101
 "fstSecSkel ncd" 0.19067475360121305
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.12280701754386
 "fStat byteBag" 0.6546052631578947
@@ -5039,6 +5613,7 @@ edge [
 "fStat bz" 0.6464646464646464
 "fStat jump" 0.1515151515151515
 "fStat ncd" 0.16898954703832753
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6546052631578947
@@ -5053,6 +5628,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.57142857142857
 "raw byteBag" 0.5504260992314529
@@ -5060,6 +5636,7 @@ edge [
 "raw bz" 0.377643504531722
 "raw jump" 0.048338368580060465
 "raw ncd" 0.09705501018707167
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 42.5531914893617
 "skeletons byteBag" 0.6321608040201006
@@ -5067,6 +5644,7 @@ edge [
 "skeletons bz" 0.42087542087542085
 "skeletons jump" 0.1515151515151515
 "skeletons ncd" 0.19538053767512306
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 42.708333333333336
 "fstSecSkel byteBag" 0.6321608040201006
@@ -5074,6 +5652,7 @@ edge [
 "fstSecSkel bz" 0.4107744107744108
 "fstSecSkel jump" 0.1515151515151515
 "fstSecSkel ncd" 0.19522365428354815
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 40.50632911392405
 "fStat byteBag" 0.5759368836291914
@@ -5081,6 +5660,7 @@ edge [
 "fStat bz" 0.5555555555555556
 "fStat jump" 0.2087542087542088
 "fStat ncd" 0.17770034843205576
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5759368836291914
@@ -5095,6 +5675,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.5531914893617
 "raw byteBag" 0.5606250489543354
@@ -5102,6 +5683,7 @@ edge [
 "raw bz" 0.6307339449541285
 "raw jump" 0.041284403669724745
 "raw ncd" 0.06685001057753331
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 55.55555555555556
 "skeletons byteBag" 0.63301760854364
@@ -5109,6 +5691,7 @@ edge [
 "skeletons bz" 0.6213017751479291
 "skeletons jump" 0.13609467455621305
 "skeletons ncd" 0.11752867780237472
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.46875
 "fstSecSkel byteBag" 0.63301760854364
@@ -5116,6 +5699,7 @@ edge [
 "fstSecSkel bz" 0.6242603550295858
 "fstSecSkel jump" 0.13313609467455623
 "fstSecSkel ncd" 0.11802618328298087
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.61290322580645
 "fStat byteBag" 0.7394891944990177
@@ -5123,6 +5707,7 @@ edge [
 "fStat bz" 0.6331360946745562
 "fStat jump" 0.20118343195266275
 "fStat ncd" 0.13577586206896552
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 49.20634920634921
 "fStat0 byteBag" 0.7394891944990177
@@ -5137,6 +5722,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.13330709546834588
@@ -5144,6 +5730,7 @@ edge [
 "raw bz" 0.09667673716012082
 "raw jump" 0.030211480362537735
 "raw ncd" 0.054588143220504794
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14147544092546938
@@ -5151,6 +5738,7 @@ edge [
 "skeletons bz" 0.1582491582491582
 "skeletons jump" 0.06060606060606055
 "skeletons ncd" 0.10829231351760697
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14147544092546938
@@ -5158,6 +5746,7 @@ edge [
 "fstSecSkel bz" 0.1582491582491582
 "fstSecSkel jump" 0.06397306397306401
 "fstSecSkel ncd" 0.10727824109173617
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1173780487804878
@@ -5165,6 +5754,7 @@ edge [
 "fStat bz" 0.16161616161616166
 "fStat jump" 0.09427609427609429
 "fStat ncd" 0.10104529616724739
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1173780487804878
@@ -5179,6 +5769,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.18337819650067294
@@ -5186,6 +5777,7 @@ edge [
 "raw bz" 0.23262839879154074
 "raw jump" 0.0392749244712991
 "raw ncd" 0.045392291136763845
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20197926484448633
@@ -5193,6 +5785,7 @@ edge [
 "skeletons bz" 0.265993265993266
 "skeletons jump" 0.13131313131313127
 "skeletons ncd" 0.09125331313896251
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20197926484448633
@@ -5200,6 +5793,7 @@ edge [
 "fstSecSkel bz" 0.265993265993266
 "fstSecSkel jump" 0.13131313131313127
 "fstSecSkel ncd" 0.09059893858984079
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14207377866400797
@@ -5207,6 +5801,7 @@ edge [
 "fStat bz" 0.24915824915824913
 "fStat jump" 0.1717171717171717
 "fStat ncd" 0.078397212543554
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14207377866400797
@@ -5221,6 +5816,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15293587287276006
@@ -5228,6 +5824,7 @@ edge [
 "raw bz" 0.08761329305135956
 "raw jump" 0.03625377643504535
 "raw ncd" 0.06926237526902759
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.13418347925390178
@@ -5235,6 +5832,7 @@ edge [
 "skeletons bz" 0.1582491582491582
 "skeletons jump" 0.07744107744107742
 "skeletons ncd" 0.13138962514199168
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.13418347925390178
@@ -5242,6 +5840,7 @@ edge [
 "fstSecSkel bz" 0.1515151515151515
 "fstSecSkel jump" 0.08080808080808077
 "fstSecSkel ncd" 0.13078089461713419
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1173780487804878
@@ -5249,6 +5848,7 @@ edge [
 "fStat bz" 0.16161616161616166
 "fStat jump" 0.10437710437710435
 "fStat ncd" 0.11672473867595819
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1173780487804878
@@ -5263,6 +5863,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.0
 "raw byteBag" 0.5487101476833365
@@ -5270,6 +5871,7 @@ edge [
 "raw bz" 0.3517786561264822
 "raw jump" 0.0513833992094862
 "raw ncd" 0.09131811364772538
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 26.25
 "skeletons byteBag" 0.5522315338140713
@@ -5277,6 +5879,7 @@ edge [
 "skeletons bz" 0.31707317073170727
 "skeletons jump" 0.06910569105691056
 "skeletons ncd" 0.19208333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 26.829268292682926
 "fstSecSkel byteBag" 0.5522315338140713
@@ -5284,6 +5887,7 @@ edge [
 "fstSecSkel bz" 0.31707317073170727
 "fstSecSkel jump" 0.06910569105691056
 "fstSecSkel ncd" 0.19198664440734559
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 34.78260869565217
 "fStat byteBag" 0.5272525027808677
@@ -5291,6 +5895,7 @@ edge [
 "fStat bz" 0.5081300813008129
 "fStat jump" 0.1097560975609756
 "fStat ncd" 0.1777301927194861
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5272525027808677
@@ -5305,6 +5910,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.7522525075083584
@@ -5312,6 +5918,7 @@ edge [
 "raw bz" 0.4251700680272109
 "raw jump" 0.04421768707482998
 "raw ncd" 0.1016497250458257
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 51.58730158730159
 "skeletons byteBag" 0.8051700208188758
@@ -5319,6 +5926,7 @@ edge [
 "skeletons bz" 0.3686006825938567
 "skeletons jump" 0.15699658703071673
 "skeletons ncd" 0.22694768535942791
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 51.5625
 "fstSecSkel byteBag" 0.8051700208188758
@@ -5326,6 +5934,7 @@ edge [
 "fstSecSkel bz" 0.3583617747440273
 "fstSecSkel jump" 0.15699658703071673
 "fstSecSkel ncd" 0.22720422004521476
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 45.205479452054796
 "fStat byteBag" 0.7282557592853784
@@ -5333,6 +5942,7 @@ edge [
 "fStat bz" 0.6279863481228669
 "fStat jump" 0.1877133105802048
 "fStat ncd" 0.18305084745762712
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 45.67901234567901
 "fStat0 byteBag" 0.7282557592853784
@@ -5347,6 +5957,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs999999"
 "group1" "Synthetix"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.351351351351354
 "raw byteBag" 0.572761706098699
@@ -5354,6 +5965,7 @@ edge [
 "raw bz" 0.5928853754940712
 "raw jump" 0.03952569169960474
 "raw ncd" 0.1453091151474754
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 55.55555555555556
 "skeletons byteBag" 0.6512677679600462
@@ -5361,6 +5973,7 @@ edge [
 "skeletons bz" 0.6016260162601625
 "skeletons jump" 0.2032520325203252
 "skeletons ncd" 0.2604166666666667
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.46875
 "fstSecSkel byteBag" 0.6512677679600462
@@ -5368,6 +5981,7 @@ edge [
 "fstSecSkel bz" 0.6056910569105691
 "fstSecSkel jump" 0.2032520325203252
 "fstSecSkel ncd" 0.26001669449081805
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.785714285714285
 "fStat byteBag" 0.6924388857305287
@@ -5375,6 +5989,7 @@ edge [
 "fStat bz" 0.7398373983739837
 "fStat jump" 0.32113821138211385
 "fStat ncd" 0.2291220556745182
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6924388857305287
@@ -5389,6 +6004,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs999999"
 "group1" "Synthetix"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.70422535211268
 "raw byteBag" 0.6537424503882657
@@ -5396,6 +6012,7 @@ edge [
 "raw bz" 0.607843137254902
 "raw jump" 0.039215686274509776
 "raw ncd" 0.14147642059656723
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 60.317460317460316
 "skeletons byteBag" 0.7675361784496267
@@ -5403,6 +6020,7 @@ edge [
 "skeletons bz" 0.611842105263158
 "skeletons jump" 0.23684210526315785
 "skeletons ncd" 0.2618223760092272
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 60.9375
 "fstSecSkel byteBag" 0.7675361784496267
@@ -5410,6 +6028,7 @@ edge [
 "fstSecSkel bz" 0.611842105263158
 "fstSecSkel jump" 0.23684210526315785
 "fstSecSkel ncd" 0.26096997690531176
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 44.11764705882353
 "fStat byteBag" 0.7511987213638786
@@ -5417,6 +6036,7 @@ edge [
 "fStat bz" 0.7335526315789473
 "fStat jump" 0.3421052631578947
 "fStat ncd" 0.24796747967479674
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7511987213638786
@@ -5431,6 +6051,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.56410256410256
 "raw byteBag" 0.7836764174792343
@@ -5438,6 +6059,7 @@ edge [
 "raw bz" 0.6103896103896104
 "raw jump" 0.03246753246753242
 "raw ncd" 0.18480253291118148
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 60.317460317460316
 "skeletons byteBag" 0.8392470588235295
@@ -5445,6 +6067,7 @@ edge [
 "skeletons bz" 0.6140939597315436
 "skeletons jump" 0.27181208053691275
 "skeletons ncd" 0.3244803695150115
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 60.15625
 "fstSecSkel byteBag" 0.8392470588235295
@@ -5452,6 +6075,7 @@ edge [
 "fstSecSkel bz" 0.6140939597315436
 "fstSecSkel jump" 0.27181208053691275
 "fstSecSkel ncd" 0.3248554913294798
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.79365079365079
 "fStat byteBag" 0.7823529411764706
@@ -5459,6 +6083,7 @@ edge [
 "fStat bz" 0.7416107382550335
 "fStat jump" 0.3489932885906041
 "fStat ncd" 0.2628458498023715
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7823529411764706
@@ -5473,6 +6098,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.67796610169491
 "raw byteBag" 0.5562770562770563
@@ -5480,6 +6106,7 @@ edge [
 "raw bz" 0.3675889328063241
 "raw jump" 0.055335968379446654
 "raw ncd" 0.09481753041159807
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 26.25
 "skeletons byteBag" 0.5616305088043584
@@ -5487,6 +6114,7 @@ edge [
 "skeletons bz" 0.32113821138211385
 "skeletons jump" 0.07317073170731703
 "skeletons ncd" 0.20208333333333334
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 25.925925925925924
 "fstSecSkel byteBag" 0.5616305088043584
@@ -5494,6 +6122,7 @@ edge [
 "fstSecSkel bz" 0.32113821138211385
 "fstSecSkel jump" 0.07317073170731703
 "fstSecSkel ncd" 0.20158597662771285
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 35.8695652173913
 "fStat byteBag" 0.5194444444444445
@@ -5501,6 +6130,7 @@ edge [
 "fStat bz" 0.49186991869918695
 "fStat jump" 0.10162601626016265
 "fStat ncd" 0.17558886509635974
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5194444444444445
@@ -5515,6 +6145,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.411764705882355
 "raw byteBag" 0.6344714180622268
@@ -5522,6 +6153,7 @@ edge [
 "raw bz" 0.3119777158774373
 "raw jump" 0.055710306406685284
 "raw ncd" 0.08283148441627047
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.34920634920635
 "skeletons byteBag" 0.6416872481476668
@@ -5529,6 +6161,7 @@ edge [
 "skeletons bz" 0.42898550724637685
 "skeletons jump" 0.1855072463768116
 "skeletons ncd" 0.13229650575641286
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 56.69291338582677
 "fstSecSkel byteBag" 0.6416872481476668
@@ -5536,6 +6169,7 @@ edge [
 "fstSecSkel bz" 0.4260869565217391
 "fstSecSkel jump" 0.1855072463768116
 "fstSecSkel ncd" 0.1333602748029905
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 43.421052631578945
 "fStat byteBag" 0.5659543109801032
@@ -5543,6 +6177,7 @@ edge [
 "fStat bz" 0.5971014492753624
 "fStat jump" 0.24927536231884062
 "fStat ncd" 0.11827956989247312
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 42.666666666666664
 "fStat0 byteBag" 0.5659543109801032
@@ -5557,6 +6192,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.220514145459243
@@ -5564,6 +6200,7 @@ edge [
 "raw bz" 0.3162055335968379
 "raw jump" 0.035573122529644285
 "raw ncd" 0.06548908515247459
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.22024744697564808
@@ -5571,6 +6208,7 @@ edge [
 "skeletons bz" 0.2845528455284553
 "skeletons jump" 0.12195121951219512
 "skeletons ncd" 0.13583333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.22024744697564808
@@ -5578,6 +6216,7 @@ edge [
 "fstSecSkel bz" 0.29268292682926833
 "fstSecSkel jump" 0.12195121951219512
 "fstSecSkel ncd" 0.1343906510851419
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1527777777777778
@@ -5585,6 +6224,7 @@ edge [
 "fStat bz" 0.3252032520325203
 "fStat jump" 0.17479674796747968
 "fStat ncd" 0.11563169164882227
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1527777777777778
@@ -5599,6 +6239,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15849789575914536
@@ -5606,6 +6247,7 @@ edge [
 "raw bz" 0.2055335968379447
 "raw jump" 0.04743083003952564
 "raw ncd" 0.09381769705049159
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.15130864197530863
@@ -5613,6 +6255,7 @@ edge [
 "skeletons bz" 0.19105691056910568
 "skeletons jump" 0.08536585365853655
 "skeletons ncd" 0.15333333333333332
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.15130864197530863
@@ -5620,6 +6263,7 @@ edge [
 "fstSecSkel bz" 0.2032520325203252
 "fstSecSkel jump" 0.08536585365853655
 "fstSecSkel ncd" 0.1523372287145242
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.13612866168868468
@@ -5627,6 +6271,7 @@ edge [
 "fStat bz" 0.20731707317073167
 "fStat jump" 0.11382113821138207
 "fStat ncd" 0.145610278372591
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.13612866168868468
@@ -5641,6 +6286,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.27536231884058
 "raw byteBag" 0.6945273631840796
@@ -5648,6 +6294,7 @@ edge [
 "raw bz" 0.5612648221343873
 "raw jump" 0.04347826086956519
 "raw ncd" 0.18830194967505415
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 47.87234042553192
 "skeletons byteBag" 0.7068830660930778
@@ -5655,6 +6302,7 @@ edge [
 "skeletons bz" 0.5772357723577235
 "skeletons jump" 0.2479674796747967
 "skeletons ncd" 0.33125
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 47.916666666666664
 "fstSecSkel byteBag" 0.7068830660930778
@@ -5662,6 +6310,7 @@ edge [
 "fstSecSkel bz" 0.5772357723577235
 "fstSecSkel jump" 0.2479674796747967
 "fstSecSkel ncd" 0.3313856427378965
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.81967213114754
 "fStat byteBag" 0.6738636363636363
@@ -5669,6 +6318,7 @@ edge [
 "fStat bz" 0.6869918699186992
 "fStat jump" 0.2642276422764228
 "fStat ncd" 0.24411134903640258
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6738636363636363
@@ -5683,6 +6333,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "Synthetix"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.20022219479076658
@@ -5690,6 +6341,7 @@ edge [
 "raw bz" 0.3241106719367589
 "raw jump" 0.0513833992094862
 "raw ncd" 0.06082319613397767
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1975356933307256
@@ -5697,6 +6349,7 @@ edge [
 "skeletons bz" 0.29268292682926833
 "skeletons jump" 0.11788617886178865
 "skeletons ncd" 0.12833333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1975356933307256
@@ -5704,6 +6357,7 @@ edge [
 "fstSecSkel bz" 0.28861788617886175
 "fstSecSkel jump" 0.11788617886178865
 "fstSecSkel ncd" 0.12771285475792987
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.155
@@ -5711,6 +6365,7 @@ edge [
 "fStat bz" 0.33739837398373984
 "fStat jump" 0.19105691056910568
 "fStat ncd" 0.11777301927194861
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.155
@@ -5725,6 +6380,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "Synthetix"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.76119402985075
 "raw byteBag" 0.6770020533880904
@@ -5732,6 +6388,7 @@ edge [
 "raw bz" 0.8235294117647058
 "raw jump" 0.02573529411764708
 "raw ncd" 0.4020225464190981
+"skeletons ssdeep" 57
 "skeletons ppdeep" 74
 "skeletons ppdeep_mod" 73.80952380952381
 "skeletons byteBag" 0.8462109955423477
@@ -5739,6 +6396,7 @@ edge [
 "skeletons bz" 0.8641509433962264
 "skeletons jump" 0.5471698113207547
 "skeletons ncd" 0.5845588235294118
+"fstSecSkel ssdeep" 57
 "fstSecSkel ppdeep" 74
 "fstSecSkel ppdeep_mod" 73.4375
 "fstSecSkel byteBag" 0.8462109955423477
@@ -5746,6 +6404,7 @@ edge [
 "fstSecSkel bz" 0.8641509433962264
 "fstSecSkel jump" 0.5471698113207547
 "fstSecSkel ncd" 0.5830605564648118
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.9180775532495904
@@ -5753,6 +6412,7 @@ edge [
 "fStat bz" 0.8150943396226416
 "fStat jump" 0.709433962264151
 "fStat ncd" 0.5289079229122056
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.53763440860215
 "fStat0 byteBag" 0.9180775532495904
@@ -5767,6 +6427,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.7516317611669221
@@ -5774,6 +6435,7 @@ edge [
 "raw bz" 0.4175084175084175
 "raw jump" 0.04040404040404044
 "raw ncd" 0.10798200299950009
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.38095238095238
 "skeletons byteBag" 0.8174741997551164
@@ -5781,6 +6443,7 @@ edge [
 "skeletons bz" 0.3620689655172413
 "skeletons jump" 0.1586206896551724
 "skeletons ncd" 0.23933281613653995
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.34375
 "fstSecSkel byteBag" 0.8174741997551164
@@ -5788,6 +6451,7 @@ edge [
 "fstSecSkel bz" 0.3517241379310345
 "fstSecSkel jump" 0.1586206896551724
 "fstSecSkel ncd" 0.2392233009708738
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 44.285714285714285
 "fStat byteBag" 0.7409003831417624
@@ -5795,6 +6459,7 @@ edge [
 "fStat bz" 0.6206896551724138
 "fStat jump" 0.1827586206896552
 "fStat ncd" 0.18673647469458987
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 48.148148148148145
 "fStat0 byteBag" 0.7409003831417624
@@ -5809,6 +6474,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "Synthetix"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2333167020082325
@@ -5816,6 +6482,7 @@ edge [
 "raw bz" 0.26877470355731226
 "raw jump" 0.0513833992094862
 "raw ncd" 0.06315614064322612
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.19049951028403525
@@ -5823,6 +6490,7 @@ edge [
 "skeletons bz" 0.2642276422764228
 "skeletons jump" 0.1260162601626016
 "skeletons ncd" 0.09166666666666666
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.19049951028403525
@@ -5830,6 +6498,7 @@ edge [
 "fstSecSkel bz" 0.2682926829268293
 "fstSecSkel jump" 0.1260162601626016
 "fstSecSkel ncd" 0.09056761268781302
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15280135823429541
@@ -5837,6 +6506,7 @@ edge [
 "fStat bz" 0.10162601626016265
 "fStat jump" 0.2032520325203252
 "fStat ncd" 0.06852248394004283
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15280135823429541
@@ -5851,6 +6521,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.8920167811758983
@@ -5858,6 +6529,7 @@ edge [
 "raw bz" 0.8888888888888888
 "raw jump" 0.033333333333333326
 "raw ncd" 0.5478531628974107
+"skeletons ssdeep" 71
 "skeletons ppdeep" 83
 "skeletons ppdeep_mod" 83.33333333333333
 "skeletons byteBag" 0.9589237839908081
@@ -5865,6 +6537,7 @@ edge [
 "skeletons bz" 0.9157088122605364
 "skeletons jump" 0.7777777777777778
 "skeletons ncd" 0.8026796589524969
+"fstSecSkel ssdeep" 71
 "fstSecSkel ppdeep" 83
 "fstSecSkel ppdeep_mod" 82.8125
 "fstSecSkel byteBag" 0.9589237839908081
@@ -5872,6 +6545,7 @@ edge [
 "fstSecSkel bz" 0.9195402298850575
 "fstSecSkel jump" 0.7777777777777778
 "fstSecSkel ncd" 0.802358682391216
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 77.34375
 "fStat byteBag" 0.9601769911504425
@@ -5879,6 +6553,7 @@ edge [
 "fStat bz" 0.8735632183908046
 "fStat jump" 0.8467432950191571
 "fStat ncd" 0.725
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 73.40425531914894
 "fStat0 byteBag" 0.9601769911504425
@@ -5893,6 +6568,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.0
 "raw byteBag" 0.7750664411693646
@@ -5900,6 +6576,7 @@ edge [
 "raw bz" 0.5816326530612245
 "raw jump" 0.0374149659863946
 "raw ncd" 0.19813364439260123
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 59.523809523809526
 "skeletons byteBag" 0.8415072902859307
@@ -5907,6 +6584,7 @@ edge [
 "skeletons bz" 0.6020761245674741
 "skeletons jump" 0.2941176470588235
 "skeletons ncd" 0.33930613800991233
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 59.375
 "fstSecSkel byteBag" 0.8415072902859307
@@ -5914,6 +6592,7 @@ edge [
 "fstSecSkel bz" 0.6020761245674741
 "fstSecSkel jump" 0.2941176470588235
 "fstSecSkel ncd" 0.33982436044291714
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.79365079365079
 "fStat byteBag" 0.7697262479871175
@@ -5921,6 +6600,7 @@ edge [
 "fStat bz" 0.71280276816609
 "fStat jump" 0.32525951557093424
 "fStat ncd" 0.26095617529880477
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7697262479871175
@@ -5935,6 +6615,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.27536231884058
 "raw byteBag" 0.6860572483841182
@@ -5942,6 +6623,7 @@ edge [
 "raw bz" 0.5889328063241106
 "raw jump" 0.04347826086956519
 "raw ncd" 0.1743042826195634
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 48.93617021276596
 "skeletons byteBag" 0.7086790979205311
@@ -5949,6 +6631,7 @@ edge [
 "skeletons bz" 0.5853658536585367
 "skeletons jump" 0.22764227642276424
 "skeletons ncd" 0.31708333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.958333333333336
 "fstSecSkel byteBag" 0.7086790979205311
@@ -5956,6 +6639,7 @@ edge [
 "fstSecSkel bz" 0.5772357723577235
 "fstSecSkel jump" 0.22764227642276424
 "fstSecSkel ncd" 0.31636060100166946
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.847457627118644
 "fStat byteBag" 0.6895963615690733
@@ -5963,6 +6647,7 @@ edge [
 "fStat bz" 0.7073170731707317
 "fStat jump" 0.2967479674796748
 "fStat ncd" 0.24839400428265523
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6895963615690733
@@ -5977,6 +6662,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.916666666666664
 "raw byteBag" 0.6349399686793109
@@ -5984,6 +6670,7 @@ edge [
 "raw bz" 0.2339449541284404
 "raw jump" 0.059633027522935755
 "raw ncd" 0.08409138988787815
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.142857142857146
 "skeletons byteBag" 0.6390758477866942
@@ -5991,6 +6678,7 @@ edge [
 "skeletons bz" 0.41420118343195267
 "skeletons jump" 0.19822485207100593
 "skeletons ncd" 0.13725095592674583
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.03125
 "fstSecSkel byteBag" 0.6390758477866942
@@ -5998,6 +6686,7 @@ edge [
 "fstSecSkel bz" 0.41420118343195267
 "fstSecSkel jump" 0.1952662721893491
 "fstSecSkel ncd" 0.13695871097683787
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 41.55844155844156
 "fStat byteBag" 0.5741573033707865
@@ -6005,6 +6694,7 @@ edge [
 "fStat bz" 0.5887573964497042
 "fStat jump" 0.2248520710059172
 "fStat ncd" 0.11530172413793104
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 42.857142857142854
 "fStat0 byteBag" 0.5741573033707865
@@ -6019,6 +6709,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15820818228896943
@@ -6026,6 +6717,7 @@ edge [
 "raw bz" 0.20158102766798414
 "raw jump" 0.04347826086956519
 "raw ncd" 0.09781703049491751
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.153413019855774
@@ -6033,6 +6725,7 @@ edge [
 "skeletons bz" 0.1869918699186992
 "skeletons jump" 0.08130081300813008
 "skeletons ncd" 0.16541666666666666
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.153413019855774
@@ -6040,6 +6733,7 @@ edge [
 "fstSecSkel bz" 0.19918699186991873
 "fstSecSkel jump" 0.08130081300813008
 "fstSecSkel ncd" 0.164440734557596
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1344055140723722
@@ -6047,6 +6741,7 @@ edge [
 "fStat bz" 0.2032520325203252
 "fStat jump" 0.1097560975609756
 "fStat ncd" 0.1349036402569593
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1344055140723722
@@ -6061,6 +6756,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21701770254554853
@@ -6068,6 +6764,7 @@ edge [
 "raw bz" 0.2924901185770751
 "raw jump" 0.04743083003952564
 "raw ncd" 0.06682219630061656
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21671249018067557
@@ -6075,6 +6772,7 @@ edge [
 "skeletons bz" 0.29268292682926833
 "skeletons jump" 0.13414634146341464
 "skeletons ncd" 0.13708333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21671249018067557
@@ -6082,6 +6780,7 @@ edge [
 "fstSecSkel bz" 0.2967479674796748
 "fstSecSkel jump" 0.13414634146341464
 "fstSecSkel ncd" 0.13564273789649417
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14833333333333334
@@ -6089,6 +6788,7 @@ edge [
 "fStat bz" 0.3089430894308943
 "fStat jump" 0.1585365853658537
 "fStat ncd" 0.11563169164882227
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14833333333333334
@@ -6103,6 +6803,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "Synthetix"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15107230973619282
@@ -6110,6 +6811,7 @@ edge [
 "raw bz" 0.2055335968379447
 "raw jump" 0.04347826086956519
 "raw ncd" 0.0758206965505749
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.13829787234042554
@@ -6117,6 +6819,7 @@ edge [
 "skeletons bz" 0.19512195121951215
 "skeletons jump" 0.07723577235772361
 "skeletons ncd" 0.12833333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.13829787234042554
@@ -6124,6 +6827,7 @@ edge [
 "fstSecSkel bz" 0.20731707317073167
 "fstSecSkel jump" 0.07723577235772361
 "fstSecSkel ncd" 0.12687813021702837
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1344055140723722
@@ -6131,6 +6835,7 @@ edge [
 "fStat bz" 0.21544715447154472
 "fStat jump" 0.11788617886178865
 "fStat ncd" 0.1349036402569593
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1344055140723722
@@ -6145,6 +6850,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 37.5
 "raw byteBag" 0.527054858640704
@@ -6152,6 +6858,7 @@ edge [
 "raw bz" 0.47959183673469385
 "raw jump" 0.04081632653061229
 "raw ncd" 0.12512295888254968
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 27.5
 "skeletons byteBag" 0.5333209406078632
@@ -6159,6 +6866,7 @@ edge [
 "skeletons bz" 0.4607508532423208
 "skeletons jump" 0.10580204778156999
 "skeletons ncd" 0.2235604064734663
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 28.048780487804876
 "fstSecSkel byteBag" 0.5333209406078632
@@ -6166,6 +6874,7 @@ edge [
 "fstSecSkel bz" 0.4402730375426621
 "fstSecSkel jump" 0.10580204778156999
 "fstSecSkel ncd" 0.22381311228334588
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.501532175689479
@@ -6173,6 +6882,7 @@ edge [
 "fStat bz" 0.4641638225255973
 "fStat jump" 0.13310580204778155
 "fStat ncd" 0.17288135593220338
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.501532175689479
@@ -6187,6 +6897,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.0
 "raw byteBag" 0.5676954587188361
@@ -6194,6 +6905,7 @@ edge [
 "raw bz" 0.45581395348837206
 "raw jump" 0.06046511627906981
 "raw ncd" 0.10151147602164583
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 27.5
 "skeletons byteBag" 0.7030278989818854
@@ -6201,6 +6913,7 @@ edge [
 "skeletons bz" 0.4339622641509434
 "skeletons jump" 0.1132075471698113
 "skeletons ncd" 0.2195015303891561
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 28.048780487804876
 "fstSecSkel byteBag" 0.7030278989818854
@@ -6208,6 +6921,7 @@ edge [
 "fstSecSkel bz" 0.4386792452830188
 "fstSecSkel jump" 0.1132075471698113
 "fstSecSkel ncd" 0.21813403416557162
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 38.75
 "fStat byteBag" 0.7054794520547946
@@ -6215,6 +6929,7 @@ edge [
 "fStat bz" 0.5518867924528301
 "fStat jump" 0.1367924528301887
 "fStat ncd" 0.18181818181818182
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 47.72727272727273
 "fStat0 byteBag" 0.7054794520547946
@@ -6229,6 +6944,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.6140350877193
 "raw byteBag" 0.5150168940057565
@@ -6236,6 +6952,7 @@ edge [
 "raw bz" 0.4117647058823529
 "raw jump" 0.05882352941176472
 "raw ncd" 0.07778556412053259
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 27.5
 "skeletons byteBag" 0.5694825765575502
@@ -6243,6 +6960,7 @@ edge [
 "skeletons bz" 0.39473684210526316
 "skeletons jump" 0.08552631578947367
 "skeletons ncd" 0.16570549788542868
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 28.048780487804876
 "fstSecSkel byteBag" 0.5694825765575502
@@ -6250,6 +6968,7 @@ edge [
 "fstSecSkel bz" 0.3980263157894737
 "fstSecSkel jump" 0.08881578947368418
 "fstSecSkel ncd" 0.16589684372594304
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5621555419473362
@@ -6257,6 +6976,7 @@ edge [
 "fStat bz" 0.45723684210526316
 "fStat jump" 0.13157894736842102
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 34.61538461538461
 "fStat0 byteBag" 0.5621555419473362
@@ -6271,6 +6991,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.1875
 "raw byteBag" 0.584957264957265
@@ -6278,6 +6999,7 @@ edge [
 "raw bz" 0.41233766233766234
 "raw jump" 0.06168831168831168
 "raw ncd" 0.09800106138333628
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 26.25
 "skeletons byteBag" 0.5876772310258549
@@ -6285,6 +7007,7 @@ edge [
 "skeletons bz" 0.4093959731543624
 "skeletons jump" 0.08053691275167785
 "skeletons ncd" 0.19361046959199385
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 26.829268292682926
 "fstSecSkel byteBag" 0.5876772310258549
@@ -6292,6 +7015,7 @@ edge [
 "fstSecSkel bz" 0.412751677852349
 "fstSecSkel jump" 0.08389261744966447
 "fstSecSkel ncd" 0.1930635838150289
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5467540202501489
@@ -6299,6 +7023,7 @@ edge [
 "fStat bz" 0.4664429530201343
 "fStat jump" 0.13422818791946312
 "fStat ncd" 0.16205533596837945
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 38.46153846153846
 "fStat0 byteBag" 0.5467540202501489
@@ -6313,6 +7038,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 57.77777777777778
 "raw byteBag" 0.8893205922503413
@@ -6320,6 +7046,7 @@ edge [
 "raw bz" 0.703030303030303
 "raw jump" 0.012121212121212088
 "raw ncd" 0.6457848160223568
+"skeletons ssdeep" 61
 "skeletons ppdeep" 75
 "skeletons ppdeep_mod" 79.34782608695653
 "skeletons byteBag" 0.9594391587381071
@@ -6327,6 +7054,7 @@ edge [
 "skeletons bz" 0.96875
 "skeletons jump" 0.8
 "skeletons ncd" 0.8394097222222222
+"fstSecSkel ssdeep" 63
 "fstSecSkel ppdeep" 77
 "fstSecSkel ppdeep_mod" 80.64516129032258
 "fstSecSkel byteBag" 0.9594391587381071
@@ -6334,6 +7062,7 @@ edge [
 "fstSecSkel bz" 0.96875
 "fstSecSkel jump" 0.8
 "fstSecSkel ncd" 0.840139009556907
+"fStat ssdeep" 77
 "fStat ppdeep" 88
 "fStat ppdeep_mod" 86.4
 "fStat byteBag" 0.9831349206349206
@@ -6341,6 +7070,7 @@ edge [
 "fStat bz" 0.975
 "fStat jump" 0.91875
 "fStat ncd" 0.8701298701298701
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 76.3157894736842
 "fStat0 byteBag" 0.9831349206349206
@@ -6355,6 +7085,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.84507042253521
 "raw byteBag" 0.3937249666221629
@@ -6362,6 +7093,7 @@ edge [
 "raw bz" 0.362116991643454
 "raw jump" 0.04456824512534818
 "raw ncd" 0.0844162704701532
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 27.5
 "skeletons byteBag" 0.38111565343531584
@@ -6369,6 +7101,7 @@ edge [
 "skeletons bz" 0.41159420289855075
 "skeletons jump" 0.10724637681159421
 "skeletons ncd" 0.1399717228842658
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 28.395061728395063
 "fstSecSkel byteBag" 0.38111565343531584
@@ -6376,6 +7109,7 @@ edge [
 "fstSecSkel bz" 0.4057971014492754
 "fstSecSkel jump" 0.10724637681159421
 "fstSecSkel ncd" 0.14002828854314003
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.39610647596344856
@@ -6383,6 +7117,7 @@ edge [
 "fStat bz" 0.4318840579710145
 "fStat jump" 0.13913043478260867
 "fStat ncd" 0.12365591397849462
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.39610647596344856
@@ -6397,6 +7132,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 39.0625
 "raw byteBag" 0.3584452451140954
@@ -6404,6 +7140,7 @@ edge [
 "raw bz" 0.4
 "raw jump" 0.048484848484848464
 "raw ncd" 0.0666347075743049
+"skeletons ssdeep" 33
 "skeletons ppdeep" 49
 "skeletons ppdeep_mod" 51.31578947368421
 "skeletons byteBag" 0.37572058324855884
@@ -6411,6 +7148,7 @@ edge [
 "skeletons bz" 0.36875
 "skeletons jump" 0.09375
 "skeletons ncd" 0.125
+"fstSecSkel ssdeep" 32
 "fstSecSkel ppdeep" 49
 "fstSecSkel ppdeep_mod" 51.282051282051285
 "fstSecSkel byteBag" 0.37572058324855884
@@ -6418,6 +7156,7 @@ edge [
 "fstSecSkel bz" 0.4
 "fstSecSkel jump" 0.09375
 "fstSecSkel ncd" 0.12477396021699819
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 24.358974358974365
 "fStat byteBag" 0.2655954631379962
@@ -6425,6 +7164,7 @@ edge [
 "fStat bz" 0.38125
 "fStat jump" 0.14375000000000004
 "fStat ncd" 0.1038961038961039
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2655954631379962
@@ -6439,6 +7179,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.26425729442970824
@@ -6446,6 +7187,7 @@ edge [
 "raw bz" 0.2848484848484848
 "raw jump" 0.042424242424242475
 "raw ncd" 0.09300095877277086
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2614221916867056
@@ -6453,6 +7195,7 @@ edge [
 "skeletons bz" 0.28125
 "skeletons jump" 0.09375
 "skeletons ncd" 0.15974729241877256
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2614221916867056
@@ -6460,6 +7203,7 @@ edge [
 "fstSecSkel bz" 0.2875
 "fstSecSkel jump" 0.09375
 "fstSecSkel ncd" 0.15867992766726943
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 27.84810126582279
 "fStat byteBag" 0.2297029702970297
@@ -6467,6 +7211,7 @@ edge [
 "fStat bz" 0.30000000000000004
 "fStat jump" 0.15625
 "fStat ncd" 0.13852813852813853
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2297029702970297
@@ -6481,6 +7226,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.525252525252526
 "raw byteBag" 0.7069446724675751
@@ -6488,6 +7234,7 @@ edge [
 "raw bz" 0.5320197044334976
 "raw jump" 0.044334975369458074
 "raw ncd" 0.11693548387096774
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 50.925925925925924
 "skeletons byteBag" 0.7417516894130118
@@ -6495,6 +7242,7 @@ edge [
 "skeletons bz" 0.4797979797979798
 "skeletons jump" 0.09595959595959591
 "skeletons ncd" 0.24323162870648904
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 50.90909090909091
 "fstSecSkel byteBag" 0.7417516894130118
@@ -6502,6 +7250,7 @@ edge [
 "fstSecSkel bz" 0.4747474747474747
 "fstSecSkel jump" 0.09595959595959591
 "fstSecSkel ncd" 0.24365045200172192
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 38.75
 "fStat byteBag" 0.7225253312548714
@@ -6509,6 +7258,7 @@ edge [
 "fStat bz" 0.5909090909090908
 "fStat jump" 0.1515151515151515
 "fStat ncd" 0.19480519480519481
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 52.80898876404494
 "fStat0 byteBag" 0.7225253312548714
@@ -6523,6 +7273,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 39.0625
 "raw byteBag" 0.3087539034955173
@@ -6530,6 +7281,7 @@ edge [
 "raw bz" 0.36969696969696975
 "raw jump" 0.054545454545454564
 "raw ncd" 0.06040268456375839
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.63157894736842
 "skeletons byteBag" 0.33709758975223325
@@ -6537,6 +7289,7 @@ edge [
 "skeletons bz" 0.36875
 "skeletons jump" 0.08750000000000002
 "skeletons ncd" 0.1164259927797834
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.56410256410256
 "fstSecSkel byteBag" 0.33709758975223325
@@ -6544,6 +7297,7 @@ edge [
 "fstSecSkel bz" 0.38749999999999996
 "fstSecSkel jump" 0.08750000000000002
 "fstSecSkel ncd" 0.11528028933092224
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 26.582278481012665
 "fStat byteBag" 0.26937618147448017
@@ -6551,6 +7305,7 @@ edge [
 "fStat bz" 0.375
 "fStat jump" 0.14375000000000004
 "fStat ncd" 0.10606060606060606
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.26937618147448017
@@ -6565,6 +7320,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.54455445544554
 "raw byteBag" 0.4680779569892473
@@ -6572,6 +7328,7 @@ edge [
 "raw bz" 0.28308823529411764
 "raw jump" 0.05147058823529416
 "raw ncd" 0.07128647214854111
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 23.75
 "skeletons byteBag" 0.5444984621490228
@@ -6579,6 +7336,7 @@ edge [
 "skeletons bz" 0.28301886792452835
 "skeletons jump" 0.08301886792452828
 "skeletons ncd" 0.1650326797385621
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 24.390243902439025
 "fstSecSkel byteBag" 0.5444984621490228
@@ -6586,6 +7344,7 @@ edge [
 "fstSecSkel bz" 0.28301886792452835
 "fstSecSkel jump" 0.08301886792452828
 "fstSecSkel ncd" 0.16448445171849427
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5161114145275806
@@ -6593,6 +7352,7 @@ edge [
 "fStat bz" 0.44528301886792454
 "fStat jump" 0.10566037735849054
 "fStat ncd" 0.16017316017316016
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5161114145275806
@@ -6607,6 +7367,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 38.80597014925373
 "raw byteBag" 0.5241663544398651
@@ -6614,6 +7375,7 @@ edge [
 "raw bz" 0.48484848484848486
 "raw jump" 0.0572390572390572
 "raw ncd" 0.11412069308902609
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 27.5
 "skeletons byteBag" 0.5337617584055137
@@ -6621,6 +7383,7 @@ edge [
 "skeletons bz" 0.4655172413793104
 "skeletons jump" 0.09999999999999998
 "skeletons ncd" 0.2121799844840962
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 29.268292682926827
 "fstSecSkel byteBag" 0.5337617584055137
@@ -6628,6 +7391,7 @@ edge [
 "fstSecSkel bz" 0.4482758620689655
 "fstSecSkel jump" 0.09999999999999998
 "fstSecSkel ncd" 0.2120388349514563
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5122587376108503
@@ -6635,6 +7399,7 @@ edge [
 "fStat bz" 0.46896551724137936
 "fStat jump" 0.13103448275862073
 "fStat ncd" 0.17277486910994763
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5122587376108503
@@ -6649,6 +7414,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.3581769983686786
@@ -6656,6 +7422,7 @@ edge [
 "raw bz" 0.19393939393939397
 "raw jump" 0.048484848484848464
 "raw ncd" 0.060642377756471716
+"skeletons ssdeep" 27
 "skeletons ppdeep" 55
 "skeletons ppdeep_mod" 52.63157894736842
 "skeletons byteBag" 0.3155510820332159
@@ -6663,6 +7430,7 @@ edge [
 "skeletons bz" 0.18125000000000002
 "skeletons jump" 0.06874999999999998
 "skeletons ncd" 0.08935018050541517
+"fstSecSkel ssdeep" 27
 "fstSecSkel ppdeep" 55
 "fstSecSkel ppdeep_mod" 52.56410256410256
 "fstSecSkel byteBag" 0.3155510820332159
@@ -6670,6 +7438,7 @@ edge [
 "fstSecSkel bz" 0.19374999999999998
 "fstSecSkel jump" 0.06874999999999998
 "fstSecSkel ncd" 0.08905967450271247
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 32.14285714285714
 "fStat byteBag" 0.2473633748801534
@@ -6677,6 +7446,7 @@ edge [
 "fStat bz" 0.18125000000000002
 "fStat jump" 0.11250000000000004
 "fStat ncd" 0.05844155844155844
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2473633748801534
@@ -6691,6 +7461,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 43.333333333333336
 "raw byteBag" 0.5417890854535226
@@ -6698,6 +7469,7 @@ edge [
 "raw bz" 0.3111111111111111
 "raw jump" 0.051851851851851816
 "raw ncd" 0.08685676827269748
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 23.75
 "skeletons byteBag" 0.5419730684748353
@@ -6705,6 +7477,7 @@ edge [
 "skeletons bz" 0.29118773946360155
 "skeletons jump" 0.08045977011494254
 "skeletons ncd" 0.18676410881039382
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 24.390243902439025
 "fstSecSkel byteBag" 0.5419730684748353
@@ -6712,6 +7485,7 @@ edge [
 "fstSecSkel bz" 0.29885057471264365
 "fstSecSkel jump" 0.08045977011494254
 "fstSecSkel ncd" 0.18666124440829607
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 35.8695652173913
 "fStat byteBag" 0.5096774193548387
@@ -6719,6 +7493,7 @@ edge [
 "fStat bz" 0.47126436781609193
 "fStat jump" 0.10727969348659006
 "fStat ncd" 0.15416666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5096774193548387
@@ -6733,6 +7508,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.26229508196721
 "raw byteBag" 0.5861401203402725
@@ -6740,6 +7516,7 @@ edge [
 "raw bz" 0.45238095238095233
 "raw jump" 0.04761904761904767
 "raw ncd" 0.09490863934717048
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 25.0
 "skeletons byteBag" 0.5918603428331055
@@ -6747,6 +7524,7 @@ edge [
 "skeletons bz" 0.4221453287197232
 "skeletons jump" 0.07958477508650519
 "skeletons ncd" 0.18604651162790697
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 25.609756097560975
 "fstSecSkel byteBag" 0.5918603428331055
@@ -6754,6 +7532,7 @@ edge [
 "fstSecSkel bz" 0.4256055363321799
 "fstSecSkel jump" 0.08304498269896199
 "fstSecSkel ncd" 0.18480336006109202
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5587340231284236
@@ -6761,6 +7540,7 @@ edge [
 "fStat bz" 0.47750865051903113
 "fStat jump" 0.1384083044982699
 "fStat ncd" 0.1593625498007968
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 40.38461538461539
 "fStat0 byteBag" 0.5587340231284236
@@ -6775,6 +7555,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.09090909090909
 "raw byteBag" 0.7007311129163282
@@ -6782,6 +7563,7 @@ edge [
 "raw bz" 0.49523809523809526
 "raw jump" 0.02857142857142858
 "raw ncd" 0.11909612891276163
+"skeletons ssdeep" 30
 "skeletons ppdeep" 58
 "skeletons ppdeep_mod" 52.77777777777778
 "skeletons byteBag" 0.7388266315095583
@@ -6789,6 +7571,7 @@ edge [
 "skeletons bz" 0.46829268292682924
 "skeletons jump" 0.1121951219512195
 "skeletons ncd" 0.2497839239412273
+"fstSecSkel ssdeep" 30
 "fstSecSkel ppdeep" 58
 "fstSecSkel ppdeep_mod" 52.72727272727273
 "fstSecSkel byteBag" 0.7388266315095583
@@ -6796,6 +7579,7 @@ edge [
 "fstSecSkel bz" 0.47804878048780486
 "fstSecSkel jump" 0.1121951219512195
 "fstSecSkel ncd" 0.24881003894418
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 40.50632911392405
 "fStat byteBag" 0.7081741787624141
@@ -6803,6 +7587,7 @@ edge [
 "fStat bz" 0.5658536585365854
 "fStat jump" 0.14634146341463417
 "fStat ncd" 0.19480519480519481
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.561797752808985
 "fStat0 byteBag" 0.7081741787624141
@@ -6817,6 +7602,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 34.17721518987342
 "raw byteBag" 0.3952133381140194
@@ -6824,6 +7610,7 @@ edge [
 "raw bz" 0.27064220183486243
 "raw jump" 0.05275229357798161
 "raw ncd" 0.07996615189337847
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 27.5
 "skeletons byteBag" 0.3786904605694791
@@ -6831,6 +7618,7 @@ edge [
 "skeletons bz" 0.4171597633136095
 "skeletons jump" 0.10059171597633132
 "skeletons ncd" 0.13584222177500502
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 29.268292682926827
 "fstSecSkel byteBag" 0.3786904605694791
@@ -6838,6 +7626,7 @@ edge [
 "fstSecSkel bz" 0.41420118343195267
 "fstSecSkel jump" 0.10059171597633132
 "fstSecSkel ncd" 0.13736153071500504
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.4036437246963563
@@ -6845,6 +7634,7 @@ edge [
 "fStat bz" 0.44082840236686394
 "fStat jump" 0.1449704142011834
 "fStat ncd" 0.12284482758620689
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.4036437246963563
@@ -6859,6 +7649,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2628905818703765
@@ -6866,6 +7657,7 @@ edge [
 "raw bz" 0.303030303030303
 "raw jump" 0.054545454545454564
 "raw ncd" 0.08892617449664429
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.26425137362637363
@@ -6873,6 +7665,7 @@ edge [
 "skeletons bz" 0.275
 "skeletons jump" 0.08750000000000002
 "skeletons ncd" 0.1552346570397112
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.26425137362637363
@@ -6880,6 +7673,7 @@ edge [
 "fstSecSkel bz" 0.2875
 "fstSecSkel jump" 0.08750000000000002
 "fstSecSkel ncd" 0.15370705244122965
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 26.92307692307692
 "fStat byteBag" 0.22673267326732674
@@ -6887,6 +7681,7 @@ edge [
 "fStat bz" 0.30000000000000004
 "fStat jump" 0.15000000000000002
 "fStat ncd" 0.12987012987012986
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.22673267326732674
@@ -6901,6 +7696,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 33.89830508474576
 "raw byteBag" 0.3512658227848101
@@ -6908,6 +7704,7 @@ edge [
 "raw bz" 0.3939393939393939
 "raw jump" 0.024242424242424288
 "raw ncd" 0.06927133269415149
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.63157894736842
 "skeletons byteBag" 0.36961681926076634
@@ -6915,6 +7712,7 @@ edge [
 "skeletons bz" 0.38749999999999996
 "skeletons jump" 0.09375
 "skeletons ncd" 0.12319494584837545
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.56410256410256
 "fstSecSkel byteBag" 0.36961681926076634
@@ -6922,6 +7720,7 @@ edge [
 "fstSecSkel bz" 0.4
 "fstSecSkel jump" 0.09375
 "fstSecSkel ncd" 0.12296564195298372
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 24.358974358974365
 "fStat byteBag" 0.2580340264650284
@@ -6929,6 +7728,7 @@ edge [
 "fStat bz" 0.38125
 "fStat jump" 0.14375000000000004
 "fStat ncd" 0.1038961038961039
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2580340264650284
@@ -6943,6 +7743,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.24401356219538037
@@ -6950,6 +7751,7 @@ edge [
 "raw bz" 0.2545454545454545
 "raw jump" 0.042424242424242475
 "raw ncd" 0.08317353787152446
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 51.351351351351354
 "skeletons byteBag" 0.24002739256976546
@@ -6957,6 +7759,7 @@ edge [
 "skeletons bz" 0.26875000000000004
 "skeletons jump" 0.09375
 "skeletons ncd" 0.14530685920577618
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 51.31578947368421
 "fstSecSkel byteBag" 0.24002739256976546
@@ -6964,6 +7767,7 @@ edge [
 "fstSecSkel bz" 0.2875
 "fstSecSkel jump" 0.09375
 "fstSecSkel ncd" 0.1437613019891501
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.22673267326732674
@@ -6971,6 +7775,7 @@ edge [
 "fStat bz" 0.30625
 "fStat jump" 0.16249999999999998
 "fStat ncd" 0.1341991341991342
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.22673267326732674
@@ -6985,6 +7790,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.325581395348834
 "raw byteBag" 0.5472787097470198
@@ -6992,6 +7798,7 @@ edge [
 "raw bz" 0.44897959183673475
 "raw jump" 0.05442176870748294
 "raw ncd" 0.0988990483299123
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.96825396825397
 "skeletons byteBag" 0.6186093137701631
@@ -6999,6 +7806,7 @@ edge [
 "skeletons bz" 0.3583617747440273
 "skeletons jump" 0.14675767918088733
 "skeletons ncd" 0.19947308995107263
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.90625
 "fstSecSkel byteBag" 0.6186093137701631
@@ -7006,6 +7814,7 @@ edge [
 "fstSecSkel bz" 0.3549488054607508
 "fstSecSkel jump" 0.14675767918088733
 "fstSecSkel ncd" 0.19819140919366993
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 42.028985507246375
 "fStat byteBag" 0.6228249744114637
@@ -7013,6 +7822,7 @@ edge [
 "fStat bz" 0.5563139931740615
 "fStat jump" 0.20136518771331058
 "fStat ncd" 0.1694915254237288
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6228249744114637
@@ -7027,6 +7837,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.98795180722892
 "raw byteBag" 0.6587065751796424
@@ -7034,6 +7845,7 @@ edge [
 "raw bz" 0.47058823529411764
 "raw jump" 0.019607843137254943
 "raw ncd" 0.08794674141555711
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.38095238095238
 "skeletons byteBag" 0.7655369757667889
@@ -7041,6 +7853,7 @@ edge [
 "skeletons bz" 0.430921052631579
 "skeletons jump" 0.09868421052631582
 "skeletons ncd" 0.19872036130974782
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.34375
 "fstSecSkel byteBag" 0.7655369757667889
@@ -7048,6 +7861,7 @@ edge [
 "fstSecSkel bz" 0.4276315789473685
 "fstSecSkel jump" 0.09868421052631582
 "fstSecSkel ncd" 0.1985681989449887
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.382716049382715
 "fStat byteBag" 0.7370259481037924
@@ -7055,6 +7869,7 @@ edge [
 "fStat bz" 0.575657894736842
 "fStat jump" 0.14144736842105265
 "fStat ncd" 0.17627118644067796
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7370259481037924
@@ -7069,6 +7884,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.22222222222222
 "raw byteBag" 0.7659523809523809
@@ -7076,6 +7892,7 @@ edge [
 "raw bz" 0.487012987012987
 "raw jump" 0.022727272727272707
 "raw ncd" 0.104369361401026
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.17460317460318
 "skeletons byteBag" 0.8158013544018059
@@ -7083,6 +7900,7 @@ edge [
 "skeletons bz" 0.43288590604026844
 "skeletons jump" 0.11409395973154357
 "skeletons ncd" 0.22995859992472714
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.125
 "fstSecSkel byteBag" 0.8158013544018059
@@ -7090,6 +7908,7 @@ edge [
 "fstSecSkel bz" 0.4429530201342282
 "fstSecSkel jump" 0.11409395973154357
 "fstSecSkel ncd" 0.2290881688018086
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.92307692307692
 "fStat byteBag" 0.7382947264662395
@@ -7097,6 +7916,7 @@ edge [
 "fStat bz" 0.6174496644295302
 "fStat jump" 0.14093959731543626
 "fStat ncd" 0.19491525423728814
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7382947264662395
@@ -7111,6 +7931,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 36.61971830985915
 "raw byteBag" 0.535277516462841
@@ -7118,6 +7939,7 @@ edge [
 "raw bz" 0.45238095238095233
 "raw jump" 0.05442176870748294
 "raw ncd" 0.12650009836710605
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 28.75
 "skeletons byteBag" 0.54160096466005
@@ -7125,6 +7947,7 @@ edge [
 "skeletons bz" 0.447098976109215
 "skeletons jump" 0.0989761092150171
 "skeletons ncd" 0.22506586375611592
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 28.395061728395063
 "fstSecSkel byteBag" 0.54160096466005
@@ -7132,6 +7955,7 @@ edge [
 "fstSecSkel bz" 0.4334470989761092
 "fstSecSkel jump" 0.0989761092150171
 "fstSecSkel ncd" 0.22569706103993972
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.4951505870342011
@@ -7139,6 +7963,7 @@ edge [
 "fStat bz" 0.4539249146757679
 "fStat jump" 0.13310580204778155
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.4951505870342011
@@ -7153,6 +7978,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.577319587628864
 "raw byteBag" 0.6343867537071463
@@ -7160,6 +7986,7 @@ edge [
 "raw bz" 0.532033426183844
 "raw jump" 0.05013927576601673
 "raw ncd" 0.08811410459587955
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.96825396825397
 "skeletons byteBag" 0.6749027237354086
@@ -7167,6 +7994,7 @@ edge [
 "skeletons bz" 0.6028985507246376
 "skeletons jump" 0.15362318840579714
 "skeletons ncd" 0.15814986871339123
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.54330708661417
 "fstSecSkel byteBag" 0.6749027237354086
@@ -7174,6 +8002,7 @@ edge [
 "fstSecSkel bz" 0.6057971014492753
 "fstSecSkel jump" 0.15362318840579714
 "fstSecSkel ncd" 0.15841584158415842
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 54.3859649122807
 "fStat byteBag" 0.6884498480243161
@@ -7181,6 +8010,7 @@ edge [
 "fStat bz" 0.6086956521739131
 "fStat jump" 0.17971014492753623
 "fStat ncd" 0.14193548387096774
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 48.38709677419355
 "fStat0 byteBag" 0.6884498480243161
@@ -7195,6 +8025,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21455152059540614
@@ -7202,6 +8033,7 @@ edge [
 "raw bz" 0.282312925170068
 "raw jump" 0.04081632653061229
 "raw ncd" 0.05095416092858548
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2055849336673161
@@ -7209,6 +8041,7 @@ edge [
 "skeletons bz" 0.2627986348122867
 "skeletons jump" 0.15699658703071673
 "skeletons ncd" 0.10124200225818593
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2055849336673161
@@ -7216,6 +8049,7 @@ edge [
 "fstSecSkel bz" 0.2627986348122867
 "fstSecSkel jump" 0.15699658703071673
 "fstSecSkel ncd" 0.10135644310474755
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14827935222672065
@@ -7223,6 +8057,7 @@ edge [
 "fStat bz" 0.273037542662116
 "fStat jump" 0.1706484641638225
 "fStat ncd" 0.07796610169491526
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14827935222672065
@@ -7237,6 +8072,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1562076749435666
@@ -7244,6 +8080,7 @@ edge [
 "raw bz" 0.1768707482993197
 "raw jump" 0.030612244897959218
 "raw ncd" 0.06590596104662601
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14092393840410639
@@ -7251,6 +8088,7 @@ edge [
 "skeletons bz" 0.16723549488054612
 "skeletons jump" 0.07508532423208192
 "skeletons ncd" 0.1264584117425668
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14092393840410639
@@ -7258,6 +8096,7 @@ edge [
 "fstSecSkel bz" 0.16723549488054612
 "fstSecSkel jump" 0.07849829351535831
 "fstSecSkel ncd" 0.12547098718914845
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.12074303405572756
@@ -7265,6 +8104,7 @@ edge [
 "fStat bz" 0.16382252559726962
 "fStat jump" 0.09556313993174059
 "fStat ncd" 0.11016949152542373
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.12074303405572756
@@ -7279,6 +8119,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.67901234567901
 "raw byteBag" 0.6492564381574175
@@ -7286,6 +8127,7 @@ edge [
 "raw bz" 0.5272108843537415
 "raw jump" 0.05102040816326525
 "raw ncd" 0.11363636363636363
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 42.5531914893617
 "skeletons byteBag" 0.6596998434766596
@@ -7293,6 +8135,7 @@ edge [
 "skeletons bz" 0.42662116040955633
 "skeletons jump" 0.16723549488054612
 "skeletons ncd" 0.2231840421528039
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 42.708333333333336
 "fstSecSkel byteBag" 0.6596998434766596
@@ -7300,6 +8143,7 @@ edge [
 "fstSecSkel bz" 0.41979522184300344
 "fstSecSkel jump" 0.16723549488054612
 "fstSecSkel ncd" 0.22343632253202714
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 44.5945945945946
 "fStat byteBag" 0.6069600818833163
@@ -7307,6 +8151,7 @@ edge [
 "fStat bz" 0.5631399317406143
 "fStat jump" 0.20136518771331058
 "fStat ncd" 0.18305084745762712
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6069600818833163
@@ -7321,6 +8166,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1945057640421879
@@ -7328,6 +8174,7 @@ edge [
 "raw bz" 0.2755102040816326
 "raw jump" 0.05102040816326525
 "raw ncd" 0.04701947668699587
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.18505502635716267
@@ -7335,6 +8182,7 @@ edge [
 "skeletons bz" 0.24914675767918093
 "skeletons jump" 0.12627986348122866
 "skeletons ncd" 0.0937147158449379
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.18505502635716267
@@ -7342,6 +8190,7 @@ edge [
 "fstSecSkel bz" 0.23890784982935154
 "fstSecSkel jump" 0.12627986348122866
 "fstSecSkel ncd" 0.09382064807837227
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15030364372469635
@@ -7349,6 +8198,7 @@ edge [
 "fStat bz" 0.2798634812286689
 "fStat jump" 0.16040955631399323
 "fStat ncd" 0.07966101694915254
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15030364372469635
@@ -7363,6 +8213,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 41.77215189873418
 "raw byteBag" 0.6235726342964949
@@ -7370,6 +8221,7 @@ edge [
 "raw bz" 0.3605442176870748
 "raw jump" 0.027210884353741527
 "raw ncd" 0.09018567639257294
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.96825396825397
 "skeletons byteBag" 0.7739220959486424
@@ -7377,6 +8229,7 @@ edge [
 "skeletons bz" 0.31740614334470985
 "skeletons jump" 0.12627986348122866
 "skeletons ncd" 0.21038765525028227
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.90625
 "fstSecSkel byteBag" 0.7739220959486424
@@ -7384,6 +8237,7 @@ edge [
 "fstSecSkel bz" 0.30375426621160406
 "fstSecSkel jump" 0.12627986348122866
 "fstSecSkel ncd" 0.20987189148455163
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.943396226415096
 "fStat byteBag" 0.7817307692307692
@@ -7391,6 +8245,7 @@ edge [
 "fStat bz" 0.5324232081911262
 "fStat jump" 0.174061433447099
 "fStat ncd" 0.17627118644067796
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 48.75
 "fStat0 byteBag" 0.7817307692307692
@@ -7405,6 +8260,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.68817204301075
 "raw byteBag" 0.9146061845448349
@@ -7412,6 +8268,7 @@ edge [
 "raw bz" 0.8922558922558923
 "raw jump" 0.01683501683501687
 "raw ncd" 0.532952980523313
+"skeletons ssdeep" 75
 "skeletons ppdeep" 85
 "skeletons ppdeep_mod" 84.92063492063492
 "skeletons byteBag" 0.9756616694429021
@@ -7419,6 +8276,7 @@ edge [
 "skeletons bz" 0.9692832764505119
 "skeletons jump" 0.8873720136518771
 "skeletons ncd" 0.8321415129845691
+"fstSecSkel ssdeep" 75
 "fstSecSkel ppdeep" 85
 "fstSecSkel ppdeep_mod" 84.375
 "fstSecSkel byteBag" 0.9756616694429021
@@ -7426,6 +8284,7 @@ edge [
 "fstSecSkel bz" 0.9829351535836177
 "fstSecSkel jump" 0.8873720136518771
 "fstSecSkel ncd" 0.8319517709118311
+"fStat ssdeep" 54
 "fStat ppdeep" 75
 "fStat ppdeep_mod" 74.6987951807229
 "fStat byteBag" 0.9757481940144479
@@ -7433,6 +8292,7 @@ edge [
 "fStat bz" 0.9829351535836177
 "fStat jump" 0.9078498293515358
 "fStat ncd" 0.7966101694915254
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 69.11764705882354
 "fStat0 byteBag" 0.9757481940144479
@@ -7447,6 +8307,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2183406113537118
@@ -7454,6 +8315,7 @@ edge [
 "raw bz" 0.13605442176870752
 "raw jump" 0.03401360544217691
 "raw ncd" 0.03737950029510132
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.17696577243293246
@@ -7461,6 +8323,7 @@ edge [
 "skeletons bz" 0.09556313993174059
 "skeletons jump" 0.0887372013651877
 "skeletons ncd" 0.07000376364320662
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.17696577243293246
@@ -7468,6 +8331,7 @@ edge [
 "fstSecSkel bz" 0.07167235494880542
 "fstSecSkel jump" 0.0887372013651877
 "fstSecSkel ncd" 0.07008289374529013
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.13710499490316005
@@ -7475,6 +8339,7 @@ edge [
 "fStat bz" 0.11262798634812288
 "fStat jump" 0.12286689419795227
 "fStat ncd" 0.04576271186440678
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.13710499490316005
@@ -7489,6 +8354,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.63157894736842
 "raw byteBag" 0.7611940298507462
@@ -7496,6 +8362,7 @@ edge [
 "raw bz" 0.40476190476190477
 "raw jump" 0.020408163265306145
 "raw ncd" 0.10390036053752869
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.38095238095238
 "skeletons byteBag" 0.825101987674681
@@ -7503,6 +8370,7 @@ edge [
 "skeletons bz" 0.33447098976109213
 "skeletons jump" 0.13310580204778155
 "skeletons ncd" 0.23372224313135115
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.34375
 "fstSecSkel byteBag" 0.825101987674681
@@ -7510,6 +8378,7 @@ edge [
 "fstSecSkel bz" 0.33105802047781574
 "fstSecSkel jump" 0.13310580204778155
 "fstSecSkel ncd" 0.23285606631499622
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 46.666666666666664
 "fStat byteBag" 0.7459131247080804
@@ -7517,6 +8386,7 @@ edge [
 "fStat bz" 0.5699658703071673
 "fStat jump" 0.174061433447099
 "fStat ncd" 0.19661016949152543
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 44.44444444444444
 "fStat0 byteBag" 0.7459131247080804
@@ -7531,6 +8401,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.282051282051285
 "raw byteBag" 0.762324049116502
@@ -7538,6 +8409,7 @@ edge [
 "raw bz" 0.4897959183673469
 "raw jump" 0.010204081632653073
 "raw ncd" 0.10289160901188575
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.17460317460318
 "skeletons byteBag" 0.8094549398897225
@@ -7545,6 +8417,7 @@ edge [
 "skeletons bz" 0.4607508532423208
 "skeletons jump" 0.10238907849829348
 "skeletons ncd" 0.22393677079412871
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.125
 "fstSecSkel byteBag" 0.8094549398897225
@@ -7552,6 +8425,7 @@ edge [
 "fstSecSkel bz" 0.4675767918088737
 "fstSecSkel jump" 0.10238907849829348
 "fstSecSkel ncd" 0.2226827430293896
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.7325062034739455
@@ -7559,6 +8433,7 @@ edge [
 "fStat bz" 0.6313993174061434
 "fStat jump" 0.13993174061433444
 "fStat ncd" 0.19152542372881357
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7325062034739455
@@ -7573,6 +8448,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.44444444444444
 "raw byteBag" 0.6525459475745706
@@ -7580,6 +8456,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.04761904761904767
 "raw ncd" 0.11465086127060567
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 41.48936170212766
 "skeletons byteBag" 0.6648240280081076
@@ -7587,6 +8464,7 @@ edge [
 "skeletons bz" 0.39590443686006827
 "skeletons jump" 0.16040955631399323
 "skeletons ncd" 0.22770041400075272
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 41.666666666666664
 "fstSecSkel byteBag" 0.6648240280081076
@@ -7594,6 +8472,7 @@ edge [
 "fstSecSkel bz" 0.39931740614334466
 "fstSecSkel jump" 0.16040955631399323
 "fstSecSkel ncd" 0.22682743029389602
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 44.44444444444444
 "fStat byteBag" 0.6202661207778914
@@ -7601,6 +8480,7 @@ edge [
 "fStat bz" 0.552901023890785
 "fStat jump" 0.20477815699658708
 "fStat ncd" 0.18305084745762712
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6202661207778914
@@ -7615,6 +8495,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.476190476190474
 "raw byteBag" 0.6348544111255976
@@ -7622,6 +8503,7 @@ edge [
 "raw bz" 0.42201834862385323
 "raw jump" 0.05504587155963303
 "raw ncd" 0.07975460122699386
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.34920634920635
 "skeletons byteBag" 0.6690299709958105
@@ -7629,6 +8511,7 @@ edge [
 "skeletons bz" 0.6272189349112426
 "skeletons jump" 0.14792899408284022
 "skeletons ncd" 0.14711209498893138
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.03125
 "fstSecSkel byteBag" 0.6690299709958105
@@ -7636,6 +8519,7 @@ edge [
 "fstSecSkel bz" 0.6242603550295858
 "fstSecSkel jump" 0.14792899408284022
 "fstSecSkel ncd" 0.1470292044310171
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.111111111111114
 "fStat byteBag" 0.6976833976833977
@@ -7643,6 +8527,7 @@ edge [
 "fStat bz" 0.6242603550295858
 "fStat jump" 0.18639053254437865
 "fStat ncd" 0.13577586206896552
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.6976833976833977
@@ -7657,6 +8542,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15554696061367884
@@ -7664,6 +8550,7 @@ edge [
 "raw bz" 0.1802721088435374
 "raw jump" 0.05102040816326525
 "raw ncd" 0.06334841628959276
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14248390407763367
@@ -7671,6 +8558,7 @@ edge [
 "skeletons bz" 0.16382252559726962
 "skeletons jump" 0.06484641638225253
 "skeletons ncd" 0.11930748964998118
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14248390407763367
@@ -7678,6 +8566,7 @@ edge [
 "fstSecSkel bz" 0.16382252559726962
 "fstSecSkel jump" 0.06825938566552903
 "fstSecSkel ncd" 0.11906556141672947
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.11919504643962849
@@ -7685,6 +8574,7 @@ edge [
 "fStat bz" 0.16382252559726962
 "fStat jump" 0.0921501706484642
 "fStat ncd" 0.10847457627118644
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.11919504643962849
@@ -7699,6 +8589,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2103001539250898
@@ -7706,6 +8597,7 @@ edge [
 "raw bz" 0.2482993197278912
 "raw jump" 0.05442176870748294
 "raw ncd" 0.0527247688373008
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20224510622506725
@@ -7713,6 +8605,7 @@ edge [
 "skeletons bz" 0.2662116040955631
 "skeletons jump" 0.14675767918088733
 "skeletons ncd" 0.09785472337222431
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20224510622506725
@@ -7720,6 +8613,7 @@ edge [
 "fstSecSkel bz" 0.2696245733788396
 "fstSecSkel jump" 0.14675767918088733
 "fstSecSkel ncd" 0.09796533534287867
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14423076923076922
@@ -7727,6 +8621,7 @@ edge [
 "fStat bz" 0.2593856655290102
 "fStat jump" 0.16382252559726962
 "fStat ncd" 0.07966101694915254
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14423076923076922
@@ -7741,6 +8636,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14748835452599773
@@ -7748,6 +8644,7 @@ edge [
 "raw bz" 0.173469387755102
 "raw jump" 0.04761904761904767
 "raw ncd" 0.06020066889632107
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.12991612301957128
@@ -7755,6 +8652,7 @@ edge [
 "skeletons bz" 0.16040955631399323
 "skeletons jump" 0.08191126279863481
 "skeletons ncd" 0.11667293940534437
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.12991612301957128
@@ -7762,6 +8660,7 @@ edge [
 "fstSecSkel bz" 0.16040955631399323
 "fstSecSkel jump" 0.08532423208191131
 "fstSecSkel ncd" 0.11605124340617935
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.11919504643962849
@@ -7769,6 +8668,7 @@ edge [
 "fStat bz" 0.16382252559726962
 "fStat jump" 0.10580204778156999
 "fStat ncd" 0.10338983050847457
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.11919504643962849
@@ -7783,6 +8683,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs999999"
 "group1" "BinaryOptionMarketManager"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.70422535211268
 "raw byteBag" 0.7545050604788941
@@ -7790,6 +8691,7 @@ edge [
 "raw bz" 0.607843137254902
 "raw jump" 0.0490196078431373
 "raw ncd" 0.24877365101611773
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.34920634920635
 "skeletons byteBag" 0.7720030765849907
@@ -7797,6 +8699,7 @@ edge [
 "skeletons bz" 0.6151315789473684
 "skeletons jump" 0.26644736842105265
 "skeletons ncd" 0.40945790080738176
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.03125
 "fstSecSkel byteBag" 0.7720030765849907
@@ -7804,6 +8707,7 @@ edge [
 "fstSecSkel bz" 0.611842105263158
 "fstSecSkel jump" 0.26644736842105265
 "fstSecSkel ncd" 0.40877598152424943
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 46.875
 "fStat byteBag" 0.7742346938775511
@@ -7811,6 +8715,7 @@ edge [
 "fStat bz" 0.6513157894736843
 "fStat jump" 0.32565789473684215
 "fStat ncd" 0.27235772357723576
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 46.774193548387096
 "fStat0 byteBag" 0.7742346938775511
@@ -7825,6 +8730,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.5994512230719832
@@ -7832,6 +8738,7 @@ edge [
 "raw bz" 0.577922077922078
 "raw jump" 0.051948051948051965
 "raw ncd" 0.19582522554395895
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.142857142857146
 "skeletons byteBag" 0.709119170984456
@@ -7839,6 +8746,7 @@ edge [
 "skeletons bz" 0.610738255033557
 "skeletons jump" 0.2348993288590604
 "skeletons ncd" 0.321401077752117
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.03125
 "fstSecSkel byteBag" 0.709119170984456
@@ -7846,6 +8754,7 @@ edge [
 "fstSecSkel bz" 0.6073825503355705
 "fstSecSkel jump" 0.2348993288590604
 "fstSecSkel ncd" 0.320616570327553
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.152542372881356
 "fStat byteBag" 0.7521685254027262
@@ -7853,6 +8762,7 @@ edge [
 "fStat bz" 0.6610738255033557
 "fStat jump" 0.3087248322147651
 "fStat ncd" 0.22924901185770752
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 46.774193548387096
 "fStat0 byteBag" 0.7521685254027262
@@ -7867,6 +8777,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.67796610169491
 "raw byteBag" 0.5622537985368599
@@ -7874,6 +8785,7 @@ edge [
 "raw bz" 0.4418604651162791
 "raw jump" 0.051162790697674376
 "raw ncd" 0.09983205821981712
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 26.25
 "skeletons byteBag" 0.7055351521511017
@@ -7881,6 +8793,7 @@ edge [
 "skeletons bz" 0.4339622641509434
 "skeletons jump" 0.089622641509434
 "skeletons ncd" 0.20052083333333334
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 25.925925925925924
 "fstSecSkel byteBag" 0.7055351521511017
@@ -7888,6 +8801,7 @@ edge [
 "fstSecSkel bz" 0.4339622641509434
 "fstSecSkel jump" 0.089622641509434
 "fstSecSkel ncd" 0.20069504778453517
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 40.0
 "fStat byteBag" 0.6932422171602126
@@ -7895,6 +8809,7 @@ edge [
 "fStat bz" 0.5330188679245282
 "fStat jump" 0.12735849056603776
 "fStat ncd" 0.1934782608695652
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 48.86363636363637
 "fStat0 byteBag" 0.6932422171602126
@@ -7909,6 +8824,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.76470588235294
 "raw byteBag" 0.4495981723983193
@@ -7916,6 +8832,7 @@ edge [
 "raw bz" 0.3259052924791086
 "raw jump" 0.055710306406685284
 "raw ncd" 0.0624405705229794
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 55.55555555555556
 "skeletons byteBag" 0.45097014437838895
@@ -7923,6 +8840,7 @@ edge [
 "skeletons bz" 0.4260869565217391
 "skeletons jump" 0.1594202898550725
 "skeletons ncd" 0.11007877196525954
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.90551181102362
 "fstSecSkel byteBag" 0.45097014437838895
@@ -7930,6 +8848,7 @@ edge [
 "fstSecSkel bz" 0.4260869565217391
 "fstSecSkel jump" 0.1594202898550725
 "fstSecSkel ncd" 0.10992119620125278
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 41.666666666666664
 "fStat byteBag" 0.490843949044586
@@ -7937,6 +8856,7 @@ edge [
 "fStat bz" 0.5623188405797102
 "fStat jump" 0.23188405797101452
 "fStat ncd" 0.11397849462365592
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.490843949044586
@@ -7951,6 +8871,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.25142728365384615
@@ -7958,6 +8879,7 @@ edge [
 "raw bz" 0.40930232558139534
 "raw jump" 0.06046511627906981
 "raw ncd" 0.047396902407165514
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.307585052983826
@@ -7965,6 +8887,7 @@ edge [
 "skeletons bz" 0.3915094339622641
 "skeletons jump" 0.17452830188679247
 "skeletons ncd" 0.11893310013117621
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.307585052983826
@@ -7972,6 +8895,7 @@ edge [
 "fstSecSkel bz" 0.3867924528301887
 "fstSecSkel jump" 0.17452830188679247
 "fstSecSkel ncd" 0.11782742006132282
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.21705426356589147
@@ -7979,6 +8903,7 @@ edge [
 "fStat bz" 0.37735849056603776
 "fStat jump" 0.19811320754716977
 "fStat ncd" 0.11442786069651742
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.21705426356589147
@@ -7993,6 +8918,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.18238803715731441
@@ -8000,6 +8926,7 @@ edge [
 "raw bz" 0.24651162790697678
 "raw jump" 0.05581395348837215
 "raw ncd" 0.09983205821981712
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2120529428330048
@@ -8007,6 +8934,7 @@ edge [
 "skeletons bz" 0.23584905660377353
 "skeletons jump" 0.09905660377358494
 "skeletons ncd" 0.16921731526016615
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2120529428330048
@@ -8014,6 +8942,7 @@ edge [
 "fstSecSkel bz" 0.24056603773584906
 "fstSecSkel jump" 0.10377358490566035
 "fstSecSkel ncd" 0.1677617170389838
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.19174757281553398
@@ -8021,6 +8950,7 @@ edge [
 "fStat bz" 0.23584905660377353
 "fStat jump" 0.14622641509433965
 "fStat ncd" 0.1691542288557214
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.19174757281553398
@@ -8035,6 +8965,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.17391304347826
 "raw byteBag" 0.6930210519190415
@@ -8042,6 +8973,7 @@ edge [
 "raw bz" 0.7255813953488373
 "raw jump" 0.018604651162790753
 "raw ncd" 0.5086143695014663
+"skeletons ssdeep" 44
 "skeletons ppdeep" 54
 "skeletons ppdeep_mod" 55.319148936170215
 "skeletons byteBag" 0.8742195629552549
@@ -8049,6 +8981,7 @@ edge [
 "skeletons bz" 0.8113207547169812
 "skeletons jump" 0.4952830188679245
 "skeletons ncd" 0.6742587021916631
+"fstSecSkel ssdeep" 44
 "fstSecSkel ppdeep" 54
 "fstSecSkel ppdeep_mod" 55.208333333333336
 "fstSecSkel byteBag" 0.8742195629552549
@@ -8056,6 +8989,7 @@ edge [
 "fstSecSkel bz" 0.8301886792452831
 "fstSecSkel jump" 0.4952830188679245
 "fstSecSkel ncd" 0.673697804563065
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 66.34615384615384
 "fStat byteBag" 0.9496805111821086
@@ -8063,6 +8997,7 @@ edge [
 "fStat bz" 0.8820754716981132
 "fStat jump" 0.7405660377358491
 "fStat ncd" 0.6932367149758454
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 64.35643564356435
 "fStat0 byteBag" 0.9496805111821086
@@ -8077,6 +9012,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "BinaryOptionMarketManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.29849845318041196
@@ -8084,6 +9020,7 @@ edge [
 "raw bz" 0.4232558139534883
 "raw jump" 0.05581395348837215
 "raw ncd" 0.055793991416309016
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2889978976874562
@@ -8091,6 +9028,7 @@ edge [
 "skeletons bz" 0.410377358490566
 "skeletons jump" 0.17924528301886788
 "skeletons ncd" 0.13423699169217315
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2889978976874562
@@ -8098,6 +9036,7 @@ edge [
 "fstSecSkel bz" 0.410377358490566
 "fstSecSkel jump" 0.17924528301886788
 "fstSecSkel ncd" 0.1340341655716163
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.22015503875968992
@@ -8105,6 +9044,7 @@ edge [
 "fStat bz" 0.3915094339622641
 "fStat jump" 0.2028301886792453
 "fStat ncd" 0.11940298507462686
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.22015503875968992
@@ -8119,6 +9059,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "BinaryOptionMarketManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.74626865671642
 "raw byteBag" 0.6792296655998235
@@ -8126,6 +9067,7 @@ edge [
 "raw bz" 0.5808823529411764
 "raw jump" 0.05514705882352944
 "raw ncd" 0.18086870026525198
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 55.55555555555556
 "skeletons byteBag" 0.7132532573289903
@@ -8133,6 +9075,7 @@ edge [
 "skeletons bz" 0.5962264150943396
 "skeletons jump" 0.2867924528301887
 "skeletons ncd" 0.3292483660130719
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.46875
 "fstSecSkel byteBag" 0.7132532573289903
@@ -8140,6 +9083,7 @@ edge [
 "fstSecSkel bz" 0.5924528301886792
 "fstSecSkel jump" 0.2867924528301887
 "fstSecSkel ncd" 0.3293780687397709
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 43.54838709677419
 "fStat byteBag" 0.6808272778088318
@@ -8147,6 +9091,7 @@ edge [
 "fStat bz" 0.6528301886792454
 "fStat jump" 0.30188679245283023
 "fStat ncd" 0.23348017621145375
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6808272778088318
@@ -8161,6 +9106,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.851851851851855
 "raw byteBag" 0.5433762872701785
@@ -8168,6 +9114,7 @@ edge [
 "raw bz" 0.4444444444444444
 "raw jump" 0.0572390572390572
 "raw ncd" 0.08956894943086396
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.17460317460318
 "skeletons byteBag" 0.6192128572733083
@@ -8175,6 +9122,7 @@ edge [
 "skeletons bz" 0.3620689655172413
 "skeletons jump" 0.12758620689655176
 "skeletons ncd" 0.18463925523661753
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.125
 "fstSecSkel byteBag" 0.6192128572733083
@@ -8182,6 +9130,7 @@ edge [
 "fstSecSkel bz" 0.3517241379310345
 "fstSecSkel jump" 0.12758620689655176
 "fstSecSkel ncd" 0.18407766990291263
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 45.45454545454545
 "fStat byteBag" 0.63617354939885
@@ -8189,6 +9138,7 @@ edge [
 "fStat bz" 0.5517241379310345
 "fStat jump" 0.18965517241379315
 "fStat ncd" 0.16753926701570682
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.63617354939885
@@ -8203,6 +9153,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "BinaryOptionMarketManager"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.3215281440735438
@@ -8210,6 +9161,7 @@ edge [
 "raw bz" 0.31162790697674414
 "raw jump" 0.051162790697674376
 "raw ncd" 0.100578466131741
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2848878227740934
@@ -8217,6 +9169,7 @@ edge [
 "skeletons bz" 0.2971698113207547
 "skeletons jump" 0.18867924528301883
 "skeletons ncd" 0.14341932662877133
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2848878227740934
@@ -8224,6 +9177,7 @@ edge [
 "fstSecSkel bz" 0.2971698113207547
 "fstSecSkel jump" 0.19339622641509435
 "fstSecSkel ncd" 0.14323258869908015
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.2246203037569944
@@ -8231,6 +9185,7 @@ edge [
 "fStat bz" 0.10377358490566035
 "fStat jump" 0.23113207547169812
 "fStat ncd" 0.08208955223880597
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2246203037569944
@@ -8245,6 +9200,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.7027027027027
 "raw byteBag" 0.5782829662823105
@@ -8252,6 +9208,7 @@ edge [
 "raw bz" 0.5851851851851853
 "raw jump" 0.04814814814814816
 "raw ncd" 0.14650934119960668
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 54.76190476190476
 "skeletons byteBag" 0.6424528301886793
@@ -8259,6 +9216,7 @@ edge [
 "skeletons bz" 0.6168582375478927
 "skeletons jump" 0.27586206896551724
 "skeletons ncd" 0.2578156719447828
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.46875
 "fstSecSkel byteBag" 0.6424528301886793
@@ -8266,6 +9224,7 @@ edge [
 "fstSecSkel bz" 0.6206896551724138
 "fstSecSkel jump" 0.27586206896551724
 "fstSecSkel ncd" 0.25620170801138675
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.86206896551724
 "fStat byteBag" 0.6688632619439868
@@ -8273,6 +9232,7 @@ edge [
 "fStat bz" 0.685823754789272
 "fStat jump" 0.30651340996168586
 "fStat ncd" 0.20625
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6688632619439868
@@ -8287,6 +9247,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.0
 "raw byteBag" 0.5935555816410377
@@ -8294,6 +9255,7 @@ edge [
 "raw bz" 0.5578231292517006
 "raw jump" 0.05442176870748294
 "raw ncd" 0.18910768139081072
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.93650793650794
 "skeletons byteBag" 0.7114682249817385
@@ -8301,6 +9263,7 @@ edge [
 "skeletons bz" 0.5847750865051904
 "skeletons jump" 0.19031141868512114
 "skeletons ncd" 0.3107129241326725
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.8125
 "fstSecSkel byteBag" 0.7114682249817385
@@ -8308,6 +9271,7 @@ edge [
 "fstSecSkel bz" 0.5813148788927336
 "fstSecSkel jump" 0.19031141868512114
 "fstSecSkel ncd" 0.30966017563955706
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 47.45762711864407
 "fStat byteBag" 0.7626262626262627
@@ -8315,6 +9279,7 @@ edge [
 "fStat bz" 0.6712802768166091
 "fStat jump" 0.3044982698961938
 "fStat ncd" 0.22709163346613545
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 46.774193548387096
 "fStat0 byteBag" 0.7626262626262627
@@ -8329,6 +9294,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.82608695652174
 "raw byteBag" 0.7138866176069774
@@ -8336,6 +9302,7 @@ edge [
 "raw bz" 0.7813953488372093
 "raw jump" 0.013953488372092981
 "raw ncd" 0.557140211150213
+"skeletons ssdeep" 41
 "skeletons ppdeep" 52
 "skeletons ppdeep_mod" 54.255319148936174
 "skeletons byteBag" 0.8910113829648044
@@ -8343,6 +9310,7 @@ edge [
 "skeletons bz" 0.8726415094339622
 "skeletons jump" 0.5613207547169812
 "skeletons ncd" 0.7031114952463267
+"fstSecSkel ssdeep" 44
 "fstSecSkel ppdeep" 54
 "fstSecSkel ppdeep_mod" 55.208333333333336
 "fstSecSkel byteBag" 0.8910113829648044
@@ -8350,6 +9318,7 @@ edge [
 "fstSecSkel bz" 0.8679245283018868
 "fstSecSkel jump" 0.5613207547169812
 "fstSecSkel ncd" 0.7022933794893985
+"fStat ssdeep" 50
 "fStat ppdeep" 71
 "fStat ppdeep_mod" 69.90291262135922
 "fStat byteBag" 0.9610492845786963
@@ -8357,6 +9326,7 @@ edge [
 "fStat bz" 0.9245283018867925
 "fStat jump" 0.8113207547169812
 "fStat ncd" 0.7325301204819277
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 67.32673267326733
 "fStat0 byteBag" 0.9610492845786963
@@ -8371,6 +9341,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.236559139784944
 "raw byteBag" 0.4389171585589253
@@ -8378,6 +9349,7 @@ edge [
 "raw bz" 0.22706422018348627
 "raw jump" 0.05733944954128445
 "raw ncd" 0.05849375925534166
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.34920634920635
 "skeletons byteBag" 0.4475633528265107
@@ -8385,6 +9357,7 @@ edge [
 "skeletons bz" 0.4171597633136095
 "skeletons jump" 0.13609467455621305
 "skeletons ncd" 0.10706379553230026
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 56.25
 "fstSecSkel byteBag" 0.4475633528265107
@@ -8392,6 +9365,7 @@ edge [
 "fstSecSkel bz" 0.4201183431952663
 "fstSecSkel jump" 0.13609467455621305
 "fstSecSkel ncd" 0.10715005035246727
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 41.0958904109589
 "fStat byteBag" 0.5002028397565923
@@ -8399,6 +9373,7 @@ edge [
 "fStat bz" 0.5532544378698225
 "fStat jump" 0.22189349112426038
 "fStat ncd" 0.11530172413793104
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5002028397565923
@@ -8413,6 +9388,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1819554548886372
@@ -8420,6 +9396,7 @@ edge [
 "raw bz" 0.24651162790697678
 "raw jump" 0.051162790697674376
 "raw ncd" 0.09572681470423587
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21336146272855133
@@ -8427,6 +9404,7 @@ edge [
 "skeletons bz" 0.23113207547169812
 "skeletons jump" 0.08018867924528306
 "skeletons ncd" 0.1609094884127678
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21336146272855133
@@ -8434,6 +9412,7 @@ edge [
 "fstSecSkel bz" 0.23584905660377353
 "fstSecSkel jump" 0.08490566037735847
 "fstSecSkel ncd" 0.15943933420937362
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.18932038834951456
@@ -8441,6 +9420,7 @@ edge [
 "fStat bz" 0.23113207547169812
 "fStat jump" 0.14622641509433965
 "fStat ncd" 0.15671641791044777
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.18932038834951456
@@ -8455,6 +9435,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.24643339840816939
@@ -8462,6 +9443,7 @@ edge [
 "raw bz" 0.3674418604651163
 "raw jump" 0.046511627906976716
 "raw ncd" 0.04870311625303228
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.3025655326268823
@@ -8469,6 +9451,7 @@ edge [
 "skeletons bz" 0.37264150943396224
 "skeletons jump" 0.15094339622641506
 "skeletons ncd" 0.11630957586357674
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.3025655326268823
@@ -8476,6 +9459,7 @@ edge [
 "fstSecSkel bz" 0.3679245283018868
 "fstSecSkel jump" 0.15094339622641506
 "fstSecSkel ncd" 0.11476127901883487
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.21085271317829457
@@ -8483,6 +9467,7 @@ edge [
 "fStat bz" 0.3584905660377359
 "fStat jump" 0.17924528301886788
 "fStat ncd" 0.11442786069651742
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.21085271317829457
@@ -8497,6 +9482,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "BinaryOptionMarketManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2080242240726722
@@ -8504,6 +9490,7 @@ edge [
 "raw bz" 0.24651162790697678
 "raw jump" 0.06046511627906981
 "raw ncd" 0.12539652920320957
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2029128959276018
@@ -8511,6 +9498,7 @@ edge [
 "skeletons bz" 0.24528301886792447
 "skeletons jump" 0.1132075471698113
 "skeletons ncd" 0.20507214691735898
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2029128959276018
@@ -8518,6 +9506,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.11792452830188682
 "fstSecSkel ncd" 0.2041173893999124
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.18932038834951456
@@ -8525,6 +9514,7 @@ edge [
 "fStat bz" 0.24528301886792447
 "fStat jump" 0.1556603773584906
 "fStat ncd" 0.1691542288557214
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.18932038834951456
@@ -8539,6 +9529,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.09090909090909
 "raw byteBag" 0.7426827823201801
@@ -8546,6 +9537,7 @@ edge [
 "raw bz" 0.8246753246753247
 "raw jump" 0.022727272727272707
 "raw ncd" 0.4728451296426069
+"skeletons ssdeep" 46
 "skeletons ppdeep" 71
 "skeletons ppdeep_mod" 70.63492063492063
 "skeletons byteBag" 0.9053315458389193
@@ -8553,6 +9545,7 @@ edge [
 "skeletons bz" 0.9342105263157895
 "skeletons jump" 0.6052631578947368
 "skeletons ncd" 0.7020376778162245
+"fstSecSkel ssdeep" 46
 "fstSecSkel ppdeep" 71
 "fstSecSkel ppdeep_mod" 70.3125
 "fstSecSkel byteBag" 0.9053315458389193
@@ -8560,6 +9553,7 @@ edge [
 "fstSecSkel bz" 0.930921052631579
 "fstSecSkel jump" 0.6052631578947368
 "fstSecSkel ncd" 0.701693610469592
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 64.7887323943662
 "fStat byteBag" 0.9418316831683168
@@ -8567,6 +9561,7 @@ edge [
 "fStat bz" 0.9210526315789473
 "fStat jump" 0.743421052631579
 "fStat ncd" 0.5948616600790514
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.9418316831683168
@@ -8581,6 +9576,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.642857142857146
 "raw byteBag" 0.5127388535031847
@@ -8588,6 +9584,7 @@ edge [
 "raw bz" 0.4411764705882353
 "raw jump" 0.05882352941176472
 "raw ncd" 0.07988787666433077
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 27.5
 "skeletons byteBag" 0.5743250341422418
@@ -8595,6 +9592,7 @@ edge [
 "skeletons bz" 0.39144736842105265
 "skeletons jump" 0.07236842105263153
 "skeletons ncd" 0.16147635524798154
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 27.160493827160494
 "fstSecSkel byteBag" 0.5743250341422418
@@ -8602,6 +9600,7 @@ edge [
 "fstSecSkel bz" 0.39144736842105265
 "fstSecSkel jump" 0.07236842105263153
 "fstSecSkel ncd" 0.16166281755196305
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5535168195718655
@@ -8609,6 +9608,7 @@ edge [
 "fStat bz" 0.45065789473684215
 "fStat jump" 0.125
 "fStat ncd" 0.17682926829268292
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 36.53846153846154
 "fStat0 byteBag" 0.5535168195718655
@@ -8623,6 +9623,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.5324654123984818
@@ -8630,6 +9631,7 @@ edge [
 "raw bz" 0.42618384401114207
 "raw jump" 0.04178272980501396
 "raw ncd" 0.05483359746434231
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.142857142857146
 "skeletons byteBag" 0.57516765414415
@@ -8637,6 +9639,7 @@ edge [
 "skeletons bz" 0.49275362318840576
 "skeletons jump" 0.15362318840579714
 "skeletons ncd" 0.10300949303171077
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.48031496062992
 "fstSecSkel byteBag" 0.57516765414415
@@ -8644,6 +9647,7 @@ edge [
 "fstSecSkel bz" 0.49275362318840576
 "fstSecSkel jump" 0.15362318840579714
 "fstSecSkel ncd" 0.10305112143867448
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.6104050833995235
@@ -8651,6 +9655,7 @@ edge [
 "fStat bz" 0.6
 "fStat jump" 0.22898550724637678
 "fStat ncd" 0.11505376344086021
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 47.61904761904762
 "fStat0 byteBag" 0.6104050833995235
@@ -8665,6 +9670,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2192335313703728
@@ -8672,6 +9678,7 @@ edge [
 "raw bz" 0.2875816993464052
 "raw jump" 0.05228758169934644
 "raw ncd" 0.041695865451997195
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2432698621142482
@@ -8679,6 +9686,7 @@ edge [
 "skeletons bz" 0.2861842105263158
 "skeletons jump" 0.14144736842105265
 "skeletons ncd" 0.09880815071126489
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2432698621142482
@@ -8686,6 +9694,7 @@ edge [
 "fstSecSkel bz" 0.2861842105263158
 "fstSecSkel jump" 0.14144736842105265
 "fstSecSkel ncd" 0.09815242494226328
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.18016321406151914
@@ -8693,6 +9702,7 @@ edge [
 "fStat bz" 0.2828947368421053
 "fStat jump" 0.1546052631578947
 "fStat ncd" 0.0975609756097561
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.18016321406151914
@@ -8707,6 +9717,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1596561454163659
@@ -8714,6 +9725,7 @@ edge [
 "raw bz" 0.17320261437908502
 "raw jump" 0.03594771241830064
 "raw ncd" 0.09898388227049755
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1658960810215764
@@ -8721,6 +9733,7 @@ edge [
 "skeletons bz" 0.16776315789473684
 "skeletons jump" 0.08552631578947367
 "skeletons ncd" 0.1637831603229527
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1658960810215764
@@ -8728,6 +9741,7 @@ edge [
 "fstSecSkel bz" 0.16776315789473684
 "fstSecSkel jump" 0.08552631578947367
 "fstSecSkel ncd" 0.1628175519630485
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15329883570504527
@@ -8735,6 +9749,7 @@ edge [
 "fStat bz" 0.16776315789473684
 "fStat jump" 0.10526315789473684
 "fStat ncd" 0.1483739837398374
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15329883570504527
@@ -8749,6 +9764,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.515151515151516
 "raw byteBag" 0.6441781238593502
@@ -8756,6 +9772,7 @@ edge [
 "raw bz" 0.565359477124183
 "raw jump" 0.0490196078431373
 "raw ncd" 0.18255080588647513
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 47.87234042553192
 "skeletons byteBag" 0.7469892358520729
@@ -8763,6 +9780,7 @@ edge [
 "skeletons bz" 0.5526315789473684
 "skeletons jump" 0.20394736842105265
 "skeletons ncd" 0.3087274125336409
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 47.916666666666664
 "fstSecSkel byteBag" 0.7469892358520729
@@ -8770,6 +9788,7 @@ edge [
 "fstSecSkel bz" 0.555921052631579
 "fstSecSkel jump" 0.20394736842105265
 "fstSecSkel ncd" 0.3083140877598152
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 47.82608695652174
 "fStat byteBag" 0.7533460803059273
@@ -8777,6 +9796,7 @@ edge [
 "fStat bz" 0.6019736842105263
 "fStat jump" 0.2598684210526315
 "fStat ncd" 0.2540650406504065
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 47.61904761904762
 "fStat0 byteBag" 0.7533460803059273
@@ -8791,6 +9811,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.25859247135842883
@@ -8798,6 +9819,7 @@ edge [
 "raw bz" 0.29738562091503273
 "raw jump" 0.04575163398692805
 "raw ncd" 0.04817799579537491
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.22735755845866726
@@ -8805,6 +9827,7 @@ edge [
 "skeletons bz" 0.29605263157894735
 "skeletons jump" 0.14144736842105265
 "skeletons ncd" 0.11264898116109189
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.22735755845866726
@@ -8812,6 +9835,7 @@ edge [
 "fstSecSkel bz" 0.29605263157894735
 "fstSecSkel jump" 0.14144736842105265
 "fstSecSkel ncd" 0.11277906081601231
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.18267419962335216
@@ -8819,6 +9843,7 @@ edge [
 "fStat bz" 0.2894736842105263
 "fStat jump" 0.16776315789473684
 "fStat ncd" 0.09959349593495935
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.18267419962335216
@@ -8833,6 +9858,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.7741265241401936
@@ -8840,6 +9866,7 @@ edge [
 "raw bz" 0.6045751633986929
 "raw jump" 0.03594771241830064
 "raw ncd" 0.19960212201591512
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 59.523809523809526
 "skeletons byteBag" 0.8563394178589048
@@ -8847,6 +9874,7 @@ edge [
 "skeletons bz" 0.5986842105263157
 "skeletons jump" 0.2730263157894737
 "skeletons ncd" 0.3494809688581315
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 59.375
 "fstSecSkel byteBag" 0.8563394178589048
@@ -8854,6 +9882,7 @@ edge [
 "fstSecSkel bz" 0.5986842105263157
 "fstSecSkel jump" 0.2730263157894737
 "fstSecSkel ncd" 0.34988452655889146
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.7531712473572939
@@ -8861,6 +9890,7 @@ edge [
 "fStat bz" 0.680921052631579
 "fStat jump" 0.3486842105263158
 "fStat ncd" 0.25609756097560976
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7531712473572939
@@ -8875,6 +9905,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.43589743589744
 "raw byteBag" 0.6598591549295775
@@ -8882,6 +9913,7 @@ edge [
 "raw bz" 0.4673202614379085
 "raw jump" 0.019607843137254943
 "raw ncd" 0.0814646110721794
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.96825396825397
 "skeletons byteBag" 0.7649955237242614
@@ -8889,6 +9921,7 @@ edge [
 "skeletons bz" 0.42105263157894735
 "skeletons jump" 0.09210526315789469
 "skeletons ncd" 0.1845444059976932
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.90625
 "fstSecSkel byteBag" 0.7649955237242614
@@ -8896,6 +9929,7 @@ edge [
 "fstSecSkel bz" 0.42434210526315785
 "fstSecSkel jump" 0.09210526315789469
 "fstSecSkel ncd" 0.1836027713625866
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.282051282051285
 "fStat byteBag" 0.7497456765005086
@@ -8903,6 +9937,7 @@ edge [
 "fStat bz" 0.5625
 "fStat jump" 0.13815789473684215
 "fStat ncd" 0.17801047120418848
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7497456765005086
@@ -8917,6 +9952,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManager"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.27445740728671053
@@ -8924,6 +9960,7 @@ edge [
 "raw bz" 0.22549019607843135
 "raw jump" 0.03594771241830064
 "raw ncd" 0.10196215837421163
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.22381635581061693
@@ -8931,6 +9968,7 @@ edge [
 "skeletons bz" 0.2171052631578947
 "skeletons jump" 0.15131578947368418
 "skeletons ncd" 0.13341022683583237
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.22381635581061693
@@ -8938,6 +9976,7 @@ edge [
 "fstSecSkel bz" 0.2171052631578947
 "fstSecSkel jump" 0.15131578947368418
 "fstSecSkel ncd" 0.13279445727482678
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.18685567010309279
@@ -8945,6 +9984,7 @@ edge [
 "fStat bz" 0.11184210526315785
 "fStat jump" 0.1546052631578947
 "fStat ncd" 0.07113821138211382
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.18685567010309279
@@ -8959,6 +9999,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.29577464788732
 "raw byteBag" 0.662827619611431
@@ -8966,6 +10007,7 @@ edge [
 "raw bz" 0.6013071895424836
 "raw jump" 0.0326797385620915
 "raw ncd" 0.15077023926581448
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 59.523809523809526
 "skeletons byteBag" 0.7757531361596923
@@ -8973,6 +10015,7 @@ edge [
 "skeletons bz" 0.6151315789473684
 "skeletons jump" 0.2598684210526315
 "skeletons ncd" 0.2768166089965398
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 59.375
 "fstSecSkel byteBag" 0.7757531361596923
@@ -8980,6 +10023,7 @@ edge [
 "fstSecSkel bz" 0.6151315789473684
 "fstSecSkel jump" 0.2598684210526315
 "fstSecSkel ncd" 0.27559661277906083
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 47.142857142857146
 "fStat byteBag" 0.7406444906444907
@@ -8987,6 +10031,7 @@ edge [
 "fStat bz" 0.700657894736842
 "fStat jump" 0.3388157894736842
 "fStat ncd" 0.23983739837398374
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7406444906444907
@@ -9001,6 +10046,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.7267775738558996
@@ -9008,6 +10054,7 @@ edge [
 "raw bz" 0.8104575163398693
 "raw jump" 0.02614379084967322
 "raw ncd" 0.4367554309740715
+"skeletons ssdeep" 44
 "skeletons ppdeep" 71
 "skeletons ppdeep_mod" 70.63492063492063
 "skeletons byteBag" 0.8870868404845001
@@ -9015,6 +10062,7 @@ edge [
 "skeletons bz" 0.881578947368421
 "skeletons jump" 0.5460526315789473
 "skeletons ncd" 0.6755623332062524
+"fstSecSkel ssdeep" 44
 "fstSecSkel ppdeep" 71
 "fstSecSkel ppdeep_mod" 70.3125
 "fstSecSkel byteBag" 0.8870868404845001
@@ -9022,6 +10070,7 @@ edge [
 "fstSecSkel bz" 0.8782894736842105
 "fstSecSkel jump" 0.5460526315789473
 "fstSecSkel ncd" 0.6754486445208094
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 60.563380281690144
 "fStat byteBag" 0.9183673469387755
@@ -9029,6 +10078,7 @@ edge [
 "fStat bz" 0.881578947368421
 "fStat jump" 0.6842105263157895
 "fStat ncd" 0.5577689243027888
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.9183673469387755
@@ -9043,6 +10093,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.6578594093238955
@@ -9050,6 +10101,7 @@ edge [
 "raw bz" 0.5882352941176471
 "raw jump" 0.05882352941176472
 "raw ncd" 0.19166082690960057
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 47.87234042553192
 "skeletons byteBag" 0.7556077761162144
@@ -9057,6 +10109,7 @@ edge [
 "skeletons bz" 0.5855263157894737
 "skeletons jump" 0.2171052631578947
 "skeletons ncd" 0.31872356785851597
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.958333333333336
 "fstSecSkel byteBag" 0.7556077761162144
@@ -9064,6 +10117,7 @@ edge [
 "fstSecSkel bz" 0.5822368421052632
 "fstSecSkel jump" 0.2171052631578947
 "fstSecSkel ncd" 0.31755196304849886
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 47.76119402985075
 "fStat byteBag" 0.7710459183673469
@@ -9071,6 +10125,7 @@ edge [
 "fStat bz" 0.625
 "fStat jump" 0.2828947368421053
 "fStat ncd" 0.2540650406504065
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 47.61904761904762
 "fStat0 byteBag" 0.7710459183673469
@@ -9085,6 +10140,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.851851851851855
 "raw byteBag" 0.5216665309114604
@@ -9092,6 +10148,7 @@ edge [
 "raw bz" 0.3188073394495413
 "raw jump" 0.04816513761467889
 "raw ncd" 0.05235878993018828
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.93650793650794
 "skeletons byteBag" 0.5695801255094779
@@ -9099,6 +10156,7 @@ edge [
 "skeletons bz" 0.47928994082840237
 "skeletons jump" 0.1301775147928994
 "skeletons ncd" 0.09921513382974441
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.8125
 "fstSecSkel byteBag" 0.5695801255094779
@@ -9106,6 +10164,7 @@ edge [
 "fstSecSkel bz" 0.47928994082840237
 "fstSecSkel jump" 0.1301775147928994
 "fstSecSkel ncd" 0.09969788519637462
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.6187399030694669
@@ -9113,6 +10172,7 @@ edge [
 "fStat bz" 0.5710059171597632
 "fStat jump" 0.2100591715976331
 "fStat ncd" 0.11637931034482758
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 45.3125
 "fStat0 byteBag" 0.6187399030694669
@@ -9127,6 +10187,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15784300877997642
@@ -9134,6 +10195,7 @@ edge [
 "raw bz" 0.17320261437908502
 "raw jump" 0.04575163398692805
 "raw ncd" 0.09302733006306937
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.16695996480422348
@@ -9141,6 +10203,7 @@ edge [
 "skeletons bz" 0.16447368421052633
 "skeletons jump" 0.06907894736842102
 "skeletons ncd" 0.15494040753556323
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.16695996480422348
@@ -9148,6 +10211,7 @@ edge [
 "fstSecSkel bz" 0.16447368421052633
 "fstSecSkel jump" 0.07236842105263153
 "fstSecSkel ncd" 0.15396458814472672
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15135834411384216
@@ -9155,6 +10219,7 @@ edge [
 "fStat bz" 0.16447368421052633
 "fStat jump" 0.10197368421052633
 "fStat ncd" 0.1402439024390244
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15135834411384216
@@ -9169,6 +10234,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21498498890484272
@@ -9176,6 +10242,7 @@ edge [
 "raw bz" 0.2777777777777778
 "raw jump" 0.042483660130718914
 "raw ncd" 0.04379817799579538
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.23933026920551542
@@ -9183,6 +10250,7 @@ edge [
 "skeletons bz" 0.2730263157894737
 "skeletons jump" 0.125
 "skeletons ncd" 0.09573241061130335
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.23933026920551542
@@ -9190,6 +10258,7 @@ edge [
 "fstSecSkel bz" 0.2730263157894737
 "fstSecSkel jump" 0.125
 "fstSecSkel ncd" 0.09545804464973057
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1751412429378531
@@ -9197,6 +10266,7 @@ edge [
 "fStat bz" 0.26973684210526316
 "fStat jump" 0.14144736842105265
 "fStat ncd" 0.0975609756097561
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1751412429378531
@@ -9211,6 +10281,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.18048075660055168
@@ -9218,6 +10289,7 @@ edge [
 "raw bz" 0.17320261437908502
 "raw jump" 0.04575163398692805
 "raw ncd" 0.12351086194814295
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.15847598012147984
@@ -9225,6 +10297,7 @@ edge [
 "skeletons bz" 0.17434210526315785
 "skeletons jump" 0.08552631578947367
 "skeletons ncd" 0.20107650903498656
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.15847598012147984
@@ -9232,6 +10305,7 @@ edge [
 "fstSecSkel bz" 0.17434210526315785
 "fstSecSkel jump" 0.08881578947368418
 "fstSecSkel ncd" 0.20015396458814472
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15135834411384216
@@ -9239,6 +10313,7 @@ edge [
 "fStat bz" 0.17434210526315785
 "fStat jump" 0.11184210526315785
 "fStat ncd" 0.1524390243902439
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15135834411384216
@@ -9253,6 +10328,7 @@ edge [
 "target" "AggregationRouterV3 - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "AggregationRouterV3"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 39.682539682539684
 "raw byteBag" 0.5893640350877193
@@ -9260,6 +10336,7 @@ edge [
 "raw bz" 0.4253246753246753
 "raw jump" 0.06493506493506496
 "raw ncd" 0.09853175305147709
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 25.0
 "skeletons byteBag" 0.595012987012987
@@ -9267,6 +10344,7 @@ edge [
 "skeletons bz" 0.40604026845637586
 "skeletons jump" 0.0738255033557047
 "skeletons ncd" 0.1905311778290993
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 24.691358024691354
 "fstSecSkel byteBag" 0.595012987012987
@@ -9274,6 +10352,7 @@ edge [
 "fstSecSkel bz" 0.40268456375838924
 "fstSecSkel jump" 0.0738255033557047
 "fstSecSkel ncd" 0.1903660886319846
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5383700178465199
@@ -9281,6 +10360,7 @@ edge [
 "fStat bz" 0.4563758389261745
 "fStat jump" 0.12751677852348997
 "fStat ncd" 0.17786561264822134
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 38.46153846153846
 "fStat0 byteBag" 0.5383700178465199
@@ -9295,6 +10375,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.80898876404494
 "raw byteBag" 0.5921259155912103
@@ -9302,6 +10383,7 @@ edge [
 "raw bz" 0.4178272980501393
 "raw jump" 0.03899721448467963
 "raw ncd" 0.06222926571579503
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.34920634920635
 "skeletons byteBag" 0.6082116429834327
@@ -9309,6 +10391,7 @@ edge [
 "skeletons bz" 0.5101449275362319
 "skeletons jump" 0.1681159420289855
 "skeletons ncd" 0.12199555645324177
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 56.69291338582677
 "fstSecSkel byteBag" 0.6082116429834327
@@ -9316,6 +10399,7 @@ edge [
 "fstSecSkel bz" 0.5072463768115942
 "fstSecSkel jump" 0.1681159420289855
 "fstSecSkel ncd" 0.12224691856940796
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.12280701754386
 "fStat byteBag" 0.5846213292117465
@@ -9323,6 +10407,7 @@ edge [
 "fStat bz" 0.6173913043478261
 "fStat jump" 0.22608695652173916
 "fStat ncd" 0.11720430107526882
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.5846213292117465
@@ -9337,6 +10422,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2405597356022783
@@ -9344,6 +10430,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.038961038961038974
 "raw ncd" 0.04776225013267292
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.23859315589353614
@@ -9351,6 +10438,7 @@ edge [
 "skeletons bz" 0.2919463087248322
 "skeletons jump" 0.12416107382550334
 "skeletons ncd" 0.11277906081601231
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.23859315589353614
@@ -9358,6 +10446,7 @@ edge [
 "fstSecSkel bz" 0.2919463087248322
 "fstSecSkel jump" 0.12416107382550334
 "fstSecSkel ncd" 0.11290944123314066
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.17510677242220865
@@ -9365,6 +10454,7 @@ edge [
 "fStat bz" 0.28523489932885904
 "fStat jump" 0.15436241610738255
 "fStat ncd" 0.09486166007905138
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.17510677242220865
@@ -9379,6 +10469,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1721733004579077
@@ -9386,6 +10477,7 @@ edge [
 "raw bz" 0.17207792207792205
 "raw jump" 0.038961038961038974
 "raw ncd" 0.12453564479037679
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1630400169833351
@@ -9393,6 +10485,7 @@ edge [
 "skeletons bz" 0.17114093959731547
 "skeletons jump" 0.08724832214765099
 "skeletons ncd" 0.20015396458814472
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1630400169833351
@@ -9400,6 +10493,7 @@ edge [
 "fstSecSkel bz" 0.17114093959731547
 "fstSecSkel jump" 0.09060402684563762
 "fstSecSkel ncd" 0.19922928709055876
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14886934673366833
@@ -9407,6 +10501,7 @@ edge [
 "fStat bz" 0.17114093959731547
 "fStat jump" 0.10402684563758391
 "fStat ncd" 0.15217391304347827
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14886934673366833
@@ -9421,6 +10516,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.31506849315068
 "raw byteBag" 0.7376830002005481
@@ -9428,6 +10524,7 @@ edge [
 "raw bz" 0.5714285714285714
 "raw jump" 0.05519480519480524
 "raw ncd" 0.24517955068105432
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 48.93617021276596
 "skeletons byteBag" 0.7628865979381443
@@ -9435,6 +10532,7 @@ edge [
 "skeletons bz" 0.5704697986577181
 "skeletons jump" 0.2214765100671141
 "skeletons ncd" 0.40454195535026943
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.958333333333336
 "fstSecSkel byteBag" 0.7628865979381443
@@ -9442,6 +10540,7 @@ edge [
 "fstSecSkel bz" 0.5671140939597316
 "fstSecSkel jump" 0.2214765100671141
 "fstSecSkel ncd" 0.40385356454720617
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.5625
 "fStat byteBag" 0.7318885448916409
@@ -9449,6 +10548,7 @@ edge [
 "fStat bz" 0.6140939597315436
 "fStat jump" 0.2684563758389261
 "fStat ncd" 0.29446640316205536
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 47.61904761904762
 "fStat0 byteBag" 0.7318885448916409
@@ -9463,6 +10563,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2168561872909699
@@ -9470,6 +10571,7 @@ edge [
 "raw bz" 0.2954545454545454
 "raw jump" 0.038961038961038974
 "raw ncd" 0.044401202901114455
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21447354580835173
@@ -9477,6 +10579,7 @@ edge [
 "skeletons bz" 0.30201342281879195
 "skeletons jump" 0.14093959731543626
 "skeletons ncd" 0.10469591993841416
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21447354580835173
@@ -9484,6 +10587,7 @@ edge [
 "fstSecSkel bz" 0.30201342281879195
 "fstSecSkel jump" 0.14093959731543626
 "fstSecSkel ncd" 0.10404624277456648
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.17754728492983526
@@ -9491,6 +10595,7 @@ edge [
 "fStat bz" 0.2919463087248322
 "fStat jump" 0.16778523489932884
 "fStat ncd" 0.09486166007905138
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.17754728492983526
@@ -9505,6 +10610,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.29577464788732
 "raw byteBag" 0.6417036843480534
@@ -9512,6 +10618,7 @@ edge [
 "raw bz" 0.5876623376623377
 "raw jump" 0.025974025974025983
 "raw ncd" 0.15566976127320956
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 58.73015873015873
 "skeletons byteBag" 0.8060263653483992
@@ -9519,6 +10626,7 @@ edge [
 "skeletons bz" 0.5838926174496644
 "skeletons jump" 0.22483221476510062
 "skeletons ncd" 0.2840646651270208
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 58.59375
 "fstSecSkel byteBag" 0.8060263653483992
@@ -9526,6 +10634,7 @@ edge [
 "fstSecSkel bz" 0.5838926174496644
 "fstSecSkel jump" 0.22483221476510062
 "fstSecSkel ncd" 0.2836223506743738
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 54.716981132075475
 "fStat byteBag" 0.7635028841111694
@@ -9533,6 +10642,7 @@ edge [
 "fStat bz" 0.6610738255033557
 "fStat jump" 0.31879194630872487
 "fStat ncd" 0.22727272727272727
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7635028841111694
@@ -9547,6 +10657,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.411764705882355
 "raw byteBag" 0.7650074515648286
@@ -9554,6 +10665,7 @@ edge [
 "raw bz" 0.461038961038961
 "raw jump" 0.012987012987012991
 "raw ncd" 0.0994162391650451
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.17460317460318
 "skeletons byteBag" 0.8161345753821109
@@ -9561,6 +10673,7 @@ edge [
 "skeletons bz" 0.4261744966442953
 "skeletons jump" 0.09731543624161076
 "skeletons ncd" 0.2128560431100847
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.125
 "fstSecSkel byteBag" 0.8161345753821109
@@ -9568,6 +10681,7 @@ edge [
 "fstSecSkel bz" 0.43624161073825507
 "fstSecSkel jump" 0.09731543624161076
 "fstSecSkel ncd" 0.21271676300578035
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.7491219267436026
@@ -9575,6 +10689,7 @@ edge [
 "fStat bz" 0.6073825503355705
 "fStat jump" 0.13422818791946312
 "fStat ncd" 0.193717277486911
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7491219267436026
@@ -9589,6 +10704,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManager"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.24754142529974404
@@ -9596,6 +10712,7 @@ edge [
 "raw bz" 0.22402597402597402
 "raw jump" 0.038961038961038974
 "raw ncd" 0.08561825579338404
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20846080810212048
@@ -9603,6 +10720,7 @@ edge [
 "skeletons bz" 0.2214765100671141
 "skeletons jump" 0.1476510067114094
 "skeletons ncd" 0.11085450346420324
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20846080810212048
@@ -9610,6 +10728,7 @@ edge [
 "fstSecSkel bz" 0.2214765100671141
 "fstSecSkel jump" 0.1476510067114094
 "fstSecSkel ncd" 0.11098265895953757
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.18147684605757197
@@ -9617,6 +10736,7 @@ edge [
 "fStat bz" 0.10402684563758391
 "fStat jump" 0.15771812080536918
 "fStat ncd" 0.07114624505928854
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.18147684605757197
@@ -9631,6 +10751,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.717948717948715
 "raw byteBag" 0.7796317263571897
@@ -9638,6 +10759,7 @@ edge [
 "raw bz" 0.5909090909090908
 "raw jump" 0.04870129870129869
 "raw ncd" 0.19927892494264177
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 58.73015873015873
 "skeletons byteBag" 0.8461179108661123
@@ -9645,6 +10767,7 @@ edge [
 "skeletons bz" 0.5973154362416108
 "skeletons jump" 0.2516778523489933
 "skeletons ncd" 0.34565050038491146
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 59.375
 "fstSecSkel byteBag" 0.8461179108661123
@@ -9652,6 +10775,7 @@ edge [
 "fstSecSkel bz" 0.5939597315436241
 "fstSecSkel jump" 0.2516778523489933
 "fstSecSkel ncd" 0.34566473988439306
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 55.38461538461539
 "fStat byteBag" 0.7700729927007299
@@ -9659,6 +10783,7 @@ edge [
 "fStat bz" 0.6946308724832215
 "fStat jump" 0.32885906040268453
 "fStat ncd" 0.2608695652173913
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7700729927007299
@@ -9673,6 +10798,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.63291139240506
 "raw byteBag" 0.8996623902768399
@@ -9680,6 +10806,7 @@ edge [
 "raw bz" 0.8603896103896104
 "raw jump" 0.01948051948051943
 "raw ncd" 0.6120643905890677
+"skeletons ssdeep" 72
 "skeletons ppdeep" 85
 "skeletons ppdeep_mod" 84.12698412698413
 "skeletons byteBag" 0.9745155855096883
@@ -9687,6 +10814,7 @@ edge [
 "skeletons bz" 0.9463087248322147
 "skeletons jump" 0.8523489932885906
 "skeletons ncd" 0.8989706443004194
+"fstSecSkel ssdeep" 74
 "fstSecSkel ppdeep" 85
 "fstSecSkel ppdeep_mod" 84.375
 "fstSecSkel byteBag" 0.9745155855096883
@@ -9694,6 +10822,7 @@ edge [
 "fstSecSkel bz" 0.9395973154362416
 "fstSecSkel jump" 0.8523489932885906
 "fstSecSkel ncd" 0.8988163421153111
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 80.30303030303031
 "fStat byteBag" 0.9650436953807741
@@ -9701,6 +10830,7 @@ edge [
 "fStat bz" 0.9597315436241611
 "fStat jump" 0.9093959731543624
 "fStat ncd" 0.8715415019762845
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 82.85714285714286
 "fStat0 byteBag" 0.9650436953807741
@@ -9715,6 +10845,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.57534246575342
 "raw byteBag" 0.7356886704741665
@@ -9722,6 +10853,7 @@ edge [
 "raw bz" 0.5746753246753247
 "raw jump" 0.058441558441558406
 "raw ncd" 0.2547320007075889
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 48.93617021276596
 "skeletons byteBag" 0.7678872053872053
@@ -9729,6 +10861,7 @@ edge [
 "skeletons bz" 0.6006711409395973
 "skeletons jump" 0.2516778523489933
 "skeletons ncd" 0.41647421093148573
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.958333333333336
 "fstSecSkel byteBag" 0.7678872053872053
@@ -9736,6 +10869,7 @@ edge [
 "fstSecSkel bz" 0.5939597315436241
 "fstSecSkel jump" 0.2516778523489933
 "fstSecSkel ncd" 0.41579961464354526
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.7490706319702602
@@ -9743,6 +10877,7 @@ edge [
 "fStat bz" 0.6342281879194631
 "fStat jump" 0.2919463087248322
 "fStat ncd" 0.2885375494071146
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 49.20634920634921
 "fStat0 byteBag" 0.7490706319702602
@@ -9757,6 +10892,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.09090909090909
 "raw byteBag" 0.5893778983288127
@@ -9764,6 +10900,7 @@ edge [
 "raw bz" 0.32568807339449546
 "raw jump" 0.05275229357798161
 "raw ncd" 0.06240744658345674
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.142857142857146
 "skeletons byteBag" 0.6039468542399374
@@ -9771,6 +10908,7 @@ edge [
 "skeletons bz" 0.49112426035502954
 "skeletons jump" 0.13905325443786987
 "skeletons ncd" 0.11974240289796739
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.03125
 "fstSecSkel byteBag" 0.6039468542399374
@@ -9778,6 +10916,7 @@ edge [
 "fstSecSkel bz" 0.49112426035502954
 "fstSecSkel jump" 0.13905325443786987
 "fstSecSkel ncd" 0.11983887210473314
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.12280701754386
 "fStat byteBag" 0.5923016496465043
@@ -9785,6 +10924,7 @@ edge [
 "fStat bz" 0.5976331360946745
 "fStat jump" 0.20710059171597628
 "fStat ncd" 0.11853448275862069
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 47.69230769230769
 "fStat0 byteBag" 0.5923016496465043
@@ -9799,6 +10939,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.17119526960439252
@@ -9806,6 +10947,7 @@ edge [
 "raw bz" 0.17207792207792205
 "raw jump" 0.045454545454545414
 "raw ncd" 0.11781355032725986
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1648095086490502
@@ -9813,6 +10955,7 @@ edge [
 "skeletons bz" 0.16778523489932884
 "skeletons jump" 0.07718120805369133
 "skeletons ncd" 0.1878367975365666
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1648095086490502
@@ -9820,6 +10963,7 @@ edge [
 "fstSecSkel bz" 0.16778523489932884
 "fstSecSkel jump" 0.08053691275167785
 "fstSecSkel ncd" 0.18689788053949905
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14698492462311558
@@ -9827,6 +10971,7 @@ edge [
 "fStat bz" 0.16778523489932884
 "fStat jump" 0.10067114093959728
 "fStat ncd" 0.1442687747035573
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14698492462311558
@@ -9841,6 +10986,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2368458075407991
@@ -9848,6 +10994,7 @@ edge [
 "raw bz" 0.275974025974026
 "raw jump" 0.04870129870129869
 "raw ncd" 0.04953122235980895
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.23479087452471484
@@ -9855,6 +11002,7 @@ edge [
 "skeletons bz" 0.2785234899328859
 "skeletons jump" 0.10738255033557043
 "skeletons ncd" 0.10700538876058506
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.23479087452471484
@@ -9862,6 +11010,7 @@ edge [
 "fstSecSkel bz" 0.2785234899328859
 "fstSecSkel jump" 0.10738255033557043
 "fstSecSkel ncd" 0.10712909441233141
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.17022574740695545
@@ -9869,6 +11018,7 @@ edge [
 "fStat bz" 0.27181208053691275
 "fStat jump" 0.14093959731543626
 "fStat ncd" 0.09486166007905138
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.17022574740695545
@@ -9883,6 +11033,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.16497043047723833
@@ -9890,6 +11041,7 @@ edge [
 "raw bz" 0.17207792207792205
 "raw jump" 0.038961038961038974
 "raw ncd" 0.10242349195117637
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1495129182549767
@@ -9897,6 +11049,7 @@ edge [
 "skeletons bz" 0.1778523489932886
 "skeletons jump" 0.09395973154362414
 "skeletons ncd" 0.17128560431100848
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1495129182549767
@@ -9904,6 +11057,7 @@ edge [
 "fstSecSkel bz" 0.1778523489932886
 "fstSecSkel jump" 0.09731543624161076
 "fstSecSkel ncd" 0.17071290944123313
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14698492462311558
@@ -9911,6 +11065,7 @@ edge [
 "fStat bz" 0.1778523489932886
 "fStat jump" 0.11073825503355705
 "fStat ncd" 0.1422924901185771
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14698492462311558
@@ -9925,6 +11080,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 37.142857142857146
 "raw byteBag" 0.39450725540817233
@@ -9932,6 +11088,7 @@ edge [
 "raw bz" 0.44846796657381616
 "raw jump" 0.05013927576601673
 "raw ncd" 0.08029582673005811
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 28.75
 "skeletons byteBag" 0.38712225952992296
@@ -9939,6 +11096,7 @@ edge [
 "skeletons bz" 0.40289855072463765
 "skeletons jump" 0.09855072463768111
 "skeletons ncd" 0.13532619672793375
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 28.75
 "fstSecSkel byteBag" 0.38712225952992296
@@ -9946,6 +11104,7 @@ edge [
 "fstSecSkel bz" 0.3971014492753623
 "fstSecSkel jump" 0.09855072463768111
 "fstSecSkel ncd" 0.13578500707213578
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.3917361938816051
@@ -9953,6 +11112,7 @@ edge [
 "fStat bz" 0.4260869565217391
 "fStat jump" 0.13623188405797104
 "fStat ncd" 0.12365591397849462
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.3917361938816051
@@ -9967,6 +11127,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 39.34426229508197
 "raw byteBag" 0.3615393025035531
@@ -9974,6 +11135,7 @@ edge [
 "raw bz" 0.3292682926829268
 "raw jump" 0.03658536585365857
 "raw ncd" 0.06334420121099209
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 50.0
 "skeletons byteBag" 0.36736387782204516
@@ -9981,6 +11143,7 @@ edge [
 "skeletons bz" 0.3836477987421384
 "skeletons jump" 0.08805031446540879
 "skeletons ncd" 0.11588541666666667
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 49.36708860759494
 "fstSecSkel byteBag" 0.36736387782204516
@@ -9988,6 +11151,7 @@ edge [
 "fstSecSkel bz" 0.39622641509433965
 "fstSecSkel jump" 0.08805031446540879
 "fstSecSkel ncd" 0.11642050390964379
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 25.31645569620254
 "fStat byteBag" 0.2695984703632887
@@ -9995,6 +11159,7 @@ edge [
 "fStat bz" 0.37106918238993714
 "fStat jump" 0.13207547169811318
 "fStat ncd" 0.10217391304347827
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2695984703632887
@@ -10009,6 +11174,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.26544369543595975
@@ -10016,6 +11182,7 @@ edge [
 "raw bz" 0.19512195121951215
 "raw jump" 0.04878048780487809
 "raw ncd" 0.0847694457382394
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2545362903225806
@@ -10023,6 +11190,7 @@ edge [
 "skeletons bz" 0.289308176100629
 "skeletons jump" 0.0691823899371069
 "skeletons ncd" 0.1467013888888889
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2545362903225806
@@ -10030,6 +11198,7 @@ edge [
 "fstSecSkel bz" 0.28301886792452835
 "fstSecSkel jump" 0.07547169811320753
 "fstSecSkel ncd" 0.14639443961772372
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 27.5
 "fStat byteBag" 0.23223223223223224
@@ -10037,6 +11206,7 @@ edge [
 "fStat bz" 0.2955974842767296
 "fStat jump" 0.14465408805031443
 "fStat ncd" 0.13043478260869565
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.23223223223223224
@@ -10051,6 +11221,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.44444444444444
 "raw byteBag" 0.7076493762311228
@@ -10058,6 +11229,7 @@ edge [
 "raw bz" 0.5369458128078818
 "raw jump" 0.044334975369458074
 "raw ncd" 0.11546920821114369
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 50.90909090909091
 "skeletons byteBag" 0.7513199577613516
@@ -10065,6 +11237,7 @@ edge [
 "skeletons bz" 0.4797979797979798
 "skeletons jump" 0.101010101010101
 "skeletons ncd" 0.24709926944563815
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 50.450450450450454
 "fstSecSkel byteBag" 0.7513199577613516
@@ -10072,6 +11245,7 @@ edge [
 "fstSecSkel bz" 0.4696969696969697
 "fstSecSkel jump" 0.101010101010101
 "fstSecSkel ncd" 0.24795523030563926
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 43.75
 "fStat byteBag" 0.711284046692607
@@ -10079,6 +11253,7 @@ edge [
 "fStat bz" 0.5757575757575757
 "fStat jump" 0.14141414141414144
 "fStat ncd" 0.1826086956521739
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 49.438202247191015
 "fStat0 byteBag" 0.711284046692607
@@ -10093,6 +11268,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.622950819672134
 "raw byteBag" 0.29884139033160206
@@ -10100,6 +11276,7 @@ edge [
 "raw bz" 0.31707317073170727
 "raw jump" 0.04878048780487809
 "raw ncd" 0.05752212389380531
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 50.0
 "skeletons byteBag" 0.3276203032300593
@@ -10107,6 +11284,7 @@ edge [
 "skeletons bz" 0.37735849056603776
 "skeletons jump" 0.0691823899371069
 "skeletons ncd" 0.10807291666666667
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 49.36708860759494
 "fstSecSkel byteBag" 0.3276203032300593
@@ -10114,6 +11292,7 @@ edge [
 "fstSecSkel bz" 0.3836477987421384
 "fstSecSkel jump" 0.0691823899371069
 "fstSecSkel ncd" 0.10816681146828845
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 26.25
 "fStat byteBag" 0.2734225621414914
@@ -10121,6 +11300,7 @@ edge [
 "fStat bz" 0.3647798742138365
 "fStat jump" 0.13207547169811318
 "fStat ncd" 0.10434782608695652
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2734225621414914
@@ -10135,6 +11315,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.07692307692308
 "raw byteBag" 0.46768145951088474
@@ -10142,6 +11323,7 @@ edge [
 "raw bz" 0.3088235294117647
 "raw jump" 0.05147058823529416
 "raw ncd" 0.06747347480106101
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 27.5
 "skeletons byteBag" 0.5502420709416066
@@ -10149,6 +11331,7 @@ edge [
 "skeletons bz" 0.2867924528301887
 "skeletons jump" 0.07169811320754715
 "skeletons ncd" 0.15645424836601307
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 27.160493827160494
 "fstSecSkel byteBag" 0.5502420709416066
@@ -10156,6 +11339,7 @@ edge [
 "fstSecSkel bz" 0.2905660377358491
 "fstSecSkel jump" 0.07169811320754715
 "fstSecSkel ncd" 0.15671031096563012
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.508456082924168
@@ -10163,6 +11347,7 @@ edge [
 "fStat bz" 0.43018867924528303
 "fStat jump" 0.09811320754716979
 "fStat ncd" 0.15217391304347827
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.508456082924168
@@ -10177,6 +11362,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.90909090909091
 "raw byteBag" 0.5333417053874168
@@ -10184,6 +11370,7 @@ edge [
 "raw bz" 0.44781144781144777
 "raw jump" 0.06060606060606055
 "raw ncd" 0.11870145389364668
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 28.75
 "skeletons byteBag" 0.5430617559523809
@@ -10191,6 +11378,7 @@ edge [
 "skeletons bz" 0.4482758620689655
 "skeletons jump" 0.10689655172413792
 "skeletons ncd" 0.22110162916989914
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 28.395061728395063
 "fstSecSkel byteBag" 0.5430617559523809
@@ -10198,6 +11386,7 @@ edge [
 "fstSecSkel bz" 0.4379310344827586
 "fstSecSkel jump" 0.10689655172413792
 "fstSecSkel ncd" 0.22174757281553398
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5057351407716372
@@ -10205,6 +11394,7 @@ edge [
 "fStat bz" 0.4620689655172414
 "fStat jump" 0.1344827586206897
 "fStat ncd" 0.16753926701570682
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5057351407716372
@@ -10219,6 +11409,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.3366416040100251
@@ -10226,6 +11417,7 @@ edge [
 "raw bz" 0.28658536585365857
 "raw jump" 0.054878048780487854
 "raw ncd" 0.0568234746157429
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 50.0
 "skeletons byteBag" 0.3065944881889764
@@ -10233,6 +11425,7 @@ edge [
 "skeletons bz" 0.20125786163522008
 "skeletons jump" 0.04402515723270439
 "skeletons ncd" 0.08116319444444445
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 50.63291139240506
 "fstSecSkel byteBag" 0.3065944881889764
@@ -10240,6 +11433,7 @@ edge [
 "fstSecSkel bz" 0.20125786163522008
 "fstSecSkel jump" 0.04402515723270439
 "fstSecSkel ncd" 0.08210251954821894
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 31.764705882352942
 "fStat byteBag" 0.25
@@ -10247,6 +11441,7 @@ edge [
 "fStat bz" 0.1823899371069182
 "fStat jump" 0.10062893081761004
 "fStat ncd" 0.058695652173913045
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.25
@@ -10261,6 +11456,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.67796610169491
 "raw byteBag" 0.544180225281602
@@ -10268,6 +11464,7 @@ edge [
 "raw bz" 0.34444444444444444
 "raw jump" 0.04814814814814816
 "raw ncd" 0.0798098983939692
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 26.25
 "skeletons byteBag" 0.550166746069557
@@ -10275,6 +11472,7 @@ edge [
 "skeletons bz" 0.30268199233716475
 "skeletons jump" 0.06896551724137934
 "skeletons ncd" 0.17783191230207065
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 25.925925925925924
 "fstSecSkel byteBag" 0.550166746069557
@@ -10282,6 +11480,7 @@ edge [
 "fstSecSkel bz" 0.29885057471264365
 "fstSecSkel jump" 0.06896551724137934
 "fstSecSkel ncd" 0.178527856852379
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 34.78260869565217
 "fStat byteBag" 0.5021482277121375
@@ -10289,6 +11488,7 @@ edge [
 "fStat bz" 0.4559386973180076
 "fStat jump" 0.09961685823754785
 "fStat ncd" 0.14583333333333334
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.5021482277121375
@@ -10303,6 +11503,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 41.666666666666664
 "raw byteBag" 0.5949120733995968
@@ -10310,6 +11511,7 @@ edge [
 "raw bz" 0.4387755102040817
 "raw jump" 0.05102040816326525
 "raw ncd" 0.10005321979776477
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 27.5
 "skeletons byteBag" 0.6014272221639206
@@ -10317,6 +11519,7 @@ edge [
 "skeletons bz" 0.4221453287197232
 "skeletons jump" 0.08650519031141868
 "skeletons ncd" 0.1951963400686237
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 27.160493827160494
 "fstSecSkel byteBag" 0.6014272221639206
@@ -10324,6 +11527,7 @@ edge [
 "fstSecSkel bz" 0.4186851211072664
 "fstSecSkel jump" 0.08650519031141868
 "fstSecSkel ncd" 0.19511263841160748
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.5501519756838906
@@ -10331,6 +11535,7 @@ edge [
 "fStat bz" 0.47058823529411764
 "fStat jump" 0.13148788927335642
 "fStat ncd" 0.1553784860557769
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 40.38461538461539
 "fStat0 byteBag" 0.5501519756838906
@@ -10345,6 +11550,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "AggregationRouterV3"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.71844660194175
 "raw byteBag" 0.6942736978324167
@@ -10352,6 +11558,7 @@ edge [
 "raw bz" 0.5142857142857142
 "raw jump" 0.04761904761904767
 "raw ncd" 0.1118725689942582
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 51.81818181818182
 "skeletons byteBag" 0.7449206973391008
@@ -10359,6 +11566,7 @@ edge [
 "skeletons bz" 0.47317073170731705
 "skeletons jump" 0.09268292682926826
 "skeletons ncd" 0.23465859982713916
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 51.351351351351354
 "fstSecSkel byteBag" 0.7449206973391008
@@ -10366,6 +11574,7 @@ edge [
 "fstSecSkel bz" 0.46341463414634143
 "fstSecSkel jump" 0.09268292682926826
 "fstSecSkel ncd" 0.23539593249675464
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 43.037974683544306
 "fStat byteBag" 0.6958841463414634
@@ -10373,6 +11582,7 @@ edge [
 "fStat bz" 0.551219512195122
 "fStat jump" 0.13658536585365855
 "fStat ncd" 0.1782608695652174
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 49.438202247191015
 "fStat0 byteBag" 0.6958841463414634
@@ -10387,6 +11597,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 34.61538461538461
 "raw byteBag" 0.39575116529221943
@@ -10394,6 +11605,7 @@ edge [
 "raw bz" 0.3302752293577982
 "raw jump" 0.04816513761467889
 "raw ncd" 0.08409138988787815
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 27.5
 "skeletons byteBag" 0.38585103592971415
@@ -10401,6 +11613,7 @@ edge [
 "skeletons bz" 0.41420118343195267
 "skeletons jump" 0.10650887573964496
 "skeletons ncd" 0.14369088347756087
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 27.160493827160494
 "fstSecSkel byteBag" 0.38585103592971415
@@ -10408,6 +11621,7 @@ edge [
 "fstSecSkel bz" 0.40828402366863903
 "fstSecSkel jump" 0.10650887573964496
 "fstSecSkel ncd" 0.14380664652567976
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.3991902834008097
@@ -10415,6 +11629,7 @@ edge [
 "fStat bz" 0.4319526627218935
 "fStat jump" 0.13905325443786987
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.3991902834008097
@@ -10429,6 +11644,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.26407595495694414
@@ -10436,6 +11652,7 @@ edge [
 "raw bz" 0.21341463414634143
 "raw jump" 0.024390243902439046
 "raw ncd" 0.09012575687005124
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.25836275004202386
@@ -10443,6 +11660,7 @@ edge [
 "skeletons bz" 0.2767295597484277
 "skeletons jump" 0.08805031446540879
 "skeletons ncd" 0.1545138888888889
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.25836275004202386
@@ -10450,6 +11668,7 @@ edge [
 "fstSecSkel bz" 0.28301886792452835
 "fstSecSkel jump" 0.09433962264150941
 "fstSecSkel ncd" 0.15421372719374457
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 25.31645569620254
 "fStat byteBag" 0.22922922922922923
@@ -10457,6 +11676,7 @@ edge [
 "fStat bz" 0.2955974842767296
 "fStat jump" 0.1383647798742138
 "fStat ncd" 0.12173913043478261
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.22922922922922923
@@ -10471,6 +11691,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "AggregationRouterV3"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 35.71428571428571
 "raw byteBag" 0.3543487762237762
@@ -10478,6 +11699,7 @@ edge [
 "raw bz" 0.44512195121951215
 "raw jump" 0.04878048780487809
 "raw ncd" 0.06520726595249185
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.84615384615385
 "skeletons byteBag" 0.3613877822045153
@@ -10485,6 +11707,7 @@ edge [
 "skeletons bz" 0.39622641509433965
 "skeletons jump" 0.10691823899371067
 "skeletons ncd" 0.11631944444444445
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.164556962025316
 "fstSecSkel byteBag" 0.3613877822045153
@@ -10492,6 +11715,7 @@ edge [
 "fstSecSkel bz" 0.39622641509433965
 "fstSecSkel jump" 0.10691823899371067
 "fstSecSkel ncd" 0.11642050390964379
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 25.31645569620254
 "fStat byteBag" 0.26195028680688337
@@ -10499,6 +11723,7 @@ edge [
 "fStat bz" 0.37106918238993714
 "fStat jump" 0.13207547169811318
 "fStat ncd" 0.10217391304347827
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.26195028680688337
@@ -10513,6 +11738,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "AggregationRouterV3"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2333928009234967
@@ -10520,6 +11746,7 @@ edge [
 "raw bz" 0.18292682926829273
 "raw jump" 0.04268292682926833
 "raw ncd" 0.0768514205868654
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 50.0
 "skeletons byteBag" 0.2317725752508361
@@ -10527,6 +11754,7 @@ edge [
 "skeletons bz" 0.2767295597484277
 "skeletons jump" 0.0691823899371069
 "skeletons ncd" 0.1323784722222222
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 50.64935064935065
 "fstSecSkel byteBag" 0.2317725752508361
@@ -10534,6 +11762,7 @@ edge [
 "fstSecSkel bz" 0.2767295597484277
 "fstSecSkel jump" 0.07547169811320753
 "fstSecSkel ncd" 0.13205907906168549
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.22922922922922923
@@ -10541,6 +11770,7 @@ edge [
 "fStat bz" 0.30817610062893086
 "fStat jump" 0.15094339622641506
 "fStat ncd" 0.13043478260869565
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.22922922922922923
@@ -10555,6 +11785,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1541974479516454
@@ -10562,6 +11793,7 @@ edge [
 "raw bz" 0.15877437325905297
 "raw jump" 0.04178272980501396
 "raw ncd" 0.04194400422609614
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.15187533016376123
@@ -10569,6 +11801,7 @@ edge [
 "skeletons bz" 0.24057971014492752
 "skeletons jump" 0.11884057971014494
 "skeletons ncd" 0.07049080993738639
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.15187533016376123
@@ -10576,6 +11809,7 @@ edge [
 "fstSecSkel bz" 0.24057971014492752
 "fstSecSkel jump" 0.11884057971014494
 "fstSecSkel ncd" 0.07051929682764195
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.13041749502982108
@@ -10583,6 +11817,7 @@ edge [
 "fStat bz" 0.24637681159420288
 "fStat jump" 0.1594202898550725
 "fStat ncd" 0.05806451612903226
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.13041749502982108
@@ -10597,6 +11832,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.10968782191964886
@@ -10604,6 +11840,7 @@ edge [
 "raw bz" 0.09749303621169914
 "raw jump" 0.03342618384401119
 "raw ncd" 0.03740095087163233
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.10124826629680998
@@ -10611,6 +11848,7 @@ edge [
 "skeletons bz" 0.14782608695652177
 "skeletons jump" 0.06376811594202902
 "skeletons ncd" 0.06927893354877802
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.10124826629680998
@@ -10618,6 +11856,7 @@ edge [
 "fstSecSkel bz" 0.14782608695652177
 "fstSecSkel jump" 0.06376811594202902
 "fstSecSkel ncd" 0.06910486967064053
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.09445994420087685
@@ -10625,6 +11864,7 @@ edge [
 "fStat bz" 0.14492753623188404
 "fStat jump" 0.07536231884057976
 "fStat ncd" 0.06881720430107527
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.09445994420087685
@@ -10639,6 +11879,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.5
 "raw byteBag" 0.5036345213445527
@@ -10646,6 +11887,7 @@ edge [
 "raw bz" 0.350974930362117
 "raw jump" 0.058495821727019504
 "raw ncd" 0.07670364500792393
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 45.744680851063826
 "skeletons byteBag" 0.48203099241674907
@@ -10653,6 +11895,7 @@ edge [
 "skeletons bz" 0.4666666666666667
 "skeletons jump" 0.1681159420289855
 "skeletons ncd" 0.14098161987477278
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 47.36842105263158
 "fstSecSkel byteBag" 0.48203099241674907
@@ -10660,6 +11903,7 @@ edge [
 "fstSecSkel bz" 0.4608695652173913
 "fstSecSkel jump" 0.1681159420289855
 "fstSecSkel ncd" 0.1410385936552839
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 45.45454545454545
 "fStat byteBag" 0.4785031847133758
@@ -10667,6 +11911,7 @@ edge [
 "fStat bz" 0.5449275362318841
 "fStat jump" 0.21739130434782605
 "fStat ncd" 0.11612903225806452
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.4785031847133758
@@ -10681,6 +11926,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14688330356753931
@@ -10688,6 +11934,7 @@ edge [
 "raw bz" 0.15320334261838442
 "raw jump" 0.04178272980501396
 "raw ncd" 0.038880084521922875
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.13736987745421003
@@ -10695,6 +11942,7 @@ edge [
 "skeletons bz" 0.2376811594202899
 "skeletons jump" 0.1333333333333333
 "skeletons ncd" 0.06564330438295293
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.13736987745421003
@@ -10702,6 +11950,7 @@ edge [
 "fstSecSkel bz" 0.2376811594202899
 "fstSecSkel jump" 0.1333333333333333
 "fstSecSkel ncd" 0.06566983228935139
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.13200795228628232
@@ -10709,6 +11958,7 @@ edge [
 "fStat bz" 0.255072463768116
 "fStat jump" 0.17101449275362324
 "fStat ncd" 0.05913978494623656
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.13200795228628232
@@ -10723,6 +11973,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 43.58974358974359
 "raw byteBag" 0.5402079520230538
@@ -10730,6 +11981,7 @@ edge [
 "raw bz" 0.2924791086350975
 "raw jump" 0.05013927576601673
 "raw ncd" 0.07353407290015848
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.142857142857146
 "skeletons byteBag" 0.6034649320538417
@@ -10737,6 +11989,7 @@ edge [
 "skeletons bz" 0.3797101449275362
 "skeletons jump" 0.17971014492753623
 "skeletons ncd" 0.12967077358109472
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 56.69291338582677
 "fstSecSkel byteBag" 0.6034649320538417
@@ -10744,6 +11997,7 @@ edge [
 "fstSecSkel bz" 0.3826086956521739
 "fstSecSkel jump" 0.17971014492753623
 "fstSecSkel ncd" 0.1295211153768438
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 53.65853658536585
 "fStat byteBag" 0.6047994000749907
@@ -10751,6 +12005,7 @@ edge [
 "fStat bz" 0.5536231884057972
 "fStat jump" 0.2376811594202899
 "fStat ncd" 0.10752688172043011
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 40.54054054054054
 "fStat0 byteBag" 0.6047994000749907
@@ -10765,6 +12020,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 53.26086956521739
 "raw byteBag" 0.6356820939504246
@@ -10772,6 +12028,7 @@ edge [
 "raw bz" 0.5626740947075208
 "raw jump" 0.03899721448467963
 "raw ncd" 0.0751188589540412
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.96825396825397
 "skeletons byteBag" 0.6732390712154624
@@ -10779,6 +12036,7 @@ edge [
 "skeletons bz" 0.5942028985507246
 "skeletons jump" 0.14782608695652177
 "skeletons ncd" 0.1399717228842658
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.54330708661417
 "fstSecSkel byteBag" 0.6732390712154624
@@ -10786,6 +12044,7 @@ edge [
 "fstSecSkel bz" 0.5942028985507246
 "fstSecSkel jump" 0.14782608695652177
 "fstSecSkel ncd" 0.13982622752071125
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 52.325581395348834
 "fStat byteBag" 0.6735081717977955
@@ -10793,6 +12052,7 @@ edge [
 "fStat bz" 0.6057971014492753
 "fStat jump" 0.17971014492753623
 "fStat ncd" 0.12258064516129032
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 51.61290322580645
 "fStat0 byteBag" 0.6735081717977955
@@ -10807,6 +12067,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.17472348301238266
@@ -10814,6 +12075,7 @@ edge [
 "raw bz" 0.13649025069637888
 "raw jump" 0.0473537604456824
 "raw ncd" 0.025990491283676705
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.13234421364985163
@@ -10821,6 +12083,7 @@ edge [
 "skeletons bz" 0.12753623188405794
 "skeletons jump" 0.11884057971014494
 "skeletons ncd" 0.04807109674813169
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.13234421364985163
@@ -10828,6 +12091,7 @@ edge [
 "fstSecSkel bz" 0.12463768115942031
 "fstSecSkel jump" 0.12173913043478257
 "fstSecSkel ncd" 0.04829258436047686
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.11797528895974492
@@ -10835,6 +12099,7 @@ edge [
 "fStat bz" 0.14782608695652177
 "fStat jump" 0.13913043478260867
 "fStat ncd" 0.035483870967741936
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.11797528895974492
@@ -10849,6 +12114,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.6396703486365205
@@ -10856,6 +12122,7 @@ edge [
 "raw bz" 0.3147632311977716
 "raw jump" 0.05013927576601673
 "raw ncd" 0.08114104595879557
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.142857142857146
 "skeletons byteBag" 0.6558986025349366
@@ -10863,6 +12130,7 @@ edge [
 "skeletons bz" 0.408695652173913
 "skeletons jump" 0.19130434782608696
 "skeletons ncd" 0.1434053726519895
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 56.69291338582677
 "fstSecSkel byteBag" 0.6558986025349366
@@ -10870,6 +12138,7 @@ edge [
 "fstSecSkel bz" 0.4144927536231884
 "fstSecSkel jump" 0.19130434782608696
 "fstSecSkel ncd" 0.14305920387957163
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 47.43589743589744
 "fStat byteBag" 0.5806451612903226
@@ -10877,6 +12146,7 @@ edge [
 "fStat bz" 0.5768115942028986
 "fStat jump" 0.24057971014492752
 "fStat ncd" 0.110752688172043
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 42.666666666666664
 "fStat0 byteBag" 0.5806451612903226
@@ -10891,6 +12161,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.16279069767442
 "raw byteBag" 0.5804357298474946
@@ -10898,6 +12169,7 @@ edge [
 "raw bz" 0.41504178272980496
 "raw jump" 0.03899721448467963
 "raw ncd" 0.06349709455890122
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.142857142857146
 "skeletons byteBag" 0.6028169014084507
@@ -10905,6 +12177,7 @@ edge [
 "skeletons bz" 0.5420289855072464
 "skeletons jump" 0.1681159420289855
 "skeletons ncd" 0.1278529589981822
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.48031496062992
 "fstSecSkel byteBag" 0.6028169014084507
@@ -10912,6 +12185,7 @@ edge [
 "fstSecSkel bz" 0.5391304347826087
 "fstSecSkel jump" 0.1681159420289855
 "fstSecSkel ncd" 0.1279046271974136
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.12280701754386
 "fStat byteBag" 0.5761923226056611
@@ -10919,6 +12193,7 @@ edge [
 "fStat bz" 0.6231884057971014
 "fStat jump" 0.23478260869565215
 "fStat ncd" 0.11182795698924732
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 48.4375
 "fStat0 byteBag" 0.5761923226056611
@@ -10933,6 +12208,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "NonfungiblePositionManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.0
 "raw byteBag" 0.5095577871740662
@@ -10940,6 +12216,7 @@ edge [
 "raw bz" 0.350974930362117
 "raw jump" 0.0473537604456824
 "raw ncd" 0.07754886423666138
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 45.744680851063826
 "skeletons byteBag" 0.4854221635883905
@@ -10947,6 +12224,7 @@ edge [
 "skeletons bz" 0.44637681159420295
 "skeletons jump" 0.1942028985507246
 "skeletons ncd" 0.14461724904059786
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.31578947368421
 "fstSecSkel byteBag" 0.4854221635883905
@@ -10954,6 +12232,7 @@ edge [
 "fstSecSkel bz" 0.4521739130434783
 "fstSecSkel jump" 0.1942028985507246
 "fstSecSkel ncd" 0.14487775308143058
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 44.0
 "fStat byteBag" 0.4882610425785913
@@ -10961,6 +12240,7 @@ edge [
 "fStat bz" 0.5536231884057972
 "fStat jump" 0.22898550724637678
 "fStat ncd" 0.11505376344086021
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.4882610425785913
@@ -10975,6 +12255,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 53.7037037037037
 "raw byteBag" 0.9165158176019309
@@ -10982,6 +12263,7 @@ edge [
 "raw bz" 0.6834862385321101
 "raw jump" 0.04357798165137616
 "raw ncd" 0.6457474907554147
+"skeletons ssdeep" 61
 "skeletons ppdeep" 77
 "skeletons ppdeep_mod" 76.19047619047619
 "skeletons byteBag" 0.9738502569439927
@@ -10989,6 +12271,7 @@ edge [
 "skeletons bz" 0.9536231884057971
 "skeletons jump" 0.817391304347826
 "skeletons ncd" 0.8738176695512175
+"fstSecSkel ssdeep" 61
 "fstSecSkel ppdeep" 77
 "fstSecSkel ppdeep_mod" 76.37795275590551
 "fstSecSkel byteBag" 0.9738502569439927
@@ -10996,6 +12279,7 @@ edge [
 "fstSecSkel bz" 0.9507246376811594
 "fstSecSkel jump" 0.817391304347826
 "fstSecSkel ncd" 0.8741188318227593
+"fStat ssdeep" 49
 "fStat ppdeep" 69
 "fStat ppdeep_mod" 67.74193548387098
 "fStat byteBag" 0.9781138081973737
@@ -11003,6 +12287,7 @@ edge [
 "fStat bz" 0.9623188405797102
 "fStat jump" 0.8927536231884058
 "fStat ncd" 0.8408602150537634
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 63.38028169014085
 "fStat0 byteBag" 0.9781138081973737
@@ -11017,6 +12302,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.10964303309893851
@@ -11024,6 +12310,7 @@ edge [
 "raw bz" 0.1058495821727019
 "raw jump" 0.03342618384401119
 "raw ncd" 0.036661384046487056
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.10235752492901011
@@ -11031,6 +12318,7 @@ edge [
 "skeletons bz" 0.14492753623188404
 "skeletons jump" 0.06376811594202902
 "skeletons ncd" 0.06604726317915573
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.10235752492901011
@@ -11038,6 +12326,7 @@ edge [
 "fstSecSkel bz" 0.14492753623188404
 "fstSecSkel jump" 0.06376811594202902
 "fstSecSkel ncd" 0.06566983228935139
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.09326424870466321
@@ -11045,6 +12334,7 @@ edge [
 "fStat bz" 0.1420289855072464
 "fStat jump" 0.07246376811594202
 "fStat ncd" 0.06666666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.09326424870466321
@@ -11059,6 +12349,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1516589799847759
@@ -11066,6 +12357,7 @@ edge [
 "raw bz" 0.21727019498607247
 "raw jump" 0.05292479108635095
 "raw ncd" 0.04321183306920232
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14949815108293713
@@ -11073,6 +12365,7 @@ edge [
 "skeletons bz" 0.2376811594202899
 "skeletons jump" 0.11014492753623184
 "skeletons ncd" 0.06907695415067663
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14949815108293713
@@ -11080,6 +12373,7 @@ edge [
 "fstSecSkel bz" 0.2376811594202899
 "fstSecSkel jump" 0.11014492753623184
 "fstSecSkel ncd" 0.06910486967064053
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1272365805168986
@@ -11087,6 +12381,7 @@ edge [
 "fStat bz" 0.23478260869565215
 "fStat jump" 0.14782608695652177
 "fStat ncd" 0.05806451612903226
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1272365805168986
@@ -11101,6 +12396,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.11072725662148995
@@ -11108,6 +12404,7 @@ edge [
 "raw bz" 0.0919220055710307
 "raw jump" 0.04178272980501396
 "raw ncd" 0.033491811938721604
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.09342218117041631
@@ -11115,6 +12412,7 @@ edge [
 "skeletons bz" 0.14782608695652177
 "skeletons jump" 0.06376811594202902
 "skeletons ncd" 0.06321955160573621
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.09342218117041631
@@ -11122,6 +12420,7 @@ edge [
 "fstSecSkel bz" 0.14782608695652177
 "fstSecSkel jump" 0.06376811594202902
 "fstSecSkel ncd" 0.06344716104263487
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.09326424870466321
@@ -11129,6 +12428,7 @@ edge [
 "fStat bz" 0.1507246376811594
 "fStat jump" 0.08115942028985512
 "fStat ncd" 0.06774193548387097
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.09326424870466321
@@ -11143,6 +12443,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs200"
 "group1" "DSToken"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.0
 "raw byteBag" 0.5790741236285791
@@ -11150,6 +12451,7 @@ edge [
 "raw bz" 0.4545454545454546
 "raw jump" 0.045454545454545414
 "raw ncd" 0.16395418927064498
+"skeletons ssdeep" 25
 "skeletons ppdeep" 46
 "skeletons ppdeep_mod" 45.744680851063826
 "skeletons byteBag" 0.5908902691511387
@@ -11157,6 +12459,7 @@ edge [
 "skeletons bz" 0.4482758620689655
 "skeletons jump" 0.14942528735632188
 "skeletons ncd" 0.32004981320049813
+"fstSecSkel ssdeep" 24
 "fstSecSkel ppdeep" 46
 "fstSecSkel ppdeep_mod" 45.833333333333336
 "fstSecSkel byteBag" 0.5908902691511387
@@ -11164,6 +12467,7 @@ edge [
 "fstSecSkel bz" 0.47126436781609193
 "fstSecSkel jump" 0.14942528735632188
 "fstSecSkel ncd" 0.32
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 52.56410256410256
 "fStat byteBag" 0.45663265306122447
@@ -11171,6 +12475,7 @@ edge [
 "fStat bz" 0.45977011494252873
 "fStat jump" 0.1954022988505747
 "fStat ncd" 0.3018867924528302
+"fStat0 ssdeep" 25
 "fStat0 ppdeep" 50
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.45663265306122447
@@ -11185,6 +12490,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "DSToken"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 35.44303797468355
 "raw byteBag" 0.2857985672144964
@@ -11192,6 +12498,7 @@ edge [
 "raw bz" 0.4137931034482759
 "raw jump" 0.044334975369458074
 "raw ncd" 0.06066715542521994
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 55.319148936170215
 "skeletons byteBag" 0.3043419450831868
@@ -11199,6 +12506,7 @@ edge [
 "skeletons bz" 0.40909090909090906
 "skeletons jump" 0.16161616161616166
 "skeletons ncd" 0.13235926085088096
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 55.208333333333336
 "fstSecSkel byteBag" 0.3043419450831868
@@ -11206,6 +12514,7 @@ edge [
 "fstSecSkel bz" 0.40909090909090906
 "fstSecSkel jump" 0.16161616161616166
 "fstSecSkel ncd" 0.13129573826947913
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.22239872915011913
@@ -11213,6 +12522,7 @@ edge [
 "fStat bz" 0.398989898989899
 "fStat jump" 0.21212121212121215
 "fStat ncd" 0.10869565217391304
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.22239872915011913
@@ -11227,6 +12537,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "DSToken"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.27272727272727
 "raw byteBag" 0.6054275253069137
@@ -11234,6 +12545,7 @@ edge [
 "raw bz" 0.8131868131868132
 "raw jump" 0.03296703296703296
 "raw ncd" 0.5285961871750433
+"skeletons ssdeep" 80
 "skeletons ppdeep" 85
 "skeletons ppdeep_mod" 90.3225806451613
 "skeletons byteBag" 0.8578616352201258
@@ -11241,6 +12553,7 @@ edge [
 "skeletons bz" 0.8777777777777778
 "skeletons jump" 0.6222222222222222
 "skeletons ncd" 0.7229647630619684
+"fstSecSkel ssdeep" 80
 "fstSecSkel ppdeep" 83
 "fstSecSkel ppdeep_mod" 89.0625
 "fstSecSkel byteBag" 0.8578616352201258
@@ -11248,6 +12561,7 @@ edge [
 "fstSecSkel bz" 0.8666666666666667
 "fstSecSkel jump" 0.6222222222222222
 "fstSecSkel ncd" 0.7219512195121951
+"fStat ssdeep" 82
 "fStat ppdeep" 82
 "fStat ppdeep_mod" 82.0
 "fStat byteBag" 0.9881656804733728
@@ -11255,6 +12569,7 @@ edge [
 "fStat bz" 0.9555555555555556
 "fStat jump" 0.9444444444444444
 "fStat ncd" 0.9308176100628931
+"fStat0 ssdeep" 74
 "fStat0 ppdeep" 88
 "fStat0 ppdeep_mod" 86.48648648648648
 "fStat0 byteBag" 0.9881656804733728
@@ -11269,6 +12584,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "DSToken"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 35.80246913580247
 "raw byteBag" 0.19735927727588604
@@ -11276,6 +12592,7 @@ edge [
 "raw bz" 0.2757352941176471
 "raw jump" 0.05147058823529416
 "raw ncd" 0.060179045092838196
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.22474875647142423
@@ -11283,6 +12600,7 @@ edge [
 "skeletons bz" 0.279245283018868
 "skeletons jump" 0.14716981132075468
 "skeletons ncd" 0.12418300653594772
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.22474875647142423
@@ -11290,6 +12608,7 @@ edge [
 "fstSecSkel bz" 0.2754716981132076
 "fstSecSkel jump" 0.14716981132075468
 "fstSecSkel ncd" 0.12274959083469722
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15027322404371585
@@ -11297,6 +12616,7 @@ edge [
 "fStat bz" 0.309433962264151
 "fStat jump" 0.1584905660377358
 "fStat ncd" 0.10792951541850221
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15027322404371585
@@ -11311,6 +12631,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "DSToken"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21538065180986732
@@ -11318,6 +12639,7 @@ edge [
 "raw bz" 0.2794612794612794
 "raw jump" 0.04040404040404044
 "raw ncd" 0.05218084047002589
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20613953488372094
@@ -11325,6 +12647,7 @@ edge [
 "skeletons bz" 0.2655172413793103
 "skeletons jump" 0.12758620689655176
 "skeletons ncd" 0.09076803723816912
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20613953488372094
@@ -11332,6 +12655,7 @@ edge [
 "fstSecSkel bz" 0.26206896551724135
 "fstSecSkel jump" 0.12758620689655176
 "fstSecSkel ncd" 0.09087378640776698
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15142118863049095
@@ -11339,6 +12663,7 @@ edge [
 "fStat bz" 0.27586206896551724
 "fStat jump" 0.1586206896551724
 "fStat ncd" 0.07329842931937172
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15142118863049095
@@ -11353,6 +12678,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "DSToken"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 43.75
 "raw byteBag" 0.4838894184938036
@@ -11360,6 +12686,7 @@ edge [
 "raw bz" 0.3295454545454546
 "raw jump" 0.022727272727272707
 "raw ncd" 0.11371841155234658
+"skeletons ssdeep" 60
 "skeletons ppdeep" 74
 "skeletons ppdeep_mod" 80.64516129032258
 "skeletons byteBag" 0.6328066215199398
@@ -11367,6 +12694,7 @@ edge [
 "skeletons bz" 0.32183908045977017
 "skeletons jump" 0.29885057471264365
 "skeletons ncd" 0.22789539227895392
+"fstSecSkel ssdeep" 60
 "fstSecSkel ppdeep" 74
 "fstSecSkel ppdeep_mod" 79.6875
 "fstSecSkel byteBag" 0.6328066215199398
@@ -11374,6 +12702,7 @@ edge [
 "fstSecSkel bz" 0.28735632183908044
 "fstSecSkel jump" 0.29885057471264365
 "fstSecSkel ncd" 0.22875
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.351351351351354
 "fStat byteBag" 0.48936170212765956
@@ -11381,6 +12710,7 @@ edge [
 "fStat bz" 0.2183908045977011
 "fStat jump" 0.4022988505747126
 "fStat ncd" 0.16352201257861634
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.847457627118644
 "fStat0 byteBag" 0.48936170212765956
@@ -11395,6 +12725,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "DSToken"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2175186198994207
@@ -11402,6 +12733,7 @@ edge [
 "raw bz" 0.2962962962962963
 "raw jump" 0.0444444444444444
 "raw ncd" 0.06555227794165848
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21565234112104606
@@ -11409,6 +12741,7 @@ edge [
 "skeletons bz" 0.28735632183908044
 "skeletons jump" 0.14559386973180077
 "skeletons ncd" 0.13276492082825822
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21565234112104606
@@ -11416,6 +12749,7 @@ edge [
 "fstSecSkel bz" 0.29118773946360155
 "fstSecSkel jump" 0.14559386973180077
 "fstSecSkel ncd" 0.13176087840585604
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1476906552094522
@@ -11423,6 +12757,7 @@ edge [
 "fStat bz" 0.31417624521072796
 "fStat jump" 0.16091954022988508
 "fStat ncd" 0.09791666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1476906552094522
@@ -11437,6 +12772,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "DSToken"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.24532894265874436
@@ -11444,6 +12780,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.05102040816326525
 "raw ncd" 0.05321979776476849
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.24093430034129693
@@ -11451,6 +12788,7 @@ edge [
 "skeletons bz" 0.2837370242214533
 "skeletons jump" 0.10380622837370246
 "skeletons ncd" 0.11132291269538697
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.24093430034129693
@@ -11458,6 +12796,7 @@ edge [
 "fstSecSkel bz" 0.2837370242214533
 "fstSecSkel jump" 0.10380622837370246
 "fstSecSkel ncd" 0.11034746086292478
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.17903930131004367
@@ -11465,6 +12804,7 @@ edge [
 "fStat bz" 0.2941176470588235
 "fStat jump" 0.1557093425605537
 "fStat ncd" 0.09760956175298804
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.17903930131004367
@@ -11479,6 +12819,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "DSToken"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 32.55813953488372
 "raw byteBag" 0.28145805592543277
@@ -11486,6 +12827,7 @@ edge [
 "raw bz" 0.41428571428571426
 "raw jump" 0.05238095238095242
 "raw ncd" 0.060196332654195224
+"skeletons ssdeep" 49
 "skeletons ppdeep" 58
 "skeletons ppdeep_mod" 57.4468085106383
 "skeletons byteBag" 0.30254134731746674
@@ -11493,6 +12835,7 @@ edge [
 "skeletons bz" 0.41463414634146345
 "skeletons jump" 0.17560975609756102
 "skeletons ncd" 0.13699222126188418
+"fstSecSkel ssdeep" 49
 "fstSecSkel ppdeep" 57
 "fstSecSkel ppdeep_mod" 57.291666666666664
 "fstSecSkel byteBag" 0.30254134731746674
@@ -11500,6 +12843,7 @@ edge [
 "fstSecSkel bz" 0.41951219512195126
 "fstSecSkel jump" 0.17560975609756102
 "fstSecSkel ncd" 0.13587191691908265
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.2178988326848249
@@ -11507,6 +12851,7 @@ edge [
 "fStat bz" 0.3951219512195122
 "fStat jump" 0.20487804878048776
 "fStat ncd" 0.1108433734939759
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2178988326848249
@@ -11521,6 +12866,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "DSToken"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1554471985191205
@@ -11528,6 +12874,7 @@ edge [
 "raw bz" 0.11467889908256879
 "raw jump" 0.041284403669724745
 "raw ncd" 0.04273323460968902
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.15119642387588747
@@ -11535,6 +12882,7 @@ edge [
 "skeletons bz" 0.24556213017751483
 "skeletons jump" 0.10946745562130178
 "skeletons ncd" 0.0639967800362246
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.15119642387588747
@@ -11542,6 +12890,7 @@ edge [
 "fstSecSkel bz" 0.24556213017751483
 "fstSecSkel jump" 0.10946745562130178
 "fstSecSkel ncd" 0.06445115810674723
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.13290113452188007
@@ -11549,6 +12898,7 @@ edge [
 "fStat bz" 0.25147928994082835
 "fStat jump" 0.16272189349112431
 "fStat ncd" 0.061422413793103446
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.13290113452188007
@@ -11563,6 +12913,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "DSToken"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 35.71428571428571
 "raw byteBag" 0.5928725701943844
@@ -11570,6 +12921,7 @@ edge [
 "raw bz" 0.46590909090909094
 "raw jump" 0.06818181818181823
 "raw ncd" 0.15732368896925858
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 45.744680851063826
 "skeletons byteBag" 0.6027397260273972
@@ -11577,6 +12929,7 @@ edge [
 "skeletons bz" 0.4367816091954023
 "skeletons jump" 0.12643678160919536
 "skeletons ncd" 0.30759651307596514
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.875
 "fstSecSkel byteBag" 0.6027397260273972
@@ -11584,6 +12937,7 @@ edge [
 "fstSecSkel bz" 0.4482758620689655
 "fstSecSkel jump" 0.12643678160919536
 "fstSecSkel ncd" 0.3075
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.45268542199488493
@@ -11591,6 +12945,7 @@ edge [
 "fStat bz" 0.4482758620689655
 "fStat jump" 0.1954022988505747
 "fStat ncd" 0.2893081761006289
+"fStat0 ssdeep" 25
 "fStat0 ppdeep" 50
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.45268542199488493
@@ -11605,6 +12960,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "DSToken"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 56.16438356164384
 "raw byteBag" 0.891406465874551
@@ -11612,6 +12968,7 @@ edge [
 "raw bz" 0.6
 "raw jump" 0.022222222222222254
 "raw ncd" 0.6949969861362266
+"skeletons ssdeep" 83
 "skeletons ppdeep" 85
 "skeletons ppdeep_mod" 96.03174603174602
 "skeletons byteBag" 0.98438855160451
@@ -11619,6 +12976,7 @@ edge [
 "skeletons bz" 0.9195402298850575
 "skeletons jump" 0.9195402298850575
 "skeletons ncd" 0.9464508094645081
+"fstSecSkel ssdeep" 85
 "fstSecSkel ppdeep" 85
 "fstSecSkel ppdeep_mod" 96.09375
 "fstSecSkel byteBag" 0.98438855160451
@@ -11626,6 +12984,7 @@ edge [
 "fstSecSkel bz" 0.9425287356321839
 "fstSecSkel jump" 0.9195402298850575
 "fstSecSkel ncd" 0.9475
+"fStat ssdeep" 82
 "fStat ppdeep" 82
 "fStat ppdeep_mod" 82.0
 "fStat byteBag" 0.9760479041916168
@@ -11633,6 +12992,7 @@ edge [
 "fStat bz" 0.9540229885057472
 "fStat jump" 0.9540229885057472
 "fStat ncd" 0.9559748427672956
+"fStat0 ssdeep" 100
 "fStat0 ppdeep" 100
 "fStat0 ppdeep_mod" 100.0
 "fStat0 byteBag" 0.9760479041916168
@@ -11647,6 +13007,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "DSToken"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 32.075471698113205
 "raw byteBag" 0.46573724007561434
@@ -11654,6 +13015,7 @@ edge [
 "raw bz" 0.4204545454545454
 "raw jump" 0.045454545454545414
 "raw ncd" 0.1518987341772152
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 63.333333333333336
 "skeletons byteBag" 0.5288107887208827
@@ -11661,6 +13023,7 @@ edge [
 "skeletons bz" 0.4482758620689655
 "skeletons jump" 0.16091954022988508
 "skeletons ncd" 0.29389788293897884
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 62.903225806451616
 "fstSecSkel byteBag" 0.5288107887208827
@@ -11668,6 +13031,7 @@ edge [
 "fstSecSkel bz" 0.45977011494252873
 "fstSecSkel jump" 0.16091954022988508
 "fstSecSkel ncd" 0.29375
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.4489795918367347
@@ -11675,6 +13039,7 @@ edge [
 "fStat bz" 0.47126436781609193
 "fStat jump" 0.2183908045977011
 "fStat ncd" 0.29559748427672955
+"fStat0 ssdeep" 24
 "fStat0 ppdeep" 52
 "fStat0 ppdeep_mod" 50.847457627118644
 "fStat0 byteBag" 0.4489795918367347
@@ -11689,6 +13054,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs0"
 "group1" "AddressResolver"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.20716524095875327
@@ -11696,6 +13062,7 @@ edge [
 "raw bz" 0.2561576354679803
 "raw jump" 0.054187192118226646
 "raw ncd" 0.11638563049853372
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20869091404440812
@@ -11703,6 +13070,7 @@ edge [
 "skeletons bz" 0.24747474747474751
 "skeletons jump" 0.09595959595959591
 "skeletons ncd" 0.18994413407821228
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20869091404440812
@@ -11710,6 +13078,7 @@ edge [
 "fstSecSkel bz" 0.24747474747474751
 "fstSecSkel jump" 0.09595959595959591
 "fstSecSkel ncd" 0.1894102453723633
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1966804979253112
@@ -11717,6 +13086,7 @@ edge [
 "fStat bz" 0.25757575757575757
 "fStat jump" 0.16161616161616166
 "fStat ncd" 0.15217391304347827
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1966804979253112
@@ -11731,6 +13101,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "AddressResolver"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 38.333333333333336
 "raw byteBag" 0.4624801632282929
@@ -11738,6 +13109,7 @@ edge [
 "raw bz" 0.43956043956043955
 "raw jump" 0.05494505494505497
 "raw ncd" 0.13287117273252455
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.38095238095238
 "skeletons byteBag" 0.5862218370883883
@@ -11745,6 +13117,7 @@ edge [
 "skeletons bz" 0.43333333333333335
 "skeletons jump" 0.1777777777777778
 "skeletons ncd" 0.2660996354799514
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.325581395348834
 "fstSecSkel byteBag" 0.5862218370883883
@@ -11752,6 +13125,7 @@ edge [
 "fstSecSkel bz" 0.43333333333333335
 "fstSecSkel jump" 0.16666666666666663
 "fstSecSkel ncd" 0.2658536585365854
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.63291139240506
 "fStat byteBag" 0.45202020202020204
@@ -11759,6 +13133,7 @@ edge [
 "fStat bz" 0.4444444444444444
 "fStat jump" 0.18888888888888888
 "fStat ncd" 0.26582278481012656
+"fStat0 ssdeep" 22
 "fStat0 ppdeep" 52
 "fStat0 ppdeep_mod" 50.42016806722689
 "fStat0 byteBag" 0.45202020202020204
@@ -11773,6 +13148,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "AddressResolver"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14172131623237189
@@ -11780,6 +13156,7 @@ edge [
 "raw bz" 0.18382352941176472
 "raw jump" 0.047794117647058876
 "raw ncd" 0.07924403183023873
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1545538178472861
@@ -11787,6 +13164,7 @@ edge [
 "skeletons bz" 0.18490566037735845
 "skeletons jump" 0.08679245283018866
 "skeletons ncd" 0.1323529411764706
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1545538178472861
@@ -11794,6 +13172,7 @@ edge [
 "fstSecSkel bz" 0.1924528301886792
 "fstSecSkel jump" 0.08679245283018866
 "fstSecSkel ncd" 0.13216039279869068
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.13382269904009034
@@ -11801,6 +13180,7 @@ edge [
 "fStat bz" 0.1924528301886792
 "fStat jump" 0.10188679245283017
 "fStat ncd" 0.12334801762114538
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.13382269904009034
@@ -11815,6 +13195,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "AddressResolver"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15614080496958715
@@ -11822,6 +13203,7 @@ edge [
 "raw bz" 0.17508417508417506
 "raw jump" 0.043771043771043794
 "raw ncd" 0.06592312288388767
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1409860604359622
@@ -11829,6 +13211,7 @@ edge [
 "skeletons bz" 0.16896551724137931
 "skeletons jump" 0.06896551724137934
 "skeletons ncd" 0.11287820015515904
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1409860604359622
@@ -11836,6 +13219,7 @@ edge [
 "fstSecSkel bz" 0.16896551724137931
 "fstSecSkel jump" 0.07241379310344831
 "fstSecSkel ncd" 0.11300970873786408
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.12335266209804956
@@ -11843,6 +13227,7 @@ edge [
 "fStat bz" 0.16551724137931034
 "fStat jump" 0.096551724137931
 "fStat ncd" 0.1082024432809773
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.12335266209804956
@@ -11857,6 +13242,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "AddressResolver"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.34375
 "raw byteBag" 0.45618556701030927
@@ -11864,6 +13250,7 @@ edge [
 "raw bz" 0.26086956521739135
 "raw jump" 0.04347826086956519
 "raw ncd" 0.21359807460890493
+"skeletons ssdeep" 43
 "skeletons ppdeep" 54
 "skeletons ppdeep_mod" 56.38297872340426
 "skeletons byteBag" 0.5733803437637726
@@ -11871,6 +13258,7 @@ edge [
 "skeletons bz" 0.2272727272727273
 "skeletons jump" 0.24242424242424243
 "skeletons ncd" 0.25551232166018156
+"fstSecSkel ssdeep" 43
 "fstSecSkel ppdeep" 54
 "fstSecSkel ppdeep_mod" 56.25
 "fstSecSkel byteBag" 0.5733803437637726
@@ -11878,6 +13266,7 @@ edge [
 "fstSecSkel bz" 0.21212121212121215
 "fstSecSkel jump" 0.24242424242424243
 "fstSecSkel ncd" 0.25554106910039115
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.5014084507042254
@@ -11885,6 +13274,7 @@ edge [
 "fStat bz" 0.16666666666666663
 "fStat jump" 0.2272727272727273
 "fStat ncd" 0.19863013698630136
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 56.34920634920635
 "fStat0 byteBag" 0.5014084507042254
@@ -11899,6 +13289,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "AddressResolver"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15617224880382774
@@ -11906,6 +13297,7 @@ edge [
 "raw bz" 0.19259259259259254
 "raw jump" 0.033333333333333326
 "raw ncd" 0.09963946247132088
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1483558994197292
@@ -11913,6 +13305,7 @@ edge [
 "skeletons bz" 0.1877394636015326
 "skeletons jump" 0.08045977011494254
 "skeletons ncd" 0.16321559074299635
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1483558994197292
@@ -11920,6 +13313,7 @@ edge [
 "fstSecSkel bz" 0.1954022988505747
 "fstSecSkel jump" 0.08045977011494254
 "fstSecSkel ncd" 0.16185441236274908
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1314475873544093
@@ -11927,6 +13321,7 @@ edge [
 "fStat bz" 0.1954022988505747
 "fStat jump" 0.10727969348659006
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1314475873544093
@@ -11941,6 +13336,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "AddressResolver"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.17529394895325495
@@ -11948,6 +13344,7 @@ edge [
 "raw bz" 0.1768707482993197
 "raw jump" 0.05102040816326525
 "raw ncd" 0.11868014901543374
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.16414871959712846
@@ -11955,6 +13352,7 @@ edge [
 "skeletons bz" 0.17647058823529416
 "skeletons jump" 0.07612456747404839
 "skeletons ncd" 0.18452154022112086
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.16414871959712846
@@ -11962,6 +13360,7 @@ edge [
 "fstSecSkel bz" 0.17301038062283736
 "fstSecSkel jump" 0.07958477508650519
 "fstSecSkel ncd" 0.18442153493699887
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15231362467866325
@@ -11969,6 +13368,7 @@ edge [
 "fStat bz" 0.17647058823529416
 "fStat jump" 0.11072664359861595
 "fStat ncd" 0.13147410358565736
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15231362467866325
@@ -11983,6 +13383,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "AddressResolver"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.20419943115275221
@@ -11990,6 +13391,7 @@ edge [
 "raw bz" 0.24761904761904763
 "raw jump" 0.05238095238095242
 "raw ncd" 0.12002222633821077
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20793822812246004
@@ -11997,6 +13399,7 @@ edge [
 "skeletons bz" 0.24390243902439024
 "skeletons jump" 0.1121951219512195
 "skeletons ncd" 0.19662921348314608
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20793822812246004
@@ -12004,6 +13407,7 @@ edge [
 "fstSecSkel bz" 0.24878048780487805
 "fstSecSkel jump" 0.1121951219512195
 "fstSecSkel ncd" 0.1964517524881004
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1925264012997563
@@ -12011,6 +13415,7 @@ edge [
 "fStat bz" 0.24878048780487805
 "fStat jump" 0.15121951219512197
 "fStat ncd" 0.1493975903614458
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1925264012997563
@@ -12025,6 +13430,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "AddressResolver"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.11046380345933252
@@ -12032,6 +13438,7 @@ edge [
 "raw bz" 0.06422018348623848
 "raw jump" 0.03669724770642202
 "raw ncd" 0.03427120795430506
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.10057849066526427
@@ -12039,6 +13446,7 @@ edge [
 "skeletons bz" 0.15088757396449703
 "skeletons jump" 0.059171597633136064
 "skeletons ncd" 0.06097806399678004
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.10057849066526427
@@ -12046,6 +13454,7 @@ edge [
 "fstSecSkel bz" 0.15088757396449703
 "fstSecSkel jump" 0.059171597633136064
 "fstSecSkel ncd" 0.06143001007049345
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.09626320064987814
@@ -12053,6 +13462,7 @@ edge [
 "fStat bz" 0.14792899408284022
 "fStat jump" 0.07396449704142016
 "fStat ncd" 0.061422413793103446
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.09626320064987814
@@ -12067,6 +13477,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "AddressResolver"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 61.78861788617886
 "raw byteBag" 0.8733741392501913
@@ -12074,6 +13485,7 @@ edge [
 "raw bz" 0.8867924528301887
 "raw jump" 0.037735849056603765
 "raw ncd" 0.7414829659318637
+"skeletons ssdeep" 79
 "skeletons ppdeep" 88
 "skeletons ppdeep_mod" 93.54838709677419
 "skeletons byteBag" 0.9675366008911521
@@ -12081,6 +13493,7 @@ edge [
 "skeletons bz" 0.9215686274509804
 "skeletons jump" 0.803921568627451
 "skeletons ncd" 0.8948717948717949
+"fstSecSkel ssdeep" 79
 "fstSecSkel ppdeep" 86
 "fstSecSkel ppdeep_mod" 92.1875
 "fstSecSkel byteBag" 0.9675366008911521
@@ -12088,6 +13501,7 @@ edge [
 "fstSecSkel bz" 0.9411764705882353
 "fstSecSkel jump" 0.803921568627451
 "fstSecSkel ncd" 0.8943298969072165
+"fStat ssdeep" 70
 "fStat ppdeep" 70
 "fStat ppdeep_mod" 70.0
 "fStat byteBag" 0.9873417721518988
@@ -12095,6 +13509,7 @@ edge [
 "fStat bz" 0.9607843137254902
 "fStat jump" 0.9411764705882353
 "fStat ncd" 0.8904109589041096
+"fStat0 ssdeep" 83
 "fStat0 ppdeep" 91
 "fStat0 ppdeep_mod" 90.47619047619048
 "fStat0 byteBag" 0.9873417721518988
@@ -12109,6 +13524,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "AddressResolver"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 43.63636363636363
 "raw byteBag" 0.5763626551538047
@@ -12116,6 +13532,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.022222222222222254
 "raw ncd" 0.16341463414634147
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 44.680851063829785
 "skeletons byteBag" 0.5971464540495174
@@ -12123,6 +13540,7 @@ edge [
 "skeletons bz" 0.4457831325301205
 "skeletons jump" 0.14457831325301207
 "skeletons ncd" 0.30671736375158426
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 44.791666666666664
 "fstSecSkel byteBag" 0.5971464540495174
@@ -12130,6 +13548,7 @@ edge [
 "fstSecSkel bz" 0.4457831325301205
 "fstSecSkel jump" 0.14457831325301207
 "fstSecSkel ncd" 0.30788804071246817
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.282051282051285
 "fStat byteBag" 0.4661458333333333
@@ -12137,6 +13556,7 @@ edge [
 "fStat bz" 0.4819277108433735
 "fStat jump" 0.20481927710843373
 "fStat ncd" 0.2578616352201258
+"fStat0 ssdeep" 25
 "fStat0 ppdeep" 50
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.4661458333333333
@@ -12151,6 +13571,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "AddressResolver"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.648648648648646
 "raw byteBag" 0.657634682817979
@@ -12158,6 +13579,7 @@ edge [
 "raw bz" 0.8113207547169812
 "raw jump" 0.018867924528301883
 "raw ncd" 0.6222518321119254
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 65.0
 "skeletons byteBag" 0.8709068010075567
@@ -12165,6 +13587,7 @@ edge [
 "skeletons bz" 0.8490566037735849
 "skeletons jump" 0.6603773584905661
 "skeletons ncd" 0.7675606641123882
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 64.6341463414634
 "fstSecSkel byteBag" 0.8709068010075567
@@ -12172,6 +13595,7 @@ edge [
 "fstSecSkel bz" 0.8679245283018868
 "fstSecSkel jump" 0.6603773584905661
 "fstSecSkel ncd" 0.7650834403080873
+"fStat ssdeep" 62
 "fStat ppdeep" 62
 "fStat ppdeep_mod" 62.0
 "fStat byteBag" 0.9707112970711297
@@ -12179,6 +13603,7 @@ edge [
 "fStat bz" 0.9056603773584906
 "fStat jump" 0.8301886792452831
 "fStat ncd" 0.821917808219178
+"fStat0 ssdeep" 69
 "fStat0 ppdeep" 85
 "fStat0 ppdeep_mod" 84.12698412698413
 "fStat0 byteBag" 0.9707112970711297
@@ -12193,6 +13618,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs999999"
 "group1" "BinaryOptionMarketManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 32.911392405063296
 "raw byteBag" 0.25335024978193643
@@ -12200,6 +13626,7 @@ edge [
 "raw bz" 0.40886699507389157
 "raw jump" 0.039408866995073843
 "raw ncd" 0.04728739002932551
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.12765957446808
 "skeletons byteBag" 0.2746867843190085
@@ -12207,6 +13634,7 @@ edge [
 "skeletons bz" 0.4040404040404041
 "skeletons jump" 0.15656565656565657
 "skeletons ncd" 0.11946712505371723
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.083333333333336
 "fstSecSkel byteBag" 0.2746867843190085
@@ -12214,6 +13642,7 @@ edge [
 "fstSecSkel bz" 0.40909090909090906
 "fstSecSkel jump" 0.15656565656565657
 "fstSecSkel ncd" 0.11838140335772708
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.2255758538522637
@@ -12221,6 +13650,7 @@ edge [
 "fStat bz" 0.41414141414141414
 "fStat jump" 0.23232323232323238
 "fStat ncd" 0.11835748792270531
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.2255758538522637
@@ -12235,6 +13665,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "BinaryOptionMarketManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.86206896551724
 "raw byteBag" 0.5887471950084834
@@ -12242,6 +13673,7 @@ edge [
 "raw bz" 0.48897058823529416
 "raw jump" 0.05514705882352944
 "raw ncd" 0.13444960212201593
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 50.0
 "skeletons byteBag" 0.699910510092473
@@ -12249,6 +13681,7 @@ edge [
 "skeletons bz" 0.5132075471698113
 "skeletons jump" 0.23018867924528297
 "skeletons ncd" 0.25980392156862747
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 50.0
 "fstSecSkel byteBag" 0.699910510092473
@@ -12256,6 +13689,7 @@ edge [
 "fstSecSkel bz" 0.5094339622641509
 "fstSecSkel jump" 0.23018867924528297
 "fstSecSkel ncd" 0.2581833060556465
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.25373134328358
 "fStat byteBag" 0.6625698324022347
@@ -12263,6 +13697,7 @@ edge [
 "fStat bz" 0.5886792452830188
 "fStat jump" 0.24905660377358485
 "fStat ncd" 0.20704845814977973
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6625698324022347
@@ -12277,6 +13712,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.73684210526316
 "raw byteBag" 0.6484195228291146
@@ -12284,6 +13720,7 @@ edge [
 "raw bz" 0.5084175084175084
 "raw jump" 0.04040404040404044
 "raw ncd" 0.10520527859237537
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 40.42553191489362
 "skeletons byteBag" 0.6613126557740238
@@ -12291,6 +13728,7 @@ edge [
 "skeletons bz" 0.43103448275862066
 "skeletons jump" 0.16896551724137931
 "skeletons ncd" 0.22265321955003878
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 40.625
 "fstSecSkel byteBag" 0.6613126557740238
@@ -12298,6 +13736,7 @@ edge [
 "fstSecSkel bz" 0.4172413793103448
 "fstSecSkel jump" 0.16896551724137931
 "fstSecSkel ncd" 0.2225242718446602
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 43.66197183098591
 "fStat byteBag" 0.6199686356508103
@@ -12305,6 +13744,7 @@ edge [
 "fStat bz" 0.5551724137931034
 "fStat jump" 0.19655172413793098
 "fStat ncd" 0.18673647469458987
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6199686356508103
@@ -12319,6 +13759,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "BinaryOptionMarketManager"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.30204970948999355
@@ -12326,6 +13767,7 @@ edge [
 "raw bz" 0.22660098522167482
 "raw jump" 0.049261083743842415
 "raw ncd" 0.07844574780058651
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 55.319148936170215
 "skeletons byteBag" 0.26789338384521716
@@ -12333,6 +13775,7 @@ edge [
 "skeletons bz" 0.2272727272727273
 "skeletons jump" 0.1767676767676768
 "skeletons ncd" 0.11431027073485174
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 56.25
 "fstSecSkel byteBag" 0.26789338384521716
@@ -12340,6 +13783,7 @@ edge [
 "fstSecSkel bz" 0.23232323232323238
 "fstSecSkel jump" 0.1767676767676768
 "fstSecSkel ncd" 0.113646147223418
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.230327868852459
@@ -12347,6 +13791,7 @@ edge [
 "fStat bz" 0.09595959595959591
 "fStat jump" 0.24242424242424243
 "fStat ncd" 0.07729468599033816
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.230327868852459
@@ -12361,6 +13806,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.27536231884058
 "raw byteBag" 0.691890893417893
@@ -12368,6 +13814,7 @@ edge [
 "raw bz" 0.5259259259259259
 "raw jump" 0.051851851851851816
 "raw ncd" 0.17141920681743691
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 50.0
 "skeletons byteBag" 0.6934942991281019
@@ -12375,6 +13822,7 @@ edge [
 "skeletons bz" 0.5440613026819923
 "skeletons jump" 0.23371647509578541
 "skeletons ncd" 0.3174989849776695
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 51.041666666666664
 "fstSecSkel byteBag" 0.6934942991281019
@@ -12382,6 +13830,7 @@ edge [
 "fstSecSkel bz" 0.5478927203065134
 "fstSecSkel jump" 0.23371647509578541
 "fstSecSkel ncd" 0.31679544530296866
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.79365079365079
 "fStat byteBag" 0.6509330406147091
@@ -12389,6 +13838,7 @@ edge [
 "fStat bz" 0.6283524904214559
 "fStat jump" 0.2567049808429118
 "fStat ncd" 0.22291666666666668
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6509330406147091
@@ -12403,6 +13853,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.857142857142854
 "raw byteBag" 0.742083897158322
@@ -12410,6 +13861,7 @@ edge [
 "raw bz" 0.5918367346938775
 "raw jump" 0.05782312925170063
 "raw ncd" 0.2551002306191236
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 47.87234042553192
 "skeletons byteBag" 0.7712828143267084
@@ -12417,6 +13869,7 @@ edge [
 "skeletons bz" 0.5916955017301038
 "skeletons jump" 0.23529411764705888
 "skeletons ncd" 0.4170796797560046
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.958333333333336
 "fstSecSkel byteBag" 0.7712828143267084
@@ -12424,6 +13877,7 @@ edge [
 "fstSecSkel bz" 0.5951557093425606
 "fstSecSkel jump" 0.23529411764705888
 "fstSecSkel ncd" 0.4161893852615502
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.7485750474984167
@@ -12431,6 +13885,7 @@ edge [
 "fStat bz" 0.6332179930795847
 "fStat jump" 0.2768166089965398
 "fStat ncd" 0.2689243027888446
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 47.61904761904762
 "fStat0 byteBag" 0.7485750474984167
@@ -12445,6 +13900,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "BinaryOptionMarketManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.5625
 "raw byteBag" 0.8930336362187151
@@ -12452,6 +13908,7 @@ edge [
 "raw bz" 0.8523809523809524
 "raw jump" 0.01904761904761909
 "raw ncd" 0.6770527859237536
+"skeletons ssdeep" 77
 "skeletons ppdeep" 91
 "skeletons ppdeep_mod" 92.85714285714286
 "skeletons byteBag" 0.977162815690489
@@ -12459,6 +13916,7 @@ edge [
 "skeletons bz" 0.9365853658536585
 "skeletons jump" 0.8341463414634146
 "skeletons ncd" 0.8938547486033519
+"fstSecSkel ssdeep" 77
 "fstSecSkel ppdeep" 90
 "fstSecSkel ppdeep_mod" 92.1875
 "fstSecSkel byteBag" 0.977162815690489
@@ -12466,6 +13924,7 @@ edge [
 "fstSecSkel bz" 0.9414634146341463
 "fstSecSkel jump" 0.8341463414634146
 "fstSecSkel ncd" 0.8936719758932415
+"fStat ssdeep" 72
 "fStat ppdeep" 86
 "fStat ppdeep_mod" 84.46601941747574
 "fStat byteBag" 0.9772727272727273
@@ -12473,6 +13932,7 @@ edge [
 "fStat bz" 0.9560975609756097
 "fStat jump" 0.9024390243902439
 "fStat ncd" 0.8722891566265061
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 82.35294117647058
 "fStat0 byteBag" 0.9772727272727273
@@ -12487,6 +13947,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.04545454545455
 "raw byteBag" 0.5057445770305639
@@ -12494,6 +13955,7 @@ edge [
 "raw bz" 0.25917431192660545
 "raw jump" 0.05275229357798161
 "raw ncd" 0.07446583456737889
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 46.808510638297875
 "skeletons byteBag" 0.47987920961071356
@@ -12501,6 +13963,7 @@ edge [
 "skeletons bz" 0.4644970414201184
 "skeletons jump" 0.1775147928994083
 "skeletons ncd" 0.1414771583819682
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.875
 "fstSecSkel byteBag" 0.47987920961071356
@@ -12508,6 +13971,7 @@ edge [
 "fstSecSkel bz" 0.4644970414201184
 "fstSecSkel jump" 0.1775147928994083
 "fstSecSkel ncd" 0.14038267875125882
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 44.87179487179487
 "fStat byteBag" 0.4876267748478702
@@ -12515,6 +13979,7 @@ edge [
 "fStat bz" 0.5473372781065089
 "fStat jump" 0.22189349112426038
 "fStat ncd" 0.1206896551724138
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.4876267748478702
@@ -12529,6 +13994,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.20687611144042678
@@ -12536,6 +14002,7 @@ edge [
 "raw bz" 0.26108374384236455
 "raw jump" 0.049261083743842415
 "raw ncd" 0.12298387096774194
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21160921106417768
@@ -12543,6 +14010,7 @@ edge [
 "skeletons bz" 0.24747474747474751
 "skeletons jump" 0.101010101010101
 "skeletons ncd" 0.2011173184357542
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21160921106417768
@@ -12550,6 +14018,7 @@ edge [
 "fstSecSkel bz" 0.24747474747474751
 "fstSecSkel jump" 0.101010101010101
 "fstSecSkel ncd" 0.2001721911321567
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1941908713692946
@@ -12557,6 +14026,7 @@ edge [
 "fStat bz" 0.2525252525252525
 "fStat jump" 0.15656565656565657
 "fStat ncd" 0.16183574879227053
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1941908713692946
@@ -12571,6 +14041,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 25.675675675675677
 "raw byteBag" 0.2812579040553073
@@ -12578,6 +14049,7 @@ edge [
 "raw bz" 0.3349753694581281
 "raw jump" 0.049261083743842415
 "raw ncd" 0.05333577712609971
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 59.57446808510638
 "skeletons byteBag" 0.29947247396185583
@@ -12585,6 +14057,7 @@ edge [
 "skeletons bz" 0.4040404040404041
 "skeletons jump" 0.1767676767676768
 "skeletons ncd" 0.1259131929522991
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 59.375
 "fstSecSkel byteBag" 0.29947247396185583
@@ -12592,6 +14065,7 @@ edge [
 "fstSecSkel bz" 0.40909090909090906
 "fstSecSkel jump" 0.1767676767676768
 "fstSecSkel ncd" 0.12569952647438656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.21604447974583002
@@ -12599,6 +14073,7 @@ edge [
 "fStat bz" 0.3787878787878788
 "fStat jump" 0.19191919191919193
 "fStat ncd" 0.11594202898550725
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.21604447974583002
@@ -12613,6 +14088,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "BinaryOptionMarketManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.19293500532743219
@@ -12620,6 +14096,7 @@ edge [
 "raw bz" 0.2512315270935961
 "raw jump" 0.044334975369458074
 "raw ncd" 0.09750733137829912
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 40.21739130434783
 "skeletons byteBag" 0.19298245614035087
@@ -12627,6 +14104,7 @@ edge [
 "skeletons bz" 0.2525252525252525
 "skeletons jump" 0.09595959595959591
 "skeletons ncd" 0.16501933820369574
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 40.42553191489362
 "fstSecSkel byteBag" 0.19298245614035087
@@ -12634,6 +14112,7 @@ edge [
 "fstSecSkel bz" 0.2525252525252525
 "fstSecSkel jump" 0.09595959595959591
 "fstSecSkel ncd" 0.16401205337925095
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1941908713692946
@@ -12641,6 +14120,7 @@ edge [
 "fStat bz" 0.26262626262626265
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.15942028985507245
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1941908713692946
@@ -12655,6 +14135,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs999999"
 "group1" "DSToken"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 37.03703703703704
 "raw byteBag" 0.22963735372494495
@@ -12662,6 +14143,7 @@ edge [
 "raw bz" 0.3125
 "raw jump" 0.044117647058823484
 "raw ncd" 0.06863395225464192
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20907518567504324
@@ -12669,6 +14151,7 @@ edge [
 "skeletons bz" 0.3056603773584906
 "skeletons jump" 0.1584905660377358
 "skeletons ncd" 0.1343954248366013
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20907518567504324
@@ -12676,6 +14159,7 @@ edge [
 "fstSecSkel bz" 0.30188679245283023
 "fstSecSkel jump" 0.1584905660377358
 "fstSecSkel ncd" 0.13338788870703763
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15245901639344261
@@ -12683,6 +14167,7 @@ edge [
 "fStat bz" 0.3207547169811321
 "fStat jump" 0.16981132075471694
 "fStat ncd" 0.10572687224669604
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15245901639344261
@@ -12697,6 +14182,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "DSToken"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1904615950468951
@@ -12704,6 +14190,7 @@ edge [
 "raw bz" 0.265993265993266
 "raw jump" 0.047138047138047146
 "raw ncd" 0.048994224258115913
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1855526706231454
@@ -12711,6 +14198,7 @@ edge [
 "skeletons bz" 0.24827586206896557
 "skeletons jump" 0.10689655172413792
 "skeletons ncd" 0.08805275407292475
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1855526706231454
@@ -12718,6 +14206,7 @@ edge [
 "fstSecSkel bz" 0.24137931034482762
 "fstSecSkel jump" 0.10689655172413792
 "fstSecSkel ncd" 0.08776699029126214
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15348837209302327
@@ -12725,6 +14214,7 @@ edge [
 "fStat bz" 0.2793103448275862
 "fStat jump" 0.15172413793103445
 "fStat ncd" 0.07678883071553229
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15348837209302327
@@ -12739,6 +14229,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "DSToken"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.1875
 "raw byteBag" 0.5428624328827995
@@ -12746,6 +14237,7 @@ edge [
 "raw bz" 0.4505494505494505
 "raw jump" 0.04395604395604391
 "raw ncd" 0.1346042749855575
+"skeletons ssdeep" 79
 "skeletons ppdeep" 83
 "skeletons ppdeep_mod" 82.25806451612902
 "skeletons byteBag" 0.6438735177865612
@@ -12753,6 +14245,7 @@ edge [
 "skeletons bz" 0.38888888888888884
 "skeletons jump" 0.3222222222222222
 "skeletons ncd" 0.2515188335358445
+"fstSecSkel ssdeep" 75
 "fstSecSkel ppdeep" 82
 "fstSecSkel ppdeep_mod" 81.25
 "fstSecSkel byteBag" 0.6438735177865612
@@ -12760,6 +14253,7 @@ edge [
 "fstSecSkel bz" 0.37777777777777777
 "fstSecSkel jump" 0.3222222222222222
 "fstSecSkel ncd" 0.25121951219512195
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.666666666666664
 "fStat byteBag" 0.48826291079812206
@@ -12767,6 +14261,7 @@ edge [
 "fStat bz" 0.21111111111111114
 "fStat jump" 0.4222222222222223
 "fStat ncd" 0.15822784810126583
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.42016806722689
 "fStat0 byteBag" 0.48826291079812206
@@ -12781,6 +14276,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "DSToken"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1960367150933074
@@ -12788,6 +14284,7 @@ edge [
 "raw bz" 0.3111111111111111
 "raw jump" 0.05555555555555558
 "raw ncd" 0.059488692232055065
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.19411708345309955
@@ -12795,6 +14292,7 @@ edge [
 "skeletons bz" 0.30268199233716475
 "skeletons jump" 0.16091954022988508
 "skeletons ncd" 0.11855460820138043
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.19411708345309955
@@ -12802,6 +14300,7 @@ edge [
 "fstSecSkel bz" 0.30268199233716475
 "fstSecSkel jump" 0.16091954022988508
 "fstSecSkel ncd" 0.11752745018300122
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1498388829215897
@@ -12809,6 +14308,7 @@ edge [
 "fStat bz" 0.32567049808429116
 "fStat jump" 0.1762452107279694
 "fStat ncd" 0.09375
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1498388829215897
@@ -12823,6 +14323,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "DSToken"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21618324749254542
@@ -12830,6 +14331,7 @@ edge [
 "raw bz" 0.2891156462585034
 "raw jump" 0.04761904761904767
 "raw ncd" 0.048075217314174204
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2157945016452606
@@ -12837,6 +14339,7 @@ edge [
 "skeletons bz" 0.28719723183391
 "skeletons jump" 0.10380622837370246
 "skeletons ncd" 0.09950438429279451
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2157945016452606
@@ -12844,6 +14347,7 @@ edge [
 "fstSecSkel bz" 0.28719723183391
 "fstSecSkel jump" 0.10380622837370246
 "fstSecSkel ncd" 0.09889270714012982
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1815346225826575
@@ -12851,6 +14355,7 @@ edge [
 "fStat bz" 0.3044982698961938
 "fStat jump" 0.16955017301038067
 "fStat ncd" 0.09362549800796813
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1815346225826575
@@ -12865,6 +14370,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "DSToken"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 30.232558139534888
 "raw byteBag" 0.2559458182390928
@@ -12872,6 +14378,7 @@ edge [
 "raw bz" 0.4285714285714286
 "raw jump" 0.042857142857142816
 "raw ncd" 0.05352843119096129
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 59.57446808510638
 "skeletons byteBag" 0.2732386820251808
@@ -12879,6 +14386,7 @@ edge [
 "skeletons bz" 0.42439024390243907
 "skeletons jump" 0.20487804878048776
 "skeletons ncd" 0.12143474503025065
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 59.375
 "fstSecSkel byteBag" 0.2732386820251808
@@ -12886,6 +14394,7 @@ edge [
 "fstSecSkel bz" 0.42439024390243907
 "fstSecSkel jump" 0.20487804878048776
 "fstSecSkel ncd" 0.12202509736045002
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.22101167315175096
@@ -12893,6 +14402,7 @@ edge [
 "fStat bz" 0.40975609756097564
 "fStat jump" 0.224390243902439
 "fStat ncd" 0.10602409638554217
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.22101167315175096
@@ -12907,6 +14417,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "DSToken"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14192111125671603
@@ -12914,6 +14425,7 @@ edge [
 "raw bz" 0.11009174311926606
 "raw jump" 0.06192660550458717
 "raw ncd" 0.03871377194838164
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.13668262609037843
@@ -12921,6 +14433,7 @@ edge [
 "skeletons bz" 0.242603550295858
 "skeletons jump" 0.10650887573964496
 "skeletons ncd" 0.05795934795733548
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.13668262609037843
@@ -12928,6 +14441,7 @@ edge [
 "fstSecSkel bz" 0.242603550295858
 "fstSecSkel jump" 0.10355029585798814
 "fstSecSkel ncd" 0.05820745216515609
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.13452188006482982
@@ -12935,6 +14449,7 @@ edge [
 "fStat bz" 0.2603550295857988
 "fStat jump" 0.17455621301775148
 "fStat ncd" 0.06357758620689655
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.13452188006482982
@@ -12949,6 +14464,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "DSToken"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 37.5
 "raw byteBag" 0.45598194130925507
@@ -12956,6 +14472,7 @@ edge [
 "raw bz" 0.4505494505494505
 "raw jump" 0.03296703296703296
 "raw ncd" 0.13575967648757944
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.38095238095238
 "skeletons byteBag" 0.5814353244520842
@@ -12963,6 +14480,7 @@ edge [
 "skeletons bz" 0.4111111111111111
 "skeletons jump" 0.1444444444444445
 "skeletons ncd" 0.26852976913730253
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.325581395348834
 "fstSecSkel byteBag" 0.5814353244520842
@@ -12970,6 +14488,7 @@ edge [
 "fstSecSkel bz" 0.43333333333333335
 "fstSecSkel jump" 0.1333333333333333
 "fstSecSkel ncd" 0.26707317073170733
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.35064935064935
 "fStat byteBag" 0.4481012658227848
@@ -12977,6 +14496,7 @@ edge [
 "fStat bz" 0.43333333333333335
 "fStat jump" 0.18888888888888888
 "fStat ncd" 0.27848101265822783
+"fStat0 ssdeep" 25
 "fStat0 ppdeep" 50
 "fStat0 ppdeep_mod" 50.42016806722689
 "fStat0 byteBag" 0.4481012658227848
@@ -12991,6 +14511,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "DSToken"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.282051282051285
 "raw byteBag" 0.6079582517938682
@@ -12998,6 +14519,7 @@ edge [
 "raw bz" 0.5164835164835164
 "raw jump" 0.0
 "raw ncd" 0.5060658578856152
+"skeletons ssdeep" 44
 "skeletons ppdeep" 54
 "skeletons ppdeep_mod" 87.09677419354838
 "skeletons byteBag" 0.8458630827383452
@@ -13005,6 +14527,7 @@ edge [
 "skeletons bz" 0.8
 "skeletons jump" 0.5666666666666667
 "skeletons ncd" 0.6901579586877278
+"fstSecSkel ssdeep" 43
 "fstSecSkel ppdeep" 54
 "fstSecSkel ppdeep_mod" 85.9375
 "fstSecSkel byteBag" 0.8458630827383452
@@ -13012,6 +14535,7 @@ edge [
 "fstSecSkel bz" 0.8333333333333334
 "fstSecSkel jump" 0.5666666666666667
 "fstSecSkel ncd" 0.6902439024390243
+"fStat ssdeep" 82
 "fStat ppdeep" 82
 "fStat ppdeep_mod" 82.0
 "fStat byteBag" 0.9644970414201184
@@ -13019,6 +14543,7 @@ edge [
 "fStat bz" 0.9111111111111111
 "fStat jump" 0.9
 "fStat ncd" 0.9245283018867925
+"fStat0 ssdeep" 74
 "fStat0 ppdeep" 88
 "fStat0 ppdeep_mod" 86.48648648648648
 "fStat0 byteBag" 0.9644970414201184
@@ -13033,6 +14558,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "DSToken"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 28.301886792452834
 "raw byteBag" 0.5792797006548176
@@ -13040,6 +14566,7 @@ edge [
 "raw bz" 0.4725274725274725
 "raw jump" 0.05494505494505497
 "raw ncd" 0.16175621028307338
+"skeletons ssdeep" 44
 "skeletons ppdeep" 69
 "skeletons ppdeep_mod" 68.33333333333333
 "skeletons byteBag" 0.5985630893578806
@@ -13047,6 +14574,7 @@ edge [
 "skeletons bz" 0.4555555555555556
 "skeletons jump" 0.18888888888888888
 "skeletons ncd" 0.3219927095990279
+"fstSecSkel ssdeep" 43
 "fstSecSkel ppdeep" 69
 "fstSecSkel ppdeep_mod" 67.74193548387098
 "fstSecSkel byteBag" 0.5985630893578806
@@ -13054,6 +14582,7 @@ edge [
 "fstSecSkel bz" 0.4666666666666667
 "fstSecSkel jump" 0.1777777777777778
 "fstSecSkel ncd" 0.3195121951219512
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 47.945205479452056
 "fStat byteBag" 0.4444444444444444
@@ -13061,6 +14590,7 @@ edge [
 "fStat bz" 0.4444444444444444
 "fStat jump" 0.21111111111111114
 "fStat ncd" 0.2911392405063291
+"fStat0 ssdeep" 25
 "fStat0 ppdeep" 52
 "fStat0 ppdeep_mod" 51.260504201680675
 "fStat0 byteBag" 0.4444444444444444
@@ -13075,6 +14605,7 @@ edge [
 "target" "UniswapV2Router02 - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "UniswapV2Router02"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.5945945945946
 "raw byteBag" 0.6286797724777966
@@ -13082,6 +14613,7 @@ edge [
 "raw bz" 0.3535353535353535
 "raw jump" 0.03703703703703709
 "raw ncd" 0.08521220159151194
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.38095238095238
 "skeletons byteBag" 0.780209241499564
@@ -13089,6 +14621,7 @@ edge [
 "skeletons bz" 0.3068965517241379
 "skeletons jump" 0.11379310344827587
 "skeletons ncd" 0.19705197827773469
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.34375
 "fstSecSkel byteBag" 0.780209241499564
@@ -13096,6 +14629,7 @@ edge [
 "fstSecSkel bz" 0.29655172413793107
 "fstSecSkel jump" 0.11379310344827587
 "fstSecSkel ncd" 0.19650485436893203
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.98039215686274
 "fStat byteBag" 0.7956883880450759
@@ -13103,6 +14637,7 @@ edge [
 "fStat bz" 0.5241379310344827
 "fStat jump" 0.16206896551724137
 "fStat ncd" 0.17801047120418848
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 47.5
 "fStat0 byteBag" 0.7956883880450759
@@ -13117,6 +14652,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "Synthetix"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.24494628624234724
@@ -13124,6 +14660,7 @@ edge [
 "raw bz" 0.2536764705882353
 "raw jump" 0.044117647058823484
 "raw ncd" 0.08239389920424403
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20435049019607843
@@ -13131,6 +14668,7 @@ edge [
 "skeletons bz" 0.24905660377358485
 "skeletons jump" 0.17358490566037732
 "skeletons ncd" 0.12254901960784313
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20435049019607843
@@ -13138,6 +14676,7 @@ edge [
 "fstSecSkel bz" 0.24905660377358485
 "fstSecSkel jump" 0.17358490566037732
 "fstSecSkel ncd" 0.12193126022913257
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15025041736227046
@@ -13145,6 +14684,7 @@ edge [
 "fStat bz" 0.1132075471698113
 "fStat jump" 0.1773584905660377
 "fStat ncd" 0.07048458149779736
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15025041736227046
@@ -13159,6 +14699,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.74626865671642
 "raw byteBag" 0.6959480358799877
@@ -13166,6 +14707,7 @@ edge [
 "raw bz" 0.8639705882352942
 "raw jump" 0.014705882352941124
 "raw ncd" 0.46755162241887904
+"skeletons ssdeep" 57
 "skeletons ppdeep" 77
 "skeletons ppdeep_mod" 76.98412698412699
 "skeletons byteBag" 0.8712290502793296
@@ -13173,6 +14715,7 @@ edge [
 "skeletons bz" 0.939622641509434
 "skeletons jump" 0.6415094339622642
 "skeletons ncd" 0.6423061307348762
+"fstSecSkel ssdeep" 57
 "fstSecSkel ppdeep" 77
 "fstSecSkel ppdeep_mod" 76.5625
 "fstSecSkel byteBag" 0.8712290502793296
@@ -13180,6 +14723,7 @@ edge [
 "fstSecSkel bz" 0.9358490566037736
 "fstSecSkel jump" 0.6415094339622642
 "fstSecSkel ncd" 0.6413176087840585
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 57.35294117647059
 "fStat byteBag" 0.9423913043478261
@@ -13187,6 +14731,7 @@ edge [
 "fStat bz" 0.939622641509434
 "fStat jump" 0.7849056603773585
 "fStat ncd" 0.60625
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.9423913043478261
@@ -13201,6 +14746,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.588235294117645
 "raw byteBag" 0.640421052631579
@@ -13208,6 +14754,7 @@ edge [
 "raw bz" 0.5510204081632653
 "raw jump" 0.030612244897959218
 "raw ncd" 0.14505968169761274
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.93650793650794
 "skeletons byteBag" 0.8068913290420295
@@ -13215,6 +14762,7 @@ edge [
 "skeletons bz" 0.5432525951557093
 "skeletons jump" 0.18685121107266434
 "skeletons ncd" 0.267251239039268
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.8125
 "fstSecSkel byteBag" 0.8068913290420295
@@ -13222,6 +14770,7 @@ edge [
 "fstSecSkel bz" 0.546712802768166
 "fstSecSkel jump" 0.18685121107266434
 "fstSecSkel ncd" 0.26575028636884307
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 52.83018867924528
 "fStat byteBag" 0.7649867374005305
@@ -13229,6 +14778,7 @@ edge [
 "fStat bz" 0.6262975778546713
 "fStat jump" 0.2837370242214533
 "fStat ncd" 0.23107569721115537
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7649867374005305
@@ -13243,6 +14793,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.61290322580645
 "raw byteBag" 0.5928575329001256
@@ -13250,6 +14801,7 @@ edge [
 "raw bz" 0.5367647058823529
 "raw jump" 0.044117647058823484
 "raw ncd" 0.14721485411140584
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 51.06382978723404
 "skeletons byteBag" 0.7073413686622173
@@ -13257,6 +14809,7 @@ edge [
 "skeletons bz" 0.5509433962264151
 "skeletons jump" 0.24905660377358485
 "skeletons ncd" 0.26348039215686275
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 51.041666666666664
 "fstSecSkel byteBag" 0.7073413686622173
@@ -13264,6 +14817,7 @@ edge [
 "fstSecSkel bz" 0.5433962264150943
 "fstSecSkel jump" 0.24905660377358485
 "fstSecSkel ncd" 0.2630932896890344
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.23076923076923
 "fStat byteBag" 0.6780324203465623
@@ -13271,6 +14825,7 @@ edge [
 "fStat bz" 0.6150943396226415
 "fStat jump" 0.26792452830188684
 "fStat ncd" 0.23348017621145375
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6780324203465623
@@ -13285,6 +14840,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 41.86046511627907
 "raw byteBag" 0.5357964964301042
@@ -13292,6 +14848,7 @@ edge [
 "raw bz" 0.2155963302752294
 "raw jump" 0.05275229357798161
 "raw ncd" 0.0712925745716099
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.142857142857146
 "skeletons byteBag" 0.5981691312976122
@@ -13299,6 +14856,7 @@ edge [
 "skeletons bz" 0.3698224852071006
 "skeletons jump" 0.14201183431952658
 "skeletons ncd" 0.11793117327430067
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.03125
 "fstSecSkel byteBag" 0.5981691312976122
@@ -13306,6 +14864,7 @@ edge [
 "fstSecSkel bz" 0.3698224852071006
 "fstSecSkel jump" 0.13905325443786987
 "fstSecSkel ncd" 0.1174219536757301
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.397590361445786
 "fStat byteBag" 0.6138009912314144
@@ -13313,6 +14872,7 @@ edge [
 "fStat bz" 0.5266272189349113
 "fStat jump" 0.2100591715976331
 "fStat ncd" 0.10883620689655173
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 43.421052631578945
 "fStat0 byteBag" 0.6138009912314144
@@ -13327,6 +14887,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1413320956138315
@@ -13334,6 +14895,7 @@ edge [
 "raw bz" 0.18382352941176472
 "raw jump" 0.03676470588235292
 "raw ncd" 0.07708885941644562
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.15578710797834303
@@ -13341,6 +14903,7 @@ edge [
 "skeletons bz" 0.1773584905660377
 "skeletons jump" 0.07547169811320753
 "skeletons ncd" 0.1315359477124183
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.15578710797834303
@@ -13348,6 +14911,7 @@ edge [
 "fstSecSkel bz" 0.18490566037735845
 "fstSecSkel jump" 0.07547169811320753
 "fstSecSkel ncd" 0.13011456628477905
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.132128740824393
@@ -13355,6 +14919,7 @@ edge [
 "fStat bz" 0.18867924528301883
 "fStat jump" 0.09811320754716979
 "fStat ncd" 0.13215859030837004
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.132128740824393
@@ -13369,6 +14934,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 28.94736842105263
 "raw byteBag" 0.19290632413354164
@@ -13376,6 +14942,7 @@ edge [
 "raw bz" 0.2647058823529411
 "raw jump" 0.0404411764705882
 "raw ncd" 0.05968169761273209
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.22109430514668563
@@ -13383,6 +14950,7 @@ edge [
 "skeletons bz" 0.2603773584905661
 "skeletons jump" 0.1283018867924528
 "skeletons ncd" 0.12091503267973856
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.22109430514668563
@@ -13390,6 +14958,7 @@ edge [
 "fstSecSkel bz" 0.2566037735849057
 "fstSecSkel jump" 0.1283018867924528
 "fstSecSkel ncd" 0.11988543371522095
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14590163934426228
@@ -13397,6 +14966,7 @@ edge [
 "fStat bz" 0.2943396226415095
 "fStat jump" 0.1433962264150943
 "fStat ncd" 0.1145374449339207
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14590163934426228
@@ -13411,6 +14981,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "Synthetix"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15965166908563136
@@ -13418,6 +14989,7 @@ edge [
 "raw bz" 0.1875
 "raw jump" 0.03676470588235292
 "raw ncd" 0.10344827586206896
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14680872861387154
@@ -13425,6 +14997,7 @@ edge [
 "skeletons bz" 0.1924528301886792
 "skeletons jump" 0.08679245283018866
 "skeletons ncd" 0.17197712418300654
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14680872861387154
@@ -13432,6 +15005,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.08679245283018866
 "fstSecSkel ncd" 0.17103109656301146
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.132128740824393
@@ -13439,6 +15013,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.1132075471698113
 "fStat ncd" 0.14096916299559473
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.132128740824393
@@ -13453,6 +15028,7 @@ edge [
 "target" "CollateralManagerState - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "CollateralManagerState"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21532307692307692
@@ -13460,6 +15036,7 @@ edge [
 "raw bz" 0.12794612794612792
 "raw jump" 0.043771043771043794
 "raw ncd" 0.03903604859589723
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.17744179575178554
@@ -13467,6 +15044,7 @@ edge [
 "skeletons bz" 0.096551724137931
 "skeletons jump" 0.07241379310344831
 "skeletons ncd" 0.07059736229635376
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.17744179575178554
@@ -13474,6 +15052,7 @@ edge [
 "fstSecSkel bz" 0.07241379310344831
 "fstSecSkel jump" 0.06896551724137934
 "fstSecSkel ncd" 0.07029126213592234
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14003123373243104
@@ -13481,6 +15060,7 @@ edge [
 "fStat bz" 0.12068965517241381
 "fStat jump" 0.11379310344827587
 "fStat ncd" 0.04712041884816754
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14003123373243104
@@ -13495,6 +15075,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.851851851851855
 "raw byteBag" 0.7641852019972765
@@ -13502,6 +15083,7 @@ edge [
 "raw bz" 0.39057239057239057
 "raw jump" 0.023569023569023573
 "raw ncd" 0.09816453621763356
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.17460317460318
 "skeletons byteBag" 0.8362920857017927
@@ -13509,6 +15091,7 @@ edge [
 "skeletons bz" 0.3275862068965517
 "skeletons jump" 0.12413793103448278
 "skeletons ncd" 0.23157486423584173
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.125
 "fstSecSkel byteBag" 0.8362920857017927
@@ -13516,6 +15099,7 @@ edge [
 "fstSecSkel bz" 0.32413793103448274
 "fstSecSkel jump" 0.12413793103448278
 "fstSecSkel ncd" 0.23145631067961164
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 44.44444444444444
 "fStat byteBag" 0.7588011417697431
@@ -13523,6 +15107,7 @@ edge [
 "fStat bz" 0.5655172413793104
 "fStat jump" 0.16896551724137931
 "fStat ncd" 0.193717277486911
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 46.91358024691358
 "fStat0 byteBag" 0.7588011417697431
@@ -13537,6 +15122,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.351351351351354
 "raw byteBag" 0.7618961896189619
@@ -13544,6 +15130,7 @@ edge [
 "raw bz" 0.4814814814814815
 "raw jump" 0.013468013468013518
 "raw ncd" 0.10750399148483236
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 52.38095238095238
 "skeletons byteBag" 0.8124036630700879
@@ -13551,6 +15138,7 @@ edge [
 "skeletons bz" 0.4482758620689655
 "skeletons jump" 0.10689655172413792
 "skeletons ncd" 0.23065192527640108
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.34375
 "fstSecSkel byteBag" 0.8124036630700879
@@ -13558,6 +15146,7 @@ edge [
 "fstSecSkel bz" 0.4517241379310345
 "fstSecSkel jump" 0.10689655172413792
 "fstSecSkel ncd" 0.22985872470408553
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.31506849315068
 "fStat byteBag" 0.7459514170040485
@@ -13565,6 +15154,7 @@ edge [
 "fStat bz" 0.6172413793103448
 "fStat jump" 0.13103448275862073
 "fStat ncd" 0.193717277486911
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7459514170040485
@@ -13579,6 +15169,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "UniswapV2Router02"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.36842105263158
 "raw byteBag" 0.6465491305132679
@@ -13586,6 +15177,7 @@ edge [
 "raw bz" 0.47811447811447816
 "raw jump" 0.0505050505050505
 "raw ncd" 0.10668642341174292
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 40.42553191489362
 "skeletons byteBag" 0.6655280649926145
@@ -13593,6 +15185,7 @@ edge [
 "skeletons bz" 0.4
 "skeletons jump" 0.1448275862068965
 "skeletons ncd" 0.22459270752521335
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 40.625
 "fstSecSkel byteBag" 0.6655280649926145
@@ -13600,6 +15193,7 @@ edge [
 "fstSecSkel bz" 0.39655172413793105
 "fstSecSkel jump" 0.1448275862068965
 "fstSecSkel ncd" 0.22368932038834952
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 44.927536231884055
 "fStat byteBag" 0.6335598536330371
@@ -13607,6 +15201,7 @@ edge [
 "fStat bz" 0.5482758620689655
 "fStat jump" 0.19655172413793098
 "fStat ncd" 0.18324607329842932
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6335598536330371
@@ -13621,6 +15216,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.6384417397373817
@@ -13628,6 +15224,7 @@ edge [
 "raw bz" 0.44266055045871555
 "raw jump" 0.04357798165137616
 "raw ncd" 0.08324518722233976
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.34920634920635
 "skeletons byteBag" 0.6681284664001031
@@ -13635,6 +15232,7 @@ edge [
 "skeletons bz" 0.6183431952662721
 "skeletons jump" 0.15384615384615385
 "skeletons ncd" 0.14992956329241297
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 56.25
 "fstSecSkel byteBag" 0.6681284664001031
@@ -13642,6 +15240,7 @@ edge [
 "fstSecSkel bz" 0.6153846153846154
 "fstSecSkel jump" 0.15384615384615385
 "fstSecSkel ncd" 0.14964753272910372
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 48.275862068965516
 "fStat byteBag" 0.6825028968713789
@@ -13649,6 +15248,7 @@ edge [
 "fStat bz" 0.6213017751479291
 "fStat jump" 0.18047337278106512
 "fStat ncd" 0.13793103448275862
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 46.875
 "fStat0 byteBag" 0.6825028968713789
@@ -13663,6 +15263,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1554032205910884
@@ -13670,6 +15271,7 @@ edge [
 "raw bz" 0.17508417508417506
 "raw jump" 0.04040404040404044
 "raw ncd" 0.06831308504282016
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14297744923739122
@@ -13677,6 +15279,7 @@ edge [
 "skeletons bz" 0.16551724137931034
 "skeletons jump" 0.06206896551724139
 "skeletons ncd" 0.13033359193173003
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14297744923739122
@@ -13684,6 +15287,7 @@ edge [
 "fstSecSkel bz" 0.16551724137931034
 "fstSecSkel jump" 0.06551724137931036
 "fstSecSkel ncd" 0.13009708737864079
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.12177121771217712
@@ -13691,6 +15295,7 @@ edge [
 "fStat bz" 0.16551724137931034
 "fStat jump" 0.09310344827586203
 "fStat ncd" 0.1082024432809773
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.12177121771217712
@@ -13705,6 +15310,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "UniswapV2Router02"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2117366658077815
@@ -13712,6 +15318,7 @@ edge [
 "raw bz" 0.24242424242424243
 "raw jump" 0.04040404040404044
 "raw ncd" 0.04959171479784903
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.2027906976744186
@@ -13719,6 +15326,7 @@ edge [
 "skeletons bz" 0.2689655172413793
 "skeletons jump" 0.15172413793103445
 "skeletons ncd" 0.09658650116369279
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.2027906976744186
@@ -13726,6 +15334,7 @@ edge [
 "fstSecSkel bz" 0.2689655172413793
 "fstSecSkel jump" 0.15172413793103445
 "fstSecSkel ncd" 0.09631067961165049
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14728682170542637
@@ -13733,6 +15342,7 @@ edge [
 "fStat bz" 0.26206896551724135
 "fStat jump" 0.16551724137931034
 "fStat ncd" 0.07329842931937172
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14728682170542637
@@ -13747,6 +15357,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "UniswapV2Router02"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1447202620967742
@@ -13754,6 +15365,7 @@ edge [
 "raw bz" 0.1717171717171717
 "raw jump" 0.03367003367003363
 "raw ncd" 0.05875323640709022
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.12995142002989538
@@ -13761,6 +15373,7 @@ edge [
 "skeletons bz" 0.16551724137931034
 "skeletons jump" 0.06551724137931036
 "skeletons ncd" 0.11442979053529868
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.12995142002989538
@@ -13768,6 +15381,7 @@ edge [
 "fstSecSkel bz" 0.16206896551724137
 "fstSecSkel jump" 0.06896551724137934
 "fstSecSkel ncd" 0.1137864077669903
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.12177121771217712
@@ -13775,6 +15389,7 @@ edge [
 "fStat bz" 0.16551724137931034
 "fStat jump" 0.10689655172413792
 "fStat ncd" 0.1099476439790576
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.12177121771217712
@@ -13789,6 +15404,7 @@ edge [
 "target" "Synthetix - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "Synthetix"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.231001169158821
@@ -13796,6 +15412,7 @@ edge [
 "raw bz" 0.25555555555555554
 "raw jump" 0.03703703703703709
 "raw ncd" 0.06948541461815798
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1872181172632185
@@ -13803,6 +15420,7 @@ edge [
 "skeletons bz" 0.25287356321839083
 "skeletons jump" 0.16091954022988508
 "skeletons ncd" 0.09906617945594803
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1872181172632185
@@ -13810,6 +15428,7 @@ edge [
 "fstSecSkel bz" 0.25287356321839083
 "fstSecSkel jump" 0.16091954022988508
 "fstSecSkel ncd" 0.09922732818218788
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14762165117550574
@@ -13817,6 +15436,7 @@ edge [
 "fStat bz" 0.11494252873563215
 "fStat jump" 0.1877394636015326
 "fStat ncd" 0.058333333333333334
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14762165117550574
@@ -13831,6 +15451,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.24117087747894594
@@ -13838,6 +15459,7 @@ edge [
 "raw bz" 0.23129251700680276
 "raw jump" 0.0374149659863946
 "raw ncd" 0.08444207912009935
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.20973065048440329
@@ -13845,6 +15467,7 @@ edge [
 "skeletons bz" 0.22145328719723179
 "skeletons jump" 0.11418685121107264
 "skeletons ncd" 0.10865421273351125
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.20973065048440329
@@ -13852,6 +15475,7 @@ edge [
 "fstSecSkel bz" 0.22145328719723179
 "fstSecSkel jump" 0.11418685121107264
 "fstSecSkel ncd" 0.10843833524245895
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1856594110115237
@@ -13859,6 +15483,7 @@ edge [
 "fStat bz" 0.11418685121107264
 "fStat jump" 0.16262975778546718
 "fStat ncd" 0.07171314741035857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1856594110115237
@@ -13873,6 +15498,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManagerState"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.3108641378754933
@@ -13880,6 +15506,7 @@ edge [
 "raw bz" 0.2761904761904762
 "raw jump" 0.05714285714285716
 "raw ncd" 0.08353398777551399
+"skeletons ssdeep" 69
 "skeletons ppdeep" 72
 "skeletons ppdeep_mod" 63.829787234042556
 "skeletons byteBag" 0.26784271478588745
@@ -13887,6 +15514,7 @@ edge [
 "skeletons bz" 0.2634146341463415
 "skeletons jump" 0.23414634146341462
 "skeletons ncd" 0.11538461538461539
+"fstSecSkel ssdeep" 71
 "fstSecSkel ppdeep" 74
 "fstSecSkel ppdeep_mod" 64.58333333333334
 "fstSecSkel byteBag" 0.26784271478588745
@@ -13894,6 +15522,7 @@ edge [
 "fstSecSkel bz" 0.25853658536585367
 "fstSecSkel jump" 0.23414634146341462
 "fstSecSkel ncd" 0.11466897446992644
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.22552166934189405
@@ -13901,6 +15530,7 @@ edge [
 "fStat bz" 0.10243902439024388
 "fStat jump" 0.23414634146341462
 "fStat ncd" 0.0819277108433735
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.22552166934189405
@@ -13915,6 +15545,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.16952372536891402
@@ -13922,6 +15553,7 @@ edge [
 "raw bz" 0.10550458715596334
 "raw jump" 0.03669724770642202
 "raw ncd" 0.028030463295959384
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.13093676200472318
@@ -13929,6 +15561,7 @@ edge [
 "skeletons bz" 0.13609467455621305
 "skeletons jump" 0.09171597633136097
 "skeletons ncd" 0.04427450191185349
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.13093676200472318
@@ -13936,6 +15569,7 @@ edge [
 "fstSecSkel bz" 0.13313609467455623
 "fstSecSkel jump" 0.09467455621301779
 "fstSecSkel ncd" 0.04451158106747231
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.12022745735174654
@@ -13943,6 +15577,7 @@ edge [
 "fStat bz" 0.15384615384615385
 "fStat jump" 0.13905325443786987
 "fStat ncd" 0.03879310344827586
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.12022745735174654
@@ -13957,6 +15592,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.21951219512195
 "raw byteBag" 0.4516059957173448
@@ -13964,6 +15600,7 @@ edge [
 "raw bz" 0.21739130434782605
 "raw jump" 0.01449275362318836
 "raw ncd" 0.21359807460890493
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 56.38297872340426
 "skeletons byteBag" 0.5761967501097935
@@ -13971,6 +15608,7 @@ edge [
 "skeletons bz" 0.21212121212121215
 "skeletons jump" 0.19696969696969702
 "skeletons ncd" 0.24358974358974358
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 56.25
 "fstSecSkel byteBag" 0.5761967501097935
@@ -13978,6 +15616,7 @@ edge [
 "fstSecSkel bz" 0.19696969696969702
 "fstSecSkel jump" 0.19696969696969702
 "fstSecSkel ncd" 0.24097938144329897
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.49295774647887325
@@ -13985,6 +15624,7 @@ edge [
 "fStat bz" 0.18181818181818177
 "fStat jump" 0.2272727272727273
 "fStat ncd" 0.22695035460992907
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 57.142857142857146
 "fStat0 byteBag" 0.49295774647887325
@@ -13999,6 +15639,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManagerState"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.45762711864407
 "raw byteBag" 0.48367268536304264
@@ -14006,6 +15647,7 @@ edge [
 "raw bz" 0.4666666666666667
 "raw jump" 0.033333333333333326
 "raw ncd" 0.11311672683513839
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 79.03225806451613
 "skeletons byteBag" 0.6365019011406844
@@ -14013,6 +15655,7 @@ edge [
 "skeletons bz" 0.2650602409638554
 "skeletons jump" 0.24096385542168675
 "skeletons ncd" 0.21926489226869456
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 78.125
 "fstSecSkel byteBag" 0.6365019011406844
@@ -14020,6 +15663,7 @@ edge [
 "fstSecSkel bz" 0.24096385542168675
 "fstSecSkel jump" 0.24096385542168675
 "fstSecSkel ncd" 0.21882951653944022
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 51.351351351351354
 "fStat byteBag" 0.48448687350835323
@@ -14027,6 +15671,7 @@ edge [
 "fStat bz" 0.22891566265060237
 "fStat jump" 0.37349397590361444
 "fStat ncd" 0.1509433962264151
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.847457627118644
 "fStat0 byteBag" 0.48448687350835323
@@ -14041,6 +15686,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManagerState"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.14414414414414
 "raw byteBag" 0.5459506657934948
@@ -14048,6 +15694,7 @@ edge [
 "raw bz" 0.30434782608695654
 "raw jump" 0.01449275362318836
 "raw ncd" 0.28760529482551145
+"skeletons ssdeep" 47
 "skeletons ppdeep" 65
 "skeletons ppdeep_mod" 63.333333333333336
 "skeletons byteBag" 0.575386012715713
@@ -14055,6 +15702,7 @@ edge [
 "skeletons bz" 0.2727272727272727
 "skeletons jump" 0.28787878787878785
 "skeletons ncd" 0.3384418901660281
+"fstSecSkel ssdeep" 47
 "fstSecSkel ppdeep" 65
 "fstSecSkel ppdeep_mod" 62.903225806451616
 "fstSecSkel byteBag" 0.575386012715713
@@ -14062,6 +15710,7 @@ edge [
 "fstSecSkel bz" 0.2727272727272727
 "fstSecSkel jump" 0.28787878787878785
 "fstSecSkel ncd" 0.337612323491656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.49295774647887325
@@ -14069,6 +15718,7 @@ edge [
 "fStat bz" 0.16666666666666663
 "fStat jump" 0.25757575757575757
 "fStat ncd" 0.2605633802816901
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 58.73015873015873
 "fStat0 byteBag" 0.49295774647887325
@@ -14083,6 +15733,7 @@ edge [
 "target" "CollateralManager - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "CollateralManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.282051282051285
 "raw byteBag" 0.7734267409137178
@@ -14090,6 +15741,7 @@ edge [
 "raw bz" 0.5476190476190477
 "raw jump" 0.023809523809523836
 "raw ncd" 0.19108489019993444
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 59.523809523809526
 "skeletons byteBag" 0.8459733433452225
@@ -14097,6 +15749,7 @@ edge [
 "skeletons bz" 0.57439446366782
 "skeletons jump" 0.23183391003460208
 "skeletons ncd" 0.34121235226839497
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 59.375
 "fstSecSkel byteBag" 0.8459733433452225
@@ -14104,6 +15757,7 @@ edge [
 "fstSecSkel bz" 0.5709342560553633
 "fstSecSkel jump" 0.23183391003460208
 "fstSecSkel ncd" 0.3413516609392898
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 53.84615384615385
 "fStat byteBag" 0.7595599790466213
@@ -14111,6 +15765,7 @@ edge [
 "fStat bz" 0.6643598615916955
 "fStat jump" 0.3044982698961938
 "fStat ncd" 0.27689243027888444
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.7595599790466213
@@ -14125,6 +15780,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "Synthetix"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.27536231884058
 "raw byteBag" 0.6848654913682669
@@ -14132,6 +15788,7 @@ edge [
 "raw bz" 0.5666666666666667
 "raw jump" 0.05555555555555558
 "raw ncd" 0.1873156342182891
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 50.0
 "skeletons byteBag" 0.6968971461405861
@@ -14139,6 +15796,7 @@ edge [
 "skeletons bz" 0.578544061302682
 "skeletons jump" 0.26053639846743293
 "skeletons ncd" 0.3329273244011368
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 50.0
 "fstSecSkel byteBag" 0.6968971461405861
@@ -14146,6 +15804,7 @@ edge [
 "fstSecSkel bz" 0.5747126436781609
 "fstSecSkel jump" 0.26053639846743293
 "fstSecSkel ncd" 0.33224888165921107
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 49.18032786885246
 "fStat byteBag" 0.6661175178473366
@@ -14153,6 +15812,7 @@ edge [
 "fStat bz" 0.6590038314176245
 "fStat jump" 0.27969348659003834
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.6661175178473366
@@ -14167,6 +15827,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.086021505376344
 "raw byteBag" 0.6418027092740535
@@ -14174,6 +15835,7 @@ edge [
 "raw bz" 0.24082568807339455
 "raw jump" 0.05504587155963303
 "raw ncd" 0.08197588322403215
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.142857142857146
 "skeletons byteBag" 0.6520501875565904
@@ -14181,6 +15843,7 @@ edge [
 "skeletons bz" 0.39644970414201186
 "skeletons jump" 0.15680473372781067
 "skeletons ncd" 0.13825719460656066
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.03125
 "fstSecSkel byteBag" 0.6520501875565904
@@ -14188,6 +15851,7 @@ edge [
 "fstSecSkel bz" 0.4023668639053254
 "fstSecSkel jump" 0.15384615384615385
 "fstSecSkel ncd" 0.13856998992950656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.63291139240506
 "fStat byteBag" 0.5890461997019374
@@ -14195,6 +15859,7 @@ edge [
 "fStat bz" 0.5473372781065089
 "fStat jump" 0.21301775147928992
 "fStat ncd" 0.11314655172413793
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 45.45454545454545
 "fStat0 byteBag" 0.5890461997019374
@@ -14209,6 +15874,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15603470273028833
@@ -14216,6 +15882,7 @@ edge [
 "raw bz" 0.18888888888888888
 "raw jump" 0.0444444444444444
 "raw ncd" 0.09882005899705015
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.15019342359767893
@@ -14223,6 +15890,7 @@ edge [
 "skeletons bz" 0.1800766283524904
 "skeletons jump" 0.06896551724137934
 "skeletons ncd" 0.16362159967519285
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.15019342359767893
@@ -14230,6 +15898,7 @@ edge [
 "fstSecSkel bz" 0.1877394636015326
 "fstSecSkel jump" 0.06896551724137934
 "fstSecSkel ncd" 0.16266775111834078
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.129783693843594
@@ -14237,6 +15906,7 @@ edge [
 "fStat bz" 0.1915708812260536
 "fStat jump" 0.10344827586206895
 "fStat ncd" 0.13125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.129783693843594
@@ -14251,6 +15921,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "Synthetix"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21353105906313646
@@ -14258,6 +15929,7 @@ edge [
 "raw bz" 0.2777777777777778
 "raw jump" 0.0444444444444444
 "raw ncd" 0.06751884627990823
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21219113546774349
@@ -14265,6 +15937,7 @@ edge [
 "skeletons bz" 0.27586206896551724
 "skeletons jump" 0.12643678160919536
 "skeletons ncd" 0.1364190012180268
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21219113546774349
@@ -14272,6 +15945,7 @@ edge [
 "fstSecSkel bz" 0.27586206896551724
 "fstSecSkel jump" 0.12643678160919536
 "fstSecSkel ncd" 0.13582757218381455
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.14339419978517723
@@ -14279,6 +15953,7 @@ edge [
 "fStat bz" 0.29885057471264365
 "fStat jump" 0.14559386973180077
 "fStat ncd" 0.11458333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.14339419978517723
@@ -14293,6 +15968,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "Synthetix"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1476175646216132
@@ -14300,6 +15976,7 @@ edge [
 "raw bz" 0.19259259259259254
 "raw jump" 0.040740740740740744
 "raw ncd" 0.08357915437561456
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.13628028182607857
@@ -14307,6 +15984,7 @@ edge [
 "skeletons bz" 0.1954022988505747
 "skeletons jump" 0.08812260536398464
 "skeletons ncd" 0.14413317092976047
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.13628028182607857
@@ -14314,6 +15992,7 @@ edge [
 "fstSecSkel bz" 0.2030651340996169
 "fstSecSkel jump" 0.08812260536398464
 "fstSecSkel ncd" 0.14314762098413988
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.129783693843594
@@ -14321,6 +16000,7 @@ edge [
 "fStat bz" 0.2030651340996169
 "fStat jump" 0.11111111111111116
 "fStat ncd" 0.13333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.129783693843594
@@ -14335,6 +16015,7 @@ edge [
 "target" "BinaryOptionMarketManager - v0.8.4 abi2 o1 runs200"
 "group1" "CollateralManager"
 "group2" "BinaryOptionMarketManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.57142857142857
 "raw byteBag" 0.7307306638144261
@@ -14342,6 +16023,7 @@ edge [
 "raw bz" 0.5816326530612245
 "raw jump" 0.05102040816326525
 "raw ncd" 0.24534326769558276
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 48.93617021276596
 "skeletons byteBag" 0.7735088091700276
@@ -14349,6 +16031,7 @@ edge [
 "skeletons bz" 0.5916955017301038
 "skeletons jump" 0.2179930795847751
 "skeletons ncd" 0.3953488372093023
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.958333333333336
 "fstSecSkel byteBag" 0.7735088091700276
@@ -14356,6 +16039,7 @@ edge [
 "fstSecSkel bz" 0.5882352941176471
 "fstSecSkel jump" 0.2179930795847751
 "fstSecSkel ncd" 0.3940435280641466
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 48.38709677419355
 "fStat byteBag" 0.7661596958174905
@@ -14363,6 +16047,7 @@ edge [
 "fStat bz" 0.6539792387543253
 "fStat jump" 0.301038062283737
 "fStat ncd" 0.28884462151394424
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 47.61904761904762
 "fStat0 byteBag" 0.7661596958174905
@@ -14377,6 +16062,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.808510638297875
 "raw byteBag" 0.5820071024595554
@@ -14384,6 +16070,7 @@ edge [
 "raw bz" 0.32568807339449546
 "raw jump" 0.05504587155963303
 "raw ncd" 0.06431140258091814
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 57.142857142857146
 "skeletons byteBag" 0.5997261524418074
@@ -14391,6 +16078,7 @@ edge [
 "skeletons bz" 0.5236686390532544
 "skeletons jump" 0.17455621301775148
 "skeletons ncd" 0.12457234856107868
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 57.03125
 "fstSecSkel byteBag" 0.5997261524418074
@@ -14398,6 +16086,7 @@ edge [
 "fstSecSkel bz" 0.5266272189349113
 "fstSecSkel jump" 0.17455621301775148
 "fstSecSkel ncd" 0.12467270896273917
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 47.5
 "fStat byteBag" 0.5837603468663776
@@ -14405,6 +16094,7 @@ edge [
 "fStat bz" 0.606508875739645
 "fStat jump" 0.21301775147928992
 "fStat ncd" 0.11961206896551724
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 49.23076923076923
 "fStat0 byteBag" 0.5837603468663776
@@ -14419,6 +16109,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.17463274811895377
@@ -14426,6 +16117,7 @@ edge [
 "raw bz" 0.1802721088435374
 "raw jump" 0.04761904761904767
 "raw ncd" 0.12613092070250134
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1665594855305466
@@ -14433,6 +16125,7 @@ edge [
 "skeletons bz" 0.17301038062283736
 "skeletons jump" 0.07958477508650519
 "skeletons ncd" 0.19824628288219595
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1665594855305466
@@ -14440,6 +16133,7 @@ edge [
 "fstSecSkel bz" 0.16955017301038067
 "fstSecSkel jump" 0.08304498269896199
 "fstSecSkel ncd" 0.1970217640320733
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15038560411311053
@@ -14447,6 +16141,7 @@ edge [
 "fStat bz" 0.17301038062283736
 "fStat jump" 0.10726643598615915
 "fStat ncd" 0.14342629482071714
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15038560411311053
@@ -14461,6 +16156,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "CollateralManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.24154969922658265
@@ -14468,6 +16164,7 @@ edge [
 "raw bz" 0.26530612244897955
 "raw jump" 0.05102040816326525
 "raw ncd" 0.049317012595352136
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.23709470989761092
@@ -14475,6 +16172,7 @@ edge [
 "skeletons bz" 0.2837370242214533
 "skeletons jump" 0.11418685121107264
 "skeletons ncd" 0.105604269919939
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.23709470989761092
@@ -14482,6 +16180,7 @@ edge [
 "fstSecSkel bz" 0.2837370242214533
 "fstSecSkel jump" 0.11418685121107264
 "fstSecSkel ncd" 0.10538373424971363
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.17404865876481598
@@ -14489,6 +16188,7 @@ edge [
 "fStat bz" 0.2802768166089965
 "fStat jump" 0.1418685121107266
 "fStat ncd" 0.09760956175298804
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.17404865876481598
@@ -14503,6 +16203,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "CollateralManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.16195712694877507
@@ -14510,6 +16211,7 @@ edge [
 "raw bz" 0.173469387755102
 "raw jump" 0.04761904761904767
 "raw ncd" 0.09632783395423097
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1497543259987182
@@ -14517,6 +16219,7 @@ edge [
 "skeletons bz" 0.17647058823529416
 "skeletons jump" 0.07612456747404839
 "skeletons ncd" 0.16050324056423942
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1497543259987182
@@ -14524,6 +16227,7 @@ edge [
 "fstSecSkel bz" 0.17647058823529416
 "fstSecSkel jump" 0.07958477508650519
 "fstSecSkel ncd" 0.15922107674684993
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.15038560411311053
@@ -14531,6 +16235,7 @@ edge [
 "fStat bz" 0.18339100346020765
 "fStat jump" 0.11072664359861595
 "fStat ncd" 0.14940239043824702
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.15038560411311053
@@ -14545,6 +16250,7 @@ edge [
 "target" "NonfungiblePositionManager - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "NonfungiblePositionManager"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 43.18181818181818
 "raw byteBag" 0.5076297049847406
@@ -14552,6 +16258,7 @@ edge [
 "raw bz" 0.25917431192660545
 "raw jump" 0.05504587155963303
 "raw ncd" 0.0710810239052253
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 47.87234042553192
 "skeletons byteBag" 0.4819893707761958
@@ -14559,6 +16266,7 @@ edge [
 "skeletons bz" 0.4319526627218935
 "skeletons jump" 0.15088757396449703
 "skeletons ncd" 0.13584222177500502
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 47.916666666666664
 "fstSecSkel byteBag" 0.4819893707761958
@@ -14566,6 +16274,7 @@ edge [
 "fstSecSkel bz" 0.4349112426035503
 "fstSecSkel jump" 0.15088757396449703
 "fstSecSkel ncd" 0.13595166163141995
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 43.421052631578945
 "fStat byteBag" 0.49453662484823957
@@ -14573,6 +16282,7 @@ edge [
 "fStat bz" 0.5473372781065089
 "fStat jump" 0.21597633136094674
 "fStat ncd" 0.11745689655172414
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.49453662484823957
@@ -14587,6 +16297,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2043172690763052
@@ -14594,6 +16305,7 @@ edge [
 "raw bz" 0.24761904761904763
 "raw jump" 0.04761904761904767
 "raw ncd" 0.1189109094276718
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21018418201516792
@@ -14601,6 +16313,7 @@ edge [
 "skeletons bz" 0.23902439024390243
 "skeletons jump" 0.08780487804878045
 "skeletons ncd" 0.19101123595505617
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21018418201516792
@@ -14608,6 +16321,7 @@ edge [
 "fstSecSkel bz" 0.24390243902439024
 "fstSecSkel jump" 0.08780487804878045
 "fstSecSkel ncd" 0.18996105581999134
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.190089358245329
@@ -14615,6 +16329,7 @@ edge [
 "fStat bz" 0.24390243902439024
 "fStat jump" 0.14634146341463417
 "fStat ncd" 0.1614457831325301
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.190089358245329
@@ -14629,6 +16344,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "BinaryOptionMarketManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 28.395061728395063
 "raw byteBag" 0.2776111944027986
@@ -14636,6 +16352,7 @@ edge [
 "raw bz" 0.3666666666666667
 "raw jump" 0.05238095238095242
 "raw ncd" 0.054454528616410446
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 59.57446808510638
 "skeletons byteBag" 0.2977006857603873
@@ -14643,6 +16360,7 @@ edge [
 "skeletons bz" 0.4
 "skeletons jump" 0.1609756097560976
 "skeletons ncd" 0.1274848746758859
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 59.375
 "fstSecSkel byteBag" 0.2977006857603873
@@ -14650,6 +16368,7 @@ edge [
 "fstSecSkel bz" 0.4
 "fstSecSkel jump" 0.1609756097560976
 "fstSecSkel ncd" 0.12678494158373
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.21167315175097276
@@ -14657,6 +16376,7 @@ edge [
 "fStat bz" 0.375609756097561
 "fStat jump" 0.18536585365853664
 "fStat ncd" 0.11566265060240964
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.21167315175097276
@@ -14671,6 +16391,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "BinaryOptionMarketManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.19546120058565153
@@ -14678,6 +16399,7 @@ edge [
 "raw bz" 0.2523809523809524
 "raw jump" 0.05238095238095242
 "raw ncd" 0.1018707167994073
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 44.56521739130435
 "skeletons byteBag" 0.1924793723792777
@@ -14685,6 +16407,7 @@ edge [
 "skeletons bz" 0.25365853658536586
 "skeletons jump" 0.12195121951219512
 "skeletons ncd" 0.17286084701815038
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 44.680851063829785
 "fstSecSkel byteBag" 0.1924793723792777
@@ -14692,6 +16415,7 @@ edge [
 "fstSecSkel bz" 0.25853658536585367
 "fstSecSkel jump" 0.12195121951219512
 "fstSecSkel ncd" 0.17178710514928602
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.190089358245329
@@ -14699,6 +16423,7 @@ edge [
 "fStat bz" 0.25853658536585367
 "fStat jump" 0.15609756097560978
 "fStat ncd" 0.1614457831325301
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.190089358245329
@@ -14713,6 +16438,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.11021808822865399
@@ -14720,6 +16446,7 @@ edge [
 "raw bz" 0.07110091743119262
 "raw jump" 0.032110091743119296
 "raw ncd" 0.037550243283266345
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1019723865877712
@@ -14727,6 +16454,7 @@ edge [
 "skeletons bz" 0.14792899408284022
 "skeletons jump" 0.062130177514792884
 "skeletons ncd" 0.06902797343529886
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1019723865877712
@@ -14734,6 +16462,7 @@ edge [
 "fstSecSkel bz" 0.14792899408284022
 "fstSecSkel jump" 0.062130177514792884
 "fstSecSkel ncd" 0.06868076535750252
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.0950446791226645
@@ -14741,6 +16470,7 @@ edge [
 "fStat bz" 0.1449704142011834
 "fStat jump" 0.07100591715976334
 "fStat ncd" 0.06788793103448276
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.0950446791226645
@@ -14755,6 +16485,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "NonfungiblePositionManager"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1525752719721934
@@ -14762,6 +16493,7 @@ edge [
 "raw bz" 0.17201834862385323
 "raw jump" 0.041284403669724745
 "raw ncd" 0.04252168394330442
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14882987115435184
@@ -14769,6 +16501,7 @@ edge [
 "skeletons bz" 0.242603550295858
 "skeletons jump" 0.11834319526627224
 "skeletons ncd" 0.06761923928355806
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14882987115435184
@@ -14776,6 +16509,7 @@ edge [
 "fstSecSkel bz" 0.242603550295858
 "fstSecSkel jump" 0.11834319526627224
 "fstSecSkel ncd" 0.06747230614300101
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.12965964343598055
@@ -14783,6 +16517,7 @@ edge [
 "fStat bz" 0.23964497041420119
 "fStat jump" 0.15088757396449703
 "fStat ncd" 0.05603448275862069
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.12965964343598055
@@ -14797,6 +16532,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "NonfungiblePositionManager"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.10538236077804423
@@ -14804,6 +16540,7 @@ edge [
 "raw bz" 0.059633027522935755
 "raw jump" 0.029816513761467878
 "raw ncd" 0.03247302729003596
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0927178409613238
@@ -14811,6 +16548,7 @@ edge [
 "skeletons bz" 0.15384615384615385
 "skeletons jump" 0.050295857988165715
 "skeletons ncd" 0.060173073052928155
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0927178409613238
@@ -14818,6 +16556,7 @@ edge [
 "fstSecSkel bz" 0.15384615384615385
 "fstSecSkel jump" 0.050295857988165715
 "fstSecSkel ncd" 0.05961732124874119
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.0950446791226645
@@ -14825,6 +16564,7 @@ edge [
 "fStat bz" 0.15384615384615385
 "fStat jump" 0.08284023668639051
 "fStat ncd" 0.06896551724137931
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.0950446791226645
@@ -14839,6 +16579,7 @@ edge [
 "target" "DSToken - v0.8.4 abi2 o1 runs0"
 "group1" "AddressResolver"
 "group2" "DSToken"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 39.21568627450981
 "raw byteBag" 0.5932896890343698
@@ -14846,6 +16587,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.06666666666666665
 "raw ncd" 0.15853658536585366
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 45.744680851063826
 "skeletons byteBag" 0.6091712242322255
@@ -14853,6 +16595,7 @@ edge [
 "skeletons bz" 0.4337349397590361
 "skeletons jump" 0.1325301204819277
 "skeletons ncd" 0.3041825095057034
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.875
 "fstSecSkel byteBag" 0.6091712242322255
@@ -14860,6 +16603,7 @@ edge [
 "fstSecSkel bz" 0.4337349397590361
 "fstSecSkel jump" 0.1325301204819277
 "fstSecSkel ncd" 0.30407124681933845
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 50.0
 "fStat byteBag" 0.4621409921671018
@@ -14867,6 +16611,7 @@ edge [
 "fStat bz" 0.4698795180722891
 "fStat jump" 0.20481927710843373
 "fStat ncd" 0.2641509433962264
+"fStat0 ssdeep" 25
 "fStat0 ppdeep" 50
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.4621409921671018
@@ -14881,6 +16626,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "AddressResolver"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.6308030112923463
@@ -14888,6 +16634,7 @@ edge [
 "raw bz" 0.7547169811320755
 "raw jump" 0.018867924528301883
 "raw ncd" 0.5762824783477681
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 63.75
 "skeletons byteBag" 0.8468190240889438
@@ -14895,6 +16642,7 @@ edge [
 "skeletons bz" 0.8113207547169812
 "skeletons jump" 0.5660377358490566
 "skeletons ncd" 0.719029374201788
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 63.41463414634146
 "fstSecSkel byteBag" 0.8468190240889438
@@ -14902,6 +16650,7 @@ edge [
 "fstSecSkel bz" 0.8113207547169812
 "fstSecSkel jump" 0.5660377358490566
 "fstSecSkel ncd" 0.7175866495507061
+"fStat ssdeep" 55
 "fStat ppdeep" 62
 "fStat ppdeep_mod" 62.0
 "fStat byteBag" 0.9663865546218487
@@ -14909,6 +16658,7 @@ edge [
 "fStat bz" 0.8679245283018868
 "fStat jump" 0.7735849056603774
 "fStat ncd" 0.795774647887324
+"fStat0 ssdeep" 61
 "fStat0 ppdeep" 80
 "fStat0 ppdeep_mod" 78.57142857142857
 "fStat0 byteBag" 0.9663865546218487
@@ -14923,6 +16673,7 @@ edge [
 "target" "AddressResolver - v0.8.4 abi2 o1 runs999999"
 "group1" "DSToken"
 "group2" "AddressResolver"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 35.41666666666667
 "raw byteBag" 0.46460071513706797
@@ -14930,6 +16681,7 @@ edge [
 "raw bz" 0.3222222222222222
 "raw jump" 0.033333333333333326
 "raw ncd" 0.15304878048780488
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 61.666666666666664
 "skeletons byteBag" 0.5341614906832298
@@ -14937,6 +16689,7 @@ edge [
 "skeletons bz" 0.40963855421686746
 "skeletons jump" 0.1325301204819277
 "skeletons ncd" 0.2915082382762991
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 61.29032258064516
 "fstSecSkel byteBag" 0.5341614906832298
@@ -14944,6 +16697,7 @@ edge [
 "fstSecSkel bz" 0.42168674698795183
 "fstSecSkel jump" 0.1325301204819277
 "fstSecSkel ncd" 0.2900763358778626
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 48.611111111111114
 "fStat byteBag" 0.4583333333333333
@@ -14951,6 +16705,7 @@ edge [
 "fStat bz" 0.49397590361445787
 "fStat jump" 0.22891566265060237
 "fStat ncd" 0.29559748427672955
+"fStat0 ssdeep" 24
 "fStat0 ppdeep" 52
 "fStat0 ppdeep_mod" 50.847457627118644
 "fStat0 byteBag" 0.4583333333333333

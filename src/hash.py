@@ -1,6 +1,7 @@
 from common import IdCodeZT, IdIntsT, IdStrT, IdSigsT, IdCodeT, IdCountsT, IdLzjdT, IdFloatT
 import hashes.ppdeep_mod as _ppdeep_mod
 import hashes.ppdeep as _ppdeep
+import ssdeep as _ssdeep
 import hashes.ncd, hashes.bz
 from hashes.jump import hash as _jumpHash
 from contract.fourbytes import signatures
@@ -12,6 +13,9 @@ def ppdeep_mod(codes: List[IdCodeT]) -> List[IdStrT]:
 
 def ppdeep(codes: List[IdCodeT]) -> List[IdStrT]:
   return [IdStrT(id, _ppdeep.hash(code)) for id, code in codes]
+
+def ssdeep(codes: List[IdCodeT]) -> List[IdStrT]:
+  return [IdStrT(id, _ssdeep.hash(code)) for id, code in codes]
 
 def fourbytes(codes: List[IdCodeT]) -> List[IdSigsT]:
   return [IdSigsT(id, signatures(code)) for id, code in codes]

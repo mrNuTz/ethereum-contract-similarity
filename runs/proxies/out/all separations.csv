@@ -1,3 +1,4 @@
+raw ssdeep,0.296875
 raw ppdeep,0.296875
 raw ppdeep_mod,0.359375
 raw byteBag,0.390625
@@ -5,6 +6,7 @@ raw lzjd,0.390625
 raw bz,0.3125
 raw jump,0.078125
 raw ncd,0.53125
+skeletons ssdeep,0.34375
 skeletons ppdeep,0.34375
 skeletons ppdeep_mod,0.296875
 skeletons byteBag,0.46875
@@ -12,6 +14,7 @@ skeletons lzjd,0.359375
 skeletons bz,0.390625
 skeletons jump,0.234375
 skeletons ncd,0.515625
+fstSecSkel ssdeep,0.34375
 fstSecSkel ppdeep,0.34375
 fstSecSkel ppdeep_mod,0.296875
 fstSecSkel byteBag,0.46875
@@ -19,6 +22,7 @@ fstSecSkel lzjd,0.3125
 fstSecSkel bz,0.34375
 fstSecSkel jump,0.265625
 fstSecSkel ncd,0.5
+fStat ssdeep,0.109375
 fStat ppdeep,0.125
 fStat ppdeep_mod,0.1875
 fStat byteBag,0.484375
@@ -26,6 +30,7 @@ fStat lzjd,0.203125
 fStat bz,0.296875
 fStat jump,0.421875
 fStat ncd,0.421875
+fStat0 ssdeep,0.25
 fStat0 ppdeep,0.25
 fStat0 ppdeep_mod,0.1875
 fStat0 byteBag,0.484375

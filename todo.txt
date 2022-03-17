@@ -50,6 +50,8 @@ DONE:
   windows new lines
   are internal functions ordered? how stable is the ordering? -> I think so.
   test f-stat ncd
+  test og ssdeep
+    ppdeep scoring is different than ssdeep
 FIRST:
 TODO:
   update ethutils
@@ -62,8 +64,6 @@ TODO:
 LATER:
   Cython language level
   numpy deprecated
-  test og ssdeep
-  ppdeep scoring is different than ssdeep
   datasets
     evaluate with a subset of candidates
       see if ppdeep is better than fourbyte

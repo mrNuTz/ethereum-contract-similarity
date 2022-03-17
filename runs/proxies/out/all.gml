@@ -231,6 +231,7 @@ edge [
 "target" 140800130
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.2537313432835821
@@ -238,6 +239,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.17647058823529413
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.6363636363636364
@@ -245,6 +247,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.631578947368421
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.6363636363636364
@@ -252,6 +255,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.631578947368421
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5
@@ -259,6 +263,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.36363636363636365
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.5
@@ -273,6 +278,7 @@ edge [
 "target" 23169444
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.23943661971830985
@@ -280,6 +286,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.16363636363636364
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.625
@@ -287,6 +294,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.6666666666666666
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.625
@@ -294,6 +302,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.6666666666666666
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.4444444444444444
@@ -301,6 +310,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.4444444444444444
@@ -315,6 +325,7 @@ edge [
 "target" 50920937
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.3870967741935484
@@ -322,6 +333,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.2830188679245283
+"skeletons ssdeep" 12
 "skeletons ppdeep" 12
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.85
@@ -329,6 +341,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.7948717948717948
+"fstSecSkel ssdeep" 12
 "fstSecSkel ppdeep" 12
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.85
@@ -336,6 +349,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.7948717948717948
+"fStat ssdeep" 0
 "fStat ppdeep" 100
 "fStat ppdeep_mod" 100.0
 "fStat byteBag" 0.7142857142857143
@@ -343,6 +357,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.36363636363636365
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.7142857142857143
@@ -357,6 +372,7 @@ edge [
 "target" 52706191
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.1702127659574468
@@ -364,6 +380,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.037037037037037035
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.21428571428571427
@@ -371,6 +388,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.25
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.21428571428571427
@@ -378,6 +396,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2571428571428571
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.36363636363636365
@@ -385,6 +404,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.36363636363636365
@@ -399,6 +419,7 @@ edge [
 "target" 200351047
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.03787878787878788
@@ -406,6 +427,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.0
 "raw ncd" 0.022670025188916875
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0299625468164794
@@ -413,6 +435,7 @@ edge [
 "skeletons bz" 0.04166666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.08085106382978724
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0299625468164794
@@ -420,6 +443,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08085106382978724
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.056818181818181816
@@ -427,6 +451,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.07692307692307693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 2.0
 "fStat0 byteBag" 0.056818181818181816
@@ -441,6 +466,7 @@ edge [
 "target" 201721732
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.03278688524590164
@@ -448,6 +474,7 @@ edge [
 "raw bz" 0.03703703703703709
 "raw jump" 0.0
 "raw ncd" 0.016701461377870562
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.027491408934707903
@@ -455,6 +482,7 @@ edge [
 "skeletons bz" 0.04166666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.084
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.027491408934707903
@@ -462,6 +490,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.0846774193548387
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.050505050505050504
@@ -469,6 +498,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.07407407407407407
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 2.0
 "fStat0 byteBag" 0.050505050505050504
@@ -483,6 +513,7 @@ edge [
 "target" 211666803
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.1388888888888889
@@ -490,6 +521,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.044444444444444446
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.21818181818181817
@@ -497,6 +529,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2676056338028169
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.21818181818181817
@@ -504,6 +537,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2753623188405797
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.36363636363636365
@@ -511,6 +545,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.36363636363636365
@@ -525,6 +560,7 @@ edge [
 "target" 212062586
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.15942028985507245
@@ -532,6 +568,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.038461538461538464
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.23076923076923078
@@ -539,6 +576,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2647058823529412
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.23076923076923078
@@ -546,6 +584,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2878787878787879
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4444444444444444
@@ -553,6 +592,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.0
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.4444444444444444
@@ -567,6 +607,7 @@ edge [
 "target" 252638781
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.14018691588785046
@@ -574,6 +615,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.08791208791208792
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.22413793103448276
@@ -581,6 +623,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2571428571428571
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.22413793103448276
@@ -588,6 +631,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2571428571428571
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.23529411764705882
@@ -595,6 +639,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.23529411764705882
@@ -609,6 +654,7 @@ edge [
 "target" 263273729
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.19444444444444445
@@ -616,6 +662,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.12727272727272726
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.4642857142857143
@@ -623,6 +670,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.46153846153846156
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.4642857142857143
@@ -630,6 +678,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.46153846153846156
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.36363636363636365
@@ -637,6 +686,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.36363636363636365
@@ -651,6 +701,7 @@ edge [
 "target" 285146357
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.22972972972972974
@@ -658,6 +709,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.0967741935483871
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.45161290322580644
@@ -665,6 +717,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.44680851063829785
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.45161290322580644
@@ -672,6 +725,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.44680851063829785
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.36363636363636365
@@ -679,6 +733,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.36363636363636365
@@ -693,6 +748,7 @@ edge [
 "target" 278050681
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.14102564102564102
@@ -700,6 +756,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.5
 "raw ncd" 0.07547169811320754
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.2222222222222222
@@ -707,6 +764,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3488372093023256
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.2222222222222222
@@ -714,6 +772,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3488372093023256
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.3333333333333333
@@ -721,6 +780,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.36363636363636365
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.3333333333333333
@@ -735,6 +795,7 @@ edge [
 "target" 281126761
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.14666666666666667
@@ -742,6 +803,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.08163265306122448
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.24242424242424243
@@ -749,6 +811,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.24242424242424243
@@ -756,6 +819,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.4444444444444444
@@ -763,6 +827,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.4444444444444444
@@ -777,6 +842,7 @@ edge [
 "target" 279554397
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.0631163708086785
@@ -784,6 +850,7 @@ edge [
 "raw bz" 0.09999999999999998
 "raw jump" 0.0
 "raw ncd" 0.02056555269922879
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.06153846153846154
@@ -791,6 +858,7 @@ edge [
 "skeletons bz" 0.09999999999999998
 "skeletons jump" 0.0
 "skeletons ncd" 0.08487084870848709
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.06153846153846154
@@ -798,6 +866,7 @@ edge [
 "fstSecSkel bz" 0.09999999999999998
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08550185873605948
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.08928571428571429
@@ -805,6 +874,7 @@ edge [
 "fStat bz" 0.09999999999999998
 "fStat jump" 0.0
 "fStat ncd" 0.06666666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.08928571428571429
@@ -819,6 +889,7 @@ edge [
 "target" 279982671
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.030541012216404886
@@ -826,6 +897,7 @@ edge [
 "raw bz" 0.040000000000000036
 "raw jump" 0.0
 "raw ncd" 0.01818181818181818
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.024844720496894408
@@ -833,6 +905,7 @@ edge [
 "skeletons bz" 0.04166666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.07782101167315175
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.024844720496894408
@@ -840,6 +913,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.08235294117647059
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.045871559633027525
@@ -847,6 +921,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.07017543859649122
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 2.0
 "fStat0 byteBag" 0.045871559633027525
@@ -861,6 +936,7 @@ edge [
 "target" 330058410
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.08
@@ -868,6 +944,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.03571428571428571
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.10457516339869281
@@ -875,6 +952,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.14285714285714285
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.10457516339869281
@@ -882,6 +960,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.18518518518518517
@@ -889,6 +968,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.18518518518518517
@@ -903,6 +983,7 @@ edge [
 "target" 335801898
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.16216216216216217
@@ -910,6 +991,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.08163265306122448
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.24242424242424243
@@ -917,6 +999,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3076923076923077
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.24242424242424243
@@ -924,6 +1007,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3076923076923077
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.25
@@ -931,6 +1015,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.25
@@ -945,6 +1030,7 @@ edge [
 "target" 418465659
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.15447154471544716
@@ -952,6 +1038,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.0891089108910891
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.325
@@ -959,6 +1046,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.3333333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.325
@@ -966,6 +1054,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.33962264150943394
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.3076923076923077
@@ -973,6 +1062,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.3076923076923077
@@ -987,6 +1077,7 @@ edge [
 "target" 361996893
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.10267857142857142
@@ -994,6 +1085,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.052884615384615384
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.14150943396226415
@@ -1001,6 +1093,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.16535433070866143
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.14150943396226415
@@ -1008,6 +1101,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1746031746031746
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.17857142857142858
@@ -1015,6 +1109,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.17857142857142858
@@ -1029,6 +1124,7 @@ edge [
 "target" 390726882
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.06811145510835913
@@ -1036,6 +1132,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.04090909090909091
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.10526315789473684
@@ -1043,6 +1140,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.1506849315068493
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.10526315789473684
@@ -1050,6 +1148,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14788732394366197
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.19230769230769232
@@ -1057,6 +1156,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.13333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.19230769230769232
@@ -1071,6 +1171,7 @@ edge [
 "target" 380260548
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.08333333333333333
@@ -1078,6 +1179,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.04
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.1038961038961039
@@ -1085,6 +1187,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.14189189189189189
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.1038961038961039
@@ -1092,6 +1195,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.18518518518518517
@@ -1099,6 +1203,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.18518518518518517
@@ -1113,6 +1218,7 @@ edge [
 "target" 368113519
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.1
@@ -1120,6 +1226,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.05025125628140704
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.15
@@ -1127,6 +1234,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.16101694915254236
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.15
@@ -1134,6 +1242,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1623931623931624
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.16666666666666666
@@ -1141,6 +1250,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.16666666666666666
@@ -1155,6 +1265,7 @@ edge [
 "target" 477996669
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.08333333333333333
@@ -1162,6 +1273,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.045
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.11450381679389313
@@ -1169,6 +1281,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.14728682170542637
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.11450381679389313
@@ -1176,6 +1289,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15079365079365079
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.18518518518518517
@@ -1183,6 +1297,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.18518518518518517
@@ -1197,6 +1312,7 @@ edge [
 "target" 649064345
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.10212765957446808
@@ -1204,6 +1320,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.05092592592592592
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.13157894736842105
@@ -1211,6 +1328,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.14925373134328357
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.13157894736842105
@@ -1218,6 +1336,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1450381679389313
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.15625
@@ -1225,6 +1344,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.15625
@@ -1239,6 +1359,7 @@ edge [
 "target" 646985657
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.1037344398340249
@@ -1246,6 +1367,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.05357142857142857
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.12295081967213115
@@ -1253,6 +1375,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.14893617021276595
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.12295081967213115
@@ -1260,6 +1383,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15217391304347827
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.16129032258064516
@@ -1267,6 +1391,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.16129032258064516
@@ -1281,6 +1406,7 @@ edge [
 "target" 641867691
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.0018666909488253506
@@ -1288,6 +1414,7 @@ edge [
 "raw bz" 0.0037735849056603765
 "raw jump" 0.0
 "raw ncd" 0.001859504132231405
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0014295925661186562
@@ -1295,6 +1422,7 @@ edge [
 "skeletons bz" 0.003816793893129722
 "skeletons jump" 0.003816793893129722
 "skeletons ncd" 0.010969723562966213
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0014295925661186562
@@ -1302,6 +1430,7 @@ edge [
 "fstSecSkel bz" 0.003816793893129722
 "fstSecSkel jump" 0.003816793893129722
 "fstSecSkel ncd" 0.010984182776801407
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.0028636884306987398
@@ -1309,6 +1438,7 @@ edge [
 "fStat bz" 0.003816793893129722
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.008
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.0028636884306987398
@@ -1323,6 +1453,7 @@ edge [
 "target" 537425789
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.10486891385767791
@@ -1330,6 +1461,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.04477611940298507
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.14953271028037382
@@ -1337,6 +1469,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.14814814814814814
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.14953271028037382
@@ -1344,6 +1477,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1450381679389313
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.25
@@ -1351,6 +1485,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.25
@@ -1365,6 +1500,7 @@ edge [
 "target" 833378376
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.025522041763341066
@@ -1372,6 +1508,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.0
 "raw ncd" 0.009259259259259259
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.018115942028985508
@@ -1379,6 +1516,7 @@ edge [
 "skeletons bz" 0.032258064516129004
 "skeletons jump" 0.0
 "skeletons ncd" 0.037848605577689244
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.018115942028985508
@@ -1386,6 +1524,7 @@ edge [
 "fstSecSkel bz" 0.032258064516129004
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.03807615230460922
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.04065040650406504
@@ -1393,6 +1532,7 @@ edge [
 "fStat bz" 0.032258064516129004
 "fStat jump" 0.0
 "fStat ncd" 0.05102040816326531
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 2.0
 "fStat0 byteBag" 0.04065040650406504
@@ -1407,6 +1547,7 @@ edge [
 "target" 1004645671
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.04573804573804574
@@ -1414,6 +1555,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.02313624678663239
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.333333333333329
 "skeletons byteBag" 0.05859375
@@ -1421,6 +1563,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.08482142857142858
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.114754098360649
 "fstSecSkel byteBag" 0.05859375
@@ -1428,6 +1571,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08597285067873303
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.125
@@ -1435,6 +1579,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.08695652173913043
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.125
@@ -1449,6 +1594,7 @@ edge [
 "target" 944652497
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.15555555555555556
@@ -1456,6 +1602,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.08955223880597014
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.22807017543859648
@@ -1463,6 +1610,7 @@ edge [
 "skeletons bz" 0.33333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.2571428571428571
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.22807017543859648
@@ -1470,6 +1618,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.26865671641791045
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.26666666666666666
@@ -1477,6 +1626,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.2222222222222222
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 7.0
 "fStat0 byteBag" 0.26666666666666666
@@ -1491,6 +1641,7 @@ edge [
 "target" 1185455645
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.005263850506645611
@@ -1498,6 +1649,7 @@ edge [
 "raw bz" 0.005235602094240788
 "raw jump" 0.005235602094240788
 "raw ncd" 0.0032102728731942215
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.002970113235567106
@@ -1505,6 +1657,7 @@ edge [
 "skeletons bz" 0.005291005291005346
 "skeletons jump" 0.0
 "skeletons ncd" 0.012455516014234875
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.002970113235567106
@@ -1512,6 +1665,7 @@ edge [
 "fstSecSkel bz" 0.005291005291005346
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.011869436201780416
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.0054525627044711015
@@ -1519,6 +1673,7 @@ edge [
 "fStat bz" 0.005291005291005346
 "fStat jump" 0.0
 "fStat ncd" 0.015197568389057751
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.0054525627044711015
@@ -1533,6 +1688,7 @@ edge [
 "target" 23169444
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.2857142857142857
@@ -1540,6 +1696,7 @@ edge [
 "raw bz" 0.6666666666666667
 "raw jump" 0.0
 "raw ncd" 0.21818181818181817
+"skeletons ssdeep" 13
 "skeletons ppdeep" 13
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.782608695652174
@@ -1547,6 +1704,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.7142857142857143
+"fstSecSkel ssdeep" 13
 "fstSecSkel ppdeep" 13
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.782608695652174
@@ -1554,6 +1712,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.7142857142857143
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.875
@@ -1561,6 +1720,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.875
@@ -1575,6 +1735,7 @@ edge [
 "target" 50920937
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.31343283582089554
@@ -1582,6 +1743,7 @@ edge [
 "raw bz" 0.6666666666666667
 "raw jump" 0.33333333333333337
 "raw ncd" 0.24528301886792453
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.7727272727272727
@@ -1589,6 +1751,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.5
 "skeletons ncd" 0.6923076923076923
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.7727272727272727
@@ -1596,6 +1759,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.5
 "fstSecSkel ncd" 0.6923076923076923
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.75
@@ -1603,6 +1767,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.36363636363636365
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.75
@@ -1617,6 +1782,7 @@ edge [
 "target" 52706191
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.2014388489208633
@@ -1624,6 +1790,7 @@ edge [
 "raw bz" 0.6666666666666667
 "raw jump" 0.0
 "raw ncd" 0.06666666666666667
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.32075471698113206
@@ -1631,6 +1798,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3055555555555556
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.32075471698113206
@@ -1638,6 +1806,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3142857142857143
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.7
@@ -1645,6 +1814,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.7
@@ -1659,6 +1829,7 @@ edge [
 "target" 200351047
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.041719342604298354
@@ -1666,6 +1837,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.04166666666666663
 "raw ncd" 0.030226700251889168
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.03564727954971857
@@ -1673,6 +1845,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.08936170212765958
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.03564727954971857
@@ -1680,6 +1853,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08936170212765958
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.07954545454545454
@@ -1687,6 +1861,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.09615384615384616
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.07954545454545454
@@ -1701,6 +1876,7 @@ edge [
 "target" 201721732
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.03951701427003293
@@ -1708,6 +1884,7 @@ edge [
 "raw bz" 0.11111111111111116
 "raw jump" 0.0
 "raw ncd" 0.022964509394572025
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.03270223752151463
@@ -1715,6 +1892,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.088
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.03270223752151463
@@ -1722,6 +1900,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08870967741935484
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.0707070707070707
@@ -1729,6 +1908,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.09259259259259259
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.0707070707070707
@@ -1743,6 +1923,7 @@ edge [
 "target" 211666803
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.18571428571428572
@@ -1750,6 +1931,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.06666666666666667
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.3269230769230769
@@ -1757,6 +1939,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.30985915492957744
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.3269230769230769
@@ -1764,6 +1947,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3333333333333333
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.7
@@ -1771,6 +1955,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.7
@@ -1785,6 +1970,7 @@ edge [
 "target" 212062586
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.16546762589928057
@@ -1792,6 +1978,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.046153846153846156
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.29411764705882354
@@ -1799,6 +1986,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2647058823529412
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.29411764705882354
@@ -1806,6 +1994,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2727272727272727
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5
@@ -1813,6 +2002,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.5
@@ -1827,6 +2017,7 @@ edge [
 "target" 252638781
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.21568627450980393
@@ -1834,6 +2025,7 @@ edge [
 "raw bz" 0.6666666666666667
 "raw jump" 0.0
 "raw ncd" 0.08791208791208792
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.32727272727272727
@@ -1841,6 +2033,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2857142857142857
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.32727272727272727
@@ -1848,6 +2041,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2857142857142857
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.4375
@@ -1855,6 +2049,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.4375
@@ -1869,6 +2064,7 @@ edge [
 "target" 263273729
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.2571428571428571
@@ -1876,6 +2072,7 @@ edge [
 "raw bz" 0.6666666666666667
 "raw jump" 0.0
 "raw ncd" 0.12727272727272726
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.5925925925925926
@@ -1883,6 +2080,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.48717948717948717
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.5925925925925926
@@ -1890,6 +2088,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.48717948717948717
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5454545454545454
@@ -1897,6 +2096,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.5454545454545454
@@ -1911,6 +2111,7 @@ edge [
 "target" 285146357
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.24
@@ -1918,6 +2119,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.0967741935483871
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.5666666666666667
@@ -1925,6 +2127,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.44680851063829785
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.5666666666666667
@@ -1932,6 +2135,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.44680851063829785
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5454545454545454
@@ -1939,6 +2143,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.5454545454545454
@@ -1953,6 +2158,7 @@ edge [
 "target" 278050681
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.1375
@@ -1960,6 +2166,7 @@ edge [
 "raw bz" 0.6666666666666667
 "raw jump" 0.0
 "raw ncd" 0.07547169811320754
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.2777777777777778
@@ -1967,6 +2174,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.37209302325581395
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.2777777777777778
@@ -1974,6 +2182,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.37209302325581395
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5555555555555556
@@ -1981,6 +2190,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.36363636363636365
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.5555555555555556
@@ -1995,6 +2205,7 @@ edge [
 "target" 281126761
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.15789473684210525
@@ -2002,6 +2213,7 @@ edge [
 "raw bz" 0.6666666666666667
 "raw jump" 0.0
 "raw ncd" 0.0784313725490196
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.30303030303030304
@@ -2009,6 +2221,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.35
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.30303030303030304
@@ -2016,6 +2229,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.35
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.6666666666666666
@@ -2023,6 +2237,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.6666666666666666
@@ -2037,6 +2252,7 @@ edge [
 "target" 279554397
 "group1" "multisig WalletSimple/BitGo"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.056640625
@@ -2044,6 +2260,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.02056555269922879
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.07335907335907337
@@ -2051,6 +2268,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.07380073800738007
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.07335907335907337
@@ -2058,6 +2276,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07063197026022305
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.125
@@ -2065,6 +2284,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.03333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.125
@@ -2079,6 +2299,7 @@ edge [
 "target" 279982671
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.02959094865100087
@@ -2086,6 +2307,7 @@ edge [
 "raw bz" 0.07999999999999996
 "raw jump" 0.0
 "raw ncd" 0.024242424242424242
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.029548989113530325
@@ -2093,6 +2315,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.08949416342412451
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.029548989113530325
@@ -2100,6 +2323,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.09411764705882353
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.06422018348623854
@@ -2107,6 +2331,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.08771929824561403
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.06422018348623854
@@ -2121,6 +2346,7 @@ edge [
 "target" 330058410
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 20.0
 "raw byteBag" 0.09287925696594428
@@ -2128,6 +2354,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.1428571428571429
 "raw ncd" 0.04017857142857143
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.125
@@ -2135,6 +2362,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.1564625850340136
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.125
@@ -2142,6 +2370,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15862068965517243
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.25925925925925924
@@ -2149,6 +2378,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.25925925925925924
@@ -2163,6 +2393,7 @@ edge [
 "target" 335801898
 "group1" "multisig WalletSimple/BitGo"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.1282051282051282
@@ -2170,6 +2401,7 @@ edge [
 "raw bz" 0.6666666666666667
 "raw jump" 0.0
 "raw ncd" 0.0784313725490196
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.30303030303030304
@@ -2177,6 +2409,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3333333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.30303030303030304
@@ -2184,6 +2417,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3333333333333333
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.375
@@ -2191,6 +2425,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.375
@@ -2205,6 +2440,7 @@ edge [
 "target" 418465659
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.18032786885245902
@@ -2212,6 +2448,7 @@ edge [
 "raw bz" 0.6666666666666667
 "raw jump" 0.0
 "raw ncd" 0.09900990099009901
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.4864864864864865
@@ -2219,6 +2456,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3684210526315789
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.4864864864864865
@@ -2226,6 +2464,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.39622641509433965
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5833333333333334
@@ -2233,6 +2472,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.5833333333333334
@@ -2247,6 +2487,7 @@ edge [
 "target" 361996893
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 20.0
 "raw byteBag" 0.136986301369863
@@ -2254,6 +2495,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.04807692307692308
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.18269230769230768
@@ -2261,6 +2503,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.18110236220472442
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.18269230769230768
@@ -2268,6 +2511,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.19047619047619047
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.25
@@ -2275,6 +2519,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.25
@@ -2289,6 +2534,7 @@ edge [
 "target" 390726882
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 20.0
 "raw byteBag" 0.0946372239747634
@@ -2296,6 +2542,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.04090909090909091
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.12582781456953643
@@ -2303,6 +2550,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.15753424657534246
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.12582781456953643
@@ -2310,6 +2558,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15492957746478872
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.2692307692307692
@@ -2317,6 +2566,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.13333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.2692307692307692
@@ -2331,6 +2581,7 @@ edge [
 "target" 380260548
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 20.0
 "raw byteBag" 0.08950617283950617
@@ -2338,6 +2589,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.1428571428571429
 "raw ncd" 0.04
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.12418300653594772
@@ -2345,6 +2597,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.1554054054054054
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.12418300653594772
@@ -2352,6 +2605,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15862068965517243
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.25925925925925924
@@ -2359,6 +2613,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.25925925925925924
@@ -2373,6 +2628,7 @@ edge [
 "target" 368113519
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 20.0
 "raw byteBag" 0.14553990610328638
@@ -2380,6 +2636,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.05025125628140704
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.19387755102040816
@@ -2387,6 +2644,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.17796610169491525
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.19387755102040816
@@ -2394,6 +2652,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1794871794871795
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.23333333333333334
@@ -2401,6 +2660,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.23333333333333334
@@ -2415,6 +2675,7 @@ edge [
 "target" 477996669
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 20.0
 "raw byteBag" 0.10661764705882353
@@ -2422,6 +2683,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.045
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.14728682170542637
@@ -2429,6 +2691,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.17054263565891473
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.14728682170542637
@@ -2436,6 +2699,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1746031746031746
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.25925925925925924
@@ -2443,6 +2707,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.25925925925925924
@@ -2457,6 +2722,7 @@ edge [
 "target" 649064345
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 20.0
 "raw byteBag" 0.12987012987012986
@@ -2464,6 +2730,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.05092592592592592
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.16964285714285715
@@ -2471,6 +2738,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.15671641791044777
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.16964285714285715
@@ -2478,6 +2746,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16030534351145037
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.21875
@@ -2485,6 +2754,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.21875
@@ -2499,6 +2769,7 @@ edge [
 "target" 646985657
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 20.0
 "raw byteBag" 0.11666666666666667
@@ -2506,6 +2777,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.049107142857142856
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.15833333333333333
@@ -2513,6 +2785,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.16312056737588654
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.15833333333333333
@@ -2520,6 +2793,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16666666666666666
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.22580645161290322
@@ -2527,6 +2801,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.22580645161290322
@@ -2541,6 +2816,7 @@ edge [
 "target" 641867691
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.001957749043890002
@@ -2548,6 +2824,7 @@ edge [
 "raw bz" 0.01132075471698113
 "raw jump" 0.007547169811320753
 "raw ncd" 0.001859504132231405
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.001697792869269949
@@ -2555,6 +2832,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.0
 "skeletons ncd" 0.009653356735410267
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.001697792869269949
@@ -2562,6 +2840,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.00922671353251318
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.004009163802978236
@@ -2569,6 +2848,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.01
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.004009163802978236
@@ -2583,6 +2863,7 @@ edge [
 "target" 537425789
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 20.0
 "raw byteBag" 0.10820895522388059
@@ -2590,6 +2871,7 @@ edge [
 "raw bz" 0.4285714285714286
 "raw jump" 0.0
 "raw ncd" 0.04975124378109453
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.1792452830188679
@@ -2597,6 +2879,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.17777777777777778
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.1792452830188679
@@ -2604,6 +2887,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.17557251908396945
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.35
@@ -2611,6 +2895,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.35
@@ -2625,6 +2910,7 @@ edge [
 "target" 833378376
 "group1" "multisig WalletSimple/BitGo"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.030256012412723042
@@ -2632,6 +2918,7 @@ edge [
 "raw bz" 0.06451612903225812
 "raw jump" 0.032258064516129004
 "raw ncd" 0.009259259259259259
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.02176541717049577
@@ -2639,6 +2926,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.0
 "skeletons ncd" 0.037848605577689244
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.02176541717049577
@@ -2646,6 +2934,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.03807615230460922
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.056910569105691054
@@ -2653,6 +2942,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.07142857142857142
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.056910569105691054
@@ -2667,6 +2957,7 @@ edge [
 "target" 1004645671
 "group1" "multisig WalletSimple/BitGo"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.06991525423728813
@@ -2674,6 +2965,7 @@ edge [
 "raw bz" 0.16666666666666663
 "raw jump" 0.08333333333333337
 "raw ncd" 0.02313624678663239
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.07058823529411765
@@ -2681,6 +2973,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.08035714285714286
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.07058823529411765
@@ -2688,6 +2981,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08144796380090498
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.175
@@ -2695,6 +2989,7 @@ edge [
 "fStat bz" 0.16666666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.10869565217391304
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.175
@@ -2709,6 +3004,7 @@ edge [
 "target" 944652497
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.234375
@@ -2716,6 +3012,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.09701492537313433
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.3333333333333333
@@ -2723,6 +3020,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2714285714285714
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.3333333333333333
@@ -2730,6 +3028,7 @@ edge [
 "fstSecSkel bz" 0.6666666666666667
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2835820895522388
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5
@@ -2737,6 +3036,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.2222222222222222
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 6.0
 "fStat0 byteBag" 0.5
@@ -2751,6 +3051,7 @@ edge [
 "target" 1185455645
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.005659384048433799
@@ -2758,6 +3059,7 @@ edge [
 "raw bz" 0.015706806282722474
 "raw jump" 0.005235602094240788
 "raw ncd" 0.003531300160513644
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.003527664314890457
@@ -2765,6 +3067,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.005291005291005346
 "skeletons ncd" 0.012455516014234875
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.003527664314890457
@@ -2772,6 +3075,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.005291005291005346
 "fstSecSkel ncd" 0.011869436201780416
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.007633587786259542
@@ -2779,6 +3083,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.005291005291005346
 "fStat ncd" 0.02127659574468085
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.007633587786259542
@@ -2793,6 +3098,7 @@ edge [
 "target" 50920937
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.3142857142857143
@@ -2800,6 +3106,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.18181818181818182
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.75
@@ -2807,6 +3114,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.6904761904761905
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.75
@@ -2814,6 +3122,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.6904761904761905
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.6666666666666666
@@ -2821,6 +3130,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.6666666666666666
@@ -2835,6 +3145,7 @@ edge [
 "target" 52706191
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.1875
@@ -2842,6 +3153,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.044444444444444446
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.32727272727272727
@@ -2849,6 +3161,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2916666666666667
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.32727272727272727
@@ -2856,6 +3169,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.6363636363636364
@@ -2863,6 +3177,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.6363636363636364
@@ -2877,6 +3192,7 @@ edge [
 "target" 200351047
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.045454545454545456
@@ -2884,6 +3200,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.0
 "raw ncd" 0.022670025188916875
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.03932584269662921
@@ -2891,6 +3208,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.0851063829787234
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.03932584269662921
@@ -2898,6 +3216,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.0851063829787234
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.09090909090909091
@@ -2905,6 +3224,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.11538461538461539
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 2.0
 "fStat0 byteBag" 0.09090909090909091
@@ -2919,6 +3239,7 @@ edge [
 "target" 201721732
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.043907793633369926
@@ -2926,6 +3247,7 @@ edge [
 "raw bz" 0.07407407407407407
 "raw jump" 0.0
 "raw ncd" 0.018789144050104383
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0378657487091222
@@ -2933,6 +3255,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.096
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0378657487091222
@@ -2940,6 +3263,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.0967741935483871
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.08080808080808081
@@ -2947,6 +3271,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.12962962962962962
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 2.0
 "fStat0 byteBag" 0.08080808080808081
@@ -2961,6 +3286,7 @@ edge [
 "target" 211666803
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.18055555555555555
@@ -2968,6 +3294,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.044444444444444446
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.3090909090909091
@@ -2975,6 +3302,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.29577464788732394
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.3090909090909091
@@ -2982,6 +3310,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.30434782608695654
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.6363636363636364
@@ -2989,6 +3318,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.6363636363636364
@@ -3003,6 +3333,7 @@ edge [
 "target" 212062586
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.16083916083916083
@@ -3010,6 +3341,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.038461538461538464
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.2777777777777778
@@ -3017,6 +3349,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.27941176470588236
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.2777777777777778
@@ -3024,6 +3357,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.30303030303030304
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.45454545454545453
@@ -3031,6 +3365,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.45454545454545453
@@ -3045,6 +3380,7 @@ edge [
 "target" 252638781
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.20754716981132076
@@ -3052,6 +3388,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.08791208791208792
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.3103448275862069
@@ -3059,6 +3396,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2714285714285714
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.3103448275862069
@@ -3066,6 +3404,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2714285714285714
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.4117647058823529
@@ -3073,6 +3412,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.4117647058823529
@@ -3087,6 +3427,7 @@ edge [
 "target" 263273729
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.22666666666666666
@@ -3094,6 +3435,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.10909090909090909
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 17.0
 "skeletons byteBag" 0.5862068965517241
@@ -3101,6 +3443,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.4523809523809524
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 17.0
 "fstSecSkel byteBag" 0.5862068965517241
@@ -3108,6 +3451,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.4523809523809524
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5
@@ -3115,6 +3459,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.5
@@ -3129,6 +3474,7 @@ edge [
 "target" 285146357
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.27631578947368424
@@ -3136,6 +3482,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.0967741935483871
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.5625
@@ -3143,6 +3490,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.46808510638297873
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.5625
@@ -3150,6 +3498,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.46808510638297873
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5
@@ -3157,6 +3506,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.5
@@ -3171,6 +3521,7 @@ edge [
 "target" 278050681
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.13095238095238096
@@ -3178,6 +3529,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.07272727272727272
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.2894736842105263
@@ -3185,6 +3537,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.37209302325581395
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.2894736842105263
@@ -3192,6 +3545,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.37209302325581395
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5
@@ -3199,6 +3553,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.5
@@ -3213,6 +3568,7 @@ edge [
 "target" 281126761
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.16455696202531644
@@ -3220,6 +3576,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.07272727272727272
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.3142857142857143
@@ -3227,6 +3584,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.3333333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.3142857142857143
@@ -3234,6 +3592,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3333333333333333
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.6
@@ -3241,6 +3600,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.6
@@ -3255,6 +3615,7 @@ edge [
 "target" 279554397
 "group1" "multisig WalletSimple/BitGo"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.064453125
@@ -3262,6 +3623,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.02056555269922879
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.08076923076923077
@@ -3269,6 +3631,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.08487084870848709
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.08076923076923077
@@ -3276,6 +3639,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08550185873605948
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.14285714285714285
@@ -3283,6 +3647,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.05
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.14285714285714285
@@ -3297,6 +3662,7 @@ edge [
 "target" 279982671
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.03217391304347826
@@ -3304,6 +3670,7 @@ edge [
 "raw bz" 0.07999999999999996
 "raw jump" 0.0
 "raw ncd" 0.01818181818181818
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.03421461897356143
@@ -3311,6 +3678,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.08560311284046693
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.03421461897356143
@@ -3318,6 +3686,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08627450980392157
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.07339449541284404
@@ -3325,6 +3694,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.10526315789473684
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 2.0
 "fStat0 byteBag" 0.07339449541284404
@@ -3339,6 +3709,7 @@ edge [
 "target" 330058410
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 20.3125
 "raw byteBag" 0.08841463414634146
@@ -3346,6 +3717,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.04017857142857143
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.13725490196078433
@@ -3353,6 +3725,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14285714285714285
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.13725490196078433
@@ -3360,6 +3733,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.2962962962962963
@@ -3367,6 +3741,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.2962962962962963
@@ -3381,6 +3756,7 @@ edge [
 "target" 335801898
 "group1" "multisig WalletSimple/BitGo"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.19480519480519481
@@ -3388,6 +3764,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.07272727272727272
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.3142857142857143
@@ -3395,6 +3772,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3333333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.3142857142857143
@@ -3402,6 +3780,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3333333333333333
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.35294117647058826
@@ -3409,6 +3788,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.35294117647058826
@@ -3423,6 +3803,7 @@ edge [
 "target" 418465659
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.1746031746031746
@@ -3430,6 +3811,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.09900990099009901
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.48717948717948717
@@ -3437,6 +3819,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3508771929824561
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.48717948717948717
@@ -3444,6 +3827,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.37735849056603776
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5384615384615384
@@ -3451,6 +3835,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.5384615384615384
@@ -3465,6 +3850,7 @@ edge [
 "target" 361996893
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.11946902654867257
@@ -3472,6 +3858,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.04326923076923077
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.18867924528301888
@@ -3479,6 +3866,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.18110236220472442
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.18867924528301888
@@ -3486,6 +3874,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.19047619047619047
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.2857142857142857
@@ -3493,6 +3882,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.2857142857142857
@@ -3507,6 +3897,7 @@ edge [
 "target" 390726882
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.096875
@@ -3514,6 +3905,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.04090909090909091
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.1456953642384106
@@ -3521,6 +3913,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14383561643835616
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.1456953642384106
@@ -3528,6 +3921,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14788732394366197
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.3076923076923077
@@ -3535,6 +3929,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.13333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.3076923076923077
@@ -3549,6 +3944,7 @@ edge [
 "target" 380260548
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.311475409836063
 "raw byteBag" 0.09174311926605505
@@ -3556,6 +3952,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.04
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.1437908496732026
@@ -3563,6 +3960,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14189189189189189
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.1437908496732026
@@ -3570,6 +3968,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.2962962962962963
@@ -3577,6 +3976,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.2962962962962963
@@ -3591,6 +3991,7 @@ edge [
 "target" 368113519
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.12217194570135746
@@ -3598,6 +3999,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.04522613065326633
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.2
@@ -3605,6 +4007,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.17796610169491525
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.2
@@ -3612,6 +4015,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1794871794871795
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.26666666666666666
@@ -3619,6 +4023,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.26666666666666666
@@ -3633,6 +4038,7 @@ edge [
 "target" 477996669
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.11721611721611722
@@ -3640,6 +4046,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.05
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.16153846153846155
@@ -3647,6 +4054,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.17054263565891473
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.16153846153846155
@@ -3654,6 +4062,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16666666666666666
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.2962962962962963
@@ -3661,6 +4070,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.06451612903225806
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.2962962962962963
@@ -3675,6 +4085,7 @@ edge [
 "target" 649064345
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.1228813559322034
@@ -3682,6 +4093,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.046296296296296294
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.18584070796460178
@@ -3689,6 +4101,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.16417910447761194
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.18584070796460178
@@ -3696,6 +4109,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16793893129770993
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.25
@@ -3703,6 +4117,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.25
@@ -3717,6 +4132,7 @@ edge [
 "target" 646985657
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.12863070539419086
@@ -3724,6 +4140,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.049107142857142856
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.17355371900826447
@@ -3731,6 +4148,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.16312056737588654
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.17355371900826447
@@ -3738,6 +4156,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16666666666666666
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.25806451612903225
@@ -3745,6 +4164,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.25806451612903225
@@ -3759,6 +4179,7 @@ edge [
 "target" 641867691
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.0021398652340193043
@@ -3766,6 +4187,7 @@ edge [
 "raw bz" 0.007547169811320753
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.0022727272727272726
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0019658654275757307
@@ -3773,6 +4195,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.0
 "skeletons ncd" 0.011408512505484861
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0019658654275757307
@@ -3780,6 +4203,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.003816793893129722
 "fstSecSkel ncd" 0.010984182776801407
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.004581901489117984
@@ -3787,6 +4211,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.01
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.004581901489117984
@@ -3801,6 +4226,7 @@ edge [
 "target" 537425789
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.11895910780669144
@@ -3808,6 +4234,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.04477611940298507
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.20754716981132076
@@ -3815,6 +4242,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.15555555555555556
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.20754716981132076
@@ -3822,6 +4250,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15267175572519084
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.4
@@ -3829,6 +4258,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.4
@@ -3843,6 +4273,7 @@ edge [
 "target" 833378376
 "group1" "multisig WalletSimple/BitGo"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.02936630602782071
@@ -3850,6 +4281,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.0
 "raw ncd" 0.010416666666666666
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.02539298669891173
@@ -3857,6 +4289,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.032258064516129004
 "skeletons ncd" 0.0398406374501992
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.02539298669891173
@@ -3864,6 +4297,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.032258064516129004
 "fstSecSkel ncd" 0.04008016032064128
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.06504065040650407
@@ -3871,6 +4305,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.08163265306122448
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 2.0
 "fStat0 byteBag" 0.06504065040650407
@@ -3885,6 +4320,7 @@ edge [
 "target" 1004645671
 "group1" "multisig WalletSimple/BitGo"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.07610993657505286
@@ -3892,6 +4328,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.017994858611825194
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.08235294117647059
@@ -3899,6 +4336,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.08928571428571429
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.08235294117647059
@@ -3906,6 +4344,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09049773755656108
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.2
@@ -3913,6 +4352,7 @@ edge [
 "fStat bz" 0.16666666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.10869565217391304
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.2
@@ -3927,6 +4367,7 @@ edge [
 "target" 944652497
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.2
@@ -3934,6 +4375,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.08208955223880597
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.3392857142857143
@@ -3941,6 +4383,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2714285714285714
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.3392857142857143
@@ -3948,6 +4391,7 @@ edge [
 "fstSecSkel bz" 0.6666666666666667
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.29850746268656714
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.4666666666666667
@@ -3955,6 +4399,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2222222222222222
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 5.0
 "fStat0 byteBag" 0.4666666666666667
@@ -3969,6 +4414,7 @@ edge [
 "target" 1185455645
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.0059210526315789476
@@ -3976,6 +4422,7 @@ edge [
 "raw bz" 0.010471204188481686
 "raw jump" 0.005235602094240788
 "raw ncd" 0.003531300160513644
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.004084663943557371
@@ -3983,6 +4430,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.005291005291005346
 "skeletons ncd" 0.012455516014234875
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.004084663943557371
@@ -3990,6 +4438,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.005291005291005346
 "fstSecSkel ncd" 0.012462908011869436
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.008724100327153763
@@ -3997,6 +4446,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.010582010582010581
 "fStat ncd" 0.02735562310030395
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.008724100327153763
@@ -4011,6 +4461,7 @@ edge [
 "target" 52706191
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.18181818181818182
@@ -4018,6 +4469,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.044444444444444446
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.26785714285714285
@@ -4025,6 +4477,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2777777777777778
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.26785714285714285
@@ -4032,6 +4485,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.5454545454545454
@@ -4039,6 +4493,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.5454545454545454
@@ -4053,6 +4508,7 @@ edge [
 "target" 200351047
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.0416141235813367
@@ -4060,6 +4516,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.0
 "raw ncd" 0.030226700251889168
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.035580524344569285
@@ -4067,6 +4524,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.0851063829787234
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.035580524344569285
@@ -4074,6 +4532,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.0851063829787234
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.07954545454545454
@@ -4081,6 +4540,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.07692307692307693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 4.0
 "fStat0 byteBag" 0.07954545454545454
@@ -4095,6 +4555,7 @@ edge [
 "target" 201721732
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.038293216630196934
@@ -4102,6 +4563,7 @@ edge [
 "raw bz" 0.07407407407407407
 "raw jump" 0.0
 "raw ncd" 0.016701461377870562
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.03264604810996564
@@ -4109,6 +4571,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.084
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.03264604810996564
@@ -4116,6 +4579,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.0846774193548387
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.0707070707070707
@@ -4123,6 +4587,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.07407407407407407
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 4.0
 "fStat0 byteBag" 0.0707070707070707
@@ -4137,6 +4602,7 @@ edge [
 "target" 211666803
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.2
@@ -4144,6 +4610,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.05185185185185185
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.2727272727272727
@@ -4151,6 +4618,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.29577464788732394
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.2727272727272727
@@ -4158,6 +4626,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.30434782608695654
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.5454545454545454
@@ -4165,6 +4634,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.5454545454545454
@@ -4179,6 +4649,7 @@ edge [
 "target" 212062586
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.17985611510791366
@@ -4186,6 +4657,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.038461538461538464
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.24074074074074073
@@ -4193,6 +4665,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.25
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.24074074074074073
@@ -4200,6 +4673,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2727272727272727
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.36363636363636365
@@ -4207,6 +4681,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.36363636363636365
@@ -4221,6 +4696,7 @@ edge [
 "target" 252638781
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.2
@@ -4228,6 +4704,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.08791208791208792
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.27586206896551724
@@ -4235,6 +4712,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2571428571428571
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.27586206896551724
@@ -4242,6 +4720,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2571428571428571
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.35294117647058826
@@ -4249,6 +4728,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.35294117647058826
@@ -4263,6 +4743,7 @@ edge [
 "target" 263273729
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.2328767123287671
@@ -4270,6 +4751,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.10909090909090909
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.5172413793103449
@@ -4277,6 +4759,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.46153846153846156
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.5172413793103449
@@ -4284,6 +4767,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.46153846153846156
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4166666666666667
@@ -4291,6 +4775,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.4166666666666667
@@ -4305,6 +4790,7 @@ edge [
 "target" 285146357
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.25
@@ -4312,6 +4798,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.08064516129032258
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.5
@@ -4319,6 +4806,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.425531914893617
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.5
@@ -4326,6 +4814,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.425531914893617
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4166666666666667
@@ -4333,6 +4822,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.4166666666666667
@@ -4347,6 +4837,7 @@ edge [
 "target" 278050681
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.14814814814814814
@@ -4354,6 +4845,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.07547169811320754
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.23684210526315788
@@ -4361,6 +4853,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.32558139534883723
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.23684210526315788
@@ -4368,6 +4861,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.32558139534883723
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4
@@ -4375,6 +4869,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.36363636363636365
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.4
@@ -4389,6 +4884,7 @@ edge [
 "target" 281126761
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.15384615384615385
@@ -4396,6 +4892,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.07547169811320754
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.2571428571428571
@@ -4403,6 +4900,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.325
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.2571428571428571
@@ -4410,6 +4908,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.325
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5
@@ -4417,6 +4916,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.5
@@ -4431,6 +4931,7 @@ edge [
 "target" 279554397
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.06262230919765166
@@ -4438,6 +4939,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.02056555269922879
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.07307692307692308
@@ -4445,6 +4947,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.08118081180811808
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.07307692307692308
@@ -4452,6 +4955,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07806691449814127
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.125
@@ -4459,6 +4963,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.03333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.125
@@ -4473,6 +4978,7 @@ edge [
 "target" 279982671
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.034031413612565446
@@ -4480,6 +4986,7 @@ edge [
 "raw bz" 0.07999999999999996
 "raw jump" 0.0
 "raw ncd" 0.01818181818181818
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.029503105590062112
@@ -4487,6 +4994,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.07782101167315175
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.029503105590062112
@@ -4494,6 +5002,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08235294117647059
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.06422018348623854
@@ -4501,6 +5010,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.07017543859649122
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 4.0
 "fStat0 byteBag" 0.06422018348623854
@@ -4515,6 +5025,7 @@ edge [
 "target" 330058410
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.875
 "raw byteBag" 0.0856269113149847
@@ -4522,6 +5033,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.04017857142857143
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.12418300653594772
@@ -4529,6 +5041,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14285714285714285
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.12418300653594772
@@ -4536,6 +5049,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.25925925925925924
@@ -4543,6 +5057,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.25925925925925924
@@ -4557,6 +5072,7 @@ edge [
 "target" 335801898
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.13924050632911392
@@ -4564,6 +5080,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.07547169811320754
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.2571428571428571
@@ -4571,6 +5088,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3333333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.2571428571428571
@@ -4578,6 +5096,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3333333333333333
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.29411764705882354
@@ -4585,6 +5104,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.29411764705882354
@@ -4599,6 +5119,7 @@ edge [
 "target" 418465659
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.168
@@ -4606,6 +5127,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.09900990099009901
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.4
@@ -4613,6 +5135,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3333333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.4
@@ -4620,6 +5143,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.33962264150943394
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.46153846153846156
@@ -4627,6 +5151,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.46153846153846156
@@ -4641,6 +5166,7 @@ edge [
 "target" 361996893
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.12556053811659193
@@ -4648,6 +5174,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.052884615384615384
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.16981132075471697
@@ -4655,6 +5182,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.1732283464566929
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.16981132075471697
@@ -4662,6 +5190,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.18253968253968253
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.25
@@ -4669,6 +5198,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.25
@@ -4683,6 +5213,7 @@ edge [
 "target" 390726882
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.08722741433021806
@@ -4690,6 +5221,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.045454545454545456
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.125
@@ -4697,6 +5229,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14383561643835616
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.125
@@ -4704,6 +5237,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14788732394366197
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.2692307692307692
@@ -4711,6 +5245,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.13333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.2692307692307692
@@ -4725,6 +5260,7 @@ edge [
 "target" 380260548
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.311475409836063
 "raw byteBag" 0.08895705521472393
@@ -4732,6 +5268,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.044444444444444446
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.12337662337662338
@@ -4739,6 +5276,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14189189189189189
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.12337662337662338
@@ -4746,6 +5284,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.25925925925925924
@@ -4753,6 +5292,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.25925925925925924
@@ -4767,6 +5307,7 @@ edge [
 "target" 368113519
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.12844036697247707
@@ -4774,6 +5315,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.05527638190954774
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.18
@@ -4781,6 +5323,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.17796610169491525
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.18
@@ -4788,6 +5331,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1794871794871795
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.23333333333333334
@@ -4795,6 +5339,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.23333333333333334
@@ -4809,6 +5354,7 @@ edge [
 "target" 477996669
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.10583941605839416
@@ -4816,6 +5362,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.045
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.13740458015267176
@@ -4823,6 +5370,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.1428571428571429
 "skeletons ncd" 0.15503875968992248
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.13740458015267176
@@ -4830,6 +5378,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.1428571428571429
 "fstSecSkel ncd" 0.15873015873015872
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.25925925925925924
@@ -4837,6 +5386,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.25925925925925924
@@ -4851,6 +5401,7 @@ edge [
 "target" 649064345
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.12393162393162394
@@ -4858,6 +5409,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.05555555555555555
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.15789473684210525
@@ -4865,6 +5417,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.15671641791044777
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.15789473684210525
@@ -4872,6 +5425,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16030534351145037
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.21875
@@ -4879,6 +5433,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.21875
@@ -4893,6 +5448,7 @@ edge [
 "target" 646985657
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.1297071129707113
@@ -4900,6 +5456,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.05357142857142857
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.14754098360655737
@@ -4907,6 +5464,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.15602836879432624
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.14754098360655737
@@ -4914,6 +5472,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15942028985507245
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.22580645161290322
@@ -4921,6 +5480,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.22580645161290322
@@ -4935,6 +5495,7 @@ edge [
 "target" 641867691
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.002003186888231277
@@ -4942,6 +5503,7 @@ edge [
 "raw bz" 0.007547169811320753
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.001859504132231405
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0016976411722659042
@@ -4949,6 +5511,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.0
 "skeletons ncd" 0.010969723562966213
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0016976411722659042
@@ -4956,6 +5519,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.010984182776801407
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.004009163802978236
@@ -4963,6 +5527,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.01
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.004009163802978236
@@ -4977,6 +5542,7 @@ edge [
 "target" 537425789
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.11152416356877323
@@ -4984,6 +5550,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.04477611940298507
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.17757009345794392
@@ -4991,6 +5558,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.19999999999999996
 "skeletons ncd" 0.15555555555555556
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.17757009345794392
@@ -4998,6 +5566,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.19999999999999996
 "fstSecSkel ncd" 0.15267175572519084
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.35
@@ -5005,6 +5574,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.35
@@ -5019,6 +5589,7 @@ edge [
 "target" 833378376
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.031007751937984496
@@ -5026,6 +5597,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.032258064516129004
 "raw ncd" 0.010416666666666666
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.021739130434782608
@@ -5033,6 +5605,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.0
 "skeletons ncd" 0.037848605577689244
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.021739130434782608
@@ -5040,6 +5613,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.03807615230460922
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.056910569105691054
@@ -5047,6 +5621,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.05102040816326531
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 4.0
 "fStat0 byteBag" 0.056910569105691054
@@ -5061,6 +5636,7 @@ edge [
 "target" 1004645671
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.06736842105263158
@@ -5068,6 +5644,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.02056555269922879
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 17.74193548387096
 "skeletons byteBag" 0.0703125
@@ -5075,6 +5652,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.08482142857142858
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 17.460317460317455
 "fstSecSkel byteBag" 0.0703125
@@ -5082,6 +5660,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09049773755656108
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.175
@@ -5089,6 +5668,7 @@ edge [
 "fStat bz" 0.16666666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.13043478260869565
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.175
@@ -5103,6 +5683,7 @@ edge [
 "target" 944652497
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.19402985074626866
@@ -5110,6 +5691,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.08955223880597014
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.2807017543859649
@@ -5117,6 +5699,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2714285714285714
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.2807017543859649
@@ -5124,6 +5707,7 @@ edge [
 "fstSecSkel bz" 0.6666666666666667
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2835820895522388
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4
@@ -5131,6 +5715,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2222222222222222
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.4
@@ -5145,6 +5730,7 @@ edge [
 "target" 1185455645
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.005922611213477231
@@ -5152,6 +5738,7 @@ edge [
 "raw bz" 0.010471204188481686
 "raw jump" 0.010471204188481686
 "raw ncd" 0.0032102728731942215
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0035270094672359385
@@ -5159,6 +5746,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.005291005291005346
 "skeletons ncd" 0.011269276393831554
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0035270094672359385
@@ -5166,6 +5754,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.005291005291005346
 "fstSecSkel ncd" 0.010682492581602374
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.007633587786259542
@@ -5173,6 +5762,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.005291005291005346
 "fStat ncd" 0.015197568389057751
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.007633587786259542
@@ -5187,6 +5777,7 @@ edge [
 "target" 200351047
 "group1" "ambi wallet"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.10097323600973236
@@ -5194,6 +5785,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.0
 "raw ncd" 0.03526448362720403
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.08955223880597014
@@ -5201,6 +5793,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.09787234042553192
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.08955223880597014
@@ -5208,6 +5801,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.10212765957446808
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.10112359550561797
@@ -5215,6 +5809,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.09615384615384616
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.10112359550561797
@@ -5229,6 +5824,7 @@ edge [
 "target" 201721732
 "group1" "ambi wallet"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.09946524064171124
@@ -5236,6 +5832,7 @@ edge [
 "raw bz" 0.07407407407407407
 "raw jump" 0.0
 "raw ncd" 0.04592901878914405
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.08404802744425385
@@ -5243,6 +5840,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.1
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.08404802744425385
@@ -5250,6 +5848,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.0967741935483871
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.09
@@ -5257,6 +5856,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.09
@@ -5271,6 +5871,7 @@ edge [
 "target" 211666803
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 43
 "raw ppdeep" 47
 "raw ppdeep_mod" 47.0
 "raw byteBag" 0.4879518072289157
@@ -5278,6 +5879,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.4740740740740741
+"skeletons ssdeep" 20
 "skeletons ppdeep" 19
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.9803921568627451
@@ -5285,6 +5887,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.5
 "skeletons ncd" 0.9027777777777778
+"fstSecSkel ssdeep" 22
 "fstSecSkel ppdeep" 19
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.9803921568627451
@@ -5292,6 +5895,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.5
 "fstSecSkel ncd" 0.9
+"fStat ssdeep" 100
 "fStat ppdeep" 100
 "fStat ppdeep_mod" 100.0
 "fStat byteBag" 1.0
@@ -5299,6 +5903,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 1.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 100
 "fStat0 ppdeep" 100
 "fStat0 ppdeep_mod" 100.0
 "fStat0 byteBag" 1.0
@@ -5313,6 +5918,7 @@ edge [
 "target" 212062586
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 38
 "raw ppdeep" 45
 "raw ppdeep_mod" 45.0
 "raw byteBag" 0.4817073170731707
@@ -5320,6 +5926,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.4
+"skeletons ssdeep" 16
 "skeletons ppdeep" 16
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.8846153846153846
@@ -5327,6 +5934,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.8194444444444444
+"fstSecSkel ssdeep" 16
 "fstSecSkel ppdeep" 16
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.8846153846153846
@@ -5334,6 +5942,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.8142857142857143
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.8
@@ -5341,6 +5950,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.14285714285714285
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.8
@@ -5355,6 +5965,7 @@ edge [
 "target" 252638781
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 25.0
 "raw byteBag" 0.2893081761006289
@@ -5362,6 +5973,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.17777777777777778
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.5217391304347826
@@ -5369,6 +5981,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.4583333333333333
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.5217391304347826
@@ -5376,6 +5989,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.4857142857142857
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.625
@@ -5383,6 +5997,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.625
@@ -5397,6 +6012,7 @@ edge [
 "target" 263273729
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.19858156028368795
@@ -5404,6 +6020,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.037037037037037035
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 17.0
 "skeletons byteBag" 0.2711864406779661
@@ -5411,6 +6028,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2222222222222222
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 17.0
 "fstSecSkel byteBag" 0.2711864406779661
@@ -5418,6 +6036,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.22857142857142856
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.42857142857142855
@@ -5425,6 +6044,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.42857142857142855
@@ -5439,6 +6059,7 @@ edge [
 "target" 285146357
 "group1" "ambi wallet"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.2
@@ -5446,6 +6067,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.022222222222222223
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.29508196721311475
@@ -5453,6 +6075,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2361111111111111
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.29508196721311475
@@ -5460,6 +6083,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.24285714285714285
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.42857142857142855
@@ -5467,6 +6091,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.42857142857142855
@@ -5481,6 +6106,7 @@ edge [
 "target" 278050681
 "group1" "ambi wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.13157894736842105
@@ -5488,6 +6114,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.02962962962962963
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.2
@@ -5495,6 +6122,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.20833333333333334
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.2
@@ -5502,6 +6130,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.22857142857142856
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4166666666666667
@@ -5509,6 +6138,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.4166666666666667
@@ -5523,6 +6153,7 @@ edge [
 "target" 281126761
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.19014084507042253
@@ -5530,6 +6161,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.02962962962962963
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.20967741935483872
@@ -5537,6 +6169,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.18055555555555555
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.20967741935483872
@@ -5544,6 +6177,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.18571428571428572
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5
@@ -5551,6 +6185,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5
@@ -5565,6 +6200,7 @@ edge [
 "target" 279554397
 "group1" "ambi wallet"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.16917293233082706
@@ -5572,6 +6208,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.05141388174807198
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.183206106870229
@@ -5579,6 +6216,7 @@ edge [
 "skeletons bz" 0.09999999999999998
 "skeletons jump" 0.0
 "skeletons ncd" 0.1033210332103321
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.183206106870229
@@ -5586,6 +6224,7 @@ edge [
 "fstSecSkel bz" 0.09999999999999998
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07806691449814127
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.15789473684210525
@@ -5593,6 +6232,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.06666666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.15789473684210525
@@ -5607,6 +6247,7 @@ edge [
 "target" 279982671
 "group1" "ambi wallet"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.08404802744425385
@@ -5614,6 +6255,7 @@ edge [
 "raw bz" 0.07999999999999996
 "raw jump" 0.040000000000000036
 "raw ncd" 0.04040404040404041
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.07596899224806201
@@ -5621,6 +6263,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.08560311284046693
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.07596899224806201
@@ -5628,6 +6271,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09411764705882353
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.08181818181818182
@@ -5635,6 +6279,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.08771929824561403
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.08181818181818182
@@ -5649,6 +6294,7 @@ edge [
 "target" 330058410
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 33.33333333333333
 "raw byteBag" 0.22598870056497175
@@ -5656,6 +6302,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.07589285714285714
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.2929936305732484
@@ -5663,6 +6310,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14285714285714285
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.2929936305732484
@@ -5670,6 +6318,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.32142857142857145
@@ -5677,6 +6326,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.32142857142857145
@@ -5691,6 +6341,7 @@ edge [
 "target" 335801898
 "group1" "ambi wallet"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.11920529801324503
@@ -5698,6 +6349,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.02962962962962963
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.19047619047619047
@@ -5705,6 +6357,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.19444444444444445
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.19047619047619047
@@ -5712,6 +6365,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.18571428571428572
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.3157894736842105
@@ -5719,6 +6373,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.3157894736842105
@@ -5733,6 +6388,7 @@ edge [
 "target" 418465659
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 30.0
 "raw byteBag" 0.23626373626373626
@@ -5740,6 +6396,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.1037037037037037
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.38095238095238093
@@ -5747,6 +6404,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2638888888888889
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.38095238095238093
@@ -5754,6 +6412,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2571428571428571
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4666666666666667
@@ -5761,6 +6420,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.4666666666666667
@@ -5775,6 +6435,7 @@ edge [
 "target" 361996893
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 41.37931034482759
 "raw byteBag" 0.2992125984251969
@@ -5782,6 +6443,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.08173076923076923
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.33620689655172414
@@ -5789,6 +6451,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.1889763779527559
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.33620689655172414
@@ -5796,6 +6459,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.18253968253968253
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.3103448275862069
@@ -5803,6 +6467,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.3103448275862069
@@ -5817,6 +6482,7 @@ edge [
 "target" 390726882
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 37.68115942028985
 "raw byteBag" 0.21937321937321938
@@ -5824,6 +6490,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.07727272727272727
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.3032258064516129
@@ -5831,6 +6498,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.1506849315068493
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.3032258064516129
@@ -5838,6 +6506,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14788732394366197
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.3333333333333333
@@ -5845,6 +6514,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.13333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.3333333333333333
@@ -5859,6 +6529,7 @@ edge [
 "target" 380260548
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 37.5
 "raw byteBag" 0.21910112359550563
@@ -5866,6 +6537,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.07555555555555556
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.29936305732484075
@@ -5873,6 +6545,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14189189189189189
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.29936305732484075
@@ -5880,6 +6553,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.32142857142857145
@@ -5887,6 +6561,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.32142857142857145
@@ -5901,6 +6576,7 @@ edge [
 "target" 368113519
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 36.92307692307692
 "raw byteBag" 0.30522088353413657
@@ -5908,6 +6584,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.09045226130653267
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.35454545454545455
@@ -5915,6 +6592,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.19491525423728814
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.35454545454545455
@@ -5922,6 +6600,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.19658119658119658
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.2903225806451613
@@ -5929,6 +6608,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.2903225806451613
@@ -5943,6 +6623,7 @@ edge [
 "target" 477996669
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 41.666666666666664
 "raw byteBag" 0.26490066225165565
@@ -5950,6 +6631,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.08
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.3533834586466165
@@ -5957,6 +6639,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.17054263565891473
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.3533834586466165
@@ -5964,6 +6647,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16666666666666666
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.32142857142857145
@@ -5971,6 +6655,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.32142857142857145
@@ -5985,6 +6670,7 @@ edge [
 "target" 649064345
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.90909090909091
 "raw byteBag" 0.29545454545454547
@@ -5992,6 +6678,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.08333333333333333
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.3360655737704918
@@ -5999,6 +6686,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.17164179104477612
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.3360655737704918
@@ -6006,6 +6694,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.17557251908396945
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.2727272727272727
@@ -6013,6 +6702,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.2727272727272727
@@ -6027,6 +6717,7 @@ edge [
 "target" 646985657
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.0
 "raw byteBag" 0.29259259259259257
@@ -6034,6 +6725,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.07589285714285714
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.3153846153846154
@@ -6041,6 +6733,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.16312056737588654
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.3153846153846154
@@ -6048,6 +6741,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16666666666666666
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.28125
@@ -6055,6 +6749,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.28125
@@ -6069,6 +6764,7 @@ edge [
 "target" 641867691
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.005645601894008377
@@ -6076,6 +6772,7 @@ edge [
 "raw bz" 0.007547169811320753
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.0030991735537190084
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.004467476769120801
@@ -6083,6 +6780,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.003816793893129722
 "skeletons ncd" 0.01228609039052216
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.004467476769120801
@@ -6090,6 +6788,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.011862917398945518
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.0057273768613974796
@@ -6097,6 +6796,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.01
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.0057273768613974796
@@ -6111,6 +6811,7 @@ edge [
 "target" 537425789
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.0
 "raw byteBag" 0.23529411764705882
@@ -6118,6 +6819,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.06467661691542288
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.3893805309734513
@@ -6125,6 +6827,7 @@ edge [
 "skeletons bz" 0.4
 "skeletons jump" 0.0
 "skeletons ncd" 0.17777777777777778
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.3893805309734513
@@ -6132,6 +6835,7 @@ edge [
 "fstSecSkel bz" 0.4
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16793893129770993
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.42857142857142855
@@ -6139,6 +6843,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.42857142857142855
@@ -6153,6 +6858,7 @@ edge [
 "target" 833378376
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.07639419404125286
@@ -6160,6 +6866,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.032258064516129004
 "raw ncd" 0.023148148148148147
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.056626506024096385
@@ -6167,6 +6874,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.032258064516129004
 "skeletons ncd" 0.05976095617529881
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.056626506024096385
@@ -6174,6 +6882,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.06212424849699399
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.07258064516129033
@@ -6181,6 +6890,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.061224489795918366
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.07258064516129033
@@ -6195,6 +6905,7 @@ edge [
 "target" 1004645671
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1862348178137652
@@ -6202,6 +6913,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.043701799485861184
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.04761904761905
 "skeletons byteBag" 0.1821705426356589
@@ -6209,6 +6921,7 @@ edge [
 "skeletons bz" 0.16666666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.125
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 21.538461538461533
 "fstSecSkel byteBag" 0.1821705426356589
@@ -6216,6 +6929,7 @@ edge [
 "fstSecSkel bz" 0.16666666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.12669683257918551
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.21951219512195122
@@ -6223,6 +6937,7 @@ edge [
 "fStat bz" 0.16666666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.08695652173913043
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.21951219512195122
@@ -6237,6 +6952,7 @@ edge [
 "target" 944652497
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.0
 "raw byteBag" 0.2918918918918919
@@ -6244,6 +6960,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.11851851851851852
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.3684210526315789
@@ -6251,6 +6968,7 @@ edge [
 "skeletons bz" 0.6666666666666667
 "skeletons jump" 0.0
 "skeletons ncd" 0.25
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.3684210526315789
@@ -6258,6 +6976,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2714285714285714
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.4117647058823529
@@ -6265,6 +6984,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2222222222222222
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.4117647058823529
@@ -6279,6 +6999,7 @@ edge [
 "target" 1185455645
 "group1" "ambi wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.016186340307935254
@@ -6286,6 +7007,7 @@ edge [
 "raw bz" 0.010471204188481686
 "raw jump" 0.005235602094240788
 "raw ncd" 0.006099518459069021
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.009281603861147207
@@ -6293,6 +7015,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.005291005291005346
 "skeletons ncd" 0.01720047449584816
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.009281603861147207
@@ -6300,6 +7023,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.014243323442136498
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.010905125408942203
@@ -6307,6 +7031,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.005291005291005346
 "fStat ncd" 0.0182370820668693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.010905125408942203
@@ -6321,6 +7046,7 @@ edge [
 "target" 201721732
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 64.28571428571428
 "raw byteBag" 0.7158859470468432
@@ -6328,6 +7054,7 @@ edge [
 "raw bz" 0.40740740740740744
 "raw jump" 0.03703703703703709
 "raw ncd" 0.5448851774530271
+"skeletons ssdeep" 55
 "skeletons ppdeep" 72
 "skeletons ppdeep_mod" 72.44094488188976
 "skeletons byteBag" 0.9140893470790378
@@ -6335,6 +7062,7 @@ edge [
 "skeletons bz" 0.9583333333333334
 "skeletons jump" 0.41666666666666663
 "skeletons ncd" 0.724
+"fstSecSkel ssdeep" 55
 "fstSecSkel ppdeep" 72
 "fstSecSkel ppdeep_mod" 72.65625
 "fstSecSkel byteBag" 0.9140893470790378
@@ -6342,6 +7070,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.41666666666666663
 "fstSecSkel ncd" 0.7298387096774194
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 22.0
 "fStat byteBag" 0.8888888888888888
@@ -6349,6 +7078,7 @@ edge [
 "fStat bz" 0.875
 "fStat jump" 0.45833333333333337
 "fStat ncd" 0.5925925925925926
+"fStat0 ssdeep" 35
 "fStat0 ppdeep" 61
 "fStat0 ppdeep_mod" 60.273972602739725
 "fStat0 byteBag" 0.8888888888888888
@@ -6363,6 +7093,7 @@ edge [
 "target" 211666803
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1024390243902439
@@ -6370,6 +7101,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.04166666666666663
 "raw ncd" 0.042821158690176324
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.08971962616822429
@@ -6377,6 +7109,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.09787234042553192
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.08971962616822429
@@ -6384,6 +7117,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09787234042553192
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.10112359550561797
@@ -6391,6 +7125,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.07692307692307693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.10112359550561797
@@ -6405,6 +7140,7 @@ edge [
 "target" 212062586
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.09622411693057248
@@ -6412,6 +7148,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.0
 "raw ncd" 0.037783375314861464
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.08411214953271028
@@ -6419,6 +7156,7 @@ edge [
 "skeletons bz" 0.04166666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.09787234042553192
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.08411214953271028
@@ -6426,6 +7164,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09787234042553192
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.07865168539325842
@@ -6433,6 +7172,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.07692307692307693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 4.0
 "fStat0 byteBag" 0.07865168539325842
@@ -6447,6 +7187,7 @@ edge [
 "target" 252638781
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.0775
@@ -6454,6 +7195,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.0
 "raw ncd" 0.04534005037783375
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.08302583025830258
@@ -6461,6 +7203,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.08936170212765958
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.08302583025830258
@@ -6468,6 +7211,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.08936170212765958
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.10638297872340426
@@ -6475,6 +7219,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.04166666666666663
 "fStat ncd" 0.09615384615384616
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.10638297872340426
@@ -6489,6 +7234,7 @@ edge [
 "target" 263273729
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.0325
@@ -6496,6 +7242,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.04166666666666663
 "raw ncd" 0.030226700251889168
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.03531598513011153
@@ -6503,6 +7250,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.06808510638297872
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.03531598513011153
@@ -6510,6 +7258,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.06808510638297872
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.06521739130434782
@@ -6517,6 +7266,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.07692307692307693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 14.0
 "fStat0 byteBag" 0.06521739130434782
@@ -6531,6 +7281,7 @@ edge [
 "target" 285146357
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.04791929382093316
@@ -6538,6 +7289,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.0
 "raw ncd" 0.027707808564231738
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.04275092936802974
@@ -6545,6 +7297,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.07659574468085106
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.04275092936802974
@@ -6552,6 +7305,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07659574468085106
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.06521739130434782
@@ -6559,6 +7313,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.07692307692307693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.06521739130434782
@@ -6573,6 +7328,7 @@ edge [
 "target" 278050681
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.04408060453400504
@@ -6580,6 +7336,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.0
 "raw ncd" 0.015113350125944584
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.04477611940298507
@@ -6587,6 +7344,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.06382978723404255
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.04477611940298507
@@ -6594,6 +7352,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.06382978723404255
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.05555555555555555
@@ -6601,6 +7360,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.07692307692307693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.05555555555555555
@@ -6615,6 +7375,7 @@ edge [
 "target" 281126761
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.03379224030037547
@@ -6622,6 +7383,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.0
 "raw ncd" 0.007556675062972292
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.037243947858473
@@ -6629,6 +7391,7 @@ edge [
 "skeletons bz" 0.04166666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.059574468085106386
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.037243947858473
@@ -6636,6 +7399,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.059574468085106386
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.06666666666666667
@@ -6643,6 +7407,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.07692307692307693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.06666666666666667
@@ -6657,6 +7422,7 @@ edge [
 "target" 279554397
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 38.0
 "raw byteBag" 0.32264736297828334
@@ -6664,6 +7430,7 @@ edge [
 "raw bz" 0.29166666666666663
 "raw jump" 0.0
 "raw ncd" 0.19395465994962216
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 40.59405940594059
 "skeletons byteBag" 0.4142857142857143
@@ -6671,6 +7438,7 @@ edge [
 "skeletons bz" 0.33333333333333337
 "skeletons jump" 0.08333333333333337
 "skeletons ncd" 0.3173431734317343
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 41.1764705882353
 "fstSecSkel byteBag" 0.4142857142857143
@@ -6678,6 +7446,7 @@ edge [
 "fstSecSkel bz" 0.33333333333333337
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.31970260223048325
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 22.0
 "fStat byteBag" 0.45454545454545453
@@ -6685,6 +7454,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.04166666666666663
 "fStat ncd" 0.35
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 54.285714285714285
 "fStat0 byteBag" 0.45454545454545453
@@ -6699,6 +7469,7 @@ edge [
 "target" 279982671
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.65217391304348
 "raw byteBag" 0.5605199025182778
@@ -6706,6 +7477,7 @@ edge [
 "raw bz" 0.76
 "raw jump" 0.0
 "raw ncd" 0.3595959595959596
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 40.963855421686745
 "skeletons byteBag" 0.7791225416036308
@@ -6713,6 +7485,7 @@ edge [
 "skeletons bz" 0.9166666666666666
 "skeletons jump" 0.41666666666666663
 "skeletons ncd" 0.4280155642023346
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 40.476190476190474
 "fstSecSkel byteBag" 0.7791225416036308
@@ -6720,6 +7493,7 @@ edge [
 "fstSecSkel bz" 0.875
 "fstSecSkel jump" 0.41666666666666663
 "fstSecSkel ncd" 0.43137254901960786
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 22.0
 "fStat byteBag" 0.8073394495412844
@@ -6727,6 +7501,7 @@ edge [
 "fStat bz" 0.9166666666666666
 "fStat jump" 0.45833333333333337
 "fStat ncd" 0.5789473684210527
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 55.55555555555556
 "fStat0 byteBag" 0.8073394495412844
@@ -6741,6 +7516,7 @@ edge [
 "target" 330058410
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21087680355160932
@@ -6748,6 +7524,7 @@ edge [
 "raw bz" 0.20833333333333337
 "raw jump" 0.0
 "raw ncd" 0.07556675062972293
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 29.069767441860463
 "skeletons byteBag" 0.26151012891344383
@@ -6755,6 +7532,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.08333333333333337
 "skeletons ncd" 0.17446808510638298
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 29.885057471264375
 "fstSecSkel byteBag" 0.26151012891344383
@@ -6762,6 +7540,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.17446808510638298
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.25
@@ -6769,6 +7548,7 @@ edge [
 "fStat bz" 0.29166666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.19230769230769232
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.25
@@ -6783,6 +7563,7 @@ edge [
 "target" 335801898
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.031210986267166042
@@ -6790,6 +7571,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.0
 "raw ncd" 0.007556675062972292
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.02578268876611418
@@ -6797,6 +7579,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.059574468085106386
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.02578268876611418
@@ -6804,6 +7587,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.059574468085106386
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.061855670103092786
@@ -6811,6 +7595,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.09615384615384616
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 12.0
 "fStat0 byteBag" 0.061855670103092786
@@ -6825,6 +7610,7 @@ edge [
 "target" 418465659
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.06521739130434782
@@ -6832,6 +7618,7 @@ edge [
 "raw bz" 0.04166666666666663
 "raw jump" 0.0
 "raw ncd" 0.042821158690176324
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.055658627087198514
@@ -6839,6 +7626,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.0851063829787234
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.055658627087198514
@@ -6846,6 +7634,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08085106382978724
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.08695652173913043
@@ -6853,6 +7642,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.07692307692307693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.08695652173913043
@@ -6867,6 +7657,7 @@ edge [
 "target" 361996893
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1543859649122807
@@ -6874,6 +7665,7 @@ edge [
 "raw bz" 0.16666666666666663
 "raw jump" 0.0
 "raw ncd" 0.08312342569269521
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.17744916820702403
@@ -6881,6 +7673,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.16170212765957448
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.17744916820702403
@@ -6888,6 +7681,7 @@ edge [
 "fstSecSkel bz" 0.16666666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16595744680851063
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.23404255319148937
@@ -6895,6 +7689,7 @@ edge [
 "fStat bz" 0.04166666666666663
 "fStat jump" 0.125
 "fStat ncd" 0.19230769230769232
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.23404255319148937
@@ -6909,6 +7704,7 @@ edge [
 "target" 390726882
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.21364653243847875
@@ -6916,6 +7712,7 @@ edge [
 "raw bz" 0.20833333333333337
 "raw jump" 0.04166666666666663
 "raw ncd" 0.07556675062972293
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 29.411764705882348
 "skeletons byteBag" 0.25735294117647056
@@ -6923,6 +7720,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.17446808510638298
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 30.232558139534888
 "fstSecSkel byteBag" 0.25735294117647056
@@ -6930,6 +7728,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.17446808510638298
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.2391304347826087
@@ -6937,6 +7736,7 @@ edge [
 "fStat bz" 0.125
 "fStat jump" 0.125
 "fStat ncd" 0.21153846153846154
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.2391304347826087
@@ -6951,6 +7751,7 @@ edge [
 "target" 380260548
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.20552486187845304
@@ -6958,6 +7759,7 @@ edge [
 "raw bz" 0.20833333333333337
 "raw jump" 0.0
 "raw ncd" 0.07556675062972293
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 29.069767441860463
 "skeletons byteBag" 0.2610294117647059
@@ -6965,6 +7767,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.08333333333333337
 "skeletons ncd" 0.17446808510638298
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 29.885057471264375
 "fstSecSkel byteBag" 0.2610294117647059
@@ -6972,6 +7775,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.17446808510638298
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.25
@@ -6979,6 +7783,7 @@ edge [
 "fStat bz" 0.29166666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.19230769230769232
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.25
@@ -6993,6 +7798,7 @@ edge [
 "target" 368113519
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14988290398126464
@@ -7000,6 +7806,7 @@ edge [
 "raw bz" 0.16666666666666663
 "raw jump" 0.0
 "raw ncd" 0.07556675062972293
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.16420664206642066
@@ -7007,6 +7814,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.14468085106382977
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.16420664206642066
@@ -7014,6 +7822,7 @@ edge [
 "fstSecSkel bz" 0.125
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14468085106382977
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.2553191489361702
@@ -7021,6 +7830,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.04166666666666663
 "fStat ncd" 0.21153846153846154
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.2553191489361702
@@ -7035,6 +7845,7 @@ edge [
 "target" 477996669
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.16610549943883277
@@ -7042,6 +7853,7 @@ edge [
 "raw bz" 0.20833333333333337
 "raw jump" 0.0
 "raw ncd" 0.10579345088161209
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 32.94117647058823
 "skeletons byteBag" 0.22140221402214022
@@ -7049,6 +7861,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.19574468085106383
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 33.720930232558146
 "fstSecSkel byteBag" 0.22140221402214022
@@ -7056,6 +7869,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.19574468085106383
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.25
@@ -7063,6 +7877,7 @@ edge [
 "fStat bz" 0.125
 "fStat jump" 0.125
 "fStat ncd" 0.21153846153846154
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.25
@@ -7077,6 +7892,7 @@ edge [
 "target" 649064345
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.17529411764705882
@@ -7084,6 +7900,7 @@ edge [
 "raw bz" 0.16666666666666663
 "raw jump" 0.0
 "raw ncd" 0.08312342569269521
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.18566176470588236
@@ -7091,6 +7908,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.15319148936170213
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.18566176470588236
@@ -7098,6 +7916,7 @@ edge [
 "fstSecSkel bz" 0.125
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15319148936170213
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 15.0
 "fStat byteBag" 0.2765957446808511
@@ -7105,6 +7924,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.04166666666666663
 "fStat ncd" 0.21153846153846154
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 30.0
 "fStat0 byteBag" 0.2765957446808511
@@ -7119,6 +7939,7 @@ edge [
 "target" 646985657
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.17798594847775176
@@ -7126,6 +7947,7 @@ edge [
 "raw bz" 0.20833333333333337
 "raw jump" 0.04166666666666663
 "raw ncd" 0.07556675062972293
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 26.506024096385545
 "skeletons byteBag" 0.20036764705882354
@@ -7133,6 +7955,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.14468085106382977
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 26.506024096385545
 "fstSecSkel byteBag" 0.20036764705882354
@@ -7140,6 +7963,7 @@ edge [
 "fstSecSkel bz" 0.125
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14468085106382977
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 12.0
 "fStat byteBag" 0.25263157894736843
@@ -7147,6 +7971,7 @@ edge [
 "fStat bz" 0.04166666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.21153846153846154
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 28.0
 "fStat0 byteBag" 0.25263157894736843
@@ -7161,6 +7986,7 @@ edge [
 "target" 641867691
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.035511040291372635
@@ -7168,6 +7994,7 @@ edge [
 "raw bz" 0.09056603773584904
 "raw jump" 0.026415094339622636
 "raw ncd" 0.014669421487603305
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.04744036451353525
@@ -7175,6 +8002,7 @@ edge [
 "skeletons bz" 0.08778625954198471
 "skeletons jump" 0.041984732824427495
 "skeletons ncd" 0.030276437033786747
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.04744036451353525
@@ -7182,6 +8010,7 @@ edge [
 "fstSecSkel bz" 0.08778625954198471
 "fstSecSkel jump" 0.041984732824427495
 "fstSecSkel ncd" 0.029876977152899824
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.04919908466819222
@@ -7189,6 +8018,7 @@ edge [
 "fStat bz" 0.08778625954198471
 "fStat jump" 0.04580152671755722
 "fStat ncd" 0.034
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.04919908466819222
@@ -7203,6 +8033,7 @@ edge [
 "target" 537425789
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15127919911012236
@@ -7210,6 +8041,7 @@ edge [
 "raw bz" 0.20833333333333337
 "raw jump" 0.04166666666666663
 "raw ncd" 0.06801007556675064
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 26.19047619047619
 "skeletons byteBag" 0.17679558011049723
@@ -7217,6 +8049,7 @@ edge [
 "skeletons bz" 0.16666666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.13617021276595745
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 27.058823529411768
 "fstSecSkel byteBag" 0.17679558011049723
@@ -7224,6 +8057,7 @@ edge [
 "fstSecSkel bz" 0.16666666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.13617021276595745
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.17391304347826086
@@ -7231,6 +8065,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.11538461538461539
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 12.0
 "fStat0 byteBag" 0.17391304347826086
@@ -7245,6 +8080,7 @@ edge [
 "target" 833378376
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.16981132075472
 "raw byteBag" 0.4631728045325779
@@ -7252,6 +8088,7 @@ edge [
 "raw bz" 0.4838709677419355
 "raw jump" 0.032258064516129004
 "raw ncd" 0.0625
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 47.69230769230769
 "skeletons byteBag" 0.5531428571428572
@@ -7259,6 +8096,7 @@ edge [
 "skeletons bz" 0.4516129032258065
 "skeletons jump" 0.12903225806451613
 "skeletons ncd" 0.12151394422310757
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.484848484848484
 "fstSecSkel byteBag" 0.5531428571428572
@@ -7266,6 +8104,7 @@ edge [
 "fstSecSkel bz" 0.4516129032258065
 "fstSecSkel jump" 0.12903225806451613
 "fstSecSkel ncd" 0.12224448897795591
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 22.0
 "fStat byteBag" 0.562962962962963
@@ -7273,6 +8112,7 @@ edge [
 "fStat bz" 0.3870967741935484
 "fStat jump" 0.19354838709677424
 "fStat ncd" 0.19387755102040816
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 54.43037974683544
 "fStat0 byteBag" 0.562962962962963
@@ -7287,6 +8127,7 @@ edge [
 "target" 1004645671
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 41.07142857142857
 "raw byteBag" 0.3569868995633188
@@ -7294,6 +8135,7 @@ edge [
 "raw bz" 0.41666666666666663
 "raw jump" 0.0
 "raw ncd" 0.08312342569269521
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 32.55813953488372
 "skeletons byteBag" 0.4129263913824057
@@ -7301,6 +8143,7 @@ edge [
 "skeletons bz" 0.29166666666666663
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.19574468085106383
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 33.33333333333333
 "fstSecSkel byteBag" 0.4129263913824057
@@ -7308,6 +8151,7 @@ edge [
 "fstSecSkel bz" 0.29166666666666663
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.2
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.391304347826087
@@ -7315,6 +8159,7 @@ edge [
 "fStat bz" 0.375
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.28846153846153844
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 28.0
 "fStat0 byteBag" 0.391304347826087
@@ -7329,6 +8174,7 @@ edge [
 "target" 944652497
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.09268292682926829
@@ -7336,6 +8182,7 @@ edge [
 "raw bz" 0.125
 "raw jump" 0.0
 "raw ncd" 0.05289672544080604
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.08317929759704251
@@ -7343,6 +8190,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.0851063829787234
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.08317929759704251
@@ -7350,6 +8198,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.0851063829787234
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.10869565217391304
@@ -7357,6 +8206,7 @@ edge [
 "fStat bz" 0.04166666666666663
 "fStat jump" 0.0
 "fStat ncd" 0.09615384615384616
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.10869565217391304
@@ -7371,6 +8221,7 @@ edge [
 "target" 1185455645
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.10061736503349533
@@ -7378,6 +8229,7 @@ edge [
 "raw bz" 0.12041884816753923
 "raw jump" 0.02617801047120416
 "raw ncd" 0.030818619582664526
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.09794101279910963
@@ -7385,6 +8237,7 @@ edge [
 "skeletons bz" 0.12169312169312174
 "skeletons jump" 0.05820105820105825
 "skeletons ncd" 0.05397390272835113
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.09794101279910963
@@ -7392,6 +8245,7 @@ edge [
 "fstSecSkel bz" 0.12169312169312174
 "fstSecSkel jump" 0.05820105820105825
 "fstSecSkel ncd" 0.05341246290801187
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.09239130434782608
@@ -7399,6 +8253,7 @@ edge [
 "fStat bz" 0.12169312169312174
 "fStat jump" 0.06349206349206349
 "fStat ncd" 0.0547112462006079
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.09239130434782608
@@ -7413,6 +8268,7 @@ edge [
 "target" 211666803
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.09722222222222222
@@ -7420,6 +8276,7 @@ edge [
 "raw bz" 0.03703703703703709
 "raw jump" 0.0
 "raw ncd" 0.05219206680584551
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0823327615780446
@@ -7427,6 +8284,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.088
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0823327615780446
@@ -7434,6 +8292,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.0967741935483871
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.09
@@ -7441,6 +8300,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.14814814814814814
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.09
@@ -7455,6 +8315,7 @@ edge [
 "target" 212062586
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.10355987055016182
@@ -7462,6 +8323,7 @@ edge [
 "raw bz" 0.03703703703703709
 "raw jump" 0.0
 "raw ncd" 0.04801670146137787
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.07718696397941681
@@ -7469,6 +8331,7 @@ edge [
 "skeletons bz" 0.04166666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.092
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.07718696397941681
@@ -7476,6 +8339,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.0967741935483871
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.07
@@ -7483,6 +8347,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.12962962962962962
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 4.0
 "fStat0 byteBag" 0.07
@@ -7497,6 +8362,7 @@ edge [
 "target" 252638781
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.07298474945533769
@@ -7504,6 +8370,7 @@ edge [
 "raw bz" 0.07407407407407407
 "raw jump" 0.0
 "raw ncd" 0.037578288100208766
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.07627118644067797
@@ -7511,6 +8378,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.084
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.07627118644067797
@@ -7518,6 +8386,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08870967741935484
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.09523809523809523
@@ -7525,6 +8394,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.12962962962962962
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.09523809523809523
@@ -7539,6 +8409,7 @@ edge [
 "target" 263273729
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.03264417845484222
@@ -7546,6 +8417,7 @@ edge [
 "raw bz" 0.07407407407407407
 "raw jump" 0.0
 "raw ncd" 0.025052192066805846
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.032423208191126277
@@ -7553,6 +8425,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.06
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.032423208191126277
@@ -7560,6 +8433,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.06854838709677419
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.05825242718446602
@@ -7567,6 +8441,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 14.0
 "fStat0 byteBag" 0.05825242718446602
@@ -7581,6 +8456,7 @@ edge [
 "target" 285146357
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.044906900328587074
@@ -7588,6 +8464,7 @@ edge [
 "raw bz" 0.03703703703703709
 "raw jump" 0.0
 "raw ncd" 0.022964509394572025
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.03924914675767918
@@ -7595,6 +8472,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.068
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.03924914675767918
@@ -7602,6 +8480,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07661290322580645
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.05825242718446602
@@ -7609,6 +8488,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.05825242718446602
@@ -7623,6 +8503,7 @@ edge [
 "target" 278050681
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.04157549234135667
@@ -7630,6 +8511,7 @@ edge [
 "raw bz" 0.07407407407407407
 "raw jump" 0.0
 "raw ncd" 0.014613778705636743
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0410958904109589
@@ -7637,6 +8519,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.06
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0410958904109589
@@ -7644,6 +8527,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.06048387096774194
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.04950495049504951
@@ -7651,6 +8535,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.04950495049504951
@@ -7665,6 +8550,7 @@ edge [
 "target" 281126761
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.036026200873362446
@@ -7672,6 +8558,7 @@ edge [
 "raw bz" 0.07407407407407407
 "raw jump" 0.0
 "raw ncd" 0.008350730688935281
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.03418803418803419
@@ -7679,6 +8566,7 @@ edge [
 "skeletons bz" 0.04166666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.056
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.03418803418803419
@@ -7686,6 +8574,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.056451612903225805
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.0594059405940594
@@ -7693,6 +8582,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.09259259259259259
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.0594059405940594
@@ -7707,6 +8597,7 @@ edge [
 "target" 279554397
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 34.61538461538461
 "raw byteBag" 0.31890874882408277
@@ -7714,6 +8605,7 @@ edge [
 "raw bz" 0.2222222222222222
 "raw jump" 0.0
 "raw ncd" 0.18789144050104384
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 41.0
 "skeletons byteBag" 0.38385502471169686
@@ -7721,6 +8613,7 @@ edge [
 "skeletons bz" 0.33333333333333337
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.34317343173431736
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 41.1764705882353
 "fstSecSkel byteBag" 0.38385502471169686
@@ -7728,6 +8621,7 @@ edge [
 "fstSecSkel bz" 0.33333333333333337
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.3420074349442379
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 22.0
 "fStat byteBag" 0.4090909090909091
@@ -7735,6 +8629,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.38333333333333336
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 55.55555555555556
 "fStat0 byteBag" 0.4090909090909091
@@ -7749,6 +8644,7 @@ edge [
 "target" 279982671
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.93617021276596
 "raw byteBag" 0.5881895881895882
@@ -7756,6 +8652,7 @@ edge [
 "raw bz" 0.40740740740740744
 "raw jump" 0.0
 "raw ncd" 0.40606060606060607
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 41.97530864197531
 "skeletons byteBag" 0.826865671641791
@@ -7763,6 +8660,7 @@ edge [
 "skeletons bz" 0.9583333333333334
 "skeletons jump" 0.41666666666666663
 "skeletons ncd" 0.4785992217898833
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 42.16867469879518
 "fstSecSkel byteBag" 0.826865671641791
@@ -7770,6 +8668,7 @@ edge [
 "fstSecSkel bz" 0.875
 "fstSecSkel jump" 0.41666666666666663
 "fstSecSkel ncd" 0.4745098039215686
+"fStat ssdeep" 32
 "fStat ppdeep" 32
 "fStat ppdeep_mod" 32.0
 "fStat byteBag" 0.908256880733945
@@ -7777,6 +8676,7 @@ edge [
 "fStat bz" 0.9583333333333334
 "fStat jump" 0.8333333333333334
 "fStat ncd" 0.7543859649122807
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 59.45945945945946
 "fStat0 byteBag" 0.908256880733945
@@ -7791,6 +8691,7 @@ edge [
 "target" 330058410
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.19960474308300397
@@ -7798,6 +8699,7 @@ edge [
 "raw bz" 0.14814814814814814
 "raw jump" 0.0
 "raw ncd" 0.07724425887265135
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 31.764705882352942
 "skeletons byteBag" 0.24027072758037224
@@ -7805,6 +8707,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.164
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 32.183908045977006
 "fstSecSkel byteBag" 0.24027072758037224
@@ -7812,6 +8715,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.1693548387096774
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.22330097087378642
@@ -7819,6 +8723,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.2777777777777778
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.22330097087378642
@@ -7833,6 +8738,7 @@ edge [
 "target" 335801898
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.028169014084507043
@@ -7840,6 +8746,7 @@ edge [
 "raw bz" 0.07407407407407407
 "raw jump" 0.0
 "raw ncd" 0.008350730688935281
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.023688663282571912
@@ -7847,6 +8754,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.056
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.023688663282571912
@@ -7854,6 +8762,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.056451612903225805
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.05555555555555555
@@ -7861,6 +8770,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.12962962962962962
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 12.0
 "fStat0 byteBag" 0.05555555555555555
@@ -7875,6 +8785,7 @@ edge [
 "target" 418465659
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.07028753993610223
@@ -7882,6 +8793,7 @@ edge [
 "raw bz" 0.07407407407407407
 "raw jump" 0.0
 "raw ncd" 0.05219206680584551
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.052901023890784986
@@ -7889,6 +8801,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.08
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.052901023890784986
@@ -7896,6 +8809,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07661290322580645
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.07766990291262135
@@ -7903,6 +8817,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.12962962962962962
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.07766990291262135
@@ -7917,6 +8832,7 @@ edge [
 "target" 361996893
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1550468262226847
@@ -7924,6 +8840,7 @@ edge [
 "raw bz" 0.11111111111111116
 "raw jump" 0.0
 "raw ncd" 0.08559498956158663
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.16298811544991512
@@ -7931,6 +8848,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.152
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.16298811544991512
@@ -7938,6 +8856,7 @@ edge [
 "fstSecSkel bz" 0.16666666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15725806451612903
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.20952380952380953
@@ -7945,6 +8864,7 @@ edge [
 "fStat bz" 0.04166666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.2222222222222222
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.20952380952380953
@@ -7959,6 +8879,7 @@ edge [
 "target" 390726882
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.20679320679320679
@@ -7966,6 +8887,7 @@ edge [
 "raw bz" 0.14814814814814814
 "raw jump" 0.03703703703703709
 "raw ncd" 0.08350730688935282
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 30.95238095238095
 "skeletons byteBag" 0.23857868020304568
@@ -7973,6 +8895,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.172
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 31.395348837209298
 "fstSecSkel byteBag" 0.23857868020304568
@@ -7980,6 +8903,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.1693548387096774
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.21359223300970873
@@ -7987,6 +8911,7 @@ edge [
 "fStat bz" 0.125
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.2777777777777778
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.21359223300970873
@@ -8001,6 +8926,7 @@ edge [
 "target" 380260548
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1960591133004926
@@ -8008,6 +8934,7 @@ edge [
 "raw bz" 0.14814814814814814
 "raw jump" 0.0
 "raw ncd" 0.07724425887265135
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 31.764705882352942
 "skeletons byteBag" 0.24196277495769883
@@ -8015,6 +8942,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.164
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 32.183908045977006
 "fstSecSkel byteBag" 0.24196277495769883
@@ -8022,6 +8950,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.1693548387096774
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.22330097087378642
@@ -8029,6 +8958,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.2777777777777778
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.22330097087378642
@@ -8043,6 +8973,7 @@ edge [
 "target" 368113519
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15224191866527634
@@ -8050,6 +8981,7 @@ edge [
 "raw bz" 0.11111111111111116
 "raw jump" 0.0
 "raw ncd" 0.07933194154488518
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.15084745762711865
@@ -8057,6 +8989,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.128
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.15084745762711865
@@ -8064,6 +8997,7 @@ edge [
 "fstSecSkel bz" 0.125
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.13306451612903225
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.22857142857142856
@@ -8071,6 +9005,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.04166666666666663
 "fStat ncd" 0.24074074074074073
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.22857142857142856
@@ -8085,6 +9020,7 @@ edge [
 "target" 477996669
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1678391959798995
@@ -8092,6 +9028,7 @@ edge [
 "raw bz" 0.14814814814814814
 "raw jump" 0.03703703703703709
 "raw ncd" 0.09812108559498957
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 34.52380952380952
 "skeletons byteBag" 0.20543293718166383
@@ -8099,6 +9036,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.176
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 34.883720930232556
 "fstSecSkel byteBag" 0.20543293718166383
@@ -8106,6 +9044,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.1774193548387097
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.22330097087378642
@@ -8113,6 +9052,7 @@ edge [
 "fStat bz" 0.125
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.2777777777777778
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.22330097087378642
@@ -8127,6 +9067,7 @@ edge [
 "target" 649064345
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.16996871741397288
@@ -8134,6 +9075,7 @@ edge [
 "raw bz" 0.11111111111111116
 "raw jump" 0.0
 "raw ncd" 0.08559498956158663
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.17258883248730963
@@ -8141,6 +9083,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.14
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.17258883248730963
@@ -8148,6 +9091,7 @@ edge [
 "fstSecSkel bz" 0.125
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14516129032258066
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 15.0
 "fStat byteBag" 0.24761904761904763
@@ -8155,6 +9099,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.04166666666666663
 "fStat ncd" 0.24074074074074073
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 30.0
 "fStat0 byteBag" 0.24761904761904763
@@ -8169,6 +9114,7 @@ edge [
 "target" 646985657
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.17604166666666668
@@ -8176,6 +9122,7 @@ edge [
 "raw bz" 0.14814814814814814
 "raw jump" 0.0
 "raw ncd" 0.07933194154488518
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 25.609756097560975
 "skeletons byteBag" 0.18612521150592218
@@ -8183,6 +9130,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.136
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 25.301204819277103
 "fstSecSkel byteBag" 0.18612521150592218
@@ -8190,6 +9138,7 @@ edge [
 "fstSecSkel bz" 0.125
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14112903225806453
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 12.0
 "fStat byteBag" 0.22641509433962265
@@ -8197,6 +9146,7 @@ edge [
 "fStat bz" 0.04166666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.24074074074074073
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 28.0
 "fStat0 byteBag" 0.22641509433962265
@@ -8211,6 +9161,7 @@ edge [
 "target" 641867691
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.04106346171355731
@@ -8218,6 +9169,7 @@ edge [
 "raw bz" 0.10188679245283017
 "raw jump" 0.030188679245283012
 "raw ncd" 0.016115702479338842
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.051540866458240284
@@ -8225,6 +9177,7 @@ edge [
 "skeletons bz" 0.08778625954198471
 "skeletons jump" 0.03816793893129766
 "skeletons ncd" 0.03247038174637999
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.051540866458240284
@@ -8232,6 +9185,7 @@ edge [
 "fstSecSkel bz" 0.08778625954198471
 "fstSecSkel jump" 0.03816793893129766
 "fstSecSkel ncd" 0.03251318101933216
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.055491990846681924
@@ -8239,6 +9193,7 @@ edge [
 "fStat bz" 0.08396946564885499
 "fStat jump" 0.057251908396946605
 "fStat ncd" 0.038
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.055491990846681924
@@ -8253,6 +9208,7 @@ edge [
 "target" 537425789
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14653465346534653
@@ -8260,6 +9216,7 @@ edge [
 "raw bz" 0.18518518518518523
 "raw jump" 0.0
 "raw ncd" 0.060542797494780795
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 28.915662650602414
 "skeletons byteBag" 0.16440677966101694
@@ -8267,6 +9224,7 @@ edge [
 "skeletons bz" 0.16666666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.128
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 29.411764705882348
 "fstSecSkel byteBag" 0.16440677966101694
@@ -8274,6 +9232,7 @@ edge [
 "fstSecSkel bz" 0.16666666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.12903225806451613
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.1553398058252427
@@ -8281,6 +9240,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 12.0
 "fStat0 byteBag" 0.1553398058252427
@@ -8295,6 +9255,7 @@ edge [
 "target" 833378376
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.12643678160919
 "raw byteBag" 0.49931506849315066
@@ -8302,6 +9263,7 @@ edge [
 "raw bz" 0.3548387096774194
 "raw jump" 0.032258064516129004
 "raw ncd" 0.06481481481481481
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 46.03174603174603
 "skeletons byteBag" 0.5703125
@@ -8309,6 +9271,7 @@ edge [
 "skeletons bz" 0.4516129032258065
 "skeletons jump" 0.19354838709677424
 "skeletons ncd" 0.12151394422310757
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.15384615384615
 "fstSecSkel byteBag" 0.5703125
@@ -8316,6 +9279,7 @@ edge [
 "fstSecSkel bz" 0.4516129032258065
 "fstSecSkel jump" 0.19354838709677424
 "fstSecSkel ncd" 0.12625250501002003
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 32.0
 "fStat byteBag" 0.5524475524475524
@@ -8323,6 +9287,7 @@ edge [
 "fStat bz" 0.3870967741935484
 "fStat jump" 0.16129032258064513
 "fStat ncd" 0.19387755102040816
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 50.0
 "fStat0 byteBag" 0.5524475524475524
@@ -8337,6 +9302,7 @@ edge [
 "target" 1004645671
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 41.37931034482759
 "raw byteBag" 0.35247524752475246
@@ -8344,6 +9310,7 @@ edge [
 "raw bz" 0.2222222222222222
 "raw jump" 0.03703703703703709
 "raw ncd" 0.07306889352818371
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 30.588235294117652
 "skeletons byteBag" 0.3824503311258278
@@ -8351,6 +9318,7 @@ edge [
 "skeletons bz" 0.33333333333333337
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.18
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 31.034482758620683
 "fstSecSkel byteBag" 0.3824503311258278
@@ -8358,6 +9326,7 @@ edge [
 "fstSecSkel bz" 0.29166666666666663
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.18548387096774194
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.34951456310679613
@@ -8365,6 +9334,7 @@ edge [
 "fStat bz" 0.375
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.2962962962962963
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 28.0
 "fStat0 byteBag" 0.34951456310679613
@@ -8379,6 +9349,7 @@ edge [
 "target" 944652497
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.09217577706323687
@@ -8386,6 +9357,7 @@ edge [
 "raw bz" 0.07407407407407407
 "raw jump" 0.0
 "raw ncd" 0.05010438413361169
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0782312925170068
@@ -8393,6 +9365,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.08
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0782312925170068
@@ -8400,6 +9373,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.0846774193548387
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.0970873786407767
@@ -8407,6 +9381,7 @@ edge [
 "fStat bz" 0.04166666666666663
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.0970873786407767
@@ -8421,6 +9396,7 @@ edge [
 "target" 1185455645
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.11516264428121721
@@ -8428,6 +9404,7 @@ edge [
 "raw bz" 0.1413612565445026
 "raw jump" 0.03664921465968585
 "raw ncd" 0.035955056179775284
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.10684474123539232
@@ -8435,6 +9412,7 @@ edge [
 "skeletons bz" 0.12169312169312174
 "skeletons jump" 0.03703703703703709
 "skeletons ncd" 0.05871886120996441
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.10684474123539232
@@ -8442,6 +9420,7 @@ edge [
 "fstSecSkel bz" 0.12169312169312174
 "fstSecSkel jump" 0.03703703703703709
 "fstSecSkel ncd" 0.0599406528189911
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.10434782608695652
@@ -8449,6 +9428,7 @@ edge [
 "fStat bz" 0.1164021164021164
 "fStat jump" 0.08465608465608465
 "fStat ncd" 0.06990881458966565
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.10434782608695652
@@ -8463,6 +9443,7 @@ edge [
 "target" 212062586
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 44
 "raw ppdeep" 45
 "raw ppdeep_mod" 45.0
 "raw byteBag" 0.4578313253012048
@@ -8470,6 +9451,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.4148148148148148
+"skeletons ssdeep" 16
 "skeletons ppdeep" 16
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.9019607843137255
@@ -8477,6 +9459,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.8309859154929577
+"fstSecSkel ssdeep" 16
 "fstSecSkel ppdeep" 16
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.9019607843137255
@@ -8484,6 +9467,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.8260869565217391
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.8
@@ -8491,6 +9475,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.14285714285714285
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.8
@@ -8505,6 +9490,7 @@ edge [
 "target" 252638781
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 25.0
 "raw byteBag" 0.3333333333333333
@@ -8512,6 +9498,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.17777777777777778
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.5294117647058824
@@ -8519,6 +9506,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.4647887323943662
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.5294117647058824
@@ -8526,6 +9514,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.4857142857142857
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.625
@@ -8533,6 +9522,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.625
@@ -8547,6 +9537,7 @@ edge [
 "target" 263273729
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.19148936170212766
@@ -8554,6 +9545,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.037037037037037035
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 17.0
 "skeletons byteBag" 0.27586206896551724
@@ -8561,6 +9553,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.22535211267605634
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 17.0
 "fstSecSkel byteBag" 0.27586206896551724
@@ -8568,6 +9561,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.21739130434782608
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.42857142857142855
@@ -8575,6 +9569,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.42857142857142855
@@ -8589,6 +9584,7 @@ edge [
 "target" 285146357
 "group1" "ambi wallet"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.17687074829931973
@@ -8596,6 +9592,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.02962962962962963
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.3
@@ -8603,6 +9600,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.23943661971830985
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.3
@@ -8610,6 +9608,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2463768115942029
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.42857142857142855
@@ -8617,6 +9616,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.42857142857142855
@@ -8631,6 +9631,7 @@ edge [
 "target" 278050681
 "group1" "ambi wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.13245033112582782
@@ -8638,6 +9639,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.02962962962962963
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.203125
@@ -8645,6 +9647,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2112676056338028
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.203125
@@ -8652,6 +9655,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2318840579710145
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4166666666666667
@@ -8659,6 +9663,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.4166666666666667
@@ -8673,6 +9678,7 @@ edge [
 "target" 281126761
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.17482517482517482
@@ -8680,6 +9686,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.02962962962962963
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.21311475409836064
@@ -8687,6 +9694,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.18309859154929578
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.21311475409836064
@@ -8694,6 +9702,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.17391304347826086
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5
@@ -8701,6 +9710,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5
@@ -8715,6 +9725,7 @@ edge [
 "target" 279554397
 "group1" "ambi wallet"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15
@@ -8722,6 +9733,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.056555269922879174
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1839080459770115
@@ -8729,6 +9741,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.1033210332103321
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1839080459770115
@@ -8736,6 +9749,7 @@ edge [
 "fstSecSkel bz" 0.09999999999999998
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07806691449814127
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.15789473684210525
@@ -8743,6 +9757,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.06666666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.15789473684210525
@@ -8757,6 +9772,7 @@ edge [
 "target" 279982671
 "group1" "ambi wallet"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.07856532877882152
@@ -8764,6 +9780,7 @@ edge [
 "raw bz" 0.07999999999999996
 "raw jump" 0.0
 "raw ncd" 0.04242424242424243
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.07441860465116279
@@ -8771,6 +9788,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.08560311284046693
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.07441860465116279
@@ -8778,6 +9796,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09411764705882353
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.08181818181818182
@@ -8785,6 +9804,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.08771929824561403
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.08181818181818182
@@ -8799,6 +9819,7 @@ edge [
 "target" 330058410
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 38.27160493827161
 "raw byteBag" 0.22662889518413598
@@ -8806,6 +9827,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.08035714285714286
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.2948717948717949
@@ -8813,6 +9835,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14285714285714285
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.2948717948717949
@@ -8820,6 +9843,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.32142857142857145
@@ -8827,6 +9851,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.32142857142857145
@@ -8841,6 +9866,7 @@ edge [
 "target" 335801898
 "group1" "ambi wallet"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.12
@@ -8848,6 +9874,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.02962962962962963
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.1935483870967742
@@ -8855,6 +9882,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.18309859154929578
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.1935483870967742
@@ -8862,6 +9890,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.18840579710144928
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.3157894736842105
@@ -8869,6 +9898,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.3157894736842105
@@ -8883,6 +9913,7 @@ edge [
 "target" 418465659
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 30.0
 "raw byteBag" 0.24444444444444444
@@ -8890,6 +9921,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.1111111111111111
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.36507936507936506
@@ -8897,6 +9929,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2676056338028169
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.36507936507936506
@@ -8904,6 +9937,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2608695652173913
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4666666666666667
@@ -8911,6 +9945,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.4666666666666667
@@ -8925,6 +9960,7 @@ edge [
 "target" 361996893
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.4375
 "raw byteBag" 0.3055555555555556
@@ -8932,6 +9968,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.09134615384615384
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.3391304347826087
@@ -8939,6 +9976,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.1889763779527559
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.3391304347826087
@@ -8946,6 +9984,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.19047619047619047
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.3103448275862069
@@ -8953,6 +9992,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.3103448275862069
@@ -8967,6 +10007,7 @@ edge [
 "target" 390726882
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 41.333333333333336
 "raw byteBag" 0.22701149425287356
@@ -8974,6 +10015,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.08181818181818182
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.2967741935483871
@@ -8981,6 +10023,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.1506849315068493
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.2967741935483871
@@ -8988,6 +10031,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14788732394366197
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.3333333333333333
@@ -8995,6 +10039,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.13333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.3333333333333333
@@ -9009,6 +10054,7 @@ edge [
 "target" 380260548
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 38.46153846153846
 "raw byteBag" 0.2231638418079096
@@ -9016,6 +10062,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.08
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.2929936305732484
@@ -9023,6 +10070,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14189189189189189
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.2929936305732484
@@ -9030,6 +10078,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.32142857142857145
@@ -9037,6 +10086,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.32142857142857145
@@ -9051,6 +10101,7 @@ edge [
 "target" 368113519
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.25352112676056
 "raw byteBag" 0.3170731707317073
@@ -9058,6 +10109,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.10050251256281408
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.3577981651376147
@@ -9065,6 +10117,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.19491525423728814
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.3577981651376147
@@ -9072,6 +10125,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.19658119658119658
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.2903225806451613
@@ -9079,6 +10133,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.2903225806451613
@@ -9093,6 +10148,7 @@ edge [
 "target" 477996669
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.45454545454545
 "raw byteBag" 0.29152542372881357
@@ -9100,6 +10156,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.09
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.3458646616541353
@@ -9107,6 +10164,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.17054263565891473
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.3458646616541353
@@ -9114,6 +10172,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16666666666666666
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.32142857142857145
@@ -9121,6 +10180,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.32142857142857145
@@ -9135,6 +10195,7 @@ edge [
 "target" 649064345
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.27777777777778
 "raw byteBag" 0.31153846153846154
@@ -9142,6 +10203,7 @@ edge [
 "raw bz" 0.4
 "raw jump" 0.0
 "raw ncd" 0.09259259259259259
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.32786885245901637
@@ -9149,6 +10211,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.17164179104477612
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.32786885245901637
@@ -9156,6 +10219,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.17557251908396945
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.2727272727272727
@@ -9163,6 +10227,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.2727272727272727
@@ -9177,6 +10242,7 @@ edge [
 "target" 646985657
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.61538461538461
 "raw byteBag" 0.28888888888888886
@@ -9184,6 +10250,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.08482142857142858
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.3076923076923077
@@ -9191,6 +10258,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.1702127659574468
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.3076923076923077
@@ -9198,6 +10266,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16666666666666666
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.28125
@@ -9205,6 +10274,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.28125
@@ -9219,6 +10289,7 @@ edge [
 "target" 641867691
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.005600072846476052
@@ -9226,6 +10297,7 @@ edge [
 "raw bz" 0.007547169811320753
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.003305785123966942
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0043781272337383844
@@ -9233,6 +10305,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.003816793893129722
 "skeletons ncd" 0.013163668275559455
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0043781272337383844
@@ -9240,6 +10313,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.003816793893129722
 "fstSecSkel ncd" 0.012302284710017574
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.0057273768613974796
@@ -9247,6 +10321,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.01
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.0057273768613974796
@@ -9261,6 +10336,7 @@ edge [
 "target" 537425789
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.69230769230769
 "raw byteBag" 0.2651006711409396
@@ -9268,6 +10344,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.06965174129353234
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.3805309734513274
@@ -9275,6 +10352,7 @@ edge [
 "skeletons bz" 0.4
 "skeletons jump" 0.0
 "skeletons ncd" 0.17777777777777778
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.3805309734513274
@@ -9282,6 +10360,7 @@ edge [
 "fstSecSkel bz" 0.4
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16793893129770993
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.42857142857142855
@@ -9289,6 +10368,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.42857142857142855
@@ -9303,6 +10383,7 @@ edge [
 "target" 833378376
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.08058326937835764
@@ -9310,6 +10391,7 @@ edge [
 "raw bz" 0.06451612903225812
 "raw jump" 0.032258064516129004
 "raw ncd" 0.024305555555555556
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.05542168674698795
@@ -9317,6 +10399,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.0
 "skeletons ncd" 0.05976095617529881
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.05542168674698795
@@ -9324,6 +10407,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.06212424849699399
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.07258064516129033
@@ -9331,6 +10415,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.061224489795918366
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.07258064516129033
@@ -9345,6 +10430,7 @@ edge [
 "target" 1004645671
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.20123203285420946
@@ -9352,6 +10438,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.04627249357326478
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.04761904761905
 "skeletons byteBag" 0.17829457364341086
@@ -9359,6 +10446,7 @@ edge [
 "skeletons bz" 0.16666666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.125
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 21.538461538461533
 "fstSecSkel byteBag" 0.17829457364341086
@@ -9366,6 +10454,7 @@ edge [
 "fstSecSkel bz" 0.16666666666666663
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.12669683257918551
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.21951219512195122
@@ -9373,6 +10462,7 @@ edge [
 "fStat bz" 0.16666666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.08695652173913043
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.21951219512195122
@@ -9387,6 +10477,7 @@ edge [
 "target" 944652497
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.0
 "raw byteBag" 0.32222222222222224
@@ -9394,6 +10485,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.11851851851851852
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.35526315789473684
@@ -9401,6 +10493,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2676056338028169
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.35526315789473684
@@ -9408,6 +10501,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2753623188405797
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.4117647058823529
@@ -9415,6 +10509,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2222222222222222
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.4117647058823529
@@ -9429,6 +10524,7 @@ edge [
 "target" 1185455645
 "group1" "ambi wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.015921052631578947
@@ -9436,6 +10532,7 @@ edge [
 "raw bz" 0.010471204188481686
 "raw jump" 0.005235602094240788
 "raw ncd" 0.006420545746388443
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.009095971783924262
@@ -9443,6 +10540,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.0
 "skeletons ncd" 0.017793594306049824
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.009095971783924262
@@ -9450,6 +10548,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.005291005291005346
 "fstSecSkel ncd" 0.01543026706231454
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.010905125408942203
@@ -9457,6 +10556,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.005291005291005346
 "fStat ncd" 0.0182370820668693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.010905125408942203
@@ -9471,6 +10571,7 @@ edge [
 "target" 252638781
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 25.0
 "raw byteBag" 0.2987012987012987
@@ -9478,6 +10579,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.18461538461538463
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.5303030303030303
@@ -9485,6 +10587,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.45714285714285713
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.5303030303030303
@@ -9492,6 +10595,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.45714285714285713
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.5
@@ -9499,6 +10603,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.1
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.5
@@ -9513,6 +10618,7 @@ edge [
 "target" 263273729
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.20588235294117646
@@ -9520,6 +10626,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.03076923076923077
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.26785714285714285
@@ -9527,6 +10634,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.23529411764705882
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.26785714285714285
@@ -9534,6 +10642,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.24242424242424243
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.38461538461538464
@@ -9541,6 +10650,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.38461538461538464
@@ -9555,6 +10665,7 @@ edge [
 "target" 285146357
 "group1" "ambi wallet"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.19014084507042253
@@ -9562,6 +10673,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.015384615384615385
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.29310344827586204
@@ -9569,6 +10681,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.25
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.29310344827586204
@@ -9576,6 +10689,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2727272727272727
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.38461538461538464
@@ -9583,6 +10697,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.38461538461538464
@@ -9597,6 +10712,7 @@ edge [
 "target" 278050681
 "group1" "ambi wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.1360544217687075
@@ -9604,6 +10720,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.03076923076923077
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.1935483870967742
@@ -9611,6 +10728,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.19117647058823528
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.1935483870967742
@@ -9618,6 +10736,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.22727272727272727
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.36363636363636365
@@ -9625,6 +10744,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.36363636363636365
@@ -9639,6 +10759,7 @@ edge [
 "target" 281126761
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.19708029197080293
@@ -9646,6 +10767,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.03076923076923077
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.2033898305084746
@@ -9653,6 +10775,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.19117647058823528
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.2033898305084746
@@ -9660,6 +10783,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.19696969696969696
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.45454545454545453
@@ -9667,6 +10791,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.45454545454545453
@@ -9681,6 +10806,7 @@ edge [
 "target" 279554397
 "group1" "ambi wallet"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15543071161048688
@@ -9688,6 +10814,7 @@ edge [
 "raw bz" 0.09999999999999998
 "raw jump" 0.0
 "raw ncd" 0.04884318766066838
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1724137931034483
@@ -9695,6 +10822,7 @@ edge [
 "skeletons bz" 0.09999999999999998
 "skeletons jump" 0.09999999999999998
 "skeletons ncd" 0.1033210332103321
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1724137931034483
@@ -9702,6 +10830,7 @@ edge [
 "fstSecSkel bz" 0.09999999999999998
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08178438661710037
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.12280701754385964
@@ -9709,6 +10838,7 @@ edge [
 "fStat bz" 0.09999999999999998
 "fStat jump" 0.0
 "fStat ncd" 0.06666666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.12280701754385964
@@ -9723,6 +10853,7 @@ edge [
 "target" 279982671
 "group1" "ambi wallet"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.08347676419965576
@@ -9730,6 +10861,7 @@ edge [
 "raw bz" 0.040000000000000036
 "raw jump" 0.0
 "raw ncd" 0.03838383838383838
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.06976744186046512
@@ -9737,6 +10869,7 @@ edge [
 "skeletons bz" 0.04166666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.0933852140077821
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.06976744186046512
@@ -9744,6 +10877,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09803921568627451
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.06363636363636363
@@ -9751,6 +10885,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.07017543859649122
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 4.0
 "fStat0 byteBag" 0.06363636363636363
@@ -9765,6 +10900,7 @@ edge [
 "target" 330058410
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 38.75
 "raw byteBag" 0.2257142857142857
@@ -9772,6 +10908,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.07589285714285714
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.27564102564102566
@@ -9779,6 +10916,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.14965986394557823
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.27564102564102566
@@ -9786,6 +10924,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.25
@@ -9793,6 +10932,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.25
@@ -9807,6 +10947,7 @@ edge [
 "target" 335801898
 "group1" "ambi wallet"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.14685314685314685
@@ -9814,6 +10955,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.03076923076923077
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.18333333333333332
@@ -9821,6 +10963,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.19117647058823528
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.18333333333333332
@@ -9828,6 +10971,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.19696969696969696
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.2777777777777778
@@ -9835,6 +10979,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.2777777777777778
@@ -9849,6 +10994,7 @@ edge [
 "target" 418465659
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 30.0
 "raw byteBag" 0.25
@@ -9856,6 +11002,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.11538461538461539
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.3387096774193548
@@ -9863,6 +11010,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.2647058823529412
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.3387096774193548
@@ -9870,6 +11018,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.25757575757575757
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.3333333333333333
@@ -9877,6 +11026,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.3333333333333333
@@ -9891,6 +11041,7 @@ edge [
 "target" 361996893
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.44444444444444
 "raw byteBag" 0.2845849802371542
@@ -9898,6 +11049,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.08173076923076923
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.32456140350877194
@@ -9905,6 +11057,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.1732283464566929
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.32456140350877194
@@ -9912,6 +11065,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16666666666666666
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.2413793103448276
@@ -9919,6 +11073,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.2413793103448276
@@ -9933,6 +11088,7 @@ edge [
 "target" 390726882
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 41.891891891891895
 "raw byteBag" 0.22965116279069767
@@ -9940,6 +11096,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.07727272727272727
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.27741935483870966
@@ -9947,6 +11104,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.15753424657534246
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.27741935483870966
@@ -9954,6 +11112,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14084507042253522
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.25925925925925924
@@ -9961,6 +11120,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.13333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.25925925925925924
@@ -9975,6 +11135,7 @@ edge [
 "target" 380260548
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.25974025974026
 "raw byteBag" 0.2222222222222222
@@ -9982,6 +11143,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.07555555555555556
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.27388535031847133
@@ -9989,6 +11151,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.14189189189189189
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.27388535031847133
@@ -9996,6 +11159,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14482758620689656
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.25
@@ -10003,6 +11167,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.25
@@ -10017,6 +11182,7 @@ edge [
 "target" 368113519
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.285714285714285
 "raw byteBag" 0.2903225806451613
@@ -10024,6 +11190,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.08542713567839195
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.3425925925925926
@@ -10031,6 +11198,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.1864406779661017
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.3425925925925926
@@ -10038,6 +11206,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1794871794871795
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.22580645161290322
@@ -10045,6 +11214,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.22580645161290322
@@ -10059,6 +11229,7 @@ edge [
 "target" 477996669
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.61538461538461
 "raw byteBag" 0.25666666666666665
@@ -10066,6 +11237,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.08
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.31343283582089554
@@ -10073,6 +11245,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.17829457364341086
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.31343283582089554
@@ -10080,6 +11253,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16666666666666666
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.25
@@ -10087,6 +11261,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.25
@@ -10101,6 +11276,7 @@ edge [
 "target" 649064345
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.84507042253521
 "raw byteBag" 0.2669172932330827
@@ -10108,6 +11284,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.0787037037037037
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 16.0
 "skeletons byteBag" 0.3140495867768595
@@ -10115,6 +11292,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.16417910447761194
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.3140495867768595
@@ -10122,6 +11300,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16030534351145037
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.21212121212121213
@@ -10129,6 +11308,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.21212121212121213
@@ -10143,6 +11323,7 @@ edge [
 "target" 646985657
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.875
 "raw byteBag" 0.2693726937269373
@@ -10150,6 +11331,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.07589285714285714
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.29457364341085274
@@ -10157,6 +11339,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.15602836879432624
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.29457364341085274
@@ -10164,6 +11347,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15217391304347827
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.21875
@@ -10171,6 +11355,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.21875
@@ -10185,6 +11370,7 @@ edge [
 "target" 641867691
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.005417956656346749
@@ -10192,6 +11378,7 @@ edge [
 "raw bz" 0.0037735849056603765
 "raw jump" 0.0
 "raw ncd" 0.0030991735537190084
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.004110078627591137
@@ -10199,6 +11386,7 @@ edge [
 "skeletons bz" 0.003816793893129722
 "skeletons jump" 0.003816793893129722
 "skeletons ncd" 0.013602457218078104
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.004110078627591137
@@ -10206,6 +11394,7 @@ edge [
 "fstSecSkel bz" 0.003816793893129722
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.011423550087873463
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.004581901489117984
@@ -10213,6 +11402,7 @@ edge [
 "fStat bz" 0.003816793893129722
 "fStat jump" 0.0
 "fStat ncd" 0.008
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.004581901489117984
@@ -10227,6 +11417,7 @@ edge [
 "target" 537425789
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.875
 "raw byteBag" 0.22697368421052633
@@ -10234,6 +11425,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.06467661691542288
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.36607142857142855
@@ -10241,6 +11433,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.17777777777777778
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.36607142857142855
@@ -10248,6 +11441,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16793893129770993
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.3333333333333333
@@ -10255,6 +11449,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.3333333333333333
@@ -10269,6 +11464,7 @@ edge [
 "target" 833378376
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.07668711656441718
@@ -10276,6 +11472,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.0
 "raw ncd" 0.020833333333333332
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.051807228915662654
@@ -10283,6 +11480,7 @@ edge [
 "skeletons bz" 0.032258064516129004
 "skeletons jump" 0.0
 "skeletons ncd" 0.05976095617529881
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.051807228915662654
@@ -10290,6 +11488,7 @@ edge [
 "fstSecSkel bz" 0.032258064516129004
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.05811623246492986
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.056451612903225805
@@ -10297,6 +11496,7 @@ edge [
 "fStat bz" 0.032258064516129004
 "fStat jump" 0.0
 "fStat ncd" 0.061224489795918366
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 4.0
 "fStat0 byteBag" 0.056451612903225805
@@ -10311,6 +11511,7 @@ edge [
 "target" 1004645671
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.18089430894308944
@@ -10318,6 +11519,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.04113110539845758
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 14.0
 "skeletons byteBag" 0.16666666666666666
@@ -10325,6 +11527,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.125
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 16.0
 "fstSecSkel byteBag" 0.16666666666666666
@@ -10332,6 +11535,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.12217194570135746
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 5.0
 "fStat byteBag" 0.17073170731707318
@@ -10339,6 +11543,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.13043478260869565
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.17073170731707318
@@ -10353,6 +11558,7 @@ edge [
 "target" 944652497
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.0
 "raw byteBag" 0.2648648648648649
@@ -10360,6 +11566,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.11194029850746269
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.3157894736842105
@@ -10367,6 +11574,7 @@ edge [
 "skeletons bz" 0.33333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.24285714285714285
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.3157894736842105
@@ -10374,6 +11582,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.26865671641791045
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.29411764705882354
@@ -10381,6 +11590,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.2222222222222222
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.29411764705882354
@@ -10395,6 +11605,7 @@ edge [
 "target" 1185455645
 "group1" "ambi wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.015528358994604554
@@ -10402,6 +11613,7 @@ edge [
 "raw bz" 0.005235602094240788
 "raw jump" 0.005235602094240788
 "raw ncd" 0.005778491171749599
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.008539075552255429
@@ -10409,6 +11621,7 @@ edge [
 "skeletons bz" 0.005291005291005346
 "skeletons jump" 0.0
 "skeletons ncd" 0.01601423487544484
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.008539075552255429
@@ -10416,6 +11629,7 @@ edge [
 "fstSecSkel bz" 0.005291005291005346
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.014243323442136498
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.008724100327153763
@@ -10423,6 +11637,7 @@ edge [
 "fStat bz" 0.005291005291005346
 "fStat jump" 0.005291005291005346
 "fStat ncd" 0.0182370820668693
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.008724100327153763
@@ -10437,6 +11652,7 @@ edge [
 "target" 263273729
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.26
@@ -10444,6 +11660,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.14285714285714285
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 17.0
 "skeletons byteBag" 0.41818181818181815
@@ -10451,6 +11668,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.24285714285714285
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 17.0
 "fstSecSkel byteBag" 0.41818181818181815
@@ -10458,6 +11676,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.24285714285714285
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.625
@@ -10465,6 +11684,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.625
@@ -10479,6 +11699,7 @@ edge [
 "target" 285146357
 "group1" "ambi wallet"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.25961538461538464
@@ -10486,6 +11707,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.10989010989010989
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.43859649122807015
@@ -10493,6 +11715,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2571428571428571
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.43859649122807015
@@ -10500,6 +11723,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2571428571428571
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.625
@@ -10507,6 +11731,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.625
@@ -10521,6 +11746,7 @@ edge [
 "target" 278050681
 "group1" "ambi wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.205607476635514
@@ -10528,6 +11754,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.07692307692307693
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.3064516129032258
@@ -10535,6 +11762,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.22857142857142856
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.3064516129032258
@@ -10542,6 +11770,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.22857142857142856
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4375
@@ -10549,6 +11778,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.4375
@@ -10563,6 +11793,7 @@ edge [
 "target" 281126761
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.21153846153846154
@@ -10570,6 +11801,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.03296703296703297
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.3220338983050847
@@ -10577,6 +11809,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.21428571428571427
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.3220338983050847
@@ -10584,6 +11817,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.21428571428571427
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5
@@ -10591,6 +11825,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5
@@ -10605,6 +11840,7 @@ edge [
 "target" 279554397
 "group1" "ambi wallet"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1286549707602339
@@ -10612,6 +11848,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.05398457583547558
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1946564885496183
@@ -10619,6 +11856,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.08118081180811808
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1946564885496183
@@ -10626,6 +11864,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08178438661710037
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.2631578947368421
@@ -10633,6 +11872,7 @@ edge [
 "fStat bz" 0.09999999999999998
 "fStat jump" 0.0
 "fStat ncd" 0.06666666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.2631578947368421
@@ -10647,6 +11887,7 @@ edge [
 "target" 279982671
 "group1" "ambi wallet"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.05897658282740677
@@ -10654,6 +11895,7 @@ edge [
 "raw bz" 0.07999999999999996
 "raw jump" 0.0
 "raw ncd" 0.03636363636363636
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.06901840490797546
@@ -10661,6 +11903,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.08171206225680934
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.06901840490797546
@@ -10668,6 +11911,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08235294117647059
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.08695652173913043
@@ -10675,6 +11919,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.07017543859649122
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.08695652173913043
@@ -10689,6 +11934,7 @@ edge [
 "target" 330058410
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.17417417417417416
@@ -10696,6 +11942,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.08035714285714286
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 22.0
 "skeletons byteBag" 0.29559748427672955
@@ -10703,6 +11950,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14965986394557823
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.29559748427672955
@@ -10710,6 +11958,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15172413793103448
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.4827586206896552
@@ -10717,6 +11966,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.4827586206896552
@@ -10731,6 +11981,7 @@ edge [
 "target" 335801898
 "group1" "ambi wallet"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.17757009345794392
@@ -10738,6 +11989,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.054945054945054944
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.3
@@ -10745,6 +11997,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.3
@@ -10752,6 +12005,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.55
@@ -10759,6 +12013,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.55
@@ -10773,6 +12028,7 @@ edge [
 "target" 418465659
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 25.0
 "raw byteBag" 0.2465753424657534
@@ -10780,6 +12036,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.16831683168316833
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.47540983606557374
@@ -10787,6 +12044,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3142857142857143
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.47540983606557374
@@ -10794,6 +12052,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3142857142857143
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.6470588235294118
@@ -10801,6 +12060,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.6470588235294118
@@ -10815,6 +12075,7 @@ edge [
 "target" 361996893
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.2643171806167401
@@ -10822,6 +12083,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.10096153846153846
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.42342342342342343
@@ -10829,6 +12091,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.1889763779527559
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.42342342342342343
@@ -10836,6 +12099,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.19047619047619047
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.4666666666666667
@@ -10843,6 +12107,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.25
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.4666666666666667
@@ -10857,6 +12122,7 @@ edge [
 "target" 390726882
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.17737003058103976
@@ -10864,6 +12130,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.08636363636363636
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 22.0
 "skeletons byteBag" 0.2974683544303797
@@ -10871,6 +12138,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.1506849315068493
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.2974683544303797
@@ -10878,6 +12146,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14788732394366197
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.5
@@ -10885,6 +12154,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.5
@@ -10899,6 +12169,7 @@ edge [
 "target" 380260548
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.17771084337349397
@@ -10906,6 +12177,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.08
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 22.0
 "skeletons byteBag" 0.29375
@@ -10913,6 +12185,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.14189189189189189
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.29375
@@ -10920,6 +12193,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15172413793103448
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.4827586206896552
@@ -10927,6 +12201,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.4827586206896552
@@ -10941,6 +12216,7 @@ edge [
 "target" 368113519
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 23.63636363636364
 "raw byteBag" 0.2645739910313901
@@ -10948,6 +12224,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.09045226130653267
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.44761904761904764
@@ -10955,6 +12232,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.17796610169491525
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.44761904761904764
@@ -10962,6 +12240,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.18803418803418803
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.4375
@@ -10969,6 +12248,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.08823529411764706
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.4375
@@ -10983,6 +12263,7 @@ edge [
 "target" 477996669
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.21505376344086022
@@ -10990,6 +12271,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.1
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 22.0
 "skeletons byteBag" 0.32608695652173914
@@ -10997,6 +12279,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.17054263565891473
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.32608695652173914
@@ -11004,6 +12287,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1746031746031746
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.4827586206896552
@@ -11011,6 +12295,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.4827586206896552
@@ -11025,6 +12310,7 @@ edge [
 "target" 649064345
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.23553719008264462
@@ -11032,6 +12318,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.08796296296296297
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.4067796610169492
@@ -11039,6 +12326,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.16417910447761194
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.4067796610169492
@@ -11046,6 +12334,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16793893129770993
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.4117647058823529
@@ -11053,6 +12342,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.4117647058823529
@@ -11067,6 +12357,7 @@ edge [
 "target" 646985657
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.23387096774193547
@@ -11074,6 +12365,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.09821428571428571
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 22.0
 "skeletons byteBag" 0.38095238095238093
@@ -11081,6 +12373,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.1702127659574468
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.38095238095238093
@@ -11088,6 +12381,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.17391304347826086
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.42424242424242425
@@ -11095,6 +12389,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.25
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.42424242424242425
@@ -11109,6 +12404,7 @@ edge [
 "target" 641867691
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.0036878528501183756
@@ -11116,6 +12412,7 @@ edge [
 "raw bz" 0.007547169811320753
 "raw jump" 0.0
 "raw ncd" 0.005785123966942148
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.004645760743321719
@@ -11123,6 +12420,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.003816793893129722
 "skeletons ncd" 0.012724879333040808
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.004645760743321719
@@ -11130,6 +12428,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.003816793893129722
 "fstSecSkel ncd" 0.012302284710017574
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.009163802978235968
@@ -11137,6 +12436,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.007633587786259555
 "fStat ncd" 0.018
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.009163802978235968
@@ -11151,6 +12451,7 @@ edge [
 "target" 537425789
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.20503597122302158
@@ -11158,6 +12459,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.0945273631840796
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 22.0
 "skeletons byteBag" 0.36752136752136755
@@ -11165,6 +12467,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.18518518518518517
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 22.0
 "fstSecSkel byteBag" 0.36752136752136755
@@ -11172,6 +12475,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.183206106870229
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.5652173913043478
@@ -11179,6 +12483,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.5652173913043478
@@ -11193,6 +12498,7 @@ edge [
 "target" 833378376
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.06055900621118013
@@ -11200,6 +12506,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.0
 "raw ncd" 0.03356481481481482
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.05896510228640193
@@ -11207,6 +12514,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.0
 "skeletons ncd" 0.061752988047808766
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.05896510228640193
@@ -11214,6 +12522,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.06212424849699399
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.12096774193548387
@@ -11221,6 +12530,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.0
 "fStat ncd" 0.08163265306122448
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.12096774193548387
@@ -11235,6 +12545,7 @@ edge [
 "target" 1004645671
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1407563025210084
@@ -11242,6 +12553,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.08333333333333337
 "raw ncd" 0.06683804627249357
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 21.875
 "skeletons byteBag" 0.17557251908396945
@@ -11249,6 +12561,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.12053571428571429
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 21.538461538461533
 "fstSecSkel byteBag" 0.17557251908396945
@@ -11256,6 +12569,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.12217194570135746
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.2727272727272727
@@ -11263,6 +12577,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.10869565217391304
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.2727272727272727
@@ -11277,6 +12592,7 @@ edge [
 "target" 944652497
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 25.0
 "raw byteBag" 0.2564102564102564
@@ -11284,6 +12600,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.13432835820895522
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.3717948717948718
@@ -11291,6 +12608,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2857142857142857
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.3717948717948718
@@ -11298,6 +12616,7 @@ edge [
 "fstSecSkel bz" 0.6666666666666667
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.5789473684210527
@@ -11305,6 +12624,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.33333333333333337
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5789473684210527
@@ -11319,6 +12639,7 @@ edge [
 "target" 1185455645
 "group1" "ambi wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.010660700184259015
@@ -11326,6 +12647,7 @@ edge [
 "raw bz" 0.010471204188481686
 "raw jump" 0.005235602094240788
 "raw ncd" 0.008346709470304976
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.009651076466221232
@@ -11333,6 +12655,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.010582010582010581
 "skeletons ncd" 0.01482799525504152
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.009651076466221232
@@ -11340,6 +12663,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.010582010582010581
 "fstSecSkel ncd" 0.01483679525222552
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.017448200654307525
@@ -11347,6 +12671,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.0
 "fStat ncd" 0.02127659574468085
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.017448200654307525
@@ -11361,6 +12686,7 @@ edge [
 "target" 285146357
 "group1" "ambi wallet"
 "group2" "multisig WalletSimple/BitGo"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.35714285714285715
@@ -11368,6 +12694,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.25806451612903225
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 17.0
 "skeletons byteBag" 0.8571428571428571
@@ -11375,6 +12702,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.6170212765957447
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 17.0
 "fstSecSkel byteBag" 0.8571428571428571
@@ -11382,6 +12710,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.6170212765957447
+"fStat ssdeep" 100
 "fStat ppdeep" 100
 "fStat ppdeep_mod" 100.0
 "fStat byteBag" 1.0
@@ -11389,6 +12718,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 1.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 1.0
@@ -11403,6 +12733,7 @@ edge [
 "target" 278050681
 "group1" "ambi wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.2236842105263158
@@ -11410,6 +12741,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.07272727272727272
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.45714285714285713
@@ -11417,6 +12749,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.4418604651162791
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.45714285714285713
@@ -11424,6 +12757,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.4418604651162791
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.7
@@ -11431,6 +12765,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.7
@@ -11445,6 +12780,7 @@ edge [
 "target" 281126761
 "group1" "ambi wallet"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.6666666666666666
@@ -11452,6 +12788,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.43636363636363634
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.5
@@ -11459,6 +12796,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.5
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.5
@@ -11466,6 +12804,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.5
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.8
@@ -11473,6 +12812,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.5
 "fStat ncd" 0.14285714285714285
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.8
@@ -11487,6 +12827,7 @@ edge [
 "target" 279554397
 "group1" "ambi wallet"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.06470588235294118
@@ -11494,6 +12835,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.030848329048843187
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.09266409266409266
@@ -11501,6 +12843,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.06642066420664207
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.09266409266409266
@@ -11508,6 +12851,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.06319702602230483
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.17857142857142858
@@ -11515,6 +12859,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.06666666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.17857142857142858
@@ -11529,6 +12874,7 @@ edge [
 "target" 279982671
 "group1" "ambi wallet"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.031331592689295036
@@ -11536,6 +12882,7 @@ edge [
 "raw bz" 0.07999999999999996
 "raw jump" 0.040000000000000036
 "raw ncd" 0.022222222222222223
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.029320987654320986
@@ -11543,6 +12890,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.0622568093385214
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.029320987654320986
@@ -11550,6 +12898,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.06274509803921569
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.05309734513274336
@@ -11557,6 +12906,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.05263157894736842
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 14.0
 "fStat0 byteBag" 0.05309734513274336
@@ -11571,6 +12921,7 @@ edge [
 "target" 330058410
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.24242424242425
 "raw byteBag" 0.09567901234567901
@@ -11578,6 +12929,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.10267857142857142
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.15789473684210525
@@ -11585,6 +12937,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.2108843537414966
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.15789473684210525
@@ -11592,6 +12945,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.21379310344827587
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.37037037037037035
@@ -11599,6 +12953,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.37037037037037035
@@ -11613,6 +12968,7 @@ edge [
 "target" 335801898
 "group1" "ambi wallet"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.2328767123287671
@@ -11620,6 +12976,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.05454545454545454
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.5
@@ -11627,6 +12984,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.46153846153846156
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.5
@@ -11634,6 +12992,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.46153846153846156
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.6666666666666666
@@ -11641,6 +13000,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.6666666666666666
@@ -11655,6 +13015,7 @@ edge [
 "target" 418465659
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.24786324786324787
@@ -11662,6 +13023,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.2376237623762376
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.6666666666666666
@@ -11669,6 +13031,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.5789473684210527
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.6666666666666666
@@ -11676,6 +13039,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.5849056603773585
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.8333333333333334
@@ -11683,6 +13047,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.8333333333333334
@@ -11697,6 +13062,7 @@ edge [
 "target" 361996893
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 26.0
 "raw byteBag" 0.15137614678899083
@@ -11704,6 +13070,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.11057692307692307
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 17.0
 "skeletons byteBag" 0.23076923076923078
@@ -11711,6 +13078,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.2283464566929134
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 17.0
 "fstSecSkel byteBag" 0.23076923076923078
@@ -11718,6 +13086,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.23015873015873015
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.35714285714285715
@@ -11725,6 +13094,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.09375
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.35714285714285715
@@ -11739,6 +13109,7 @@ edge [
 "target" 390726882
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 26.0
 "raw byteBag" 0.09404388714733543
@@ -11746,6 +13117,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.10909090909090909
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.15894039735099338
@@ -11753,6 +13125,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.21232876712328766
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.15894039735099338
@@ -11760,6 +13133,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2112676056338028
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.38461538461538464
@@ -11767,6 +13141,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.13333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.38461538461538464
@@ -11781,6 +13156,7 @@ edge [
 "target" 380260548
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 25.396825396825392
 "raw byteBag" 0.10248447204968944
@@ -11788,6 +13164,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.10666666666666667
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.1568627450980392
@@ -11795,6 +13172,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.20945945945945946
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.1568627450980392
@@ -11802,6 +13180,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.21379310344827587
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.37037037037037035
@@ -11809,6 +13188,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.37037037037037035
@@ -11823,6 +13203,7 @@ edge [
 "target" 368113519
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 26.0
 "raw byteBag" 0.14953271028037382
@@ -11830,6 +13211,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.09547738693467336
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 17.0
 "skeletons byteBag" 0.24489795918367346
@@ -11837,6 +13219,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.22033898305084745
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 17.0
 "fstSecSkel byteBag" 0.24489795918367346
@@ -11844,6 +13227,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2222222222222222
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.3333333333333333
@@ -11851,6 +13235,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.3333333333333333
@@ -11865,6 +13250,7 @@ edge [
 "target" 477996669
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 26.0
 "raw byteBag" 0.12222222222222222
@@ -11872,6 +13258,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.115
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.18604651162790697
@@ -11879,6 +13266,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.2248062015503876
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.18604651162790697
@@ -11886,6 +13274,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.23015873015873015
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.37037037037037035
@@ -11893,6 +13282,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.37037037037037035
@@ -11907,6 +13297,7 @@ edge [
 "target" 649064345
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 26.0
 "raw byteBag" 0.13852813852813853
@@ -11914,6 +13305,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.09722222222222222
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 17.0
 "skeletons byteBag" 0.21428571428571427
@@ -11921,6 +13313,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.19402985074626866
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 17.0
 "fstSecSkel byteBag" 0.21428571428571427
@@ -11928,6 +13321,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1984732824427481
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.3125
@@ -11935,6 +13329,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.05555555555555555
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.3125
@@ -11949,6 +13344,7 @@ edge [
 "target" 646985657
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 26.0
 "raw byteBag" 0.1440677966101695
@@ -11956,6 +13352,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.19999999999999996
 "raw ncd" 0.10714285714285714
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.2
@@ -11963,6 +13360,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.19858156028368795
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.2
@@ -11970,6 +13368,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2028985507246377
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.3225806451612903
@@ -11977,6 +13376,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.3225806451612903
@@ -11991,6 +13391,7 @@ edge [
 "target" 641867691
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.002003186888231277
@@ -11998,6 +13399,7 @@ edge [
 "raw bz" 0.007547169811320753
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.0043388429752066115
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0021445804664462515
@@ -12005,6 +13407,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.003816793893129722
 "skeletons ncd" 0.01184730144800351
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0021445804664462515
@@ -12012,6 +13415,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.003816793893129722
 "fstSecSkel ncd" 0.011423550087873463
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.0057273768613974796
@@ -12019,6 +13423,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.012
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.0057273768613974796
@@ -12033,6 +13438,7 @@ edge [
 "target" 537425789
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 26.0
 "raw byteBag" 0.11152416356877323
@@ -12040,6 +13446,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.11940298507462686
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.22641509433962265
@@ -12047,6 +13454,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.22962962962962963
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.22641509433962265
@@ -12054,6 +13462,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.22900763358778625
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.5
@@ -12061,6 +13470,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.5
@@ -12075,6 +13485,7 @@ edge [
 "target" 833378376
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.030209140201394268
@@ -12082,6 +13493,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.0
 "raw ncd" 0.018518518518518517
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.02781136638452237
@@ -12089,6 +13501,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.0
 "skeletons ncd" 0.0398406374501992
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.02781136638452237
@@ -12096,6 +13509,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.04008016032064128
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.08130081300813008
@@ -12103,6 +13517,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.0
 "fStat ncd" 0.08163265306122448
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 14.0
 "fStat0 byteBag" 0.08130081300813008
@@ -12117,6 +13532,7 @@ edge [
 "target" 1004645671
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.060669456066945605
@@ -12124,6 +13540,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.03598971722365039
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 20.0
 "skeletons byteBag" 0.08171206225680934
@@ -12131,6 +13548,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.08482142857142858
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 20.0
 "fstSecSkel byteBag" 0.08171206225680934
@@ -12138,6 +13556,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09049773755656108
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.19047619047619047
@@ -12145,6 +13564,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.10869565217391304
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.19047619047619047
@@ -12159,6 +13579,7 @@ edge [
 "target" 944652497
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.0
 "raw byteBag" 0.19402985074626866
@@ -12166,6 +13587,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.19402985074626866
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.42592592592592593
@@ -12173,6 +13595,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.44285714285714284
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.42592592592592593
@@ -12180,6 +13603,7 @@ edge [
 "fstSecSkel bz" 0.6666666666666667
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.4626865671641791
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.7142857142857143
@@ -12187,6 +13611,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.33333333333333337
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.7142857142857143
@@ -12201,6 +13626,7 @@ edge [
 "target" 1185455645
 "group1" "ambi wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.005790235557310172
@@ -12208,6 +13634,7 @@ edge [
 "raw bz" 0.010471204188481686
 "raw jump" 0.005235602094240788
 "raw ncd" 0.006420545746388443
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.004455997029335313
@@ -12215,6 +13642,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.0
 "skeletons ncd" 0.011862396204033215
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.004455997029335313
@@ -12222,6 +13650,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.011275964391691394
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.010905125408942203
@@ -12229,6 +13658,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.0
 "fStat ncd" 0.0243161094224924
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.010905125408942203
@@ -12243,6 +13673,7 @@ edge [
 "target" 278050681
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.2727272727272727
@@ -12250,6 +13681,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.04838709677419355
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.4864864864864865
@@ -12257,6 +13689,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.425531914893617
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.4864864864864865
@@ -12264,6 +13697,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.425531914893617
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.7
@@ -12271,6 +13705,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2857142857142857
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.7
@@ -12285,6 +13720,7 @@ edge [
 "target" 281126761
 "group1" "multisig WalletSimple/BitGo"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.25
@@ -12292,6 +13728,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.06451612903225806
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.4857142857142857
@@ -12299,6 +13736,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.3617021276595745
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.4857142857142857
@@ -12306,6 +13744,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3617021276595745
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.8
@@ -12313,6 +13752,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.5
 "fStat ncd" 0.14285714285714285
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.8
@@ -12327,6 +13767,7 @@ edge [
 "target" 279554397
 "group1" "multisig WalletSimple/BitGo"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.07874015748031496
@@ -12334,6 +13775,7 @@ edge [
 "raw bz" 0.09999999999999998
 "raw jump" 0.0
 "raw ncd" 0.028277634961439587
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.10810810810810811
@@ -12341,6 +13783,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.07749077490774908
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.10810810810810811
@@ -12348,6 +13791,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07806691449814127
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.17857142857142858
@@ -12355,6 +13799,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.06666666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.17857142857142858
@@ -12369,6 +13814,7 @@ edge [
 "target" 279982671
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.036585365853658534
@@ -12376,6 +13822,7 @@ edge [
 "raw bz" 0.040000000000000036
 "raw jump" 0.0
 "raw ncd" 0.01818181818181818
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.035493827160493825
@@ -12383,6 +13830,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.0622568093385214
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.035493827160493825
@@ -12390,6 +13838,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.06666666666666667
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.05309734513274336
@@ -12397,6 +13846,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.05263157894736842
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.05309734513274336
@@ -12411,6 +13861,7 @@ edge [
 "target" 330058410
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 23.07692307692308
 "raw byteBag" 0.1076923076923077
@@ -12418,6 +13869,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.07142857142857142
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 24.0
 "skeletons byteBag" 0.18421052631578946
@@ -12425,6 +13877,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.17006802721088435
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 24.0
 "fstSecSkel byteBag" 0.18421052631578946
@@ -12432,6 +13885,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1724137931034483
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.37037037037037035
@@ -12439,6 +13893,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.37037037037037035
@@ -12453,6 +13908,7 @@ edge [
 "target" 335801898
 "group1" "multisig WalletSimple/BitGo"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.3013698630136986
@@ -12460,6 +13916,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.06451612903225806
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.4444444444444444
@@ -12467,6 +13924,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3617021276595745
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.4444444444444444
@@ -12474,6 +13932,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3617021276595745
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.6666666666666666
@@ -12481,6 +13940,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.6666666666666666
@@ -12495,6 +13955,7 @@ edge [
 "target" 418465659
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.23770491803278687
@@ -12502,6 +13963,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.1782178217821782
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.7297297297297297
@@ -12509,6 +13971,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.47368421052631576
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.7297297297297297
@@ -12516,6 +13979,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.49056603773584906
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.8333333333333334
@@ -12523,6 +13987,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.8333333333333334
@@ -12537,6 +14002,7 @@ edge [
 "target" 361996893
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.14798206278026907
@@ -12544,6 +14010,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.1346153846153846
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.2571428571428571
@@ -12551,6 +14018,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.29133858267716534
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.2571428571428571
@@ -12558,6 +14026,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.29365079365079366
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.35714285714285715
@@ -12565,6 +14034,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.09375
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.35714285714285715
@@ -12579,6 +14049,7 @@ edge [
 "target" 390726882
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.109717868338558
@@ -12586,6 +14057,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.07727272727272727
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 24.0
 "skeletons byteBag" 0.18543046357615894
@@ -12593,6 +14065,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.17123287671232876
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 24.0
 "fstSecSkel byteBag" 0.18543046357615894
@@ -12600,6 +14073,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.176056338028169
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.38461538461538464
@@ -12607,6 +14081,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.13333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.38461538461538464
@@ -12621,6 +14096,7 @@ edge [
 "target" 380260548
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.1076923076923077
@@ -12628,6 +14104,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.07555555555555556
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 24.0
 "skeletons byteBag" 0.1830065359477124
@@ -12635,6 +14112,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.16216216216216217
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 24.0
 "fstSecSkel byteBag" 0.1830065359477124
@@ -12642,6 +14120,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1724137931034483
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.37037037037037035
@@ -12649,6 +14128,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.37037037037037035
@@ -12663,6 +14143,7 @@ edge [
 "target" 368113519
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.15668202764976957
@@ -12670,6 +14151,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.09547738693467336
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.26
@@ -12677,6 +14159,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.23728813559322035
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.26
@@ -12684,6 +14167,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.24786324786324787
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.3333333333333333
@@ -12691,6 +14175,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.3333333333333333
@@ -12705,6 +14190,7 @@ edge [
 "target" 477996669
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.12408759124087591
@@ -12712,6 +14198,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.095
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 24.0
 "skeletons byteBag" 0.2076923076923077
@@ -12719,6 +14206,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.21705426356589147
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 24.0
 "fstSecSkel byteBag" 0.2076923076923077
@@ -12726,6 +14214,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2222222222222222
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.37037037037037035
@@ -12733,6 +14222,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.37037037037037035
@@ -12747,6 +14237,7 @@ edge [
 "target" 649064345
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.1452991452991453
@@ -12754,6 +14245,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.09259259259259259
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 19.0
 "skeletons byteBag" 0.22807017543859648
@@ -12761,6 +14253,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.21641791044776118
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 19.0
 "fstSecSkel byteBag" 0.22807017543859648
@@ -12768,6 +14261,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.22137404580152673
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.3125
@@ -12775,6 +14269,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.05555555555555555
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.3125
@@ -12789,6 +14284,7 @@ edge [
 "target" 646985657
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.14107883817427386
@@ -12796,6 +14292,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.12946428571428573
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 24.0
 "skeletons byteBag" 0.2231404958677686
@@ -12803,6 +14300,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.2624113475177305
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 24.0
 "fstSecSkel byteBag" 0.2231404958677686
@@ -12810,6 +14308,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.26811594202898553
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.3225806451612903
@@ -12817,6 +14316,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.3225806451612903
@@ -12831,6 +14331,7 @@ edge [
 "target" 641867691
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.002276452376616281
@@ -12838,6 +14339,7 @@ edge [
 "raw bz" 0.007547169811320753
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.002892561983471074
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0025020105441872936
@@ -12845,6 +14347,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.0
 "skeletons ncd" 0.010969723562966213
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0025020105441872936
@@ -12852,6 +14355,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.01054481546572935
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.0057273768613974796
@@ -12859,6 +14363,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.012
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.0057273768613974796
@@ -12873,6 +14378,7 @@ edge [
 "target" 537425789
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 24.0
 "raw byteBag" 0.13857677902621723
@@ -12880,6 +14386,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.0945273631840796
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 24.0
 "skeletons byteBag" 0.2641509433962264
@@ -12887,6 +14394,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.2074074074074074
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 24.0
 "fstSecSkel byteBag" 0.2641509433962264
@@ -12894,6 +14402,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.21374045801526717
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.5
@@ -12901,6 +14410,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.5
@@ -12915,6 +14425,7 @@ edge [
 "target" 833378376
 "group1" "multisig WalletSimple/BitGo"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.033281733746130034
@@ -12922,6 +14433,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.0
 "raw ncd" 0.015046296296296295
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.032648125755743655
@@ -12929,6 +14441,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.0
 "skeletons ncd" 0.04183266932270916
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.032648125755743655
@@ -12936,6 +14449,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.04208416833667335
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.08130081300813008
@@ -12943,6 +14457,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.0
 "fStat ncd" 0.08163265306122448
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.08130081300813008
@@ -12957,6 +14472,7 @@ edge [
 "target" 1004645671
 "group1" "multisig WalletSimple/BitGo"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.0847457627118644
@@ -12964,6 +14480,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.030848329048843187
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 24.0
 "skeletons byteBag" 0.09727626459143969
@@ -12971,6 +14488,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.08928571428571429
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 24.0
 "fstSecSkel byteBag" 0.09727626459143969
@@ -12978,6 +14496,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09049773755656108
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.19047619047619047
@@ -12985,6 +14504,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.10869565217391304
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 11.0
 "fStat0 byteBag" 0.19047619047619047
@@ -12999,6 +14519,7 @@ edge [
 "target" 944652497
 "group1" "multisig WalletSimple/BitGo"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.2692307692307692
@@ -13006,6 +14527,7 @@ edge [
 "raw bz" 0.0
 "raw jump" 0.0
 "raw ncd" 0.16417910447761194
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.44642857142857145
@@ -13013,6 +14535,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.35714285714285715
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.44642857142857145
@@ -13020,6 +14543,7 @@ edge [
 "fstSecSkel bz" 0.6666666666666667
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.373134328358209
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.7142857142857143
@@ -13027,6 +14551,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.33333333333333337
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.7142857142857143
@@ -13041,6 +14566,7 @@ edge [
 "target" 1185455645
 "group1" "multisig WalletSimple/BitGo"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.006580679126085812
@@ -13048,6 +14574,7 @@ edge [
 "raw bz" 0.010471204188481686
 "raw jump" 0.0
 "raw ncd" 0.0044943820224719105
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0051986632008912
@@ -13055,6 +14582,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.0
 "skeletons ncd" 0.010676156583629894
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0051986632008912
@@ -13062,6 +14590,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.010682492581602374
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.010905125408942203
@@ -13069,6 +14598,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.0
 "fStat ncd" 0.0243161094224924
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.010905125408942203
@@ -13083,6 +14613,7 @@ edge [
 "target" 281126761
 "group1" "multisig Stefan George"
 "group2" "ambi wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.2916666666666667
@@ -13090,6 +14621,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.07547169811320754
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.59375
@@ -13097,6 +14629,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.4418604651162791
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.59375
@@ -13104,6 +14637,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.4418604651162791
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.875
@@ -13111,6 +14645,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.5
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.875
@@ -13125,6 +14660,7 @@ edge [
 "target" 279554397
 "group1" "multisig Stefan George"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.07058823529411765
@@ -13132,6 +14668,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.015424164524421594
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.10424710424710425
@@ -13139,6 +14676,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.06273062730627306
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.10424710424710425
@@ -13146,6 +14684,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.05947955390334572
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.125
@@ -13153,6 +14692,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.05
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.125
@@ -13167,6 +14707,7 @@ edge [
 "target" 279982671
 "group1" "multisig Stefan George"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.03484320557491289
@@ -13174,6 +14715,7 @@ edge [
 "raw bz" 0.07999999999999996
 "raw jump" 0.0
 "raw ncd" 0.00808080808080808
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.03715170278637771
@@ -13181,6 +14723,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.0622568093385214
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.03715170278637771
@@ -13188,6 +14731,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.06274509803921569
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.04504504504504504
@@ -13195,6 +14739,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.05263157894736842
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.04504504504504504
@@ -13209,6 +14754,7 @@ edge [
 "target" 330058410
 "group1" "multisig Stefan George"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.09146341463414634
@@ -13216,6 +14762,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.03125
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.16233766233766234
@@ -13223,6 +14770,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.10884353741496598
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.16233766233766234
@@ -13230,6 +14778,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1103448275862069
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.25925925925925924
@@ -13237,6 +14786,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.25925925925925924
@@ -13251,6 +14801,7 @@ edge [
 "target" 335801898
 "group1" "multisig Stefan George"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.17721518987341772
@@ -13258,6 +14809,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.07547169811320754
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.3783783783783784
@@ -13265,6 +14817,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.4418604651162791
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.3783783783783784
@@ -13272,6 +14825,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.4418604651162791
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4666666666666667
@@ -13279,6 +14833,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.4666666666666667
@@ -13293,6 +14848,7 @@ edge [
 "target" 418465659
 "group1" "multisig Stefan George"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.18253968253968253
@@ -13300,6 +14856,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.06930693069306931
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.4
@@ -13307,6 +14864,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2982456140350877
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.4
@@ -13314,6 +14872,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3018867924528302
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.5833333333333334
@@ -13321,6 +14880,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.5833333333333334
@@ -13335,6 +14895,7 @@ edge [
 "target" 361996893
 "group1" "multisig Stefan George"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.14414414414414414
@@ -13342,6 +14903,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.03365384615384615
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.24761904761904763
@@ -13349,6 +14911,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.15748031496062992
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.24761904761904763
@@ -13356,6 +14919,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15873015873015872
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.25
@@ -13363,6 +14927,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.25
@@ -13377,6 +14942,7 @@ edge [
 "target" 390726882
 "group1" "multisig Stefan George"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.10344827586206896
@@ -13384,6 +14950,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.1428571428571429
 "raw ncd" 0.031818181818181815
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.16339869281045752
@@ -13391,6 +14958,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.1095890410958904
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.16339869281045752
@@ -13398,6 +14966,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.11267605633802817
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.2692307692307692
@@ -13405,6 +14974,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.06666666666666667
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.2692307692307692
@@ -13419,6 +14989,7 @@ edge [
 "target" 380260548
 "group1" "multisig Stefan George"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.09146341463414634
@@ -13426,6 +14997,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.03111111111111111
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.16129032258064516
@@ -13433,6 +15005,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.10810810810810811
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.16129032258064516
@@ -13440,6 +15013,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1103448275862069
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.25925925925925924
@@ -13447,6 +15021,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.12903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.25925925925925924
@@ -13461,6 +15036,7 @@ edge [
 "target" 368113519
 "group1" "multisig Stefan George"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.1527777777777778
@@ -13468,6 +15044,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.035175879396984924
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.25
@@ -13475,6 +15052,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.1440677966101695
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.25
@@ -13482,6 +15060,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1452991452991453
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.23333333333333334
@@ -13489,6 +15068,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.23333333333333334
@@ -13503,6 +15083,7 @@ edge [
 "target" 477996669
 "group1" "multisig Stefan George"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.11272727272727273
@@ -13510,6 +15091,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.04
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.2
@@ -13517,6 +15099,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.13178294573643412
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.2
@@ -13524,6 +15107,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1349206349206349
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.25925925925925924
@@ -13531,6 +15115,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.06451612903225806
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.25925925925925924
@@ -13545,6 +15130,7 @@ edge [
 "target" 649064345
 "group1" "multisig Stefan George"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.15151515151515152
@@ -13552,6 +15138,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.037037037037037035
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.23008849557522124
@@ -13559,6 +15146,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.13432835820895522
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.23008849557522124
@@ -13566,6 +15154,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.13740458015267176
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.21875
@@ -13573,6 +15162,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.21875
@@ -13587,6 +15177,7 @@ edge [
 "target" 646985657
 "group1" "multisig Stefan George"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.14705882352941177
@@ -13594,6 +15185,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.04017857142857143
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.225
@@ -13601,6 +15193,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.14184397163120568
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.225
@@ -13608,6 +15201,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.14492753623188406
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.22580645161290322
@@ -13615,6 +15209,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.22580645161290322
@@ -13629,6 +15224,7 @@ edge [
 "target" 641867691
 "group1" "multisig Stefan George"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.002139767812428864
@@ -13636,6 +15232,7 @@ edge [
 "raw bz" 0.007547169811320753
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.0008264462809917355
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0024126530247520327
@@ -13643,6 +15240,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.007633587786259555
 "skeletons ncd" 0.007898200965335674
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0024126530247520327
@@ -13650,6 +15248,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.007633587786259555
 "fstSecSkel ncd" 0.007469244288224956
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.004009163802978236
@@ -13657,6 +15256,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.008
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.004009163802978236
@@ -13671,6 +15271,7 @@ edge [
 "target" 537425789
 "group1" "multisig Stefan George"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.10218978102189781
@@ -13678,6 +15279,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.1428571428571429
 "raw ncd" 0.03482587064676617
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.23148148148148148
@@ -13685,6 +15287,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.1259259259259259
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.23148148148148148
@@ -13692,6 +15295,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.12213740458015267
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.35
@@ -13699,6 +15303,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.35
@@ -13713,6 +15318,7 @@ edge [
 "target" 833378376
 "group1" "multisig Stefan George"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.030139103554868624
@@ -13720,6 +15326,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.0
 "raw ncd" 0.008101851851851851
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.03143893591293833
@@ -13727,6 +15334,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.032258064516129004
 "skeletons ncd" 0.035856573705179286
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.03143893591293833
@@ -13734,6 +15342,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.032258064516129004
 "fstSecSkel ncd" 0.036072144288577156
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.056910569105691054
@@ -13741,6 +15350,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.061224489795918366
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.056910569105691054
@@ -13755,6 +15365,7 @@ edge [
 "target" 1004645671
 "group1" "multisig Stefan George"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.07368421052631578
@@ -13762,6 +15373,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.015424164524421594
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.10196078431372549
@@ -13769,6 +15381,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.07589285714285714
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.10196078431372549
@@ -13776,6 +15389,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07692307692307693
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.175
@@ -13783,6 +15397,7 @@ edge [
 "fStat bz" 0.16666666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.08695652173913043
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.175
@@ -13797,6 +15412,7 @@ edge [
 "target" 944652497
 "group1" "multisig Stefan George"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 18.0
 "raw byteBag" 0.19852941176470587
@@ -13804,6 +15420,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.05223880597014925
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.2903225806451613
@@ -13811,6 +15428,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.22857142857142856
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.2903225806451613
@@ -13818,6 +15436,7 @@ edge [
 "fstSecSkel bz" 0.6666666666666667
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2537313432835821
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.5
@@ -13825,6 +15444,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2222222222222222
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.5
@@ -13839,6 +15459,7 @@ edge [
 "target" 1185455645
 "group1" "multisig Stefan George"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.006317451961042379
@@ -13846,6 +15467,7 @@ edge [
 "raw bz" 0.010471204188481686
 "raw jump" 0.005235602094240788
 "raw ncd" 0.0016051364365971107
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.005012996658002228
@@ -13853,6 +15475,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.0
 "skeletons ncd" 0.011269276393831554
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.005012996658002228
@@ -13860,6 +15483,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.011275964391691394
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.007633587786259542
@@ -13867,6 +15491,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.010582010582010581
 "fStat ncd" 0.015197568389057751
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.007633587786259542
@@ -13881,6 +15506,7 @@ edge [
 "target" 279554397
 "group1" "ambi wallet"
 "group2" "wallet 5"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.06470588235294118
@@ -13888,6 +15514,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.010282776349614395
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.08846153846153847
@@ -13895,6 +15522,7 @@ edge [
 "skeletons bz" 0.09999999999999998
 "skeletons jump" 0.0
 "skeletons ncd" 0.05166051660516605
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.08846153846153847
@@ -13902,6 +15530,7 @@ edge [
 "fstSecSkel bz" 0.09999999999999998
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.05204460966542751
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.14285714285714285
@@ -13909,6 +15538,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.05
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.14285714285714285
@@ -13923,6 +15553,7 @@ edge [
 "target" 279982671
 "group1" "ambi wallet"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.030434782608695653
@@ -13930,6 +15561,7 @@ edge [
 "raw bz" 0.07999999999999996
 "raw jump" 0.040000000000000036
 "raw ncd" 0.00808080808080808
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.030911901081916538
@@ -13937,6 +15569,7 @@ edge [
 "skeletons bz" 0.04166666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.054474708171206226
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.030911901081916538
@@ -13944,6 +15577,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.054901960784313725
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.05405405405405406
@@ -13951,6 +15585,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.05263157894736842
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.05405405405405406
@@ -13965,6 +15600,7 @@ edge [
 "target" 330058410
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.09567901234567901
@@ -13972,6 +15608,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.022321428571428572
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.1503267973856209
@@ -13979,6 +15616,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.10204081632653061
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.1503267973856209
@@ -13986,6 +15624,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.10344827586206896
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.2962962962962963
@@ -13993,6 +15632,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.06451612903225806
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.2962962962962963
@@ -14007,6 +15647,7 @@ edge [
 "target" 335801898
 "group1" "ambi wallet"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.2857142857142857
@@ -14014,6 +15655,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.5
 "raw ncd" 0.04081632653061224
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.5483870967741935
@@ -14021,6 +15663,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.5
 "skeletons ncd" 0.55
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.5483870967741935
@@ -14028,6 +15671,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.5
 "fstSecSkel ncd" 0.55
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5333333333333333
@@ -14035,6 +15679,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.5
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5333333333333333
@@ -14049,6 +15694,7 @@ edge [
 "target" 418465659
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.19672131147540983
@@ -14056,6 +15702,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.0594059405940594
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.3953488372093023
@@ -14063,6 +15710,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2982456140350877
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.3953488372093023
@@ -14070,6 +15718,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3018867924528302
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.6666666666666666
@@ -14077,6 +15726,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.6666666666666666
@@ -14091,6 +15741,7 @@ edge [
 "target" 361996893
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.15137614678899083
@@ -14098,6 +15749,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.25
 "raw ncd" 0.02403846153846154
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.21904761904761905
@@ -14105,6 +15757,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.14173228346456693
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.21904761904761905
@@ -14112,6 +15765,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.25
 "fstSecSkel ncd" 0.15079365079365079
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.2857142857142857
@@ -14119,6 +15773,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.2857142857142857
@@ -14133,6 +15788,7 @@ edge [
 "target" 390726882
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.09404388714733543
@@ -14140,6 +15796,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.022727272727272728
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.1513157894736842
@@ -14147,6 +15804,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.10273972602739725
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.1513157894736842
@@ -14154,6 +15812,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09859154929577464
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.3076923076923077
@@ -14161,6 +15820,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.1
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.3076923076923077
@@ -14175,6 +15835,7 @@ edge [
 "target" 380260548
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.09907120743034056
@@ -14182,6 +15843,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.022222222222222223
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.14935064935064934
@@ -14189,6 +15851,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.10135135135135136
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.14935064935064934
@@ -14196,6 +15859,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.10344827586206896
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.2962962962962963
@@ -14203,6 +15867,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.06451612903225806
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.2962962962962963
@@ -14217,6 +15882,7 @@ edge [
 "target" 368113519
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.15492957746478872
@@ -14224,6 +15890,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.02512562814070352
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.22
@@ -14231,6 +15898,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.1440677966101695
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.22
@@ -14238,6 +15906,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.25
 "fstSecSkel ncd" 0.1452991452991453
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.26666666666666666
@@ -14245,6 +15914,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.26666666666666666
@@ -14259,6 +15929,7 @@ edge [
 "target" 477996669
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.12222222222222222
@@ -14266,6 +15937,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.03
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.17692307692307693
@@ -14273,6 +15945,7 @@ edge [
 "skeletons bz" 0.1428571428571429
 "skeletons jump" 0.0
 "skeletons ncd" 0.11627906976744186
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.17692307692307693
@@ -14280,6 +15953,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.11904761904761904
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.2962962962962963
@@ -14287,6 +15961,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.0967741935483871
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.2962962962962963
@@ -14301,6 +15976,7 @@ edge [
 "target" 649064345
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.13852813852813853
@@ -14308,6 +15984,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.19999999999999996
 "raw ncd" 0.027777777777777776
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.20353982300884957
@@ -14315,6 +15992,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.12686567164179105
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.20353982300884957
@@ -14322,6 +16000,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1297709923664122
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.25
@@ -14329,6 +16008,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.25
@@ -14343,6 +16023,7 @@ edge [
 "target" 646985657
 "group1" "ambi wallet"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.1440677966101695
@@ -14350,6 +16031,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.026785714285714284
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.19008264462809918
@@ -14357,6 +16039,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.12056737588652482
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.19008264462809918
@@ -14364,6 +16047,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.12318840579710146
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.25806451612903225
@@ -14371,6 +16055,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.05714285714285714
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.25806451612903225
@@ -14385,6 +16070,7 @@ edge [
 "target" 641867691
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.002003186888231277
@@ -14392,6 +16078,7 @@ edge [
 "raw bz" 0.007547169811320753
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.0010330578512396695
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0020550393137955683
@@ -14399,6 +16086,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.003816793893129722
 "skeletons ncd" 0.007020623080298377
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0020550393137955683
@@ -14406,6 +16094,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.003816793893129722
 "fstSecSkel ncd" 0.007029876977152899
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.004581901489117984
@@ -14413,6 +16102,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.012
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.004581901489117984
@@ -14427,6 +16117,7 @@ edge [
 "target" 537425789
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 16.0
 "raw byteBag" 0.11152416356877323
@@ -14434,6 +16125,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.029850746268656716
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.2037037037037037
@@ -14441,6 +16133,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.11851851851851852
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.2037037037037037
@@ -14448,6 +16141,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.12213740458015267
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.4
@@ -14455,6 +16149,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.4
@@ -14469,6 +16164,7 @@ edge [
 "target" 833378376
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.030209140201394268
@@ -14476,6 +16172,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.032258064516129004
 "raw ncd" 0.005787037037037037
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.026570048309178744
@@ -14483,6 +16180,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.0
 "skeletons ncd" 0.03386454183266932
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.026570048309178744
@@ -14490,6 +16188,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.03406813627254509
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.06504065040650407
@@ -14497,6 +16196,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.08163265306122448
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.06504065040650407
@@ -14511,6 +16211,7 @@ edge [
 "target" 1004645671
 "group1" "ambi wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.06736842105263158
@@ -14518,6 +16219,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.012853470437017995
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 18.0
 "skeletons byteBag" 0.0859375
@@ -14525,6 +16227,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.07142857142857142
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 18.0
 "fstSecSkel byteBag" 0.0859375
@@ -14532,6 +16235,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07239819004524888
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.2
@@ -14539,6 +16243,7 @@ edge [
 "fStat bz" 0.16666666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.13043478260869565
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.2
@@ -14553,6 +16258,7 @@ edge [
 "target" 944652497
 "group1" "ambi wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 15.0
 "raw byteBag" 0.14285714285714285
@@ -14560,6 +16266,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.03731343283582089
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.26229508196721313
@@ -14567,6 +16274,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.21428571428571427
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.0
 "fstSecSkel byteBag" 0.26229508196721313
@@ -14574,6 +16282,7 @@ edge [
 "fstSecSkel bz" 0.33333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.22388059701492538
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 2.0
 "fStat byteBag" 0.5714285714285714
@@ -14581,6 +16290,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.2222222222222222
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5714285714285714
@@ -14595,6 +16305,7 @@ edge [
 "target" 1185455645
 "group1" "ambi wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.005790235557310172
@@ -14602,6 +16313,7 @@ edge [
 "raw bz" 0.010471204188481686
 "raw jump" 0.005235602094240788
 "raw ncd" 0.0022471910112359553
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0042695377761277145
@@ -14609,6 +16321,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.0
 "skeletons ncd" 0.009489916963226572
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0042695377761277145
@@ -14616,6 +16329,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.009495548961424332
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.008724100327153763
@@ -14623,6 +16337,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.005291005291005346
 "fStat ncd" 0.0243161094224924
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.008724100327153763
@@ -14637,6 +16352,7 @@ edge [
 "target" 279982671
 "group1" "wallet 5"
 "group2" "multisig Gavin Wood/Ethereum/Parity"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 27.02702702702703
 "raw byteBag" 0.37185929648241206
@@ -14644,6 +16360,7 @@ edge [
 "raw bz" 0.28
 "raw jump" 0.0
 "raw ncd" 0.11313131313131314
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 25.352112676056336
 "skeletons byteBag" 0.3523238380809595
@@ -14651,6 +16368,7 @@ edge [
 "skeletons bz" 0.33333333333333337
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.22509225092250923
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 26.027397260273972
 "fstSecSkel byteBag" 0.3523238380809595
@@ -14658,6 +16376,7 @@ edge [
 "fstSecSkel bz" 0.33333333333333337
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.23048327137546468
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 22.0
 "fStat byteBag" 0.375
@@ -14665,6 +16384,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.35
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 53.521126760563384
 "fStat0 byteBag" 0.375
@@ -14679,6 +16399,7 @@ edge [
 "target" 330058410
 "group1" "wallet 5"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.38709677419355
 "raw byteBag" 0.518796992481203
@@ -14686,6 +16407,7 @@ edge [
 "raw bz" 0.6
 "raw jump" 0.0
 "raw ncd" 0.17223650385604114
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 42.3728813559322
 "skeletons byteBag" 0.5568181818181818
@@ -14693,6 +16415,7 @@ edge [
 "skeletons bz" 0.6
 "skeletons jump" 0.09999999999999998
 "skeletons ncd" 0.22140221402214022
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 42.622950819672134
 "fstSecSkel byteBag" 0.5568181818181818
@@ -14700,6 +16423,7 @@ edge [
 "fstSecSkel bz" 0.6
 "fstSecSkel jump" 0.09999999999999998
 "fstSecSkel ncd" 0.23048327137546468
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.45614035087719296
@@ -14707,6 +16431,7 @@ edge [
 "fStat bz" 0.4
 "fStat jump" 0.19999999999999996
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.45614035087719296
@@ -14721,6 +16446,7 @@ edge [
 "target" 335801898
 "group1" "wallet 5"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.05847953216374269
@@ -14728,6 +16454,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.010282776349614395
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.07604562737642585
@@ -14735,6 +16462,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.055350553505535055
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.07604562737642585
@@ -14742,6 +16470,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.05204460966542751
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.18333333333333332
@@ -14749,6 +16478,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.1
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.18333333333333332
@@ -14763,6 +16493,7 @@ edge [
 "target" 418465659
 "group1" "wallet 5"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1475095785440613
@@ -14770,6 +16501,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.07712082262210797
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1346153846153846
@@ -14777,6 +16509,7 @@ edge [
 "skeletons bz" 0.09999999999999998
 "skeletons jump" 0.0
 "skeletons ncd" 0.08118081180811808
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1346153846153846
@@ -14784,6 +16517,7 @@ edge [
 "fstSecSkel bz" 0.09999999999999998
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08178438661710037
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.21428571428571427
@@ -14791,6 +16525,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.1
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.21428571428571427
@@ -14805,6 +16540,7 @@ edge [
 "target" 361996893
 "group1" "wallet 5"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.10526315789474
 "raw byteBag" 0.2870201096892139
@@ -14812,6 +16548,7 @@ edge [
 "raw bz" 0.30000000000000004
 "raw jump" 0.0
 "raw ncd" 0.11568123393316196
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.36981132075471695
@@ -14819,6 +16556,7 @@ edge [
 "skeletons bz" 0.30000000000000004
 "skeletons jump" 0.0
 "skeletons ncd" 0.14391143911439114
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.36981132075471695
@@ -14826,6 +16564,7 @@ edge [
 "fstSecSkel bz" 0.4
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1449814126394052
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.3770491803278688
@@ -14833,6 +16572,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.18333333333333332
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 32.0
 "fStat0 byteBag" 0.3770491803278688
@@ -14847,6 +16587,7 @@ edge [
 "target" 390726882
 "group1" "wallet 5"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.90163934426229
 "raw byteBag" 0.5103578154425612
@@ -14854,6 +16595,7 @@ edge [
 "raw bz" 0.6
 "raw jump" 0.0
 "raw ncd" 0.16966580976863754
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 39.6551724137931
 "skeletons byteBag" 0.5471698113207547
@@ -14861,6 +16603,7 @@ edge [
 "skeletons bz" 0.6
 "skeletons jump" 0.09999999999999998
 "skeletons ncd" 0.22140221402214022
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 41.666666666666664
 "fstSecSkel byteBag" 0.5471698113207547
@@ -14868,6 +16611,7 @@ edge [
 "fstSecSkel bz" 0.6
 "fstSecSkel jump" 0.09999999999999998
 "fstSecSkel ncd" 0.21933085501858737
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.43859649122807015
@@ -14875,6 +16619,7 @@ edge [
 "fStat bz" 0.30000000000000004
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.23333333333333334
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.43859649122807015
@@ -14889,6 +16634,7 @@ edge [
 "target" 380260548
 "group1" "wallet 5"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.774193548387096
 "raw byteBag" 0.5303030303030303
@@ -14896,6 +16642,7 @@ edge [
 "raw bz" 0.6
 "raw jump" 0.0
 "raw ncd" 0.17223650385604114
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 42.3728813559322
 "skeletons byteBag" 0.5547169811320755
@@ -14903,6 +16650,7 @@ edge [
 "skeletons bz" 0.6
 "skeletons jump" 0.09999999999999998
 "skeletons ncd" 0.22140221402214022
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 44.26229508196721
 "fstSecSkel byteBag" 0.5547169811320755
@@ -14910,6 +16658,7 @@ edge [
 "fstSecSkel bz" 0.6
 "fstSecSkel jump" 0.09999999999999998
 "fstSecSkel ncd" 0.22676579925650558
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.45614035087719296
@@ -14917,6 +16666,7 @@ edge [
 "fStat bz" 0.4
 "fStat jump" 0.19999999999999996
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.45614035087719296
@@ -14931,6 +16681,7 @@ edge [
 "target" 368113519
 "group1" "wallet 5"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.875
 "raw byteBag" 0.2849264705882353
@@ -14938,6 +16689,7 @@ edge [
 "raw bz" 0.30000000000000004
 "raw jump" 0.0
 "raw ncd" 0.10796915167095116
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.3471698113207547
@@ -14945,6 +16697,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.12915129151291513
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.3471698113207547
@@ -14952,6 +16705,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.13011152416356878
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.4098360655737705
@@ -14959,6 +16713,7 @@ edge [
 "fStat bz" 0.09999999999999998
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.23333333333333334
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 34.0
 "fStat0 byteBag" 0.4098360655737705
@@ -14973,6 +16728,7 @@ edge [
 "target" 477996669
 "group1" "wallet 5"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.81967213114754
 "raw byteBag" 0.4157303370786517
@@ -14980,6 +16736,7 @@ edge [
 "raw bz" 0.6
 "raw jump" 0.0
 "raw ncd" 0.17994858611825193
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 48.275862068965516
 "skeletons byteBag" 0.4696969696969697
@@ -14987,6 +16744,7 @@ edge [
 "skeletons bz" 0.6
 "skeletons jump" 0.0
 "skeletons ncd" 0.2066420664206642
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.333333333333336
 "fstSecSkel byteBag" 0.4696969696969697
@@ -14994,6 +16752,7 @@ edge [
 "fstSecSkel bz" 0.6
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.20817843866171004
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.45614035087719296
@@ -15001,6 +16760,7 @@ edge [
 "fStat bz" 0.30000000000000004
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.23333333333333334
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.45614035087719296
@@ -15015,6 +16775,7 @@ edge [
 "target" 649064345
 "group1" "wallet 5"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 47.76119402985075
 "raw byteBag" 0.30418943533697634
@@ -15022,6 +16783,7 @@ edge [
 "raw bz" 0.30000000000000004
 "raw jump" 0.0
 "raw ncd" 0.11053984575835475
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.3895131086142322
@@ -15029,6 +16791,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.13284132841328414
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.3895131086142322
@@ -15036,6 +16799,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.137546468401487
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 15.0
 "fStat byteBag" 0.4426229508196721
@@ -15043,6 +16807,7 @@ edge [
 "fStat bz" 0.09999999999999998
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.23333333333333334
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 38.0
 "fStat0 byteBag" 0.4426229508196721
@@ -15057,6 +16822,7 @@ edge [
 "target" 646985657
 "group1" "wallet 5"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.0
 "raw byteBag" 0.3217550274223035
@@ -15064,6 +16830,7 @@ edge [
 "raw bz" 0.4
 "raw jump" 0.0
 "raw ncd" 0.11825192802056556
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 37.5
 "skeletons byteBag" 0.4141791044776119
@@ -15071,6 +16838,7 @@ edge [
 "skeletons bz" 0.30000000000000004
 "skeletons jump" 0.0
 "skeletons ncd" 0.14391143911439114
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 36.8421052631579
 "fstSecSkel byteBag" 0.4141791044776119
@@ -15078,6 +16846,7 @@ edge [
 "fstSecSkel bz" 0.30000000000000004
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1449814126394052
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 12.0
 "fStat byteBag" 0.4032258064516129
@@ -15085,6 +16854,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 37.0
 "fStat0 byteBag" 0.4032258064516129
@@ -15099,6 +16869,7 @@ edge [
 "target" 641867691
 "group1" "wallet 5"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.022626906442066923
@@ -15106,6 +16877,7 @@ edge [
 "raw bz" 0.037735849056603765
 "raw jump" 0.015094339622641506
 "raw ncd" 0.022520661157024793
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.022960779058340035
@@ -15113,6 +16885,7 @@ edge [
 "skeletons bz" 0.03816793893129766
 "skeletons jump" 0.011450381679389277
 "skeletons ncd" 0.04826678367705134
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.022960779058340035
@@ -15120,6 +16893,7 @@ edge [
 "fstSecSkel bz" 0.03816793893129766
 "fstSecSkel jump" 0.011450381679389277
 "fstSecSkel ncd" 0.048330404217926184
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.032073310423825885
@@ -15127,6 +16901,7 @@ edge [
 "fStat bz" 0.03816793893129766
 "fStat jump" 0.01908396946564883
 "fStat ncd" 0.05
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.032073310423825885
@@ -15141,6 +16916,7 @@ edge [
 "target" 537425789
 "group1" "wallet 5"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 43.10344827586207
 "raw byteBag" 0.405607476635514
@@ -15148,6 +16924,7 @@ edge [
 "raw bz" 0.30000000000000004
 "raw jump" 0.0
 "raw ncd" 0.14395886889460155
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 40.35087719298246
 "skeletons byteBag" 0.3931297709923664
@@ -15155,6 +16932,7 @@ edge [
 "skeletons bz" 0.4
 "skeletons jump" 0.0
 "skeletons ncd" 0.18081180811808117
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 42.3728813559322
 "fstSecSkel byteBag" 0.3931297709923664
@@ -15162,6 +16940,7 @@ edge [
 "fstSecSkel bz" 0.4
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1821561338289963
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.3333333333333333
@@ -15169,6 +16948,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.09999999999999998
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.3333333333333333
@@ -15183,6 +16963,7 @@ edge [
 "target" 833378376
 "group1" "wallet 5"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 31.343283582089555
 "raw byteBag" 0.26364280652019845
@@ -15190,6 +16971,7 @@ edge [
 "raw bz" 0.29032258064516125
 "raw jump" 0.0
 "raw ncd" 0.07060185185185185
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 32.075471698113205
 "skeletons byteBag" 0.2870699881376038
@@ -15197,6 +16979,7 @@ edge [
 "skeletons bz" 0.29032258064516125
 "skeletons jump" 0.06451612903225812
 "skeletons ncd" 0.13745019920318724
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 32.727272727272734
 "fstSecSkel byteBag" 0.2870699881376038
@@ -15204,6 +16987,7 @@ edge [
 "fstSecSkel bz" 0.32258064516129037
 "fstSecSkel jump" 0.032258064516129004
 "fstSecSkel ncd" 0.1402805611222445
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 22.0
 "fStat byteBag" 0.4094488188976378
@@ -15211,6 +16995,7 @@ edge [
 "fStat bz" 0.32258064516129037
 "fStat jump" 0.09677419354838712
 "fStat ncd" 0.1836734693877551
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 52.17391304347826
 "fStat0 byteBag" 0.4094488188976378
@@ -15225,6 +17010,7 @@ edge [
 "target" 1004645671
 "group1" "wallet 5"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.36708860759494
 "raw byteBag" 0.3872832369942196
@@ -15232,6 +17018,7 @@ edge [
 "raw bz" 0.41666666666666663
 "raw jump" 0.0
 "raw ncd" 0.12339331619537275
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 42.3728813559322
 "skeletons byteBag" 0.5640243902439024
@@ -15239,6 +17026,7 @@ edge [
 "skeletons bz" 0.33333333333333337
 "skeletons jump" 0.08333333333333337
 "skeletons ncd" 0.21033210332103322
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 42.622950819672134
 "fstSecSkel byteBag" 0.5640243902439024
@@ -15246,6 +17034,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.21561338289962825
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.5238095238095238
@@ -15253,6 +17042,7 @@ edge [
 "fStat bz" 0.5
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.26666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 29.0
 "fStat0 byteBag" 0.5238095238095238
@@ -15267,6 +17057,7 @@ edge [
 "target" 944652497
 "group1" "wallet 5"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14152700186219738
@@ -15274,6 +17065,7 @@ edge [
 "raw bz" 0.30000000000000004
 "raw jump" 0.0
 "raw ncd" 0.06940874035989718
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.19083969465648856
@@ -15281,6 +17073,7 @@ edge [
 "skeletons bz" 0.09999999999999998
 "skeletons jump" 0.0
 "skeletons ncd" 0.08856088560885608
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.19083969465648856
@@ -15288,6 +17081,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09293680297397769
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.25
@@ -15295,6 +17089,7 @@ edge [
 "fStat bz" 0.09999999999999998
 "fStat jump" 0.0
 "fStat ncd" 0.1
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.25
@@ -15309,6 +17104,7 @@ edge [
 "target" 1185455645
 "group1" "wallet 5"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.06288565051857686
@@ -15316,6 +17112,7 @@ edge [
 "raw bz" 0.05235602094240843
 "raw jump" 0.020942408376963373
 "raw ncd" 0.03467094703049759
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.04692136498516321
@@ -15323,6 +17120,7 @@ edge [
 "skeletons bz" 0.05291005291005291
 "skeletons jump" 0.015873015873015928
 "skeletons ncd" 0.06583629893238434
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.04692136498516321
@@ -15330,6 +17128,7 @@ edge [
 "fstSecSkel bz" 0.05291005291005291
 "fstSecSkel jump" 0.015873015873015928
 "fstSecSkel ncd" 0.06706231454005934
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.058759521218716
@@ -15337,6 +17136,7 @@ edge [
 "fStat bz" 0.05291005291005291
 "fStat jump" 0.02645502645502651
 "fStat ncd" 0.06382978723404255
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.058759521218716
@@ -15351,6 +17151,7 @@ edge [
 "target" 330058410
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.24570446735395188
@@ -15358,6 +17159,7 @@ edge [
 "raw bz" 0.24
 "raw jump" 0.040000000000000036
 "raw ncd" 0.1494949494949495
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21932515337423314
@@ -15365,6 +17167,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.125
 "skeletons ncd" 0.2607003891050584
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21932515337423314
@@ -15372,6 +17175,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.27058823529411763
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.20353982300884957
@@ -15379,6 +17183,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.22807017543859648
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.20353982300884957
@@ -15393,6 +17198,7 @@ edge [
 "target" 335801898
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.028645833333333332
@@ -15400,6 +17206,7 @@ edge [
 "raw bz" 0.07999999999999996
 "raw jump" 0.040000000000000036
 "raw ncd" 0.00808080808080808
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.021439509954058193
@@ -15407,6 +17214,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.054474708171206226
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.021439509954058193
@@ -15414,6 +17222,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.054901960784313725
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.05084745762711865
@@ -15421,6 +17230,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.08771929824561403
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 12.0
 "fStat0 byteBag" 0.05084745762711865
@@ -15435,6 +17245,7 @@ edge [
 "target" 418465659
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.07352941176470588
@@ -15442,6 +17253,7 @@ edge [
 "raw bz" 0.07999999999999996
 "raw jump" 0.0
 "raw ncd" 0.052525252525252523
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.047839506172839504
@@ -15449,6 +17261,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.07392996108949416
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.047839506172839504
@@ -15456,6 +17269,7 @@ edge [
 "fstSecSkel bz" 0.04166666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07450980392156863
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.07079646017699115
@@ -15463,6 +17277,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.07017543859649122
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.07079646017699115
@@ -15477,6 +17292,7 @@ edge [
 "target" 361996893
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14261460101867574
@@ -15484,6 +17300,7 @@ edge [
 "raw bz" 0.12
 "raw jump" 0.0
 "raw ncd" 0.10303030303030303
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14746543778801843
@@ -15491,6 +17308,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.17509727626459143
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14746543778801843
@@ -15498,6 +17316,7 @@ edge [
 "fstSecSkel bz" 0.16666666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1803921568627451
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.19130434782608696
@@ -15505,6 +17324,7 @@ edge [
 "fStat bz" 0.04166666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.19130434782608696
@@ -15519,6 +17339,7 @@ edge [
 "target" 390726882
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.2469775474956822
@@ -15526,6 +17347,7 @@ edge [
 "raw bz" 0.24
 "raw jump" 0.040000000000000036
 "raw ncd" 0.13535353535353536
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.21779141104294478
@@ -15533,6 +17355,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.245136186770428
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.21779141104294478
@@ -15540,6 +17363,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.04166666666666663
 "fstSecSkel ncd" 0.25098039215686274
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.19469026548672566
@@ -15547,6 +17371,7 @@ edge [
 "fStat bz" 0.125
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.22807017543859648
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.19469026548672566
@@ -15561,6 +17386,7 @@ edge [
 "target" 380260548
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.25215889464594127
@@ -15568,6 +17394,7 @@ edge [
 "raw bz" 0.24
 "raw jump" 0.0
 "raw ncd" 0.1494949494949495
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.22085889570552147
@@ -15575,6 +17402,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.08333333333333337
 "skeletons ncd" 0.2607003891050584
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.22085889570552147
@@ -15582,6 +17410,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.27058823529411763
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.20353982300884957
@@ -15589,6 +17418,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.22807017543859648
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.20353982300884957
@@ -15603,6 +17433,7 @@ edge [
 "target" 368113519
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.13740458015267176
@@ -15610,6 +17441,7 @@ edge [
 "raw bz" 0.12
 "raw jump" 0.0
 "raw ncd" 0.08686868686868687
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.13650306748466257
@@ -15617,6 +17449,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.13618677042801555
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.13650306748466257
@@ -15624,6 +17457,7 @@ edge [
 "fstSecSkel bz" 0.16666666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.13725490196078433
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.20869565217391303
@@ -15631,6 +17465,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.04166666666666663
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 25.925925925925924
 "fStat0 byteBag" 0.20869565217391303
@@ -15645,6 +17480,7 @@ edge [
 "target" 477996669
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.19385140905209222
@@ -15652,6 +17488,7 @@ edge [
 "raw bz" 0.24
 "raw jump" 0.0
 "raw ncd" 0.07272727272727272
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.18769230769230769
@@ -15659,6 +17496,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.12062256809338522
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.18769230769230769
@@ -15666,6 +17504,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.11764705882352941
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.20353982300884957
@@ -15673,6 +17512,7 @@ edge [
 "fStat bz" 0.125
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.22807017543859648
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.20353982300884957
@@ -15687,6 +17527,7 @@ edge [
 "target" 649064345
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15084745762711865
@@ -15694,6 +17535,7 @@ edge [
 "raw bz" 0.16000000000000003
 "raw jump" 0.0
 "raw ncd" 0.09292929292929293
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1579754601226994
@@ -15701,6 +17543,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.1517509727626459
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1579754601226994
@@ -15708,6 +17551,7 @@ edge [
 "fstSecSkel bz" 0.16666666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1568627450980392
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 15.0
 "fStat byteBag" 0.22608695652173913
@@ -15715,6 +17559,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.04166666666666663
 "fStat ncd" 0.19298245614035087
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 30.0
 "fStat0 byteBag" 0.22608695652173913
@@ -15729,6 +17574,7 @@ edge [
 "target" 646985657
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15972812234494477
@@ -15736,6 +17582,7 @@ edge [
 "raw bz" 0.16000000000000003
 "raw jump" 0.0
 "raw ncd" 0.09494949494949495
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.17024539877300612
@@ -15743,6 +17590,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.1556420233463035
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.17024539877300612
@@ -15750,6 +17598,7 @@ edge [
 "fstSecSkel bz" 0.125
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1607843137254902
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 12.0
 "fStat byteBag" 0.20689655172413793
@@ -15757,6 +17606,7 @@ edge [
 "fStat bz" 0.04166666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 27.272727272727266
 "fStat0 byteBag" 0.20689655172413793
@@ -15771,6 +17621,7 @@ edge [
 "target" 641867691
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.051711580480699196
@@ -15778,6 +17629,7 @@ edge [
 "raw bz" 0.09056603773584904
 "raw jump" 0.018867924528301883
 "raw ncd" 0.023347107438016528
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.05698463737048946
@@ -15785,6 +17637,7 @@ edge [
 "skeletons bz" 0.08778625954198471
 "skeletons jump" 0.04961832061068705
 "skeletons ncd" 0.0451952610794208
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.05698463737048946
@@ -15792,6 +17645,7 @@ edge [
 "fstSecSkel bz" 0.08778625954198471
 "fstSecSkel jump" 0.04961832061068705
 "fstSecSkel ncd" 0.04525483304042179
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.06121281464530892
@@ -15799,6 +17653,7 @@ edge [
 "fStat bz" 0.08778625954198471
 "fStat jump" 0.057251908396946605
 "fStat ncd" 0.038
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.06121281464530892
@@ -15813,6 +17668,7 @@ edge [
 "target" 537425789
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1955403087478559
@@ -15820,6 +17676,7 @@ edge [
 "raw bz" 0.24
 "raw jump" 0.0
 "raw ncd" 0.1191919191919192
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.15053763440860216
@@ -15827,6 +17684,7 @@ edge [
 "skeletons bz" 0.16666666666666663
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.2178988326848249
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.15053763440860216
@@ -15834,6 +17692,7 @@ edge [
 "fstSecSkel bz" 0.16666666666666663
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2235294117647059
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.1415929203539823
@@ -15841,6 +17700,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.12280701754385964
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 12.0
 "fStat0 byteBag" 0.1415929203539823
@@ -15855,6 +17715,7 @@ edge [
 "target" 833378376
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.45871559633027
 "raw byteBag" 0.44517282479141834
@@ -15862,6 +17723,7 @@ edge [
 "raw bz" 0.4516129032258065
 "raw jump" 0.032258064516129004
 "raw ncd" 0.06828703703703703
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 51.851851851851855
 "skeletons byteBag" 0.5660980810234542
@@ -15869,6 +17731,7 @@ edge [
 "skeletons bz" 0.4516129032258065
 "skeletons jump" 0.12903225806451613
 "skeletons ncd" 0.1254980079681275
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 51.785714285714285
 "fstSecSkel byteBag" 0.5660980810234542
@@ -15876,6 +17739,7 @@ edge [
 "fstSecSkel bz" 0.4838709677419355
 "fstSecSkel jump" 0.12903225806451613
 "fstSecSkel ncd" 0.13026052104208416
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 38.0
 "fStat byteBag" 0.5570469798657718
@@ -15883,6 +17747,7 @@ edge [
 "fStat bz" 0.4193548387096774
 "fStat jump" 0.19354838709677424
 "fStat ncd" 0.17346938775510204
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 55.0
 "fStat0 byteBag" 0.5570469798657718
@@ -15897,6 +17762,7 @@ edge [
 "target" 1004645671
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 32.5
 "raw byteBag" 0.2714285714285714
@@ -15904,6 +17770,7 @@ edge [
 "raw bz" 0.36
 "raw jump" 0.0
 "raw ncd" 0.06868686868686869
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.34684684684684686
@@ -15911,6 +17778,7 @@ edge [
 "skeletons bz" 0.33333333333333337
 "skeletons jump" 0.04166666666666663
 "skeletons ncd" 0.19455252918287938
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.34684684684684686
@@ -15918,6 +17786,7 @@ edge [
 "fstSecSkel bz" 0.33333333333333337
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.2
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.3185840707964602
@@ -15925,6 +17794,7 @@ edge [
 "fStat bz" 0.375
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.24561403508771928
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 28.0
 "fStat0 byteBag" 0.3185840707964602
@@ -15939,6 +17809,7 @@ edge [
 "target" 944652497
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.07632933104631218
@@ -15946,6 +17817,7 @@ edge [
 "raw bz" 0.12
 "raw jump" 0.0
 "raw ncd" 0.046464646464646465
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.07076923076923076
@@ -15953,6 +17825,7 @@ edge [
 "skeletons bz" 0.125
 "skeletons jump" 0.0
 "skeletons ncd" 0.07003891050583658
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.07076923076923076
@@ -15960,6 +17833,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07450980392156863
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.08849557522123894
@@ -15967,6 +17841,7 @@ edge [
 "fStat bz" 0.04166666666666663
 "fStat jump" 0.0
 "fStat ncd" 0.08771929824561403
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.08849557522123894
@@ -15981,6 +17856,7 @@ edge [
 "target" 1185455645
 "group1" "multisig Gavin Wood/Ethereum/Parity"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.13451051674889639
@@ -15988,6 +17864,7 @@ edge [
 "raw bz" 0.13089005235602091
 "raw jump" 0.03664921465968585
 "raw ncd" 0.028892455858747994
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.11648148148148148
@@ -15995,6 +17872,7 @@ edge [
 "skeletons bz" 0.12169312169312174
 "skeletons jump" 0.07407407407407407
 "skeletons ncd" 0.045077105575326216
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.11648148148148148
@@ -16002,6 +17880,7 @@ edge [
 "fstSecSkel bz" 0.12169312169312174
 "fstSecSkel jump" 0.07407407407407407
 "fstSecSkel ncd" 0.0456973293768546
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.11521739130434783
@@ -16009,6 +17888,7 @@ edge [
 "fStat bz" 0.1164021164021164
 "fStat jump" 0.07936507936507942
 "fStat ncd" 0.0729483282674772
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.11521739130434783
@@ -16023,6 +17903,7 @@ edge [
 "target" 335801898
 "group1" "smart GnosisSafe"
 "group2" "dapper"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 12.0
 "raw byteBag" 0.08231707317073171
@@ -16030,6 +17911,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.017857142857142856
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.12101910828025478
@@ -16037,6 +17919,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.09523809523809523
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 8.0
 "fstSecSkel byteBag" 0.12101910828025478
@@ -16044,6 +17927,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09655172413793103
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.3125
@@ -16051,6 +17935,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.0967741935483871
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.3125
@@ -16065,6 +17950,7 @@ edge [
 "target" 418465659
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.22686567164179106
@@ -16072,6 +17958,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.23214285714285715
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.22875816993464052
@@ -16079,6 +17966,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.29931972789115646
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.22875816993464052
@@ -16086,6 +17974,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.30344827586206896
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4444444444444444
@@ -16093,6 +17982,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.1428571428571429
 "fStat ncd" 0.2903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.4444444444444444
@@ -16107,6 +17997,7 @@ edge [
 "target" 361996893
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 43.82022471910113
 "raw byteBag" 0.36147757255936674
@@ -16114,6 +18005,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.24553571428571427
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 48.68421052631579
 "skeletons byteBag" 0.514792899408284
@@ -16121,6 +18013,7 @@ edge [
 "skeletons bz" 0.4285714285714286
 "skeletons jump" 0.0
 "skeletons ncd" 0.3197278911564626
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.05194805194805
 "fstSecSkel byteBag" 0.514792899408284
@@ -16128,6 +18021,7 @@ edge [
 "fstSecSkel bz" 0.4285714285714286
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3310344827586207
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.5714285714285714
@@ -16135,6 +18029,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5714285714285714
@@ -16149,6 +18044,7 @@ edge [
 "target" 390726882
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 46
 "raw ppdeep" 68
 "raw ppdeep_mod" 66.0
 "raw byteBag" 0.7694524495677233
@@ -16156,6 +18052,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.6964285714285714
+"skeletons ssdeep" 88
 "skeletons ppdeep" 88
 "skeletons ppdeep_mod" 88.0
 "skeletons byteBag" 0.9803921568627451
@@ -16163,6 +18060,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.7142857142857143
 "skeletons ncd" 0.9319727891156463
+"fstSecSkel ssdeep" 90
 "fstSecSkel ppdeep" 90
 "fstSecSkel ppdeep_mod" 90.0
 "fstSecSkel byteBag" 0.9803921568627451
@@ -16170,6 +18068,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.7142857142857143
 "fstSecSkel ncd" 0.9310344827586207
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.9629629629629629
@@ -16177,6 +18076,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.8571428571428572
 "fStat ncd" 0.6774193548387096
+"fStat0 ssdeep" 26
 "fStat0 ppdeep" 22
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.9629629629629629
@@ -16191,6 +18091,7 @@ edge [
 "target" 380260548
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 80
 "raw ppdeep" 90
 "raw ppdeep_mod" 88.3495145631068
 "raw byteBag" 0.8397626112759644
@@ -16198,6 +18099,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.8571428571428572
 "raw ncd" 0.8133333333333334
+"skeletons ssdeep" 100
 "skeletons ppdeep" 100
 "skeletons ppdeep_mod" 100.0
 "skeletons byteBag" 0.9934640522875817
@@ -16205,6 +18107,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.8571428571428572
 "skeletons ncd" 0.9459459459459459
+"fstSecSkel ssdeep" 92
 "fstSecSkel ppdeep" 92
 "fstSecSkel ppdeep_mod" 92.0
 "fstSecSkel byteBag" 0.9934640522875817
@@ -16212,6 +18115,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.8571428571428572
 "fstSecSkel ncd" 0.9586206896551724
+"fStat ssdeep" 100
 "fStat ppdeep" 100
 "fStat ppdeep_mod" 100.0
 "fStat byteBag" 1.0
@@ -16219,6 +18123,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 1.0
 "fStat ncd" 0.7419354838709677
+"fStat0 ssdeep" 100
 "fStat0 ppdeep" 100
 "fStat0 ppdeep_mod" 100.0
 "fStat0 byteBag" 1.0
@@ -16233,6 +18138,7 @@ edge [
 "target" 368113519
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.148148148148145
 "raw byteBag" 0.35185185185185186
@@ -16240,6 +18146,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.20982142857142858
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 42.64705882352941
 "skeletons byteBag" 0.47058823529411764
@@ -16247,6 +18154,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.2653061224489796
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 42.028985507246375
 "fstSecSkel byteBag" 0.47058823529411764
@@ -16254,6 +18162,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2620689655172414
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.5833333333333334
@@ -16261,6 +18170,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.35294117647058826
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5833333333333334
@@ -16275,6 +18185,7 @@ edge [
 "target" 477996669
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.6136363636363636
@@ -16282,6 +18193,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.35267857142857145
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 46.753246753246756
 "skeletons byteBag" 0.75625
@@ -16289,6 +18201,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.3877551020408163
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.835443037974684
 "fstSecSkel byteBag" 0.75625
@@ -16296,6 +18209,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3931034482758621
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.9285714285714286
@@ -16303,6 +18217,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.7142857142857143
 "fStat ncd" 0.6774193548387096
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.9285714285714286
@@ -16317,6 +18232,7 @@ edge [
 "target" 649064345
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.45360824742268
 "raw byteBag" 0.36787564766839376
@@ -16324,6 +18240,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.20982142857142858
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 44.44444444444444
 "skeletons byteBag" 0.4915254237288136
@@ -16331,6 +18248,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.272108843537415
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 43.83561643835616
 "fstSecSkel byteBag" 0.4915254237288136
@@ -16338,6 +18256,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2689655172413793
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.5526315789473685
@@ -16345,6 +18264,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.3611111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5526315789473685
@@ -16359,6 +18279,7 @@ edge [
 "target" 646985657
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.0
 "raw byteBag" 0.3860103626943005
@@ -16366,6 +18287,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.24107142857142858
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 48.717948717948715
 "skeletons byteBag" 0.5111111111111111
@@ -16373,6 +18295,7 @@ edge [
 "skeletons bz" 0.4285714285714286
 "skeletons jump" 0.0
 "skeletons ncd" 0.30612244897959184
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.10126582278481
 "fstSecSkel byteBag" 0.5111111111111111
@@ -16380,6 +18303,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3103448275862069
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.5263157894736842
@@ -16387,6 +18311,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.2571428571428571
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5263157894736842
@@ -16401,6 +18326,7 @@ edge [
 "target" 641867691
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.014114004735020943
@@ -16408,6 +18334,7 @@ edge [
 "raw bz" 0.026415094339622636
 "raw jump" 0.01132075471698113
 "raw ncd" 0.02024793388429752
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.013491779842744817
@@ -16415,6 +18342,7 @@ edge [
 "skeletons bz" 0.026717557251908386
 "skeletons jump" 0.01526717557251911
 "skeletons ncd" 0.0434401053093462
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.013491779842744817
@@ -16422,6 +18350,7 @@ edge [
 "fstSecSkel bz" 0.026717557251908386
 "fstSecSkel jump" 0.01908396946564883
 "fstSecSkel ncd" 0.04261862917398945
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.015463917525773196
@@ -16429,6 +18358,7 @@ edge [
 "fStat bz" 0.026717557251908386
 "fStat jump" 0.01908396946564883
 "fStat ncd" 0.034
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.015463917525773196
@@ -16443,6 +18373,7 @@ edge [
 "target" 537425789
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 40
 "raw ppdeep" 60
 "raw ppdeep_mod" 58.888888888888886
 "raw byteBag" 0.6068376068376068
@@ -16450,6 +18381,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.5223214285714286
+"skeletons ssdeep" 49
 "skeletons ppdeep" 68
 "skeletons ppdeep_mod" 66.25
 "skeletons byteBag" 0.6862745098039216
@@ -16457,6 +18389,7 @@ edge [
 "skeletons bz" 0.7142857142857143
 "skeletons jump" 0.0
 "skeletons ncd" 0.7074829931972789
+"fstSecSkel ssdeep" 47
 "fstSecSkel ppdeep" 68
 "fstSecSkel ppdeep_mod" 65.85365853658536
 "fstSecSkel byteBag" 0.6862745098039216
@@ -16464,6 +18397,7 @@ edge [
 "fstSecSkel bz" 0.7142857142857143
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.7103448275862069
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.7407407407407407
@@ -16471,6 +18405,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.7142857142857143
 "fStat ncd" 0.4838709677419355
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.7407407407407407
@@ -16485,6 +18420,7 @@ edge [
 "target" 833378376
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.16508400292184075
@@ -16492,6 +18428,7 @@ edge [
 "raw bz" 0.19354838709677424
 "raw jump" 0.0
 "raw ncd" 0.07407407407407407
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.16985645933014354
@@ -16499,6 +18436,7 @@ edge [
 "skeletons bz" 0.22580645161290325
 "skeletons jump" 0.09677419354838712
 "skeletons ncd" 0.13346613545816732
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.16985645933014354
@@ -16506,6 +18444,7 @@ edge [
 "fstSecSkel bz" 0.22580645161290325
 "fstSecSkel jump" 0.09677419354838712
 "fstSecSkel ncd" 0.13627254509018036
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.21951219512195122
@@ -16513,6 +18452,7 @@ edge [
 "fStat bz" 0.19354838709677424
 "fStat jump" 0.06451612903225812
 "fStat ncd" 0.1836734693877551
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.21951219512195122
@@ -16527,6 +18467,7 @@ edge [
 "target" 1004645671
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.927536231884055
 "raw byteBag" 0.3241852487135506
@@ -16534,6 +18475,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.15424164524421594
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.06122448979592
 "skeletons byteBag" 0.5149253731343284
@@ -16541,6 +18483,7 @@ edge [
 "skeletons bz" 0.41666666666666663
 "skeletons jump" 0.25
 "skeletons ncd" 0.28125
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.0
 "fstSecSkel byteBag" 0.5149253731343284
@@ -16548,6 +18491,7 @@ edge [
 "fstSecSkel bz" 0.41666666666666663
 "fstSecSkel jump" 0.25
 "fstSecSkel ncd" 0.2895927601809955
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.5581395348837209
@@ -16555,6 +18499,7 @@ edge [
 "fStat bz" 0.41666666666666663
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.34782608695652173
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5581395348837209
@@ -16569,6 +18514,7 @@ edge [
 "target" 944652497
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.57831325301205
 "raw byteBag" 0.22478386167146974
@@ -16576,6 +18522,7 @@ edge [
 "raw bz" 0.4285714285714286
 "raw jump" 0.0
 "raw ncd" 0.19196428571428573
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.3225806451612903
@@ -16583,6 +18530,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.23809523809523808
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 10.0
 "fstSecSkel byteBag" 0.3225806451612903
@@ -16590,6 +18538,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2482758620689655
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.5185185185185185
@@ -16597,6 +18546,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.1935483870967742
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5185185185185185
@@ -16611,6 +18561,7 @@ edge [
 "target" 1185455645
 "group1" "smart GnosisSafe"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.04052631578947368
@@ -16618,6 +18569,7 @@ edge [
 "raw bz" 0.03664921465968585
 "raw jump" 0.015706806282722474
 "raw ncd" 0.024719101123595506
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.02783964365256125
@@ -16625,6 +18577,7 @@ edge [
 "skeletons bz" 0.03703703703703709
 "skeletons jump" 0.021164021164021163
 "skeletons ncd" 0.036773428232502965
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.02783964365256125
@@ -16632,6 +18585,7 @@ edge [
 "fstSecSkel bz" 0.03703703703703709
 "fstSecSkel jump" 0.021164021164021163
 "fstSecSkel ncd" 0.037388724035608306
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.029443838604143947
@@ -16639,6 +18593,7 @@ edge [
 "fStat bz" 0.03703703703703709
 "fStat jump" 0.02645502645502651
 "fStat ncd" 0.057750759878419454
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.029443838604143947
@@ -16653,6 +18608,7 @@ edge [
 "target" 418465659
 "group1" "dapper"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.14960629921259844
@@ -16660,6 +18616,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.0594059405940594
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.36363636363636365
@@ -16667,6 +18624,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2807017543859649
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.36363636363636365
@@ -16674,6 +18632,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2830188679245283
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.5882352941176471
@@ -16681,6 +18640,7 @@ edge [
 "fStat bz" 0.0
 "fStat jump" 0.0
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5882352941176471
@@ -16695,6 +18655,7 @@ edge [
 "target" 361996893
 "group1" "dapper"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 12.0
 "raw byteBag" 0.11555555555555555
@@ -16702,6 +18663,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.028846153846153848
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.1743119266055046
@@ -16709,6 +18671,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.13385826771653545
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.1743119266055046
@@ -16716,6 +18679,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.25
 "fstSecSkel ncd" 0.14285714285714285
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.30303030303030304
@@ -16723,6 +18687,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.30303030303030304
@@ -16737,6 +18702,7 @@ edge [
 "target" 390726882
 "group1" "dapper"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 12.0
 "raw byteBag" 0.07384615384615385
@@ -16744,6 +18710,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.02727272727272727
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.12179487179487179
@@ -16751,6 +18718,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.10273972602739725
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 8.0
 "fstSecSkel byteBag" 0.12179487179487179
@@ -16758,6 +18726,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09859154929577464
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.3225806451612903
@@ -16765,6 +18734,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.3225806451612903
@@ -16779,6 +18749,7 @@ edge [
 "target" 380260548
 "group1" "dapper"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 12.0
 "raw byteBag" 0.08895705521472393
@@ -16786,6 +18757,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.02666666666666667
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.12025316455696203
@@ -16793,6 +18765,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.0945945945945946
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 8.0
 "fstSecSkel byteBag" 0.12025316455696203
@@ -16800,6 +18773,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.09655172413793103
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.3125
@@ -16807,6 +18781,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.16129032258064516
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.3125
@@ -16821,6 +18796,7 @@ edge [
 "target" 368113519
 "group1" "dapper"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 12.0
 "raw byteBag" 0.12844036697247707
@@ -16828,6 +18804,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.03015075376884422
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.17307692307692307
@@ -16835,6 +18812,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.13559322033898305
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.17307692307692307
@@ -16842,6 +18820,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.25
 "fstSecSkel ncd" 0.13675213675213677
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.2857142857142857
@@ -16849,6 +18828,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.11764705882352941
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.2857142857142857
@@ -16863,6 +18843,7 @@ edge [
 "target" 477996669
 "group1" "dapper"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 12.0
 "raw byteBag" 0.09386281588447654
@@ -16870,6 +18851,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.035
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.1417910447761194
@@ -16877,6 +18859,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.10852713178294573
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 8.0
 "fstSecSkel byteBag" 0.1417910447761194
@@ -16884,6 +18867,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1111111111111111
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.3125
@@ -16891,6 +18875,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.16129032258064516
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.3125
@@ -16905,6 +18890,7 @@ edge [
 "target" 649064345
 "group1" "dapper"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 12.0
 "raw byteBag" 0.11914893617021277
@@ -16912,6 +18898,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.19999999999999996
 "raw ncd" 0.032407407407407406
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.1623931623931624
@@ -16919,6 +18906,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.11940298507462686
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.1623931623931624
@@ -16926,6 +18914,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.12213740458015267
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.2702702702702703
@@ -16933,6 +18922,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.05555555555555555
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.2702702702702703
@@ -16947,6 +18937,7 @@ edge [
 "target" 646985657
 "group1" "dapper"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 12.0
 "raw byteBag" 0.1111111111111111
@@ -16954,6 +18945,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.03125
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.152
@@ -16961,6 +18953,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.11347517730496454
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 8.0
 "fstSecSkel byteBag" 0.152
@@ -16968,6 +18961,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.11594202898550725
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.2777777777777778
@@ -16975,6 +18969,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.05714285714285714
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.2777777777777778
@@ -16989,6 +18984,7 @@ edge [
 "target" 641867691
 "group1" "dapper"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.002048807138954653
@@ -16996,6 +18992,7 @@ edge [
 "raw bz" 0.007547169811320753
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.001446280991735537
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0021445804664462515
@@ -17003,6 +19000,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.007633587786259555
 "skeletons ncd" 0.006581834137779728
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0021445804664462515
@@ -17010,6 +19008,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.007633587786259555
 "fstSecSkel ncd" 0.006590509666080844
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.00859106529209622
@@ -17017,6 +19016,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.014
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.00859106529209622
@@ -17031,6 +19031,7 @@ edge [
 "target" 537425789
 "group1" "dapper"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 12.0
 "raw byteBag" 0.09926470588235294
@@ -17038,6 +19039,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.029850746268656716
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.17117117117117117
@@ -17045,6 +19047,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.1111111111111111
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 8.0
 "fstSecSkel byteBag" 0.17117117117117117
@@ -17052,6 +19055,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.11450381679389313
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.4
@@ -17059,6 +19063,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.0
 "fStat ncd" 0.16666666666666666
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.4
@@ -17073,6 +19078,7 @@ edge [
 "target" 833378376
 "group1" "dapper"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.027820710973724884
@@ -17080,6 +19086,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.032258064516129004
 "raw ncd" 0.005787037037037037
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.024096385542168676
@@ -17087,6 +19094,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.0
 "skeletons ncd" 0.03187250996015936
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.024096385542168676
@@ -17094,6 +19102,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.03206412825651302
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.09523809523809523
@@ -17101,6 +19110,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.08163265306122448
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 12.0
 "fStat0 byteBag" 0.09523809523809523
@@ -17115,6 +19125,7 @@ edge [
 "target" 1004645671
 "group1" "dapper"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.05845511482254697
@@ -17122,6 +19133,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.012853470437017995
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 7.017543859649123
 "skeletons byteBag" 0.061068702290076333
@@ -17129,6 +19141,7 @@ edge [
 "skeletons bz" 0.08333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.06696428571428571
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 6.896551724137936
 "fstSecSkel byteBag" 0.061068702290076333
@@ -17136,6 +19149,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.06787330316742081
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.1702127659574468
@@ -17143,6 +19157,7 @@ edge [
 "fStat bz" 0.16666666666666663
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.15217391304347827
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.1702127659574468
@@ -17157,6 +19172,7 @@ edge [
 "target" 944652497
 "group1" "dapper"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 11.0
 "raw byteBag" 0.1510791366906475
@@ -17164,6 +19180,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.03731343283582089
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 9.0
 "skeletons byteBag" 0.24193548387096775
@@ -17171,6 +19188,7 @@ edge [
 "skeletons bz" 0.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.2
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 9.0
 "fstSecSkel byteBag" 0.24193548387096775
@@ -17178,6 +19196,7 @@ edge [
 "fstSecSkel bz" 0.6666666666666667
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.208955223880597
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.5263157894736842
@@ -17185,6 +19204,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.21052631578947367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5263157894736842
@@ -17199,6 +19219,7 @@ edge [
 "target" 1185455645
 "group1" "dapper"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.005790235557310172
@@ -17206,6 +19227,7 @@ edge [
 "raw bz" 0.010471204188481686
 "raw jump" 0.010471204188481686
 "raw ncd" 0.0012841091492776886
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0038968268695490815
@@ -17213,6 +19235,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.005291005291005346
 "skeletons ncd" 0.008896797153024912
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0038968268695490815
@@ -17220,6 +19243,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.005291005291005346
 "fstSecSkel ncd" 0.008902077151335312
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.013043478260869565
@@ -17227,6 +19251,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.005291005291005346
 "fStat ncd" 0.02127659574468085
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.013043478260869565
@@ -17241,6 +19266,7 @@ edge [
 "target" 361996893
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.31196581196581197
@@ -17248,6 +19274,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.21634615384615385
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.3333333333333333
@@ -17255,6 +19282,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.31496062992125984
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.3333333333333333
@@ -17262,6 +19290,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.30158730158730157
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.42857142857142855
@@ -17269,6 +19298,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.09375
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.42857142857142855
@@ -17283,6 +19313,7 @@ edge [
 "target" 390726882
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.21621621621621623
@@ -17290,6 +19321,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.24545454545454545
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.23841059602649006
@@ -17297,6 +19329,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.3287671232876712
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.23841059602649006
@@ -17304,6 +19337,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.30985915492957744
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.46153846153846156
@@ -17311,6 +19345,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.1428571428571429
 "fStat ncd" 0.3333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.46153846153846156
@@ -17325,6 +19360,7 @@ edge [
 "target" 380260548
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.21238938053097345
@@ -17332,6 +19368,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.23555555555555555
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.23529411764705882
@@ -17339,6 +19376,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.31756756756756754
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.23529411764705882
@@ -17346,6 +19384,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.30344827586206896
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4444444444444444
@@ -17353,6 +19392,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.1428571428571429
 "fStat ncd" 0.2903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.4444444444444444
@@ -17367,6 +19407,7 @@ edge [
 "target" 368113519
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.3017241379310345
@@ -17374,6 +19415,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.19597989949748743
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.34
@@ -17381,6 +19423,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.2796610169491525
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.34
@@ -17388,6 +19431,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.27350427350427353
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4
@@ -17395,6 +19439,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.20588235294117646
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.4
@@ -17409,6 +19454,7 @@ edge [
 "target" 477996669
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.2596491228070175
@@ -17416,6 +19462,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.245
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.27906976744186046
@@ -17423,6 +19470,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.3488372093023256
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.27906976744186046
@@ -17430,6 +19478,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3333333333333333
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.4444444444444444
@@ -17437,6 +19486,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.2903225806451613
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.4444444444444444
@@ -17451,6 +19501,7 @@ edge [
 "target" 649064345
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 21.818181818181813
 "raw byteBag" 0.3020408163265306
@@ -17458,6 +19509,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.19444444444444445
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 15.0
 "skeletons byteBag" 0.30973451327433627
@@ -17465,6 +19517,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.26119402985074625
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 15.0
 "fstSecSkel byteBag" 0.30973451327433627
@@ -17472,6 +19525,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.24427480916030533
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.375
@@ -17479,6 +19533,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.2222222222222222
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.375
@@ -17493,6 +19548,7 @@ edge [
 "target" 646985657
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.29880478087649404
@@ -17500,6 +19556,7 @@ edge [
 "raw bz" 0.19999999999999996
 "raw jump" 0.0
 "raw ncd" 0.20982142857142858
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.3
@@ -17507,6 +19564,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.28368794326241137
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.3
@@ -17514,6 +19572,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2753623188405797
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.3870967741935484
@@ -17521,6 +19580,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.25
 "fStat ncd" 0.11428571428571428
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.3870967741935484
@@ -17535,6 +19595,7 @@ edge [
 "target" 641867691
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.004552697473252903
@@ -17542,6 +19603,7 @@ edge [
 "raw bz" 0.007547169811320753
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.007851239669421488
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0032168706996693773
@@ -17549,6 +19611,7 @@ edge [
 "skeletons bz" 0.007633587786259555
 "skeletons jump" 0.0
 "skeletons ncd" 0.015796401930671347
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0032168706996693773
@@ -17556,6 +19619,7 @@ edge [
 "fstSecSkel bz" 0.007633587786259555
 "fstSecSkel jump" 0.003816793893129722
 "fstSecSkel ncd" 0.013620386643233744
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.006872852233676976
@@ -17563,6 +19627,7 @@ edge [
 "fStat bz" 0.007633587786259555
 "fStat jump" 0.003816793893129722
 "fStat ncd" 0.016
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.006872852233676976
@@ -17577,6 +19642,7 @@ edge [
 "target" 537425789
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 22.0
 "raw byteBag" 0.26334519572953735
@@ -17584,6 +19650,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.24378109452736318
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.33962264150943394
@@ -17591,6 +19658,7 @@ edge [
 "skeletons bz" 0.4
 "skeletons jump" 0.0
 "skeletons ncd" 0.35555555555555557
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.33962264150943394
@@ -17598,6 +19666,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.35877862595419846
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.6
@@ -17605,6 +19674,7 @@ edge [
 "fStat bz" 0.19999999999999996
 "fStat jump" 0.19999999999999996
 "fStat ncd" 0.20833333333333334
+"fStat0 ssdeep" 10
 "fStat0 ppdeep" 10
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.6
@@ -17619,6 +19689,7 @@ edge [
 "target" 833378376
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.06533435818601076
@@ -17626,6 +19697,7 @@ edge [
 "raw bz" 0.032258064516129004
 "raw jump" 0.0
 "raw ncd" 0.02662037037037037
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.04232164449818621
@@ -17633,6 +19705,7 @@ edge [
 "skeletons bz" 0.06451612903225812
 "skeletons jump" 0.0
 "skeletons ncd" 0.049800796812749
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.04232164449818621
@@ -17640,6 +19713,7 @@ edge [
 "fstSecSkel bz" 0.06451612903225812
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.04809619238476954
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.0975609756097561
@@ -17647,6 +19721,7 @@ edge [
 "fStat bz" 0.06451612903225812
 "fStat jump" 0.0
 "fStat ncd" 0.08163265306122448
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.0975609756097561
@@ -17661,6 +19736,7 @@ edge [
 "target" 1004645671
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.10392156862745099
@@ -17668,6 +19744,7 @@ edge [
 "raw bz" 0.08333333333333337
 "raw jump" 0.0
 "raw ncd" 0.056555269922879174
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.0
 "skeletons byteBag" 0.12840466926070038
@@ -17675,6 +19752,7 @@ edge [
 "skeletons bz" 0.16666666666666663
 "skeletons jump" 0.0
 "skeletons ncd" 0.11160714285714286
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 14.0
 "fstSecSkel byteBag" 0.12840466926070038
@@ -17682,6 +19760,7 @@ edge [
 "fstSecSkel bz" 0.08333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1085972850678733
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.23809523809523808
@@ -17689,6 +19768,7 @@ edge [
 "fStat bz" 0.08333333333333337
 "fStat jump" 0.0
 "fStat ncd" 0.13043478260869565
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 10.0
 "fStat0 byteBag" 0.23809523809523808
@@ -17703,6 +19783,7 @@ edge [
 "target" 944652497
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 30.0
 "raw byteBag" 0.3090909090909091
@@ -17710,6 +19791,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.3358208955223881
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.6181818181818182
@@ -17717,6 +19799,7 @@ edge [
 "skeletons bz" 0.6666666666666667
 "skeletons jump" 0.0
 "skeletons ncd" 0.5714285714285714
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.6181818181818182
@@ -17724,6 +19807,7 @@ edge [
 "fstSecSkel bz" 0.33333333333333337
 "fstSecSkel jump" 0.33333333333333337
 "fstSecSkel ncd" 0.582089552238806
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 3.0
 "fStat byteBag" 0.8571428571428571
@@ -17731,6 +19815,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.33333333333333337
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.8571428571428571
@@ -17745,6 +19830,7 @@ edge [
 "target" 1185455645
 "group1" "smart GnosisSafe"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.013026315789473684
@@ -17752,6 +19838,7 @@ edge [
 "raw bz" 0.010471204188481686
 "raw jump" 0.005235602094240788
 "raw ncd" 0.009630818619582664
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.006683995544002971
@@ -17759,6 +19846,7 @@ edge [
 "skeletons bz" 0.010582010582010581
 "skeletons jump" 0.005291005291005346
 "skeletons ncd" 0.01482799525504152
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.006683995544002971
@@ -17766,6 +19854,7 @@ edge [
 "fstSecSkel bz" 0.010582010582010581
 "fstSecSkel jump" 0.010582010582010581
 "fstSecSkel ncd" 0.014243323442136498
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.013086150490730643
@@ -17773,6 +19862,7 @@ edge [
 "fStat bz" 0.010582010582010581
 "fStat jump" 0.0
 "fStat ncd" 0.02735562310030395
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.013086150490730643
@@ -17787,6 +19877,7 @@ edge [
 "target" 390726882
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.78313253012048
 "raw byteBag" 0.3783783783783784
@@ -17794,6 +19885,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.25
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 49.333333333333336
 "skeletons byteBag" 0.5178571428571429
@@ -17801,6 +19893,7 @@ edge [
 "skeletons bz" 0.4285714285714286
 "skeletons jump" 0.0
 "skeletons ncd" 0.3219178082191781
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.68421052631579
 "fstSecSkel byteBag" 0.5178571428571429
@@ -17808,6 +19901,7 @@ edge [
 "fstSecSkel bz" 0.4285714285714286
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.31690140845070425
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.5882352941176471
@@ -17815,6 +19909,7 @@ edge [
 "fStat bz" 0.5714285714285714
 "fStat jump" 0.0
 "fStat ncd" 0.28125
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5882352941176471
@@ -17829,6 +19924,7 @@ edge [
 "target" 380260548
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.348837209302324
 "raw byteBag" 0.35789473684210527
@@ -17836,6 +19932,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.24444444444444444
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 48.68421052631579
 "skeletons byteBag" 0.5117647058823529
@@ -17843,6 +19940,7 @@ edge [
 "skeletons bz" 0.4285714285714286
 "skeletons jump" 0.0
 "skeletons ncd" 0.3108108108108108
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.05194805194805
 "fstSecSkel byteBag" 0.5117647058823529
@@ -17850,6 +19948,7 @@ edge [
 "fstSecSkel bz" 0.4285714285714286
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.31724137931034485
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.5714285714285714
@@ -17857,6 +19956,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5714285714285714
@@ -17871,6 +19971,7 @@ edge [
 "target" 368113519
 "group1" "smart Julien Niset/Argent"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 43
 "raw ppdeep" 63
 "raw ppdeep_mod" 62.0253164556962
 "raw byteBag" 0.6958333333333333
@@ -17878,6 +19979,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.6153846153846154
+"skeletons ssdeep" 46
 "skeletons ppdeep" 41
 "skeletons ppdeep_mod" 41.0
 "skeletons byteBag" 0.8703703703703703
@@ -17885,6 +19987,7 @@ edge [
 "skeletons bz" 0.75
 "skeletons jump" 0.5
 "skeletons ncd" 0.7244094488188977
+"fstSecSkel ssdeep" 46
 "fstSecSkel ppdeep" 40
 "fstSecSkel ppdeep_mod" 40.0
 "fstSecSkel byteBag" 0.8703703703703703
@@ -17892,6 +19995,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.5
 "fstSecSkel ncd" 0.7222222222222222
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.9333333333333333
@@ -17899,6 +20003,7 @@ edge [
 "fStat bz" 0.75
 "fStat jump" 0.5
 "fStat ncd" 0.5294117647058824
+"fStat0 ssdeep" 32
 "fStat0 ppdeep" 32
 "fStat0 ppdeep_mod" 32.0
 "fStat0 byteBag" 0.9333333333333333
@@ -17913,6 +20018,7 @@ edge [
 "target" 477996669
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.648648648648646
 "raw byteBag" 0.3687315634218289
@@ -17920,6 +20026,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.23076923076923078
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 49.20634920634921
 "skeletons byteBag" 0.5328947368421053
@@ -17927,6 +20034,7 @@ edge [
 "skeletons bz" 0.4285714285714286
 "skeletons jump" 0.0
 "skeletons ncd" 0.32558139534883723
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.4375
 "fstSecSkel byteBag" 0.5328947368421053
@@ -17934,6 +20042,7 @@ edge [
 "fstSecSkel bz" 0.4285714285714286
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3412698412698413
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.5714285714285714
@@ -17941,6 +20050,7 @@ edge [
 "fStat bz" 0.5714285714285714
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5714285714285714
@@ -17955,6 +20065,7 @@ edge [
 "target" 649064345
 "group1" "smart Julien Niset/Argent"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 44
 "raw ppdeep" 65
 "raw ppdeep_mod" 63.75
 "raw byteBag" 0.6692913385826772
@@ -17962,6 +20073,7 @@ edge [
 "raw bz" 0.8
 "raw jump" 0.0
 "raw ncd" 0.5925925925925926
+"skeletons ssdeep" 54
 "skeletons ppdeep" 44
 "skeletons ppdeep_mod" 44.0
 "skeletons byteBag" 0.8151260504201681
@@ -17969,6 +20081,7 @@ edge [
 "skeletons bz" 0.75
 "skeletons jump" 0.25
 "skeletons ncd" 0.6791044776119403
+"fstSecSkel ssdeep" 54
 "fstSecSkel ppdeep" 44
 "fstSecSkel ppdeep_mod" 44.0
 "fstSecSkel byteBag" 0.8151260504201681
@@ -17976,6 +20089,7 @@ edge [
 "fstSecSkel bz" 0.5
 "fstSecSkel jump" 0.25
 "fstSecSkel ncd" 0.6870229007633588
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.875
@@ -17983,6 +20097,7 @@ edge [
 "fStat bz" 0.75
 "fStat jump" 0.5
 "fStat ncd" 0.5
+"fStat0 ssdeep" 32
 "fStat0 ppdeep" 32
 "fStat0 ppdeep_mod" 32.0
 "fStat0 byteBag" 0.875
@@ -17997,6 +20112,7 @@ edge [
 "target" 646985657
 "group1" "smart Julien Niset/Argent"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 54
 "raw ppdeep" 72
 "raw ppdeep_mod" 71.23287671232876
 "raw byteBag" 0.7103174603174603
@@ -18004,6 +20120,7 @@ edge [
 "raw bz" 0.8
 "raw jump" 0.19999999999999996
 "raw ncd" 0.6919642857142857
+"skeletons ssdeep" 62
 "skeletons ppdeep" 62
 "skeletons ppdeep_mod" 62.0
 "skeletons byteBag" 0.8512396694214877
@@ -18011,6 +20128,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.5
 "skeletons ncd" 0.8226950354609929
+"fstSecSkel ssdeep" 62
 "fstSecSkel ppdeep" 62
 "fstSecSkel ppdeep_mod" 62.0
 "fstSecSkel byteBag" 0.8512396694214877
@@ -18018,6 +20136,7 @@ edge [
 "fstSecSkel bz" 0.75
 "fstSecSkel jump" 0.5
 "fstSecSkel ncd" 0.8333333333333334
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.9032258064516129
@@ -18025,6 +20144,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.75
 "fStat ncd" 0.6
+"fStat0 ssdeep" 32
 "fStat0 ppdeep" 32
 "fStat0 ppdeep_mod" 32.0
 "fStat0 byteBag" 0.9032258064516129
@@ -18039,6 +20159,7 @@ edge [
 "target" 641867691
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.009378983791659079
@@ -18046,6 +20167,7 @@ edge [
 "raw bz" 0.015094339622641506
 "raw jump" 0.01132075471698113
 "raw ncd" 0.011363636363636364
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.00929318202126709
@@ -18053,6 +20175,7 @@ edge [
 "skeletons bz" 0.01526717557251911
 "skeletons jump" 0.007633587786259555
 "skeletons ncd" 0.028960070206230804
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.00929318202126709
@@ -18060,6 +20183,7 @@ edge [
 "fstSecSkel bz" 0.01526717557251911
 "fstSecSkel jump" 0.011450381679389277
 "fstSecSkel ncd" 0.028119507908611598
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.016036655211912942
@@ -18067,6 +20191,7 @@ edge [
 "fStat bz" 0.01526717557251911
 "fStat jump" 0.011450381679389277
 "fStat ncd" 0.018
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.016036655211912942
@@ -18081,6 +20206,7 @@ edge [
 "target" 537425789
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.68493150684932
 "raw byteBag" 0.38972809667673713
@@ -18088,6 +20214,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.24519230769230768
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 51.515151515151516
 "skeletons byteBag" 0.5671641791044776
@@ -18095,6 +20222,7 @@ edge [
 "skeletons bz" 0.4
 "skeletons jump" 0.0
 "skeletons ncd" 0.35555555555555557
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.23880597014925
 "fstSecSkel byteBag" 0.5671641791044776
@@ -18102,6 +20230,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.366412213740458
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.6
@@ -18109,6 +20238,7 @@ edge [
 "fStat bz" 0.8
 "fStat jump" 0.0
 "fStat ncd" 0.15625
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.6
@@ -18123,6 +20253,7 @@ edge [
 "target" 833378376
 "group1" "smart Julien Niset/Argent"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.13556740289413557
@@ -18130,6 +20261,7 @@ edge [
 "raw bz" 0.12903225806451613
 "raw jump" 0.0
 "raw ncd" 0.04050925925925926
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.12318840579710146
@@ -18137,6 +20269,7 @@ edge [
 "skeletons bz" 0.12903225806451613
 "skeletons jump" 0.032258064516129004
 "skeletons ncd" 0.07768924302788845
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.12318840579710146
@@ -18144,6 +20277,7 @@ edge [
 "fstSecSkel bz" 0.12903225806451613
 "fstSecSkel jump" 0.032258064516129004
 "fstSecSkel ncd" 0.0781563126252505
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.21774193548387097
@@ -18151,6 +20285,7 @@ edge [
 "fStat bz" 0.12903225806451613
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.11224489795918367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.21774193548387097
@@ -18165,6 +20300,7 @@ edge [
 "target" 1004645671
 "group1" "smart Julien Niset/Argent"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 37.5
 "raw byteBag" 0.2846153846153846
@@ -18172,6 +20308,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.07969151670951156
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 42.857142857142854
 "skeletons byteBag" 0.366412213740458
@@ -18179,6 +20316,7 @@ edge [
 "skeletons bz" 0.33333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.15178571428571427
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 42.35294117647059
 "fstSecSkel byteBag" 0.366412213740458
@@ -18186,6 +20324,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.15384615384615385
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.5111111111111111
@@ -18193,6 +20332,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.17391304347826086
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 29.0
 "fStat0 byteBag" 0.5111111111111111
@@ -18207,6 +20347,7 @@ edge [
 "target" 944652497
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.3155737704918033
@@ -18214,6 +20355,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.19230769230769232
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.42727272727272725
@@ -18221,6 +20363,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.2755905511811024
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.42727272727272725
@@ -18228,6 +20371,7 @@ edge [
 "fstSecSkel bz" 0.25
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2857142857142857
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.4482758620689655
@@ -18235,6 +20379,7 @@ edge [
 "fStat bz" 0.75
 "fStat jump" 0.25
 "fStat ncd" 0.1875
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.4482758620689655
@@ -18249,6 +20394,7 @@ edge [
 "target" 1185455645
 "group1" "smart Julien Niset/Argent"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.026977233846558757
@@ -18256,6 +20402,7 @@ edge [
 "raw bz" 0.020942408376963373
 "raw jump" 0.005235602094240788
 "raw ncd" 0.015409309791332263
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.019309320460453028
@@ -18263,6 +20410,7 @@ edge [
 "skeletons bz" 0.021164021164021163
 "skeletons jump" 0.0
 "skeletons ncd" 0.03143534994068802
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.019309320460453028
@@ -18270,6 +20418,7 @@ edge [
 "fstSecSkel bz" 0.021164021164021163
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.030267062314540058
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.030534351145038167
@@ -18277,6 +20426,7 @@ edge [
 "fStat bz" 0.021164021164021163
 "fStat jump" 0.010582010582010581
 "fStat ncd" 0.02735562310030395
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.030534351145038167
@@ -18291,6 +20441,7 @@ edge [
 "target" 380260548
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 50
 "raw ppdeep" 71
 "raw ppdeep_mod" 70.10309278350516
 "raw byteBag" 0.7694524495677233
@@ -18298,6 +20449,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.7155555555555555
+"skeletons ssdeep" 88
 "skeletons ppdeep" 88
 "skeletons ppdeep_mod" 88.0
 "skeletons byteBag" 0.9869281045751634
@@ -18305,6 +20457,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.8571428571428572
 "skeletons ncd" 0.9256756756756757
+"fstSecSkel ssdeep" 90
 "fstSecSkel ppdeep" 90
 "fstSecSkel ppdeep_mod" 90.0
 "fstSecSkel byteBag" 0.9869281045751634
@@ -18312,6 +20465,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.8571428571428572
 "fstSecSkel ncd" 0.9379310344827586
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.9629629629629629
@@ -18319,6 +20473,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.8571428571428572
 "fStat ncd" 0.7096774193548387
+"fStat0 ssdeep" 26
 "fStat0 ppdeep" 22
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.9629629629629629
@@ -18333,6 +20488,7 @@ edge [
 "target" 368113519
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.3466666666666667
@@ -18340,6 +20496,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.20909090909090908
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 43.28358208955224
 "skeletons byteBag" 0.47337278106508873
@@ -18347,6 +20504,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.2671232876712329
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 42.64705882352941
 "fstSecSkel byteBag" 0.47337278106508873
@@ -18354,6 +20512,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2676056338028169
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.6
@@ -18361,6 +20520,7 @@ edge [
 "fStat bz" 0.4285714285714286
 "fStat jump" 0.0
 "fStat ncd" 0.38235294117647056
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.6
@@ -18375,6 +20535,7 @@ edge [
 "target" 477996669
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 54.11764705882353
 "raw byteBag" 0.6103151862464183
@@ -18382,6 +20543,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.37272727272727274
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 47.36842105263158
 "skeletons byteBag" 0.7721518987341772
@@ -18389,6 +20551,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.4041095890410959
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 47.43589743589744
 "fstSecSkel byteBag" 0.7721518987341772
@@ -18396,6 +20559,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.4014084507042254
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.9629629629629629
@@ -18403,6 +20567,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.8571428571428572
 "fStat ncd" 0.7419354838709677
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.9629629629629629
@@ -18417,6 +20582,7 @@ edge [
 "target" 649064345
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.45054945054945
 "raw byteBag" 0.392
@@ -18424,6 +20590,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.22272727272727272
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 45.070422535211264
 "skeletons byteBag" 0.5028571428571429
@@ -18431,6 +20598,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.2808219178082192
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 44.44444444444444
 "fstSecSkel byteBag" 0.5028571428571429
@@ -18438,6 +20606,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2676056338028169
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.5675675675675675
@@ -18445,6 +20614,7 @@ edge [
 "fStat bz" 0.4285714285714286
 "fStat jump" 0.0
 "fStat ncd" 0.3611111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5675675675675675
@@ -18459,6 +20629,7 @@ edge [
 "target" 646985657
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.0
 "raw byteBag" 0.4106666666666667
@@ -18466,6 +20637,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.25
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 49.35064935064935
 "skeletons byteBag" 0.5224719101123596
@@ -18473,6 +20645,7 @@ edge [
 "skeletons bz" 0.4285714285714286
 "skeletons jump" 0.0
 "skeletons ncd" 0.3150684931506849
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.717948717948715
 "fstSecSkel byteBag" 0.5224719101123596
@@ -18480,6 +20653,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.30985915492957744
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.5405405405405406
@@ -18487,6 +20661,7 @@ edge [
 "fStat bz" 0.5714285714285714
 "fStat jump" 0.0
 "fStat ncd" 0.2571428571428571
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5405405405405406
@@ -18501,6 +20676,7 @@ edge [
 "target" 641867691
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.013794673343956294
@@ -18508,6 +20684,7 @@ edge [
 "raw bz" 0.026415094339622636
 "raw jump" 0.01132075471698113
 "raw ncd" 0.02024793388429752
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.013402430307362401
@@ -18515,6 +20692,7 @@ edge [
 "skeletons bz" 0.026717557251908386
 "skeletons jump" 0.01908396946564883
 "skeletons ncd" 0.0434401053093462
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.013402430307362401
@@ -18522,6 +20700,7 @@ edge [
 "fstSecSkel bz" 0.026717557251908386
 "fstSecSkel jump" 0.01526717557251911
 "fstSecSkel ncd" 0.0421792618629174
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.014891179839633447
@@ -18529,6 +20708,7 @@ edge [
 "fStat bz" 0.026717557251908386
 "fStat jump" 0.022900763358778664
 "fStat ncd" 0.034
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.014891179839633447
@@ -18543,6 +20723,7 @@ edge [
 "target" 537425789
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 40
 "raw ppdeep" 63
 "raw ppdeep_mod" 61.904761904761905
 "raw byteBag" 0.622093023255814
@@ -18550,6 +20731,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.5409090909090909
+"skeletons ssdeep" 52
 "skeletons ppdeep" 69
 "skeletons ppdeep_mod" 68.35443037974683
 "skeletons byteBag" 0.7019867549668874
@@ -18557,6 +20739,7 @@ edge [
 "skeletons bz" 0.7142857142857143
 "skeletons jump" 0.0
 "skeletons ncd" 0.7465753424657534
+"fstSecSkel ssdeep" 54
 "fstSecSkel ppdeep" 71
 "fstSecSkel ppdeep_mod" 69.1358024691358
 "fstSecSkel byteBag" 0.7019867549668874
@@ -18564,6 +20747,7 @@ edge [
 "fstSecSkel bz" 0.7142857142857143
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.7464788732394366
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.7692307692307693
@@ -18571,6 +20755,7 @@ edge [
 "fStat bz" 0.7142857142857143
 "fStat jump" 0.7142857142857143
 "fStat ncd" 0.5333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.7692307692307693
@@ -18585,6 +20770,7 @@ edge [
 "target" 833378376
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.16325036603221083
@@ -18592,6 +20778,7 @@ edge [
 "raw bz" 0.19354838709677424
 "raw jump" 0.032258064516129004
 "raw ncd" 0.08101851851851852
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1686602870813397
@@ -18599,6 +20786,7 @@ edge [
 "skeletons bz" 0.22580645161290325
 "skeletons jump" 0.09677419354838712
 "skeletons ncd" 0.13545816733067728
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1686602870813397
@@ -18606,6 +20794,7 @@ edge [
 "fstSecSkel bz" 0.22580645161290325
 "fstSecSkel jump" 0.09677419354838712
 "fstSecSkel ncd" 0.1342685370741483
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.21138211382113822
@@ -18613,6 +20802,7 @@ edge [
 "fStat bz" 0.22580645161290325
 "fStat jump" 0.09677419354838712
 "fStat ncd" 0.1836734693877551
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.21138211382113822
@@ -18627,6 +20817,7 @@ edge [
 "target" 1004645671
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.11764705882353
 "raw byteBag" 0.33217391304347826
@@ -18634,6 +20825,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.15938303341902313
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.608247422680414
 "skeletons byteBag" 0.5225563909774437
@@ -18641,6 +20833,7 @@ edge [
 "skeletons bz" 0.41666666666666663
 "skeletons jump" 0.25
 "skeletons ncd" 0.28125
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.535353535353536
 "fstSecSkel byteBag" 0.5225563909774437
@@ -18648,6 +20841,7 @@ edge [
 "fstSecSkel bz" 0.41666666666666663
 "fstSecSkel jump" 0.25
 "fstSecSkel ncd" 0.2850678733031674
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.5714285714285714
@@ -18655,6 +20849,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.34782608695652173
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5714285714285714
@@ -18669,6 +20864,7 @@ edge [
 "target" 944652497
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.45454545454545
 "raw byteBag" 0.2180232558139535
@@ -18676,6 +20872,7 @@ edge [
 "raw bz" 0.4285714285714286
 "raw jump" 0.0
 "raw ncd" 0.19545454545454546
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.3333333333333333
@@ -18683,6 +20880,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.2465753424657534
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 10.0
 "fstSecSkel byteBag" 0.3333333333333333
@@ -18690,6 +20888,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.24647887323943662
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.5384615384615384
@@ -18697,6 +20896,7 @@ edge [
 "fStat bz" 0.4285714285714286
 "fStat jump" 0.0
 "fStat ncd" 0.23333333333333334
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5384615384615384
@@ -18711,6 +20911,7 @@ edge [
 "target" 1185455645
 "group1" "smart GnosisSafe"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.040010529086601736
@@ -18718,6 +20919,7 @@ edge [
 "raw bz" 0.03664921465968585
 "raw jump" 0.005235602094240788
 "raw ncd" 0.024398073836276082
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.027654046028210838
@@ -18725,6 +20927,7 @@ edge [
 "skeletons bz" 0.03703703703703709
 "skeletons jump" 0.021164021164021163
 "skeletons ncd" 0.036773428232502965
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.027654046028210838
@@ -18732,6 +20935,7 @@ edge [
 "fstSecSkel bz" 0.03703703703703709
 "fstSecSkel jump" 0.02645502645502651
 "fstSecSkel ncd" 0.03679525222551929
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.028353326063249727
@@ -18739,6 +20943,7 @@ edge [
 "fStat bz" 0.03703703703703709
 "fStat jump" 0.02645502645502651
 "fStat ncd" 0.0547112462006079
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.028353326063249727
@@ -18753,6 +20958,7 @@ edge [
 "target" 368113519
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.46236559139785
 "raw byteBag" 0.3626666666666667
@@ -18760,6 +20966,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.20444444444444446
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 42.64705882352941
 "skeletons byteBag" 0.4678362573099415
@@ -18767,6 +20974,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.25675675675675674
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 42.028985507246375
 "fstSecSkel byteBag" 0.4678362573099415
@@ -18774,6 +20982,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2620689655172414
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.5833333333333334
@@ -18781,6 +20990,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.35294117647058826
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5833333333333334
@@ -18795,6 +21005,7 @@ edge [
 "target" 477996669
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.13636363636363
 "raw byteBag" 0.6
@@ -18802,6 +21013,7 @@ edge [
 "raw bz" 1.0
 "raw jump" 0.0
 "raw ncd" 0.36
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 46.753246753246756
 "skeletons byteBag" 0.7625
@@ -18809,6 +21021,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.0
 "skeletons ncd" 0.39864864864864863
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.835443037974684
 "fstSecSkel byteBag" 0.7625
@@ -18816,6 +21029,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3931034482758621
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.9285714285714286
@@ -18823,6 +21037,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.7142857142857143
 "fStat ncd" 0.6774193548387096
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.9285714285714286
@@ -18837,6 +21052,7 @@ edge [
 "target" 649064345
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.375
@@ -18844,6 +21060,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.21777777777777776
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 44.44444444444444
 "skeletons byteBag" 0.4971751412429379
@@ -18851,6 +21068,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.2702702702702703
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 43.83561643835616
 "fstSecSkel byteBag" 0.4971751412429379
@@ -18858,6 +21076,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2689655172413793
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.5526315789473685
@@ -18865,6 +21084,7 @@ edge [
 "fStat bz" 0.2857142857142857
 "fStat jump" 0.0
 "fStat ncd" 0.3611111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5526315789473685
@@ -18879,6 +21099,7 @@ edge [
 "target" 646985657
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.0
 "raw byteBag" 0.3932291666666667
@@ -18886,6 +21107,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.24444444444444444
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 48.717948717948715
 "skeletons byteBag" 0.5166666666666667
@@ -18893,6 +21115,7 @@ edge [
 "skeletons bz" 0.4285714285714286
 "skeletons jump" 0.0
 "skeletons ncd" 0.3108108108108108
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 48.10126582278481
 "fstSecSkel byteBag" 0.5166666666666667
@@ -18900,6 +21123,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3103448275862069
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.5263157894736842
@@ -18907,6 +21131,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.2571428571428571
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5263157894736842
@@ -18921,6 +21146,7 @@ edge [
 "target" 641867691
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.014114004735020943
@@ -18928,6 +21154,7 @@ edge [
 "raw bz" 0.026415094339622636
 "raw jump" 0.01132075471698113
 "raw ncd" 0.02066115702479339
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.013581129378127233
@@ -18935,6 +21162,7 @@ edge [
 "skeletons bz" 0.026717557251908386
 "skeletons jump" 0.01908396946564883
 "skeletons ncd" 0.04387889425186485
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.013581129378127233
@@ -18942,6 +21170,7 @@ edge [
 "fstSecSkel bz" 0.026717557251908386
 "fstSecSkel jump" 0.01526717557251911
 "fstSecSkel ncd" 0.04305799648506151
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.015463917525773196
@@ -18949,6 +21178,7 @@ edge [
 "fStat bz" 0.026717557251908386
 "fStat jump" 0.01908396946564883
 "fStat ncd" 0.034
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.015463917525773196
@@ -18963,6 +21193,7 @@ edge [
 "target" 537425789
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 43
 "raw ppdeep" 65
 "raw ppdeep_mod" 63.2183908045977
 "raw byteBag" 0.6160458452722063
@@ -18970,6 +21201,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.5288888888888889
+"skeletons ssdeep" 49
 "skeletons ppdeep" 68
 "skeletons ppdeep_mod" 66.25
 "skeletons byteBag" 0.6928104575163399
@@ -18977,6 +21209,7 @@ edge [
 "skeletons bz" 0.7142857142857143
 "skeletons jump" 0.0
 "skeletons ncd" 0.7162162162162162
+"fstSecSkel ssdeep" 50
 "fstSecSkel ppdeep" 68
 "fstSecSkel ppdeep_mod" 67.07317073170731
 "fstSecSkel byteBag" 0.6928104575163399
@@ -18984,6 +21217,7 @@ edge [
 "fstSecSkel bz" 0.7142857142857143
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.7172413793103448
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.7407407407407407
@@ -18991,6 +21225,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.7142857142857143
 "fStat ncd" 0.4838709677419355
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.7407407407407407
@@ -19005,6 +21240,7 @@ edge [
 "target" 833378376
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.16593567251461988
@@ -19012,6 +21248,7 @@ edge [
 "raw bz" 0.19354838709677424
 "raw jump" 0.032258064516129004
 "raw ncd" 0.0798611111111111
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.17105263157894737
@@ -19019,6 +21256,7 @@ edge [
 "skeletons bz" 0.22580645161290325
 "skeletons jump" 0.09677419354838712
 "skeletons ncd" 0.13545816733067728
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.17105263157894737
@@ -19026,6 +21264,7 @@ edge [
 "fstSecSkel bz" 0.22580645161290325
 "fstSecSkel jump" 0.09677419354838712
 "fstSecSkel ncd" 0.13627254509018036
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.21951219512195122
@@ -19033,6 +21272,7 @@ edge [
 "fStat bz" 0.19354838709677424
 "fStat jump" 0.06451612903225812
 "fStat ncd" 0.1836734693877551
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.21951219512195122
@@ -19047,6 +21287,7 @@ edge [
 "target" 1004645671
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 43.47826086956522
 "raw byteBag" 0.31965811965811963
@@ -19054,6 +21295,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.15681233933161953
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 53.06122448979592
 "skeletons byteBag" 0.5186567164179104
@@ -19061,6 +21303,7 @@ edge [
 "skeletons bz" 0.41666666666666663
 "skeletons jump" 0.25
 "skeletons ncd" 0.28125
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 53.0
 "fstSecSkel byteBag" 0.5186567164179104
@@ -19068,6 +21311,7 @@ edge [
 "fstSecSkel bz" 0.41666666666666663
 "fstSecSkel jump" 0.25
 "fstSecSkel ncd" 0.2895927601809955
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 8.0
 "fStat byteBag" 0.5581395348837209
@@ -19075,6 +21319,7 @@ edge [
 "fStat bz" 0.41666666666666663
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.34782608695652173
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5581395348837209
@@ -19089,6 +21334,7 @@ edge [
 "target" 944652497
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.5
 "raw byteBag" 0.21428571428571427
@@ -19096,6 +21342,7 @@ edge [
 "raw bz" 0.4285714285714286
 "raw jump" 0.0
 "raw ncd" 0.19111111111111112
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.32903225806451614
@@ -19103,6 +21350,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.23648648648648649
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 10.0
 "fstSecSkel byteBag" 0.32903225806451614
@@ -19110,6 +21358,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2482758620689655
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.5185185185185185
@@ -19117,6 +21366,7 @@ edge [
 "fStat bz" 0.1428571428571429
 "fStat jump" 0.0
 "fStat ncd" 0.1935483870967742
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5185185185185185
@@ -19131,6 +21381,7 @@ edge [
 "target" 1185455645
 "group1" "smart GnosisSafe"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.04038942244441521
@@ -19138,6 +21389,7 @@ edge [
 "raw bz" 0.03664921465968585
 "raw jump" 0.010471204188481686
 "raw ncd" 0.02536115569823435
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.028025241276911656
@@ -19145,6 +21397,7 @@ edge [
 "skeletons bz" 0.03703703703703709
 "skeletons jump" 0.021164021164021163
 "skeletons ncd" 0.036773428232502965
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.028025241276911656
@@ -19152,6 +21405,7 @@ edge [
 "fstSecSkel bz" 0.03703703703703709
 "fstSecSkel jump" 0.02645502645502651
 "fstSecSkel ncd" 0.037388724035608306
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.029443838604143947
@@ -19159,6 +21413,7 @@ edge [
 "fStat bz" 0.03703703703703709
 "fStat jump" 0.02645502645502651
 "fStat ncd" 0.057750759878419454
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.029443838604143947
@@ -19173,6 +21428,7 @@ edge [
 "target" 477996669
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.056603773584904
 "raw byteBag" 0.3825301204819277
@@ -19180,6 +21436,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.245
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 43.63636363636363
 "skeletons byteBag" 0.5133333333333333
@@ -19187,6 +21444,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.32558139534883723
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 42.857142857142854
 "fstSecSkel byteBag" 0.5133333333333333
@@ -19194,6 +21452,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3333333333333333
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.6285714285714286
@@ -19201,6 +21460,7 @@ edge [
 "fStat bz" 0.4285714285714286
 "fStat jump" 0.0
 "fStat ncd" 0.3235294117647059
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.6285714285714286
@@ -19215,6 +21475,7 @@ edge [
 "target" 649064345
 "group1" "smart Julien Niset/Argent"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 54
 "raw ppdeep" 72
 "raw ppdeep_mod" 71.26436781609195
 "raw byteBag" 0.7172131147540983
@@ -19222,6 +21483,7 @@ edge [
 "raw bz" 0.8
 "raw jump" 0.19999999999999996
 "raw ncd" 0.6898148148148148
+"skeletons ssdeep" 46
 "skeletons ppdeep" 41
 "skeletons ppdeep_mod" 41.0
 "skeletons byteBag" 0.875
@@ -19229,6 +21491,7 @@ edge [
 "skeletons bz" 1.0
 "skeletons jump" 0.5
 "skeletons ncd" 0.8283582089552238
+"fstSecSkel ssdeep" 46
 "fstSecSkel ppdeep" 40
 "fstSecSkel ppdeep_mod" 40.0
 "fstSecSkel byteBag" 0.875
@@ -19236,6 +21499,7 @@ edge [
 "fstSecSkel bz" 1.0
 "fstSecSkel jump" 0.5
 "fstSecSkel ncd" 0.8396946564885496
+"fStat ssdeep" 11
 "fStat ppdeep" 11
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.9375
@@ -19243,6 +21507,7 @@ edge [
 "fStat bz" 1.0
 "fStat jump" 0.75
 "fStat ncd" 0.6666666666666666
+"fStat0 ssdeep" 34
 "fStat0 ppdeep" 34
 "fStat0 ppdeep_mod" 34.0
 "fStat0 byteBag" 0.9375
@@ -19257,6 +21522,7 @@ edge [
 "target" 646985657
 "group1" "smart Julien Niset/Argent"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 55
 "raw ppdeep" 69
 "raw ppdeep_mod" 67.5
 "raw byteBag" 0.6575875486381323
@@ -19264,6 +21530,7 @@ edge [
 "raw bz" 0.8
 "raw jump" 0.0
 "raw ncd" 0.5803571428571429
+"skeletons ssdeep" 46
 "skeletons ppdeep" 46
 "skeletons ppdeep_mod" 46.0
 "skeletons byteBag" 0.7723577235772358
@@ -19271,6 +21538,7 @@ edge [
 "skeletons bz" 0.75
 "skeletons jump" 0.25
 "skeletons ncd" 0.6808510638297872
+"fstSecSkel ssdeep" 46
 "fstSecSkel ppdeep" 46
 "fstSecSkel ppdeep_mod" 46.0
 "fstSecSkel byteBag" 0.7723577235772358
@@ -19278,6 +21546,7 @@ edge [
 "fstSecSkel bz" 0.75
 "fstSecSkel jump" 0.25
 "fstSecSkel ncd" 0.6884057971014492
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.8484848484848485
@@ -19285,6 +21554,7 @@ edge [
 "fStat bz" 0.75
 "fStat jump" 0.5
 "fStat ncd" 0.5142857142857142
+"fStat0 ssdeep" 34
 "fStat0 ppdeep" 34
 "fStat0 ppdeep_mod" 34.0
 "fStat0 byteBag" 0.8484848484848485
@@ -19299,6 +21569,7 @@ edge [
 "target" 641867691
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.00915133855399745
@@ -19306,6 +21577,7 @@ edge [
 "raw bz" 0.015094339622641506
 "raw jump" 0.007547169811320753
 "raw ncd" 0.010330578512396695
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.008757036904655527
@@ -19313,6 +21585,7 @@ edge [
 "skeletons bz" 0.01526717557251911
 "skeletons jump" 0.007633587786259555
 "skeletons ncd" 0.02413339183852567
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.008757036904655527
@@ -19320,6 +21593,7 @@ edge [
 "fstSecSkel bz" 0.01526717557251911
 "fstSecSkel jump" 0.007633587786259555
 "fstSecSkel ncd" 0.024165202108963092
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.01718213058419244
@@ -19327,6 +21601,7 @@ edge [
 "fStat bz" 0.01526717557251911
 "fStat jump" 0.007633587786259555
 "fStat ncd" 0.022
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.01718213058419244
@@ -19341,6 +21616,7 @@ edge [
 "target" 537425789
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.75
 "raw byteBag" 0.36227544910179643
@@ -19348,6 +21624,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.21890547263681592
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 46.0
 "skeletons byteBag" 0.5223880597014925
@@ -19355,6 +21632,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.3111111111111111
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 45.76271186440678
 "fstSecSkel byteBag" 0.5223880597014925
@@ -19362,6 +21640,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.32061068702290074
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.5625
@@ -19369,6 +21648,7 @@ edge [
 "fStat bz" 0.6
 "fStat jump" 0.0
 "fStat ncd" 0.23529411764705882
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.5625
@@ -19383,6 +21663,7 @@ edge [
 "target" 833378376
 "group1" "smart Julien Niset/Argent"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.1300380228136882
@@ -19390,6 +21671,7 @@ edge [
 "raw bz" 0.12903225806451613
 "raw jump" 0.0
 "raw ncd" 0.04050925925925926
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.11459589867310012
@@ -19397,6 +21679,7 @@ edge [
 "skeletons bz" 0.12903225806451613
 "skeletons jump" 0.0
 "skeletons ncd" 0.07171314741035857
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.11459589867310012
@@ -19404,6 +21687,7 @@ edge [
 "fstSecSkel bz" 0.12903225806451613
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.07615230460921844
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.23387096774193547
@@ -19411,6 +21695,7 @@ edge [
 "fStat bz" 0.12903225806451613
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.1326530612244898
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 26.0
 "fStat0 byteBag" 0.23387096774193547
@@ -19425,6 +21710,7 @@ edge [
 "target" 1004645671
 "group1" "smart Julien Niset/Argent"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.25352112676056
 "raw byteBag" 0.26285714285714284
@@ -19432,6 +21718,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.07969151670951156
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 36.8421052631579
 "skeletons byteBag" 0.33840304182509506
@@ -19439,6 +21726,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.14732142857142858
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 36.36363636363637
 "fstSecSkel byteBag" 0.33840304182509506
@@ -19446,6 +21734,7 @@ edge [
 "fstSecSkel bz" 0.33333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1583710407239819
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.5555555555555556
@@ -19453,6 +21742,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.21739130434782608
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 29.0
 "fStat0 byteBag" 0.5555555555555556
@@ -19467,6 +21757,7 @@ edge [
 "target" 944652497
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.205479452054796
 "raw byteBag" 0.30578512396694213
@@ -19474,6 +21765,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.19095477386934673
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.4380952380952381
@@ -19481,6 +21773,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.288135593220339
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.4380952380952381
@@ -19488,6 +21781,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.29914529914529914
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.41935483870967744
@@ -19495,6 +21789,7 @@ edge [
 "fStat bz" 0.75
 "fStat jump" 0.25
 "fStat ncd" 0.08823529411764706
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.41935483870967744
@@ -19509,6 +21804,7 @@ edge [
 "target" 1185455645
 "group1" "smart Julien Niset/Argent"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.026319252533228057
@@ -19516,6 +21812,7 @@ edge [
 "raw bz" 0.020942408376963373
 "raw jump" 0.010471204188481686
 "raw ncd" 0.014446227929373997
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0181953212031192
@@ -19523,6 +21820,7 @@ edge [
 "skeletons bz" 0.021164021164021163
 "skeletons jump" 0.0
 "skeletons ncd" 0.027876631079478055
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0181953212031192
@@ -19530,6 +21828,7 @@ edge [
 "fstSecSkel bz" 0.021164021164021163
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.027893175074183978
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.03271537622682661
@@ -19537,6 +21836,7 @@ edge [
 "fStat bz" 0.021164021164021163
 "fStat jump" 0.005291005291005346
 "fStat ncd" 0.0364741641337386
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.03271537622682661
@@ -19551,6 +21851,7 @@ edge [
 "target" 649064345
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.0
 "raw byteBag" 0.38372093023255816
@@ -19558,6 +21859,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.22685185185185186
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 47.45762711864407
 "skeletons byteBag" 0.5448717948717948
@@ -19565,6 +21867,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.3208955223880597
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 46.666666666666664
 "fstSecSkel byteBag" 0.5448717948717948
@@ -19572,6 +21875,7 @@ edge [
 "fstSecSkel bz" 0.1428571428571429
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.32061068702290074
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.5945945945945946
@@ -19579,6 +21883,7 @@ edge [
 "fStat bz" 0.4285714285714286
 "fStat jump" 0.0
 "fStat ncd" 0.3055555555555556
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5945945945945946
@@ -19593,6 +21898,7 @@ edge [
 "target" 646985657
 "group1" "smart GnosisSafe"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.333333333333336
 "raw byteBag" 0.3959537572254335
@@ -19600,6 +21906,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.22321428571428573
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 49.23076923076923
 "skeletons byteBag" 0.546583850931677
@@ -19607,6 +21914,7 @@ edge [
 "skeletons bz" 0.4285714285714286
 "skeletons jump" 0.0
 "skeletons ncd" 0.3120567375886525
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 50.0
 "fstSecSkel byteBag" 0.546583850931677
@@ -19614,6 +21922,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3115942028985507
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.5263157894736842
@@ -19621,6 +21930,7 @@ edge [
 "fStat bz" 0.5714285714285714
 "fStat jump" 0.0
 "fStat ncd" 0.2571428571428571
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5263157894736842
@@ -19635,6 +21945,7 @@ edge [
 "target" 641867691
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.011746494263340011
@@ -19642,6 +21953,7 @@ edge [
 "raw bz" 0.026415094339622636
 "raw jump" 0.007547169811320753
 "raw ncd" 0.01115702479338843
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.01143674052894925
@@ -19649,6 +21961,7 @@ edge [
 "skeletons bz" 0.026717557251908386
 "skeletons jump" 0.01526717557251911
 "skeletons ncd" 0.022817025010969723
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.01143674052894925
@@ -19656,6 +21969,7 @@ edge [
 "fstSecSkel bz" 0.026717557251908386
 "fstSecSkel jump" 0.011450381679389277
 "fstSecSkel ncd" 0.022847100175746926
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.015463917525773196
@@ -19663,6 +21977,7 @@ edge [
 "fStat bz" 0.026717557251908386
 "fStat jump" 0.022900763358778664
 "fStat ncd" 0.03
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.015463917525773196
@@ -19677,6 +21992,7 @@ edge [
 "target" 537425789
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 52.0
 "raw byteBag" 0.5802469135802469
@@ -19684,6 +22000,7 @@ edge [
 "raw bz" 0.2857142857142857
 "raw jump" 0.0
 "raw ncd" 0.39303482587064675
+"skeletons ssdeep" 36
 "skeletons ppdeep" 64
 "skeletons ppdeep_mod" 62.6865671641791
 "skeletons byteBag" 0.7153284671532847
@@ -19691,6 +22008,7 @@ edge [
 "skeletons bz" 0.7142857142857143
 "skeletons jump" 0.2857142857142857
 "skeletons ncd" 0.5481481481481482
+"fstSecSkel ssdeep" 40
 "fstSecSkel ppdeep" 63
 "fstSecSkel ppdeep_mod" 62.31884057971015
 "fstSecSkel byteBag" 0.7153284671532847
@@ -19698,6 +22016,7 @@ edge [
 "fstSecSkel bz" 0.7142857142857143
 "fstSecSkel jump" 0.2857142857142857
 "fstSecSkel ncd" 0.5572519083969466
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.7407407407407407
@@ -19705,6 +22024,7 @@ edge [
 "fStat bz" 0.7142857142857143
 "fStat jump" 0.5714285714285714
 "fStat ncd" 0.4838709677419355
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.7407407407407407
@@ -19719,6 +22039,7 @@ edge [
 "target" 833378376
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.14381022979985175
@@ -19726,6 +22047,7 @@ edge [
 "raw bz" 0.19354838709677424
 "raw jump" 0.032258064516129004
 "raw ncd" 0.04861111111111111
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14645858343337334
@@ -19733,6 +22055,7 @@ edge [
 "skeletons bz" 0.22580645161290325
 "skeletons jump" 0.032258064516129004
 "skeletons ncd" 0.08764940239043825
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14645858343337334
@@ -19740,6 +22063,7 @@ edge [
 "fstSecSkel bz" 0.22580645161290325
 "fstSecSkel jump" 0.06451612903225812
 "fstSecSkel ncd" 0.08817635270541083
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.21951219512195122
@@ -19747,6 +22071,7 @@ edge [
 "fStat bz" 0.22580645161290325
 "fStat jump" 0.12903225806451613
 "fStat ncd" 0.16326530612244897
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 20.0
 "fStat0 byteBag" 0.21951219512195122
@@ -19761,6 +22086,7 @@ edge [
 "target" 1004645671
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 42.64705882352941
 "raw byteBag" 0.28113879003558717
@@ -19768,6 +22094,7 @@ edge [
 "raw bz" 0.5
 "raw jump" 0.0
 "raw ncd" 0.10025706940874037
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 43.529411764705884
 "skeletons byteBag" 0.45627376425855515
@@ -19775,6 +22102,7 @@ edge [
 "skeletons bz" 0.41666666666666663
 "skeletons jump" 0.08333333333333337
 "skeletons ncd" 0.16964285714285715
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 44.0
 "fstSecSkel byteBag" 0.45627376425855515
@@ -19782,6 +22110,7 @@ edge [
 "fstSecSkel bz" 0.41666666666666663
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.18099547511312217
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 9.0
 "fStat byteBag" 0.5952380952380952
@@ -19789,6 +22118,7 @@ edge [
 "fStat bz" 0.33333333333333337
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.30434782608695654
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 22.0
 "fStat0 byteBag" 0.5952380952380952
@@ -19803,6 +22133,7 @@ edge [
 "target" 944652497
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.529411764705884
 "raw byteBag" 0.26440677966101694
@@ -19810,6 +22141,7 @@ edge [
 "raw bz" 0.4285714285714286
 "raw jump" 0.1428571428571429
 "raw ncd" 0.215
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.3893129770992366
@@ -19817,6 +22149,7 @@ edge [
 "skeletons bz" 0.2857142857142857
 "skeletons jump" 0.0
 "skeletons ncd" 0.3023255813953488
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 10.0
 "fstSecSkel byteBag" 0.3893129770992366
@@ -19824,6 +22157,7 @@ edge [
 "fstSecSkel bz" 0.2857142857142857
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.30952380952380953
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.5185185185185185
@@ -19831,6 +22165,7 @@ edge [
 "fStat bz" 0.4285714285714286
 "fStat jump" 0.0
 "fStat ncd" 0.22580645161290322
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.5185185185185185
@@ -19845,6 +22180,7 @@ edge [
 "target" 1185455645
 "group1" "smart GnosisSafe"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.03354821733982371
@@ -19852,6 +22188,7 @@ edge [
 "raw bz" 0.03664921465968585
 "raw jump" 0.015706806282722474
 "raw ncd" 0.022792937399678973
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.02376090588453685
@@ -19859,6 +22196,7 @@ edge [
 "skeletons bz" 0.03703703703703709
 "skeletons jump" 0.015873015873015928
 "skeletons ncd" 0.036180308422301306
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.02376090588453685
@@ -19866,6 +22204,7 @@ edge [
 "fstSecSkel bz" 0.03703703703703709
 "fstSecSkel jump" 0.015873015873015928
 "fstSecSkel ncd" 0.03620178041543027
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.029443838604143947
@@ -19873,6 +22212,7 @@ edge [
 "fStat bz" 0.03703703703703709
 "fStat jump" 0.02645502645502651
 "fStat ncd" 0.0486322188449848
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.029443838604143947
@@ -19887,6 +22227,7 @@ edge [
 "target" 646985657
 "group1" "smart Julien Niset/Argent"
 "group2" "smart Julien Niset/Argent"
+"raw ssdeep" 46
 "raw ppdeep" 66
 "raw ppdeep_mod" 65.4320987654321
 "raw byteBag" 0.7170542635658915
@@ -19894,6 +22235,7 @@ edge [
 "raw bz" 0.8
 "raw jump" 0.0
 "raw ncd" 0.6026785714285714
+"skeletons ssdeep" 54
 "skeletons ppdeep" 54
 "skeletons ppdeep_mod" 54.0
 "skeletons byteBag" 0.856
@@ -19901,6 +22243,7 @@ edge [
 "skeletons bz" 0.75
 "skeletons jump" 0.5
 "skeletons ncd" 0.7092198581560284
+"fstSecSkel ssdeep" 54
 "fstSecSkel ppdeep" 54
 "fstSecSkel ppdeep_mod" 54.0
 "fstSecSkel byteBag" 0.856
@@ -19908,6 +22251,7 @@ edge [
 "fstSecSkel bz" 0.75
 "fstSecSkel jump" 0.5
 "fstSecSkel ncd" 0.7028985507246377
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 12.0
 "fStat byteBag" 0.9090909090909091
@@ -19915,6 +22259,7 @@ edge [
 "fStat bz" 0.75
 "fStat jump" 0.5
 "fStat ncd" 0.6111111111111112
+"fStat0 ssdeep" 37
 "fStat0 ppdeep" 37
 "fStat0 ppdeep_mod" 37.0
 "fStat0 byteBag" 0.9090909090909091
@@ -19929,6 +22274,7 @@ edge [
 "target" 641867691
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.009925332362046986
@@ -19936,6 +22282,7 @@ edge [
 "raw bz" 0.018867924528301883
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.011570247933884297
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.010008042176749174
@@ -19943,6 +22290,7 @@ edge [
 "skeletons bz" 0.01526717557251911
 "skeletons jump" 0.003816793893129722
 "skeletons ncd" 0.025010969723562967
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.010008042176749174
@@ -19950,6 +22298,7 @@ edge [
 "fstSecSkel bz" 0.01526717557251911
 "fstSecSkel jump" 0.007633587786259555
 "fstSecSkel ncd" 0.02460456942003515
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.018327605956471937
@@ -19957,6 +22306,7 @@ edge [
 "fStat bz" 0.01526717557251911
 "fStat jump" 0.007633587786259555
 "fStat ncd" 0.026
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.018327605956471937
@@ -19971,6 +22321,7 @@ edge [
 "target" 537425789
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 50.617283950617285
 "raw byteBag" 0.38011695906432746
@@ -19978,6 +22329,7 @@ edge [
 "raw bz" 0.4285714285714286
 "raw jump" 0.0
 "raw ncd" 0.20833333333333334
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 50.0
 "skeletons byteBag" 0.5571428571428572
@@ -19985,6 +22337,7 @@ edge [
 "skeletons bz" 0.19999999999999996
 "skeletons jump" 0.0
 "skeletons ncd" 0.32592592592592595
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 47.61904761904762
 "fstSecSkel byteBag" 0.5571428571428572
@@ -19992,6 +22345,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.3282442748091603
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.5294117647058824
@@ -19999,6 +22353,7 @@ edge [
 "fStat bz" 0.6
 "fStat jump" 0.0
 "fStat ncd" 0.25
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.5294117647058824
@@ -20013,6 +22368,7 @@ edge [
 "target" 833378376
 "group1" "smart Julien Niset/Argent"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.13949962092494314
@@ -20020,6 +22376,7 @@ edge [
 "raw bz" 0.16129032258064513
 "raw jump" 0.032258064516129004
 "raw ncd" 0.04398148148148148
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.13148371531966224
@@ -20027,6 +22384,7 @@ edge [
 "skeletons bz" 0.12903225806451613
 "skeletons jump" 0.0
 "skeletons ncd" 0.07768924302788845
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.13148371531966224
@@ -20034,6 +22392,7 @@ edge [
 "fstSecSkel bz" 0.12903225806451613
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.08016032064128256
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 15.0
 "fStat byteBag" 0.25
@@ -20041,6 +22400,7 @@ edge [
 "fStat bz" 0.12903225806451613
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.1326530612244898
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 30.0
 "fStat0 byteBag" 0.25
@@ -20055,6 +22415,7 @@ edge [
 "target" 1004645671
 "group1" "smart Julien Niset/Argent"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 48.648648648648646
 "raw byteBag" 0.2903225806451613
@@ -20062,6 +22423,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.08226221079691516
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 40.0
 "skeletons byteBag" 0.38636363636363635
@@ -20069,6 +22431,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.16071428571428573
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 39.50617283950617
 "fstSecSkel byteBag" 0.38636363636363635
@@ -20076,6 +22439,7 @@ edge [
 "fstSecSkel bz" 0.33333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.16289592760180996
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.6
@@ -20083,6 +22447,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.2391304347826087
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 29.0
 "fStat0 byteBag" 0.6
@@ -20097,6 +22462,7 @@ edge [
 "target" 944652497
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 45.945945945945944
 "raw byteBag" 0.31620553359683795
@@ -20104,6 +22470,7 @@ edge [
 "raw bz" 0.4
 "raw jump" 0.0
 "raw ncd" 0.17592592592592593
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 13.0
 "skeletons byteBag" 0.3983050847457627
@@ -20111,6 +22478,7 @@ edge [
 "skeletons bz" 0.5
 "skeletons jump" 0.0
 "skeletons ncd" 0.2537313432835821
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 13.0
 "fstSecSkel byteBag" 0.3983050847457627
@@ -20118,6 +22486,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.26717557251908397
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.3939393939393939
@@ -20125,6 +22494,7 @@ edge [
 "fStat bz" 0.75
 "fStat jump" 0.25
 "fStat ncd" 0.1111111111111111
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.3939393939393939
@@ -20139,6 +22509,7 @@ edge [
 "target" 1185455645
 "group1" "smart Julien Niset/Argent"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.028421052631578948
@@ -20146,6 +22517,7 @@ edge [
 "raw bz" 0.02617801047120416
 "raw jump" 0.010471204188481686
 "raw ncd" 0.015409309791332263
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0207946528035648
@@ -20153,6 +22525,7 @@ edge [
 "skeletons bz" 0.021164021164021163
 "skeletons jump" 0.010582010582010581
 "skeletons ncd" 0.03084223013048636
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0207946528035648
@@ -20160,6 +22533,7 @@ edge [
 "fstSecSkel bz" 0.021164021164021163
 "fstSecSkel jump" 0.010582010582010581
 "fstSecSkel ncd" 0.0314540059347181
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.03489640130861505
@@ -20167,6 +22541,7 @@ edge [
 "fStat bz" 0.021164021164021163
 "fStat jump" 0.005291005291005346
 "fStat ncd" 0.03951367781155015
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.03489640130861505
@@ -20181,6 +22556,7 @@ edge [
 "target" 641867691
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.010244035694773265
@@ -20188,6 +22564,7 @@ edge [
 "raw bz" 0.018867924528301883
 "raw jump" 0.01132075471698113
 "raw ncd" 0.016735537190082646
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.010722902332231258
@@ -20195,6 +22572,7 @@ edge [
 "skeletons bz" 0.01526717557251911
 "skeletons jump" 0.007633587786259555
 "skeletons ncd" 0.03422553751645459
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.010722902332231258
@@ -20202,6 +22580,7 @@ edge [
 "fstSecSkel bz" 0.01526717557251911
 "fstSecSkel jump" 0.011450381679389277
 "fstSecSkel ncd" 0.033391915641476276
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.017754868270332187
@@ -20209,6 +22588,7 @@ edge [
 "fStat bz" 0.01526717557251911
 "fStat jump" 0.011450381679389277
 "fStat ncd" 0.022
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.017754868270332187
@@ -20223,6 +22603,7 @@ edge [
 "target" 537425789
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 51.351351351351354
 "raw byteBag" 0.40058479532163743
@@ -20230,6 +22611,7 @@ edge [
 "raw bz" 0.4285714285714286
 "raw jump" 0.0
 "raw ncd" 0.23214285714285715
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 51.470588235294116
 "skeletons byteBag" 0.5586206896551724
@@ -20237,6 +22619,7 @@ edge [
 "skeletons bz" 0.4
 "skeletons jump" 0.0
 "skeletons ncd" 0.3404255319148936
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 52.17391304347826
 "fstSecSkel byteBag" 0.5586206896551724
@@ -20244,6 +22627,7 @@ edge [
 "fstSecSkel bz" 0.19999999999999996
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.34057971014492755
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.5454545454545454
@@ -20251,6 +22635,7 @@ edge [
 "fStat bz" 0.8
 "fStat jump" 0.0
 "fStat ncd" 0.14285714285714285
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.5454545454545454
@@ -20265,6 +22650,7 @@ edge [
 "target" 833378376
 "group1" "smart Julien Niset/Argent"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.15003808073115005
@@ -20272,6 +22658,7 @@ edge [
 "raw bz" 0.16129032258064513
 "raw jump" 0.0
 "raw ncd" 0.04861111111111111
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.14251207729468598
@@ -20279,6 +22666,7 @@ edge [
 "skeletons bz" 0.12903225806451613
 "skeletons jump" 0.032258064516129004
 "skeletons ncd" 0.08366533864541832
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.14251207729468598
@@ -20286,6 +22674,7 @@ edge [
 "fstSecSkel bz" 0.12903225806451613
 "fstSecSkel jump" 0.032258064516129004
 "fstSecSkel ncd" 0.08216432865731463
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 12.0
 "fStat byteBag" 0.24193548387096775
@@ -20293,6 +22682,7 @@ edge [
 "fStat bz" 0.12903225806451613
 "fStat jump" 0.032258064516129004
 "fStat ncd" 0.11224489795918367
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 28.0
 "fStat0 byteBag" 0.24193548387096775
@@ -20307,6 +22697,7 @@ edge [
 "target" 1004645671
 "group1" "smart Julien Niset/Argent"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 40.298507462686565
 "raw byteBag" 0.3060836501901141
@@ -20314,6 +22705,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.08483290488431877
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 44.18604651162791
 "skeletons byteBag" 0.40074906367041196
@@ -20321,6 +22713,7 @@ edge [
 "skeletons bz" 0.33333333333333337
 "skeletons jump" 0.0
 "skeletons ncd" 0.15625
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 43.67816091954023
 "fstSecSkel byteBag" 0.40074906367041196
@@ -20328,6 +22721,7 @@ edge [
 "fstSecSkel bz" 0.33333333333333337
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.1583710407239819
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.5434782608695652
@@ -20335,6 +22729,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.08333333333333337
 "fStat ncd" 0.21739130434782608
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 29.0
 "fStat0 byteBag" 0.5434782608695652
@@ -20349,6 +22744,7 @@ edge [
 "target" 944652497
 "group1" "smart Julien Niset/Argent"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 46.26865671641791
 "raw byteBag" 0.3127413127413127
@@ -20356,6 +22752,7 @@ edge [
 "raw bz" 0.4
 "raw jump" 0.0
 "raw ncd" 0.1875
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.384
@@ -20363,6 +22760,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.0
 "skeletons ncd" 0.24822695035460993
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 10.0
 "fstSecSkel byteBag" 0.384
@@ -20370,6 +22768,7 @@ edge [
 "fstSecSkel bz" 0.0
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.2536231884057971
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.40625
@@ -20377,6 +22776,7 @@ edge [
 "fStat bz" 0.75
 "fStat jump" 0.25
 "fStat ncd" 0.2
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.40625
@@ -20391,6 +22791,7 @@ edge [
 "target" 1185455645
 "group1" "smart Julien Niset/Argent"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.02920668333114064
@@ -20398,6 +22799,7 @@ edge [
 "raw bz" 0.02617801047120416
 "raw jump" 0.015706806282722474
 "raw ncd" 0.017014446227929372
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.02227998514667657
@@ -20405,6 +22807,7 @@ edge [
 "skeletons bz" 0.021164021164021163
 "skeletons jump" 0.005291005291005346
 "skeletons ncd" 0.03262158956109134
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.02227998514667657
@@ -20412,6 +22815,7 @@ edge [
 "fstSecSkel bz" 0.021164021164021163
 "fstSecSkel jump" 0.005291005291005346
 "fstSecSkel ncd" 0.032047477744807124
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.03380588876772083
@@ -20419,6 +22823,7 @@ edge [
 "fStat bz" 0.021164021164021163
 "fStat jump" 0.010582010582010581
 "fStat ncd" 0.030395136778115502
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.03380588876772083
@@ -20433,6 +22838,7 @@ edge [
 "target" 537425789
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.011564378073210708
@@ -20440,6 +22846,7 @@ edge [
 "raw bz" 0.026415094339622636
 "raw jump" 0.01132075471698113
 "raw ncd" 0.017768595041322315
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.00938170121515368
@@ -20447,6 +22854,7 @@ edge [
 "skeletons bz" 0.01908396946564883
 "skeletons jump" 0.007633587786259555
 "skeletons ncd" 0.031592803861342694
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.00938170121515368
@@ -20454,6 +22862,7 @@ edge [
 "fstSecSkel bz" 0.01908396946564883
 "fstSecSkel jump" 0.007633587786259555
 "fstSecSkel ncd" 0.030755711775043937
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.011454753722794959
@@ -20461,6 +22870,7 @@ edge [
 "fStat bz" 0.01908396946564883
 "fStat jump" 0.01526717557251911
 "fStat ncd" 0.024
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.011454753722794959
@@ -20475,6 +22885,7 @@ edge [
 "target" 833378376
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.05816758454326157
@@ -20482,6 +22893,7 @@ edge [
 "raw bz" 0.11698113207547167
 "raw jump" 0.02264150943396226
 "raw ncd" 0.025206611570247933
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.07294642857142856
@@ -20489,6 +22901,7 @@ edge [
 "skeletons bz" 0.1145038167938931
 "skeletons jump" 0.03816793893129766
 "skeletons ncd" 0.055726195699868364
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.07294642857142856
@@ -20496,6 +22909,7 @@ edge [
 "fstSecSkel bz" 0.1145038167938931
 "fstSecSkel jump" 0.03816793893129766
 "fstSecSkel ncd" 0.056239015817223195
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.070446735395189
@@ -20503,6 +22917,7 @@ edge [
 "fStat bz" 0.11832061068702293
 "fStat jump" 0.06488549618320616
 "fStat ncd" 0.07
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.070446735395189
@@ -20517,6 +22932,7 @@ edge [
 "target" 1004645671
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.02103441995993444
@@ -20524,6 +22940,7 @@ edge [
 "raw bz" 0.04528301886792452
 "raw jump" 0.01132075471698113
 "raw ncd" 0.014669421487603305
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.0225140712945591
@@ -20531,6 +22948,7 @@ edge [
 "skeletons bz" 0.04580152671755722
 "skeletons jump" 0.01526717557251911
 "skeletons ncd" 0.03729706011408512
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.0225140712945591
@@ -20538,6 +22956,7 @@ edge [
 "fstSecSkel bz" 0.04580152671755722
 "fstSecSkel jump" 0.01526717557251911
 "fstSecSkel ncd" 0.03690685413005272
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.022909507445589918
@@ -20545,6 +22964,7 @@ edge [
 "fStat bz" 0.04580152671755722
 "fStat jump" 0.03053435114503822
 "fStat ncd" 0.05
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.022909507445589918
@@ -20559,6 +22979,7 @@ edge [
 "target" 944652497
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.005235840466217447
@@ -20566,6 +22987,7 @@ edge [
 "raw bz" 0.01132075471698113
 "raw jump" 0.0037735849056603765
 "raw ncd" 0.008677685950413223
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.004735948530068805
@@ -20573,6 +22995,7 @@ edge [
 "skeletons bz" 0.011450381679389277
 "skeletons jump" 0.0
 "skeletons ncd" 0.01228609039052216
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.004735948530068805
@@ -20580,6 +23003,7 @@ edge [
 "fstSecSkel bz" 0.011450381679389277
 "fstSecSkel jump" 0.003816793893129722
 "fstSecSkel ncd" 0.012302284710017574
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.008018327605956471
@@ -20587,6 +23011,7 @@ edge [
 "fStat bz" 0.011450381679389277
 "fStat jump" 0.007633587786259555
 "fStat ncd" 0.018
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.008018327605956471
@@ -20601,6 +23026,7 @@ edge [
 "target" 1185455645
 "group1" "smart GnosisSafe"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 38.095238095238095
 "raw byteBag" 0.323454358239692
@@ -20608,6 +23034,7 @@ edge [
 "raw bz" 0.5886792452830188
 "raw jump" 0.049056603773584895
 "raw ncd" 0.06508264462809918
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 12.676056338028175
 "skeletons byteBag" 0.4650463985859479
@@ -20615,6 +23042,7 @@ edge [
 "skeletons bz" 0.5610687022900763
 "skeletons jump" 0.20610687022900764
 "skeletons ncd" 0.12373848179025888
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 12.5
 "fstSecSkel byteBag" 0.4650463985859479
@@ -20622,6 +23050,7 @@ edge [
 "fstSecSkel bz" 0.5610687022900763
 "fstSecSkel jump" 0.20610687022900764
 "fstSecSkel ncd" 0.12390158172231985
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 40.0
 "fStat byteBag" 0.5199771689497716
@@ -20629,6 +23058,7 @@ edge [
 "fStat bz" 0.5267175572519084
 "fStat jump" 0.26335877862595425
 "fStat ncd" 0.126
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 44.73684210526316
 "fStat0 byteBag" 0.5199771689497716
@@ -20643,6 +23073,7 @@ edge [
 "target" 833378376
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.13245033112582782
@@ -20650,6 +23081,7 @@ edge [
 "raw bz" 0.19354838709677424
 "raw jump" 0.032258064516129004
 "raw ncd" 0.056712962962962965
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.11616766467065869
@@ -20657,6 +23089,7 @@ edge [
 "skeletons bz" 0.16129032258064513
 "skeletons jump" 0.032258064516129004
 "skeletons ncd" 0.09561752988047809
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.11616766467065869
@@ -20664,6 +23097,7 @@ edge [
 "fstSecSkel bz" 0.16129032258064513
 "fstSecSkel jump" 0.032258064516129004
 "fstSecSkel ncd" 0.09418837675350701
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.16260162601626016
@@ -20671,6 +23105,7 @@ edge [
 "fStat bz" 0.16129032258064513
 "fStat jump" 0.06451612903225812
 "fStat ncd" 0.12244897959183673
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 12.0
 "fStat0 byteBag" 0.16260162601626016
@@ -20685,6 +23120,7 @@ edge [
 "target" 1004645671
 "group1" "smart GnosisSafe"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 44.61538461538461
 "raw byteBag" 0.24305555555555555
@@ -20692,6 +23128,7 @@ edge [
 "raw bz" 0.33333333333333337
 "raw jump" 0.0
 "raw ncd" 0.12596401028277635
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 45.45454545454545
 "skeletons byteBag" 0.3584905660377358
@@ -20699,6 +23136,7 @@ edge [
 "skeletons bz" 0.41666666666666663
 "skeletons jump" 0.08333333333333337
 "skeletons ncd" 0.19196428571428573
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 45.55555555555556
 "fstSecSkel byteBag" 0.3584905660377358
@@ -20706,6 +23144,7 @@ edge [
 "fstSecSkel bz" 0.41666666666666663
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.19909502262443438
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 6.0
 "fStat byteBag" 0.42857142857142855
@@ -20713,6 +23152,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.16666666666666663
 "fStat ncd" 0.21739130434782608
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 16.0
 "fStat0 byteBag" 0.42857142857142855
@@ -20727,6 +23167,7 @@ edge [
 "target" 944652497
 "group1" "smart GnosisSafe"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 49.25373134328358
 "raw byteBag" 0.2902097902097902
@@ -20734,6 +23175,7 @@ edge [
 "raw bz" 0.1428571428571429
 "raw jump" 0.0
 "raw ncd" 0.2835820895522388
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.4722222222222222
@@ -20741,6 +23183,7 @@ edge [
 "skeletons bz" 0.4
 "skeletons jump" 0.0
 "skeletons ncd" 0.3037037037037037
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 10.0
 "fstSecSkel byteBag" 0.4722222222222222
@@ -20748,6 +23191,7 @@ edge [
 "fstSecSkel bz" 0.4
 "fstSecSkel jump" 0.0
 "fstSecSkel ncd" 0.29770992366412213
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.7
@@ -20755,6 +23199,7 @@ edge [
 "fStat bz" 0.6
 "fStat jump" 0.0
 "fStat ncd" 0.08333333333333333
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.7
@@ -20769,6 +23214,7 @@ edge [
 "target" 1185455645
 "group1" "smart GnosisSafe"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.03342984996051593
@@ -20776,6 +23222,7 @@ edge [
 "raw bz" 0.03664921465968585
 "raw jump" 0.015706806282722474
 "raw ncd" 0.018298555377207062
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.019302152932442463
@@ -20783,6 +23230,7 @@ edge [
 "skeletons bz" 0.02645502645502651
 "skeletons jump" 0.010582010582010581
 "skeletons ncd" 0.028469750889679714
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.019302152932442463
@@ -20790,6 +23238,7 @@ edge [
 "fstSecSkel bz" 0.02645502645502651
 "fstSecSkel jump" 0.005291005291005346
 "fstSecSkel ncd" 0.028486646884272996
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.021810250817884406
@@ -20797,6 +23246,7 @@ edge [
 "fStat bz" 0.02645502645502651
 "fStat jump" 0.021164021164021163
 "fStat ncd" 0.0364741641337386
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.021810250817884406
@@ -20811,6 +23261,7 @@ edge [
 "target" 1004645671
 "group1" "loopring wallet"
 "group2" "loopring wallet"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 36.986301369863014
 "raw byteBag" 0.28361498897869214
@@ -20818,6 +23269,7 @@ edge [
 "raw bz" 0.3870967741935484
 "raw jump" 0.0
 "raw ncd" 0.19212962962962962
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.3059250302297461
@@ -20825,6 +23277,7 @@ edge [
 "skeletons bz" 0.3548387096774194
 "skeletons jump" 0.22580645161290325
 "skeletons ncd" 0.33067729083665337
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.3059250302297461
@@ -20832,6 +23285,7 @@ edge [
 "fstSecSkel bz" 0.3548387096774194
 "fstSecSkel jump" 0.22580645161290325
 "fstSecSkel ncd" 0.3306613226452906
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 11.0
 "fStat byteBag" 0.3252032520325203
@@ -20839,6 +23293,7 @@ edge [
 "fStat bz" 0.3870967741935484
 "fStat jump" 0.25806451612903225
 "fStat ncd" 0.3673469387755102
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 28.0
 "fStat0 byteBag" 0.3252032520325203
@@ -20853,6 +23308,7 @@ edge [
 "target" 944652497
 "group1" "loopring wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.08108108108108109
@@ -20860,6 +23316,7 @@ edge [
 "raw bz" 0.09677419354838712
 "raw jump" 0.032258064516129004
 "raw ncd" 0.037037037037037035
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.06416464891041163
@@ -20867,6 +23324,7 @@ edge [
 "skeletons bz" 0.09677419354838712
 "skeletons jump" 0.032258064516129004
 "skeletons ncd" 0.049800796812749
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.06416464891041163
@@ -20874,6 +23332,7 @@ edge [
 "fstSecSkel bz" 0.09677419354838712
 "fstSecSkel jump" 0.032258064516129004
 "fstSecSkel ncd" 0.04809619238476954
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.11382113821138211
@@ -20881,6 +23340,7 @@ edge [
 "fStat bz" 0.09677419354838712
 "fStat jump" 0.0
 "fStat ncd" 0.07142857142857142
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 8.0
 "fStat0 byteBag" 0.11382113821138211
@@ -20895,6 +23355,7 @@ edge [
 "target" 1185455645
 "group1" "loopring wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.16498360655737704
@@ -20902,6 +23363,7 @@ edge [
 "raw bz" 0.15706806282722519
 "raw jump" 0.02617801047120416
 "raw ncd" 0.05682182985553772
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.1484562765760769
@@ -20909,6 +23371,7 @@ edge [
 "skeletons bz" 0.1534391534391535
 "skeletons jump" 0.05820105820105825
 "skeletons ncd" 0.11091340450771056
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.1484562765760769
@@ -20916,6 +23379,7 @@ edge [
 "fstSecSkel bz" 0.14814814814814814
 "fstSecSkel jump" 0.05820105820105825
 "fstSecSkel ncd" 0.11097922848664689
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.1328976034858388
@@ -20923,6 +23387,7 @@ edge [
 "fStat bz" 0.16402116402116407
 "fStat jump" 0.08465608465608465
 "fStat ncd" 0.12158054711246201
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.1328976034858388
@@ -20937,6 +23402,7 @@ edge [
 "target" 944652497
 "group1" "loopring wallet"
 "group2" "smart GnosisSafe"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.19461697722567287
@@ -20944,6 +23410,7 @@ edge [
 "raw bz" 0.25
 "raw jump" 0.0
 "raw ncd" 0.08226221079691516
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 8.0
 "skeletons byteBag" 0.19921875
@@ -20951,6 +23418,7 @@ edge [
 "skeletons bz" 0.25
 "skeletons jump" 0.08333333333333337
 "skeletons ncd" 0.11607142857142858
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 10.0
 "fstSecSkel byteBag" 0.19921875
@@ -20958,6 +23426,7 @@ edge [
 "fstSecSkel bz" 0.16666666666666663
 "fstSecSkel jump" 0.08333333333333337
 "fstSecSkel ncd" 0.11312217194570136
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 4.0
 "fStat byteBag" 0.2857142857142857
@@ -20965,6 +23434,7 @@ edge [
 "fStat bz" 0.25
 "fStat jump" 0.0
 "fStat ncd" 0.15217391304347827
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 9.0
 "fStat0 byteBag" 0.2857142857142857
@@ -20979,6 +23449,7 @@ edge [
 "target" 1185455645
 "group1" "loopring wallet"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.059411146161934804
@@ -20986,6 +23457,7 @@ edge [
 "raw bz" 0.06282722513089001
 "raw jump" 0.015706806282722474
 "raw ncd" 0.03113964686998395
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.04541241890639481
@@ -20993,6 +23465,7 @@ edge [
 "skeletons bz" 0.06349206349206349
 "skeletons jump" 0.02645502645502651
 "skeletons ncd" 0.060498220640569395
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.04541241890639481
@@ -21000,6 +23473,7 @@ edge [
 "fstSecSkel bz" 0.06349206349206349
 "fstSecSkel jump" 0.021164021164021163
 "fstSecSkel ncd" 0.05875370919881306
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.042483660130718956
@@ -21007,6 +23481,7 @@ edge [
 "fStat bz" 0.06349206349206349
 "fStat jump" 0.03703703703703709
 "fStat ncd" 0.0911854103343465
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.042483660130718956
@@ -21021,6 +23496,7 @@ edge [
 "target" 1185455645
 "group1" "smart GnosisSafe"
 "group2" "multisig Stefan George"
+"raw ssdeep" 0
 "raw ppdeep" 0
 "raw ppdeep_mod" 0.0
 "raw byteBag" 0.015135561989997368
@@ -21028,6 +23504,7 @@ edge [
 "raw bz" 0.015706806282722474
 "raw jump" 0.005235602094240788
 "raw ncd" 0.010272873194221509
+"skeletons ssdeep" 0
 "skeletons ppdeep" 0
 "skeletons ppdeep_mod" 0.0
 "skeletons byteBag" 0.009465478841870824
@@ -21035,6 +23512,7 @@ edge [
 "skeletons bz" 0.015873015873015928
 "skeletons jump" 0.0
 "skeletons ncd" 0.018386714116251483
+"fstSecSkel ssdeep" 0
 "fstSecSkel ppdeep" 0
 "fstSecSkel ppdeep_mod" 0.0
 "fstSecSkel byteBag" 0.009465478841870824
@@ -21042,6 +23520,7 @@ edge [
 "fstSecSkel bz" 0.015873015873015928
 "fstSecSkel jump" 0.005291005291005346
 "fstSecSkel ncd" 0.017804154302670624
+"fStat ssdeep" 0
 "fStat ppdeep" 0
 "fStat ppdeep_mod" 0.0
 "fStat byteBag" 0.015267175572519083
@@ -21049,6 +23528,7 @@ edge [
 "fStat bz" 0.015873015873015928
 "fStat jump" 0.005291005291005346
 "fStat ncd" 0.0243161094224924
+"fStat0 ssdeep" 0
 "fStat0 ppdeep" 0
 "fStat0 ppdeep_mod" 0.0
 "fStat0 byteBag" 0.015267175572519083

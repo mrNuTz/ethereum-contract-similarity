@@ -1,10 +1,13 @@
 from common import Id1Id2FloatT, IdCodeZT, IdStrT, IdCountsT, IdLzjdT, IdFloatT
 import hashes.ppdeep_mod, hashes.ppdeep, util, hashes.jump, hashes.ncd, Levenshtein
 from typing import Callable, Tuple, List
-import pyLZJD
+import pyLZJD, ssdeep as _ssdeep
 
 def ppdeep(pairs: List[Tuple[IdStrT, IdStrT]]) -> List[Id1Id2FloatT]:
   return [ Id1Id2FloatT(a.id, b.id, hashes.ppdeep.compare(a.str, b.str)) for a, b in pairs ]
+
+def ssdeep(pairs: List[Tuple[IdStrT, IdStrT]]) -> List[Id1Id2FloatT]:
+  return [ Id1Id2FloatT(a.id, b.id, _ssdeep.compare(a.str, b.str)) for a, b in pairs ]
 
 def ppdeep_mod(pairs: List[Tuple[IdStrT, IdStrT]]) -> List[Id1Id2FloatT]:
   return [ Id1Id2FloatT(a.id, b.id, hashes.ppdeep_mod.compare(a.str, b.str)) for a, b in pairs ]

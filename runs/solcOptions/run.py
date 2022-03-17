@@ -43,6 +43,7 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
   })
 
   hashToFunction = {
+    'ssdeep': hash.ssdeep,
     'ppdeep': hash.ppdeep,
     'ppdeep_mod': hash.ppdeep_mod,
     'byteBag': hash.byteBag,
@@ -62,6 +63,7 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
   }
 
   hashToCompareFunction = {
+    'ssdeep': similarity.ssdeep,
     'ppdeep': similarity.ppdeep,
     'ppdeep_mod': similarity.ppdeep_mod,
     'byteBag': byteBagJaccard,
@@ -107,6 +109,8 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
     ('fStat0 ppdeep_mod', 'fstSecSkel jump'),
     ('raw lzjd', 'fstSecSkel jump'),
     ('raw ncd', 'fstSecSkel jump'),
+    ('skeletons ssdeep', 'skeletons ppdeep_mod'),
+    ('skeletons ssdeep', 'skeletons ppdeep'),
   }
   for a, b in scatterPairs:
     plot.saveScatter(df, a, b, title=name + ' scatter', colorBy='isInner')

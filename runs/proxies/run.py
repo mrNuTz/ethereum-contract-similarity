@@ -48,6 +48,7 @@ def run(metaPredicate: Callable[[proxies.Meta], bool], name: str):
   })
 
   hashToFunction = {
+    'ssdeep': hash.ssdeep,
     'ppdeep': hash.ppdeep,
     'ppdeep_mod': hash.ppdeep_mod,
     'byteBag': hash.byteBag,
@@ -67,6 +68,7 @@ def run(metaPredicate: Callable[[proxies.Meta], bool], name: str):
   }
 
   hashToCompareFunction = {
+    'ssdeep': similarity.ssdeep,
     'ppdeep': similarity.ppdeep,
     'ppdeep_mod': similarity.ppdeep_mod,
     'byteBag': byteBagJaccard,
