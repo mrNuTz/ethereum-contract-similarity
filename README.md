@@ -22,11 +22,12 @@ For usage see `./runs/solcOptions/` and `./runs/wallets/`, they contain sample t
 1. Compare the hash-strings via levenshtein.
 
 ## Requirements
-- install python3 with pip
+- install python3
 - This tool uses python [venv](https://docs.python.org/3/library/venv.html).
   - Basically the venv needs to be active before running code and not active when working with other
   python code.
-- Install the modules listed in `requirements.txt` into the `venv`.
+- Install the modules listed in `requirements.txt` into the `venv` via `pip install -r requirements.txt`.
+  - pyLZJD is not available via pypi.org and needs to be installed separately `pip install git+https://github.com/EdwardRaff/pyLZJD#egg=pyLZJD`
   - Alternatively run the commands in `./setup.bat` from windows cmd, `./setup.ps1` from powershell or `setup.sh`
   from bash to initialize the venv and install the required python modules.
 

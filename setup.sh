@@ -7,7 +7,8 @@ pip install pandas
 
 pip install wheel
 pip install Cython
-pip install git+git://github.com/EdwardRaff/pyLZJD#egg=pyLZJD
+pip install git+https://github.com/EdwardRaff/pyLZJD#egg=pyLZJD
 pip install matplotlib
 pip install python-Levenshtein
+pip install ssdeep
 # pip install fa2     # force-atlas : unused at the moment

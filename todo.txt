@@ -84,6 +84,9 @@ LATER:
     general distribution of similarity scores to evaluate individually matched cases
     these should be similar -> is the score unlikely high?
     generate p values, aggregate p values of multiple comparisons
+  separation
+    smooth the two empirical distributions and calculate the overlap
+    or take on series as the distribution and check how likely the other is
 MAYBE:
   byteBags tuples instead of dicts
   write a hello world smart contract and compile it
