@@ -11,8 +11,8 @@ class Meta(NamedTuple):
 class Dataset(NamedTuple):
   idToCode: Dict[int, IdCodeT]
   idToMeta:  Dict[int, Meta]
+  groupToIds: Dict[int, List[int]]
   skeletonToIds: Dict[int, List[int]]
-  typeToIds: Dict[int, List[int]]
   fstIdPerSkel: Set[int]
 
 def load():
@@ -49,4 +49,4 @@ def load():
       typeToIds[meta.type] = [meta.id]
 
   fstIdPerSkel = { util.fst(ids) for skel, ids in skeletonToIds.items() }
-  return Dataset(idToCode, idToMeta, skeletonToIds, typeToIds, fstIdPerSkel)
+  return Dataset(idToCode, idToMeta, typeToIds, skeletonToIds, fstIdPerSkel)

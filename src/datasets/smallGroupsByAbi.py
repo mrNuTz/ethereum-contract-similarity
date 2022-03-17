@@ -10,7 +10,7 @@ class Meta(NamedTuple):
 class Dataset(NamedTuple):
   idToCode: Dict[int, IdCodeT]
   idToMeta:  Dict[int, Meta]
-  nameToIds: Dict[int, List[int]]
+  groupToIds: Dict[int, List[int]]
 
 def load():
   idToCode: Dict[int, IdCodeT] = {}

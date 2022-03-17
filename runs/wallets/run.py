@@ -11,7 +11,7 @@ import pre, hash, similarity, util, test, opfilter
 import pandas as pd
 import datasets.wallets as wallets
 
-(idToCode, idToMeta, skeletonToIds, typeToIds, fstIdPerSkel) = wallets.load()
+(idToCode, idToMeta, typeToIds, skeletonToIds, fstIdPerSkel) = wallets.load()
 # typeToSkelCount = { t: sum(1 for id in ids if id in fstIdPerSkel) for t, ids in typeToIds.items() }
 
 def byteBagJaccard(pairs):

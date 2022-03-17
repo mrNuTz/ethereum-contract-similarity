@@ -15,9 +15,11 @@ import contract.opcodes as opcodes
 from scipy import stats
 import numpy as np
 import datasets.solcOptions as solcOptions
+import datasets.wallets as wallets
+import datasets.smallGroupsByAbi as smallGroupsByAbi
 
-def main():
-  idToCode, _, groupToIds = solcOptions.load()
+def run(dataset, name):
+  idToCode, _, groupToIds, *_ = dataset.load()
   codes = list(idToCode.values())
 
   print('skeletize')
@@ -54,15 +56,14 @@ def main():
     lambda groupToCounts: stats.describe(list(c for l in groupToCounts.values() for c in l)))
 
   print('write')
-  distFile = write.openFile('bytesDistribution.csv')
+  distFile = write.openFile(f'{name} bytesDistribution.csv')
   distFile.write('op,dec,hex,count,percent\n')
-
 
   for byte in byteBagTotal.keys():
     distFile.write(f'{opcodes.opcode_by_value_or_missing(byte)},{byte:3d},0x{byte:02x},{byteBagTotal[byte]:7d},{byteBagTotal[byte] / totalByteCount:2.2%}\n')
   distFile.close()
 
-  fFile = write.openFile('f-stat-by-byte.csv')
+  fFile = write.openFile(f'{name} f-stat-by-byte.csv')
   fFile.write('op,dec,hex,min,max,mean,sd,f-stat\n')
   for (byte, f) in byteToF.items():
     s = byteToStats[byte]
@@ -70,4 +71,6 @@ def main():
   fFile.close()
 
 if __name__ == '__main__':
-  main()
+  run(solcOptions, 'solcOptions')
+  run(wallets, 'wallets')
+  run(smallGroupsByAbi, 'smallGroupsByAbi')
