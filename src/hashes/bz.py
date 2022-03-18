@@ -1,4 +1,4 @@
-import bz2, Levenshtein
+import bz2
 from util import discretize, sdFromMean
 
 def bzCompRatio(bs: bytes):

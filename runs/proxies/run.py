@@ -47,6 +47,7 @@ def run(metaPredicate: Callable[[proxies.Meta], bool], name: str):
     'fStat0': util.concurrent(highF0)(preToCodes['fstSecSkel']),
   })
 
+  print('hash')
   hashToFunction = {
     'ssdeep': hash.ssdeep,
     'ppdeep': hash.ppdeep,
@@ -56,6 +57,8 @@ def run(metaPredicate: Callable[[proxies.Meta], bool], name: str):
     'bz': bzJumpi4,
     'jump': hash.jumpHash,
     'ncd': hash.ncd,
+    'lev': pre.noOp,
+    'fourbyte': hash.fourbytes,
   }
 
   methodToHashes = {
@@ -63,10 +66,12 @@ def run(metaPredicate: Callable[[proxies.Meta], bool], name: str):
     for p in preToCodes.keys() for h in hashToFunction.keys()
   }
 
+  print('pairs')
   methodToPairs = {
     method: util.allToAllPairs(hashes) for method, hashes in methodToHashes.items()
   }
 
+  print('compare')
   hashToCompareFunction = {
     'ssdeep': similarity.ssdeep,
     'ppdeep': similarity.ppdeep,
@@ -76,6 +81,8 @@ def run(metaPredicate: Callable[[proxies.Meta], bool], name: str):
     'bz': similarity.levenshtein,
     'jump': similarity.levenshtein,
     'ncd': similarity.ncd,
+    'lev': similarity.levenshtein,
+    'fourbyte': similarity.jaccardIndex,
   }
 
   methodToComps = {
@@ -83,8 +90,8 @@ def run(metaPredicate: Callable[[proxies.Meta], bool], name: str):
     for (method, pairs) in methodToPairs.items()
   }
 
+  print('dataframe')
   comps1 = tuple(util.fst(methodToComps.values()))
-
   columns = {
     'isInner': (idToMeta[id1].type == idToMeta[id2].type for id1, id2, val in comps1),
     'id1': (id1 for id1, id2, val in comps1),
@@ -98,14 +105,30 @@ def run(metaPredicate: Callable[[proxies.Meta], bool], name: str):
   })
 
   df = pd.DataFrame(columns)
+
+  print('correlate')
   corr = df.corr(method='kendall')
   separations = test.separation(df)
 
+  print('write')
   write.saveCsv(separations.items(), filename=name + ' separations.csv')
   write.saveGml((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
-  plot.saveScatter(df, 'raw ncd', 'fstSecSkel jump', title=name + ' scatter', colorBy='isInner')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
+
+  print('scatter')
+  scatterPairs = {
+    ('raw ncd', 'fstSecSkel jump'),
+    ('raw ncd', 'fStat lev'),
+    ('fstSecSkel jump', 'fStat lev'),
+    ('raw lev', 'skeletons bz'),
+    ('fStat0 ssdeep', 'fStat0 ppdeep_mod'),
+    ('raw lzjd', 'raw fourbyte'),
+    ('raw lzjd', 'raw lev'),
+    ('raw byteBag', 'raw lev')
+  }
+  for a, b in scatterPairs:
+    plot.saveScatter(df, a, b, title=name + ' scatter', colorBy='isInner')
 
 if __name__ == '__main__':
   run(lambda m: m.type != '', 'all')
