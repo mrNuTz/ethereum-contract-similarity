@@ -7,7 +7,7 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, similarity, util, test
+import pre, hash, similarity, util, test, opfilter
 import datasets.solcOptions as solcOptions
 import pandas as pd
 
@@ -28,6 +28,10 @@ def lzjd1K(codes):
 
 def byteBagJaccard(pairs):
   return similarity.byteBagJaccard(pairs, excludeZeros=0)
+def highFOnly(codes):
+  return pre.filterBytes(codes, opfilter.highFStatPred)
+def highF0(codes):
+  return pre.setBytesZero(codes, opfilter.highFStatPred)
 
 def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
   codes = [idToCode[id] for id, meta in idToMeta.items() if metaPredicate(meta)]
@@ -41,6 +45,10 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
     'raw': codes,
     'skel': util.concurrent(pre.firstSectionSkeleton)(codes),
   }
+  preToCodes.update({
+    'fStat': util.concurrent(highFOnly)(preToCodes['skel']),
+    'fStat0': util.concurrent(highF0)(preToCodes['skel']),
+  })
 
   hashToFunction = {
     'ncd': hash.ncd,
@@ -110,6 +118,13 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
   )
   for a, b in scatterPairs:
     plot.saveScatter(df, a, b, title=name + ' scatter', colorBy='isInner')
+
+  for method in methodToPairs.keys():
+    test.saveHistogram(df, ' '.join(method), name)
+
+  write.saveStr(
+    '\n'.join(util.mdImg(f[:-4], f'./{f}') for f in plot.listPngFiles()),
+    filename='README.md')
 
 if __name__ == '__main__':
   run(lambda m: m.o and m.runs == 200 and m.abi == 2, 'versions at o1 runs200 abi2')

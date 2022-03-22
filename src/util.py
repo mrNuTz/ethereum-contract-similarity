@@ -94,3 +94,6 @@ def snd(iterable: Iterable[T]) -> T:
   i = iter(iterable)
   next(i)
   return next(i)
+
+def mdImg(name: str, link: str) -> str:
+  return f'![{name}]({link.replace(" ", "%20")})'

@@ -1,3 +1,4 @@
+import itertools
 import sys, os, time
 from typing import Callable
 sys.path.insert(1, 'src')
@@ -51,7 +52,7 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
     'lzjd': lzjd,
     'bz': bzJumpi4,
     'jump': hash.jumpHash,
-    'ncd': hash.ncd,
+    #'ncd': hash.ncd,
     'fourbytes': hash.fourbytes
   }
 
@@ -109,13 +110,21 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
 
-  scatterPairs = {
-    ('raw ncd', 'fstSecSkel jump'),
-    ('skeletons ssdeep', 'skeletons ppdeep_mod'),
-    ('skeletons ssdeep', 'skeletons ppdeep'),
-  }
-  for a, b in scatterPairs:
-    plot.saveScatter(df, a, b, title=name + ' scatter', colorBy='isInner')
+  if name == 'all':
+    scatterPairs = {
+      ('raw bz', 'fstSecSkel jump'),
+      ('skeletons ssdeep', 'skeletons ppdeep_mod'),
+      ('skeletons ssdeep', 'skeletons ppdeep'),
+    }
+    for a, b in scatterPairs:
+      plot.saveScatter(df, a, b, title=name + ' scatter', colorBy='isInner')
+
+    for method in methodToPairs.keys():
+      test.saveHistogram(df, ' '.join(method), name)
+
+    write.saveStr(
+      '\n'.join(util.mdImg(f[:-4], f'./{f}') for f in plot.listPngFiles()),
+      filename='README.md')
 
 if __name__ == '__main__':
   run(lambda m: m.id in fstIdPerSkel, 'all')

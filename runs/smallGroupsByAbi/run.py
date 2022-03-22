@@ -19,6 +19,10 @@ def highFOnly(codes):
   return pre.filterBytes(codes, opfilter.highFStatPred)
 def highF0(codes):
   return pre.setBytesZero(codes, opfilter.highFStatPred)
+def highFOnlyV2(codes):
+  return pre.filterBytes(codes, opfilter.highFStatV2Pred)
+def highF0V2(codes):
+  return pre.setBytesZero(codes, opfilter.highFStatV2Pred)
 def lzjd(codes):
   return hash.lzjd1(codes, hash_size=256, mode=None, false_seen_prob=0)
 def bzJumpi4(codes):
@@ -40,6 +44,8 @@ def run(metaPredicate: Callable[[smallGroupsByAbi.Meta], bool], name: str):
   preToCodes.update({
     'fStat': util.concurrent(highFOnly)(preToCodes['fstSecSkel']),
     'fStat0': util.concurrent(highF0)(preToCodes['fstSecSkel']),
+    'fStatV2': util.concurrent(highFOnlyV2)(preToCodes['fstSecSkel']),
+    'fStat0V2': util.concurrent(highF0V2)(preToCodes['fstSecSkel']),
   })
 
   hashToFunction = {
@@ -127,6 +133,13 @@ def run(metaPredicate: Callable[[smallGroupsByAbi.Meta], bool], name: str):
   )
   for a, b in scatterPairs:
     plot.saveScatter(df, a, b, title=name + ' scatter', colorBy='isInner')
+
+  for method in methodToPairs.keys():
+    test.saveHistogram(df, ' '.join(method), name)
+
+  write.saveStr(
+    '\n'.join(util.mdImg(f[:-4], f'./{f}') for f in plot.listPngFiles()),
+    filename='README.md')
 
 if __name__ == '__main__':
   run(lambda m: True, 'all')

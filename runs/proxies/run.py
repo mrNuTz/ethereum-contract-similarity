@@ -130,5 +130,12 @@ def run(metaPredicate: Callable[[proxies.Meta], bool], name: str):
   for a, b in scatterPairs:
     plot.saveScatter(df, a, b, title=name + ' scatter', colorBy='isInner')
 
+  for method in methodToPairs.keys():
+    test.saveHistogram(df, ' '.join(method), name)
+
+  write.saveStr(
+    '\n'.join(util.mdImg(f[:-4], f'./{f}') for f in plot.listPngFiles()),
+    filename='README.md')
+
 if __name__ == '__main__':
   run(lambda m: m.type != '', 'all')

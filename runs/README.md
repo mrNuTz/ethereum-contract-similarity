@@ -15,7 +15,7 @@
   - code length
   - opcode frequency
 
-## [unique_sigs_len20](./unique_sigs_len20/)
+## [unique_sigs_len20](./unique_sigs_len20/out/)
 ### meta
 - commit dbd159e3add701e040583e91334972a5dbcdc256 runs/byteFiltersOnSolcVersions
 - first run
@@ -34,7 +34,7 @@
   - compare Levenshtein and Jaccard on ppdeep hashes
     - Levenshtein is better because the function are ordered by signature
 
-## [AdminUpgradeabilityProxy](./AdminUpgradeabilityProxy/)
+## [AdminUpgradeabilityProxy](./AdminUpgradeabilityProxy/out/)
 ### meta
 - commit dbd159e3add701e040583e91334972a5dbcdc256 runs/byteFiltersOnSolcVersions
 - second run
@@ -46,7 +46,7 @@
 - ppdeep_mod remove common_substring detection to get more scores > 0
 
 
-## [verifiedSameSignaturesDistinctSkeleton](./verifiedSameSignaturesDistinctSkeleton/)
+## [verifiedSameSignaturesDistinctSkeleton](./verifiedSameSignaturesDistinctSkeleton/out/)
 ### meta
 - commit dbd159e3add701e040583e91334972a5dbcdc256 runs/byteFiltersOnSolcVersions
 - third run
@@ -64,7 +64,7 @@
   - check correlation of pair-similarity-scores with isInner (is in-group or cross-group-comparison)
   - bytebag works better than ppdeep and lzjd on this dataset
 
-## [many-solc-versions](./many-solc-versions/)
+## [many-solc-versions](./many-solc-versions/out/)
 ### meta
 - commit dbd159e3add701e040583e91334972a5dbcdc256 runs/byteFiltersOnSolcVersions
 ### run
@@ -78,7 +78,7 @@
 - isInner correlation
   - all the same
 
-## [byteFiltersOnSolcVersions](./byteFiltersOnSolcVersions/)
+## [byteFiltersOnSolcVersions](./byteFiltersOnSolcVersions/out/)
 ### meta
 - commit dbd159e3add701e040583e91334972a5dbcdc256 runs/byteFiltersOnSolcVersions
 ### run
@@ -117,7 +117,7 @@
 - bytebag alone produces nice clusters &rarr; dataset too small **(&rarr;thesis)**
 - confirm previous interpretations: optimizations vs versions
 
-## [byteDistribution](./byteDistribution/)
+## [byteDistribution](./byteDistribution/out/)
 ### meta
 - commit 51864956b37231e27effcdc1dc17e842eee2078d runs/byteDistibutions:
 ### purpose and takeaways
@@ -130,13 +130,13 @@
 ### purpose and takeaways
 - get more meaningful results
 
-## [solcOptions](./solcOptions/)
+## [solcOptions](./solcOptions/out/)
 ### meta
 - 4490b56fa018c0bacfd8bd9bc4a7cba03c1b0a53 solcOptions save scatter and gml
 ### purpose and takeaways
 - check robustness against abi, version, optimization separately
 
-## [fStatFilter](./fStatFilter/)
+## [fStatFilter](./fStatFilter/out/)
 ### meta
 - 7f419565253ca1874cedf389b56546b57c3c4db5 visualy check f-stat filtered code
 ### purpose and takeaways
@@ -145,9 +145,9 @@
 ## separation measure for similarity-measures performance
 ## jumpHash
 ## ncd
-## [lzjdParams](./lzjdParams/)
-## [bzHash](./bzHash/)
-## [wallets](./wallets/)
-## [proxies](./proxies/)
-## [smallGroupsByAbi](./smallGroupsByAbi/)
+## [lzjdParams](./lzjdParams/out/)
+## [bzHash](./bzHash/out/)
+## [wallets](./wallets/out/)
+## [proxies](./proxies/out/)
+## [smallGroupsByAbi](./smallGroupsByAbi/out/)
 
