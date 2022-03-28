@@ -103,3 +103,15 @@ MAYBE:
       STOP = 0x00 # doesn't work with skeletons
     def hash(code) -> List[digest]
     def similarity(a: List[digest], b: List[digest]) -> float
+  split by jumpi
+    calculate various 1d characteristics
+      complexity
+      length
+      ratio of zero to none-zero
+      ratio of push args to instructions
+    calculate sds from mean and discretize
+    exact match via Levenshtein
+    [(c,l,z,a),(c,l,z,a)]
+    [(c,l,z,a),(c,l,z,a)]
+    optimization changes ration for all blocks in the contract
+      sds from mean cancels out the optimization
