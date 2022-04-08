@@ -122,13 +122,12 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
   for method in methodToPairs.keys():
     test.saveHistogram(df, ' '.join(method), name)
 
-  write.saveStr(
-    '\n'.join(util.mdImg(f[:-4], f'./{f}') for f in plot.listPngFiles()),
-    filename='README.md')
-
 if __name__ == '__main__':
   run(lambda m: m.o and m.runs == 200 and m.abi == 2, 'versions at o1 runs200 abi2')
   run(lambda m: m.o and m.runs == 200 and m.v == '0.5.16' , 'abis at 0.5.16 o1 runs200')
   run(lambda m: m.o and m.v == '0.8.4' and m.abi == 2, 'runs at 0.8.4 o1 abi2')
   run(lambda m: m.runs == 200 and m.v == '0.8.4' and m.abi == 2, 'enabled at runs200 0.8.4 abi2')
   run(lambda m: True, 'all')
+  write.saveStr(
+    '\n'.join(util.mdImg(f[:-4], f'./{f}') for f in plot.listPngFiles()),
+    filename='README.md')

@@ -36,14 +36,15 @@ def qq(df, x, y, title='qq'):
   plt.xlabel(x)
   plt.ylabel(y)
 
-def saveHistogram(series, title='hist', label=None, xlabel=None, ylabel=None, filename=None, bins=10, range=None, **kwargs):
+def saveHistogram(
+  series, title='hist', label=None, xlabel=None, ylabel=None, filename=None, **kwargs):
   plt.figure(figsize=(4, 5))
-  hist(series, title, label, xlabel, ylabel, bins, range, **kwargs)
+  hist(series, title, label, xlabel, ylabel, **kwargs)
   plt.savefig(f'{_dir}/{title}.png' if filename is None else f'{_dir}/{filename}.png')
   plt.close()
 
-def hist(series, title='hist', label=None, xlabel=None, ylabel=None, bins=10, range=None, **kwargs):
-  plt.hist(series, bins=bins, label=label, range=range, **kwargs)
+def hist(series, title='hist', label=None, xlabel=None, ylabel=None, **kwargs):
+  plt.hist(series, label=label, **kwargs)
   plt.title(title)
   if label is not None:
     plt.legend()

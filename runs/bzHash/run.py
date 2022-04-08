@@ -111,11 +111,18 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
 
   write.saveCsv(separations.items(), filename=name + ' separations.csv')
   write.saveGml((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
-  plot.saveScatter(df, 'raw bzFixedLen256_2', 'raw bzJumpi2', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'raw bzFixedLen256_4', 'raw bzJumpi4', title=name + ' scatter', colorBy='isInner')
-  plot.saveScatter(df, 'raw bzFixedLen256_8', 'raw bzJumpi8', title=name + ' scatter', colorBy='isInner')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
+
+  scatterPairs = (
+    ('raw bzFixedLen256_2', 'raw bzJumpi2'),
+    ('raw bzFixedLen256_4', 'raw bzJumpi4'),
+    ('raw bzFixedLen256_8', 'raw bzJumpi8'),
+  )
+  for a, b in scatterPairs:
+    plot.saveScatter(df, a, b, title=name + ' scatter', colorBy='isInner')
+  for method in methodToPairs.keys():
+    test.saveHistogram(df, ' '.join(method), name)
 
 if __name__ == '__main__':
   run(lambda m: m.o and m.runs == 200 and m.abi == 2, 'versions at o1 runs200 abi2')
@@ -123,3 +130,6 @@ if __name__ == '__main__':
   run(lambda m: m.o and m.v == '0.8.4' and m.abi == 2, 'runs at 0.8.4 o1 abi2')
   run(lambda m: m.runs == 200 and m.v == '0.8.4' and m.abi == 2, 'enabled at runs200 0.8.4 abi2')
   run(lambda m: True, 'all')
+  write.saveStr(
+    '\n'.join(util.mdImg(f[:-4], f'./{f}') for f in plot.listPngFiles()),
+    filename='README.md')
