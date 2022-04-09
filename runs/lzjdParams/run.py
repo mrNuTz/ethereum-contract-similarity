@@ -123,6 +123,7 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
 
   for method in methodToPairs.keys():
     test.saveHistogram(df, ' '.join(method), name)
+    plot.saveViolin(df, ' '.join(method), name)
 
 if __name__ == '__main__':
   run(lambda m: m.o and m.runs == 200 and m.abi == 2, 'versions at o1 runs200 abi2')

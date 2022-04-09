@@ -60,7 +60,7 @@ def saveHistogram(
   density=True, **kwargs
 ):
   plot.saveHistogram(
-    [df[column][df['isInner'] == False], df[column][df['isInner'] == True]],
+    (df[column][df['isInner'] == False], df[column][df['isInner'] == True]),
     title=f'{title} hist {column}',
     filename=filename,
     label=['cross group', 'same group'],

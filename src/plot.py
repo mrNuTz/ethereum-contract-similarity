@@ -54,6 +54,18 @@ def hist(series, title='hist', label=None, xlabel=None, ylabel=None, **kwargs):
   if ylabel != None:
     plt.ylabel(ylabel)
 
+def saveViolin(df, column, title='violin', filename=None):
+  title = f'{title} violin {column}'
+  plt.figure(figsize=(4, 3))
+  ax = plt.axes()
+  series = (df[column][df['isInner'] == False], df[column][df['isInner'] == True])
+  ax.violinplot(series, vert=False, widths=1, showextrema=False, showmeans=False, showmedians=False)
+  ax.boxplot(series, vert=False, widths=.5)
+  ax.set_yticks((1, 2), labels=('cross', 'same'))
+  ax.set_title(title, { 'fontsize': 10 })
+  plt.savefig(f'{_dir}/{title}.png' if filename is None else f'{_dir}/{filename}.png')
+  plt.close()
+
 def listPngFiles() -> List[str]:
   global _dir
   return sorted(f for f in os.listdir(_dir) if f[-4:] == '.png')

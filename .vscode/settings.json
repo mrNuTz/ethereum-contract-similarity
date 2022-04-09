@@ -113,6 +113,7 @@
     "Vyper",
     "xlabel",
     "ylabel",
+    "yticks",
     "zwischen"
   ],
   "python.autoComplete.extraPaths": ["src"],
