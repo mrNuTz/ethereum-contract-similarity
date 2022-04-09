@@ -2,6 +2,7 @@ import re, os
 import matplotlib.pyplot as plt
 from pathlib import Path
 from typing import List
+import numpy as np
 
 _dir = '.'
 
@@ -56,3 +57,33 @@ def hist(series, title='hist', label=None, xlabel=None, ylabel=None, **kwargs):
 def listPngFiles() -> List[str]:
   global _dir
   return sorted(f for f in os.listdir(_dir) if f[-4:] == '.png')
+
+def saveCDF(df, column, title='hist', filename=None, **kwargs):
+  title=f'{title} cdf {column}'
+  plt.figure(figsize=(4, 4))
+
+  kwargs = {
+    'bins': 30,
+    'range': (0, 1),
+    'alpha': 0.7,
+    'density': True,
+    'histtype': 'stepfilled',
+    **kwargs
+  }
+  cross, *_ = plt.hist(
+    df[column][df['isInner'] == False],
+    label='cross group',
+    cumulative=-1,
+    **kwargs)
+  same, *_ = plt.hist(
+    df[column][df['isInner'] == True],
+    label='same group',
+    cumulative=True,
+    **kwargs)
+  overlap = np.array([cross, same]).min(axis=0).sum()
+
+  plt.title(title, { 'fontsize': 10 })
+  plt.legend()
+  plt.savefig(f'{_dir}/{title}.png' if filename is None else f'{_dir}/{filename}.png')
+  plt.close()
+  return overlap

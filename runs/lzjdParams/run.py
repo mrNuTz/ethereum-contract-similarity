@@ -101,8 +101,10 @@ def run(metaPredicate: Callable[[solcOptions.Meta], bool], name: str):
   df = pd.DataFrame(columns)
   corr = df.corr(method='kendall')
   separations = test.separation(df)
+  qDists = test.qDist(df)
 
   write.saveCsv(separations.items(), filename=name + ' separations.csv')
+  write.saveCsv(qDists.items(), filename=name + ' qDists.csv')
   write.saveGml((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
