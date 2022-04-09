@@ -93,9 +93,11 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
   print('correlate')
   corr = df.corr(method='kendall')
   separations = test.separation(df)
+  qDists = test.qDist(df)
 
   print('write')
   write.saveCsv(separations.items(), filename=name + ' separations.csv')
+  write.saveCsv(qDists.items(), filename=name + ' qDists.csv')
   write.saveGml((idToMeta[id] for id, code in codes), df, filename=name + '.gml')
   write.saveStr(df.to_csv(), name + ' similarities.csv')
   write.saveStr(corr.to_csv(), name + ' correlations.csv')
@@ -103,6 +105,7 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
   print('plot')
   for method in methodToPairs.keys():
     test.saveHistogram(df, ' '.join(method), name)
+    plot.saveViolin(df, ' '.join(method), name)
 
 if __name__ == '__main__':
   run(lambda m: m.id in fstIdPerSkel, 'all')

@@ -56,12 +56,12 @@ def similarityMatrix(pairs: List[Id1Id2FloatT]) -> np.ndarray:
   return
 
 def saveHistogram(
-  df, column, title='hist', filename=None, bins=10, range=(0, 1), alpha=1,
+  df, column, title=None, filename=None, bins=10, range=(0, 1), alpha=1,
   density=True, **kwargs
 ):
   plot.saveHistogram(
     (df[column][df['isInner'] == False], df[column][df['isInner'] == True]),
-    title=f'{title} hist {column}',
+    title=f'{title} hist {column}' if title is not None else f'hist {column}',
     filename=filename,
     label=['cross group', 'same group'],
     bins=bins,

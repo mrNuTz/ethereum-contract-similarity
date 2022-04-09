@@ -54,8 +54,8 @@ def hist(series, title='hist', label=None, xlabel=None, ylabel=None, **kwargs):
   if ylabel != None:
     plt.ylabel(ylabel)
 
-def saveViolin(df, column, title='violin', filename=None):
-  title = f'{title} violin {column}'
+def saveViolin(df, column, title=None, filename=None):
+  title = f'{title} violin {column}' if title is not None else f'violin {column}'
   plt.figure(figsize=(4, 3))
   ax = plt.axes()
   series = (df[column][df['isInner'] == False], df[column][df['isInner'] == True])
@@ -70,8 +70,8 @@ def listPngFiles() -> List[str]:
   global _dir
   return sorted(f for f in os.listdir(_dir) if f[-4:] == '.png')
 
-def saveCDF(df, column, title='hist', filename=None, **kwargs):
-  title=f'{title} cdf {column}'
+def saveCDF(df, column, title=None, filename=None, **kwargs):
+  title = f'{title} cdf {column}' if title is not None else f'cdf {column}'
   plt.figure(figsize=(4, 4))
 
   kwargs = {

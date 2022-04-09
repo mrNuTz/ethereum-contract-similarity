@@ -6,7 +6,7 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, similarity, util
+import pre, hash, similarity, util, test
 import contract.opcodes as opcodes
 import pandas as pd
 import datasets.solcOptions as solcOptions
@@ -90,8 +90,10 @@ def main():
   corr_inner = df[df['isInner']].corr(method='kendall')
   corr_cross = df[df['isInner'] == False].corr(method='kendall')
   corr_all = df.corr(method='kendall')
+  qDists = test.qDist(df)
 
   print('write')
+  write.saveCsv(qDists.items(), filename='qDists.csv')
   write.saveStr(corr_inner.to_string(), 'correlations_inner.txt')
   write.saveStr(corr_cross.to_string(), 'correlations_cross.txt')
   write.saveStr(df.to_csv(), 'comparisons_all.csv')
@@ -103,5 +105,11 @@ def main():
   for a,b in util.allToAllPairs(list(methodToHashes.keys())):
     plot.saveScatter(df, f'{a[1]}-{a[0]}', f'{b[1]}-{b[0]}', colorBy='isInner')
 
+  for method in methodToPairs.keys():
+    plot.saveViolin(df, f'{method[1]}-{method[0]}')
+
 if __name__ == '__main__':
   main()
+  write.saveStr(
+    '\n'.join(util.mdImg(f[:-4], f'./{f}') for f in plot.listPngFiles()),
+    filename='README.md')

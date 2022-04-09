@@ -7,7 +7,7 @@ _outDir = _runDir + '/out'
 write.setDir(_outDir)
 plot.setDir(_outDir)
 
-import pre, hash, similarity, util
+import pre, hash, similarity, util, test
 import pandas as pd
 from common import IdCodeT
 import datasets.solcOptions as solcOptions
@@ -77,8 +77,12 @@ def main():
   corr_in = df[df['isInner']].corr(method='kendall')
   corr_out = df[df['isInner'] == False].corr(method='kendall')
   corr_all = df.corr(method='kendall')
+  separations = test.separation(df)
+  qDists = test.qDist(df)
 
   print('write')
+  write.saveCsv(separations.items(), filename='separations.csv')
+  write.saveCsv(qDists.items(), filename='qDists.csv')
   write.saveStr(corr_in.to_string(), 'correlations_in.txt')
   write.saveStr(corr_out.to_string(), 'correlations_out.txt')
   write.saveStr(df.to_csv(), 'comparisons_all.csv')
@@ -97,6 +101,12 @@ def main():
 
   for a,b in scatterPairs:
     plot.saveScatter(df, a, b, title='allScatter', colorBy='isInner')
+  for h in hashToFunction.keys():
+    test.saveHistogram(df, h)
+    plot.saveViolin(df, h)
 
 if __name__ == '__main__':
   main()
+  write.saveStr(
+    '\n'.join(util.mdImg(f[:-4], f'./{f}') for f in plot.listPngFiles()),
+    filename='README.md')
