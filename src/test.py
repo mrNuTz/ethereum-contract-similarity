@@ -47,7 +47,7 @@ def qDist(df: DataFrame):
     elif (sq3 - sq1 + cq3 - cq1) == 0:
       dist = math.inf
     else:
-      dist = (sq2 - cq2) / (sq3 - sq1 + cq3 - cq1)
+      dist = (sq2 - cq2) / (sq2 - sq1 + cq3 - cq2)
     colToDist[col] = dist
   return dict(sorted(colToDist.items(), key=lambda item: -item[1]))
 
