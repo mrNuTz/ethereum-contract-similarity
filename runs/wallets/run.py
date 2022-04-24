@@ -52,7 +52,7 @@ def run(metaPredicate: Callable[[wallets.Meta], bool], name: str):
     'lzjd': lzjd,
     'bz': bzJumpi4,
     'jump': hash.jumpHash,
-    #'ncd': hash.ncd,
+    'ncd': hash.ncd,
     'fourbytes': hash.fourbytes
   }
 

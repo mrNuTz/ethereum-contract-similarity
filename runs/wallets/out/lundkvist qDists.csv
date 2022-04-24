@@ -5,6 +5,7 @@ raw byteBag,nan
 raw lzjd,nan
 raw bz,nan
 raw jump,nan
+raw ncd,nan
 raw fourbytes,nan
 skeletons ssdeep,nan
 skeletons ppdeep,nan
@@ -13,6 +14,7 @@ skeletons byteBag,nan
 skeletons lzjd,nan
 skeletons bz,nan
 skeletons jump,nan
+skeletons ncd,nan
 skeletons fourbytes,nan
 fstSecSkel ssdeep,nan
 fstSecSkel ppdeep,nan
@@ -21,6 +23,7 @@ fstSecSkel byteBag,nan
 fstSecSkel lzjd,nan
 fstSecSkel bz,nan
 fstSecSkel jump,nan
+fstSecSkel ncd,nan
 fstSecSkel fourbytes,nan
 fStat ssdeep,nan
 fStat ppdeep,nan
@@ -29,6 +32,7 @@ fStat byteBag,nan
 fStat lzjd,nan
 fStat bz,nan
 fStat jump,nan
+fStat ncd,nan
 fStat fourbytes,nan
 fStat0 ssdeep,nan
 fStat0 ppdeep,nan
@@ -37,4 +41,5 @@ fStat0 byteBag,nan
 fStat0 lzjd,nan
 fStat0 bz,nan
 fStat0 jump,nan
+fStat0 ncd,nan
 fStat0 fourbytes,nan
